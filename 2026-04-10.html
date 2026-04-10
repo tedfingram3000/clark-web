@@ -7,19 +7,20 @@
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box}
-body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#FFFFFF;color:#2D3640}
-.ds{max-width:100%;margin:0 auto}
+body{margin:0;padding:0;font-family:'IBM Plex Sans',sans-serif;background:#FFFFFF;color:#2D3640}
+.ds{max-width:100%;margin:0 auto;padding:0 6px}
 .sh{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin:24px 0 12px 0;padding-bottom:5px;border-bottom:2px solid #0B1C33}
 .sh:first-child{margin-top:0}
 .h1{font-size:14px;font-weight:700;color:#0B1C33;margin:0 0 6px 0}
 .h2{font-size:13px;font-weight:700;color:#0B1C33;margin:16px 0 6px 0}
 .h3{font-size:11px;font-weight:700;color:#2D3640;margin:12px 0 4px 0}
 .n{font-size:10px;color:#707070;margin:0 0 12px 0}
-.t{width:100%;border-collapse:collapse;font-size:11px;table-layout:fixed;margin-bottom:12px}
-.t th{background:#0B1C33;color:#FFF;font-weight:700;padding:6px 8px;text-align:center;position:sticky;top:0;z-index:1}
+.tw{width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;margin-bottom:12px}
+.t{width:100%;border-collapse:collapse;font-size:11px;margin-bottom:0}
+.t th{background:#0B1C33;color:#FFF;font-weight:700;padding:5px 4px;text-align:center;position:sticky;top:0;z-index:1;white-space:nowrap;font-size:10px}
 .t th:first-child{text-align:left}
-.t td{padding:6px 8px;border-bottom:1px solid #E0E0E0;text-align:center;color:#2D3640}
-.t td:first-child{text-align:left}
+.t td{padding:5px 4px;border-bottom:1px solid #E0E0E0;text-align:center;color:#2D3640;white-space:nowrap}
+.t td:first-child{text-align:left;white-space:normal}
 .t tr:nth-child(even){background:#F4F4F4}
 .t tr:nth-child(odd){background:#FFF}
 .rb{font-weight:700}
@@ -75,12 +76,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">NL Central Standings</p>
 <table class="t">
-<colgroup>
-<col style="width:40%">
-<col style="width:20%">
-<col style="width:20%">
-<col style="width:20%">
-</colgroup>
 <thead><tr><th>Team</th><th>W-L</th><th>GB</th><th>Strk</th></tr></thead>
 <tbody>
 <tr><td>Brewers</td><td>8-4</td><td>-</td><td>L2</td></tr>
@@ -93,12 +88,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">AL East Standings</p>
 <table class="t">
-<colgroup>
-<col style="width:40%">
-<col style="width:20%">
-<col style="width:20%">
-<col style="width:20%">
-</colgroup>
 <thead><tr><th>Team</th><th>W-L</th><th>GB</th><th>Strk</th></tr></thead>
 <tbody>
 <tr><td>Yankees</td><td>8-4</td><td>-</td><td>L2</td></tr>
@@ -111,11 +100,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">Last 10 Cardinals Games</p>
 <table class="t">
-<colgroup>
-<col style="width:30%">
-<col style="width:30%">
-<col style="width:40%">
-</colgroup>
 <thead><tr><th>Date</th><th>Opp</th><th>Result</th></tr></thead>
 <tbody>
 <tr><td>4/8</td><td>@WSH</td><td class="gnb">W 6-1</td></tr>
@@ -141,11 +125,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h3">Cardinals (Projected from 2026-04-08)</p>
 <table class="t">
-<colgroup>
-<col style="width:45%">
-<col style="width:30%">
-<col style="width:25%">
-</colgroup>
 <thead><tr><th>Player</th><th>Pos</th><th>Bats</th></tr></thead>
 <tbody>
 <tr><td>Burleson</td><td>1B</td><td>L</td></tr>
@@ -167,11 +146,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h3">Red Sox (From active roster -- no batting order confirmed)</p>
 <table class="t">
-<colgroup>
-<col style="width:45%">
-<col style="width:30%">
-<col style="width:25%">
-</colgroup>
 <thead><tr><th>Player</th><th>Pos</th><th>Bats</th></tr></thead>
 <tbody>
 <tr><td>Jarren Duran</td><td>LF</td><td>L</td></tr>
@@ -225,17 +199,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">2c: Platoon Splits -- Cardinals vs LHP (2025)</p>
 <table class="t">
-<colgroup>
-<col style="width:16%">
-<col style="width:8%">
-<col style="width:8%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:8%">
-<col style="width:8%">
-<col style="width:8%">
-</colgroup>
 <thead><tr><th>Player</th><th>Bats</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th></tr></thead>
 <tbody>
 <tr><td>Winn R</td><td>R</td><td>163</td><td>.255</td><td>.313</td><td>.349</td><td>2</td><td>11</td><td>31</td></tr>
@@ -257,17 +220,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">2c: Platoon Splits -- Red Sox vs RHP (2025)</p>
 <table class="t">
-<colgroup>
-<col style="width:16%">
-<col style="width:8%">
-<col style="width:8%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:8%">
-<col style="width:8%">
-<col style="width:8%">
-</colgroup>
 <thead><tr><th>Player</th><th>Bats</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th></tr></thead>
 <tbody>
 <tr><td>Duran L</td><td>L</td><td>493</td><td>.273</td><td>.359</td><td>.481</td><td>13</td><td>50</td><td>115</td></tr>
@@ -289,17 +241,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">2d: Pitcher Platoon Splits</p>
 <table class="t">
-<colgroup>
-<col style="width:14%">
-<col style="width:10%">
-<col style="width:8%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:8%">
-<col style="width:8%">
-</colgroup>
 <thead><tr><th>Pitcher</th><th>vs</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>OPS</th><th>HR</th><th>K</th></tr></thead>
 <tbody>
 <tr><td>Early</td><td>vs RHB</td><td>65</td><td class="rd">.279</td><td>.323</td><td>.311</td><td>.590</td><td>0</td><td>17</td></tr>
@@ -313,16 +254,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">2d-HA: Pitcher Home/Away Splits</p>
 <table class="t">
-<colgroup>
-<col style="width:14%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:12%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:10%">
-</colgroup>
 <thead><tr><th>Pitcher</th><th>Split</th><th>BF</th><th>IP</th><th>ERA</th><th>K</th><th>BB</th><th>HR</th></tr></thead>
 <tbody>
 <tr><td>Early</td><td>Away</td><td>57</td><td>12.2</td><td>3.55</td><td>21</td><td>4</td><td>0</td></tr>
@@ -335,17 +266,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">2e: TTO Splits (Times Through Order)</p>
 <table class="t">
-<colgroup>
-<col style="width:13%">
-<col style="width:10%">
-<col style="width:8%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:8%">
-<col style="width:8%">
-<col style="width:8%">
-</colgroup>
 <thead><tr><th>Pitcher</th><th>TTO</th><th>PA</th><th>AVG</th><th>SLG</th><th>OPS</th><th>HR</th><th>K</th><th>BB</th></tr></thead>
 <tbody>
 <tr><td>Early</td><td>TTO1</td><td>45</td><td class="gnb">.163</td><td>.209</td><td>.372</td><td>0</td><td>21</td><td>2</td></tr>
@@ -361,13 +281,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">2f: Inherited Runners Profile (Cardinals Bullpen)</p>
 <table class="t">
-<colgroup>
-<col style="width:22%">
-<col style="width:18%">
-<col style="width:16%">
-<col style="width:16%">
-<col style="width:16%">
-</colgroup>
 <thead><tr><th>Reliever</th><th>IR Entries</th><th>IR Total</th><th>Scored</th><th>Strand%</th></tr></thead>
 <tbody>
 <tr><td>Leahy</td><td>21</td><td>29</td><td>11</td><td>62.1%</td></tr>
@@ -384,13 +297,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h3">Pitcher Batted Ball</p>
 <table class="t">
-<colgroup>
-<col style="width:25%">
-<col style="width:15%">
-<col style="width:20%">
-<col style="width:20%">
-<col style="width:20%">
-</colgroup>
 <thead><tr><th>Pitcher</th><th>BIP</th><th>GB%</th><th>FB%</th><th>LD%</th></tr></thead>
 <tbody>
 <tr><td>Early</td><td>57</td><td>49.1%</td><td>36.8%</td><td>14.0%</td></tr>
@@ -400,13 +306,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h3">Hitter Batted Ball (BOS vs Batted Ball Type)</p>
 <table class="t">
-<colgroup>
-<col style="width:22%">
-<col style="width:14%">
-<col style="width:14%">
-<col style="width:14%">
-<col style="width:14%">
-</colgroup>
 <thead><tr><th>Hitter</th><th>Type</th><th>AB</th><th>H</th><th>AVG</th></tr></thead>
 <tbody>
 <tr><td>Abreu</td><td>fly</td><td>118</td><td>14</td><td>.119</td></tr>
@@ -451,13 +350,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">2h: Battery Pairing (Dustin May Career)</p>
 <table class="t">
-<colgroup>
-<col style="width:28%">
-<col style="width:12%">
-<col style="width:16%">
-<col style="width:16%">
-<col style="width:16%">
-</colgroup>
 <thead><tr><th>Catcher</th><th>G</th><th>IP</th><th>ERA</th><th>AVG</th></tr></thead>
 <tbody>
 <tr><td>Will Smith</td><td>11</td><td>56.0</td><td>4.98</td><td>.255</td></tr>
@@ -474,14 +366,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">2j: Defensive Context (Cardinals, 2025)</p>
 <table class="t">
-<colgroup>
-<col style="width:20%">
-<col style="width:12%">
-<col style="width:12%">
-<col style="width:12%">
-<col style="width:12%">
-<col style="width:14%">
-</colgroup>
 <thead><tr><th>Player</th><th>POS</th><th>G</th><th>DP</th><th>E</th><th>Fld%</th></tr></thead>
 <tbody>
 <tr><td>Scott</td><td>OF</td><td>147</td><td>3</td><td>6</td><td>.983</td></tr>
@@ -518,11 +402,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">2k: Ballpark Context (Head-to-Head)</p>
 <table class="t">
-<colgroup>
-<col style="width:34%">
-<col style="width:33%">
-<col style="width:33%">
-</colgroup>
 <thead><tr><th>Season</th><th>STL W</th><th>STL L</th></tr></thead>
 <tbody>
 <tr><td>2025</td><td class="rd">0</td><td class="rd">3</td></tr>
@@ -537,14 +416,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h3">Cardinals</p>
 <table class="t">
-<colgroup>
-<col style="width:18%">
-<col style="width:12%">
-<col style="width:12%">
-<col style="width:14%">
-<col style="width:12%">
-<col style="width:14%">
-</colgroup>
 <thead><tr><th>Player</th><th>PA</th><th>K</th><th>K%</th><th>BB</th><th>BB%</th></tr></thead>
 <tbody>
 <tr><td>Burleson</td><td>544</td><td>79</td><td class="gn">14.5%</td><td>39</td><td>7.2%</td></tr>
@@ -564,14 +435,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h3">Red Sox</p>
 <table class="t">
-<colgroup>
-<col style="width:18%">
-<col style="width:12%">
-<col style="width:12%">
-<col style="width:14%">
-<col style="width:12%">
-<col style="width:14%">
-</colgroup>
 <thead><tr><th>Player</th><th>PA</th><th>K</th><th>K%</th><th>BB</th><th>BB%</th></tr></thead>
 <tbody>
 <tr><td>Duran</td><td>696</td><td>169</td><td>24.3%</td><td>60</td><td>8.6%</td></tr>
@@ -594,13 +457,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h3">Cardinals</p>
 <table class="t">
-<colgroup>
-<col style="width:20%">
-<col style="width:14%">
-<col style="width:16%">
-<col style="width:16%">
-<col style="width:16%">
-</colgroup>
 <thead><tr><th>Player</th><th>BIP</th><th>GB%</th><th>FB%</th><th>LD%</th></tr></thead>
 <tbody>
 <tr><td>Burleson</td><td>398</td><td>42.0%</td><td>33.4%</td><td>24.6%</td></tr>
@@ -620,13 +476,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h3">Red Sox</p>
 <table class="t">
-<colgroup>
-<col style="width:20%">
-<col style="width:14%">
-<col style="width:16%">
-<col style="width:16%">
-<col style="width:16%">
-</colgroup>
 <thead><tr><th>Player</th><th>BIP</th><th>GB%</th><th>FB%</th><th>LD%</th></tr></thead>
 <tbody>
 <tr><td>Duran</td><td>443</td><td>43.1%</td><td>30.5%</td><td>26.4%</td></tr>
@@ -647,15 +496,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 
 <p class="h2">2n: Pitcher K%/BB% Profile</p>
 <table class="t">
-<colgroup>
-<col style="width:16%">
-<col style="width:12%">
-<col style="width:10%">
-<col style="width:12%">
-<col style="width:10%">
-<col style="width:12%">
-<col style="width:12%">
-</colgroup>
 <thead><tr><th>Pitcher</th><th>IP</th><th>K</th><th>K%</th><th>BB</th><th>BB%</th><th>K/BB</th></tr></thead>
 <tbody>
 <tr><td>May</td><td>132.1</td><td>123</td><td>21.1%</td><td>56</td><td>9.6%</td><td>2.20</td></tr>
@@ -730,9 +570,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 <p class="n">Cardinals seasons with a 5.00+ bullpen ERA through 12 games (1950-2025). Every single one saw the ERA drop.</p>
 
 <table class="t">
-<colgroup>
-  <col style="width:12%"><col style="width:13%"><col style="width:13%"><col style="width:13%"><col style="width:12%"><col style="width:12%"><col style="width:25%">
-</colgroup>
 <tr><th>Season</th><th>First 12</th><th>Full yr</th><th>Change</th><th>W-L</th><th>BB/9</th><th>Result</th></tr>
 <tr class="hl"><td class="rdb">2026</td><td class="rdb">5.33</td><td>--</td><td>--</td><td>--</td><td class="rdb">5.69</td><td>In progress</td></tr>
 <tr class="r0"><td>1959</td><td>7.91</td><td>4.88</td><td class="gn">-3.04</td><td>71-83</td><td>5.59</td><td></td></tr>
@@ -759,9 +596,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 <p class="sh">2026 RELIEVERS -- THE DAMAGE REPORT</p>
 
 <table class="t">
-<colgroup>
-  <col style="width:18%"><col style="width:6%"><col style="width:7%"><col style="width:9%"><col style="width:6%"><col style="width:6%"><col style="width:6%"><col style="width:6%"><col style="width:9%"><col style="width:6%"><col style="width:6%"><col style="width:8%">
-</colgroup>
 <tr><th>Pitcher</th><th>G</th><th>IP</th><th>ERA</th><th>H</th><th>BB</th><th>K</th><th>HR</th><th>WHIP</th><th>IR</th><th>IRS</th><th>Str%</th></tr>
 <tr class="r0"><td>O'Brien</td><td>7</td><td>7.1</td><td class="gnb">0.00</td><td>4</td><td>0</td><td>7</td><td>0</td><td>0.545</td><td>2</td><td>0</td><td class="gnb">100%</td></tr>
 <tr class="r1"><td>Romero</td><td>6</td><td>6.2</td><td class="gnb">0.00</td><td>4</td><td>2</td><td>4</td><td>0</td><td>0.900</td><td>6</td><td>0</td><td class="gnb">100%</td></tr>
@@ -782,9 +616,6 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 <p class="sh">WORLD SERIES CHAMPIONS -- HOW THEIR BULLPENS STARTED</p>
 
 <table class="t">
-<colgroup>
-  <col style="width:15%"><col style="width:20%"><col style="width:20%"><col style="width:18%"><col style="width:27%">
-</colgroup>
 <tr><th>Season</th><th>First 12 ERA</th><th>Full ERA</th><th>W-L</th><th>Note</th></tr>
 <tr class="gold rb"><td>1964</td><td>5.64</td><td>3.33</td><td>93-69</td><td>Started worse than 2026</td></tr>
 <tr class="r0"><td>1982</td><td>4.50</td><td>3.10</td><td>92-70</td><td></td></tr>
