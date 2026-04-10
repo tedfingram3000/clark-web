@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>700 Clark -- Cardinals Bullpen: The First 12 Games in Historical Context</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap" rel="stylesheet">
+<style>
+.ds{font-family:'IBM Plex Sans',sans-serif;max-width:720px;margin:0 auto;padding:16px}
+.sh{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin:24px 0 12px 0;padding-bottom:5px;border-bottom:2px solid #0B1C33}
+.h1{font-size:14px;font-weight:700;color:#0B1C33;margin:0 0 6px 0}
+.h2{font-size:13px;font-weight:700;color:#0B1C33;margin:16px 0 6px 0}
+.n{font-size:10px;color:#707070;margin:0 0 12px 0}
+.pp{font-size:12px;color:#2D3640;line-height:1.5;margin:0 0 8px 0}
+.pp b{color:#0B1C33}
+.t{width:100%;border-collapse:collapse;font-size:11px;table-layout:fixed;margin-bottom:12px}
+.t th{background:#0B1C33;color:#FFF;font-weight:700;padding:5px;text-align:center}
+.t th:first-child{text-align:left}
+.t td{padding:5px;border-bottom:1px solid #E0E0E0;text-align:center}
+.t td:first-child{text-align:left}
+.r0{background:#FFF}
+.r1{background:#F4F4F4}
+.rb{font-weight:700}
+.gn{color:#2E7D32}
+.gnb{color:#2E7D32;font-weight:700}
+.am{color:#B8860B}
+.rd{color:#8B3A3A}
+.rdb{color:#8B3A3A;font-weight:700}
+.sm{font-size:10px;color:#B8860B;margin:0 0 12px 0}
+.hl{background:#FDF0EE}
+.gold{background:#FFF8E7}
+.cards{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0}
+.card{flex:1 1 140px;background:#F4F4F4;border-radius:6px;padding:12px 14px}
+.card-label{font-size:10px;color:#707070;text-transform:uppercase;letter-spacing:0.5px;margin:0}
+.card-val{font-size:24px;font-weight:700;margin:4px 0 0}
+.card-sub{font-size:10px;color:#707070;margin:3px 0 0}
+.callout{border-left:3px solid #8B3A3A;padding:12px 16px;background:#FDF8F7;margin:16px 0;border-radius:0 4px 4px 0}
+.callout p{font-size:12px;color:#2D3640;line-height:1.5;margin:0 0 6px 0}
+.callout b{color:#0B1C33}
+.pill{display:inline-block;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:700}
+.pill-gold{background:#FFF3CD;color:#7A5900}
+.pill-green{background:#E8F5E9;color:#1A6B3C}
+.pill-blue{background:#E3F2FD;color:#0D47A1}
+.chart-wrap{position:relative;width:100%;height:380px;margin:12px 0}
+.legend-row{display:flex;flex-wrap:wrap;gap:14px;font-size:10px;color:#707070;margin-bottom:16px}
+.legend-row span{display:flex;align-items:center;gap:4px}
+.legend-dot{width:8px;height:8px;border-radius:2px}
+.ft{background:#0B1C33;padding:12px 16px;text-align:center;margin-top:24px;border-radius:4px}
+.ft p{color:#FFF;font-size:11px;margin:0;letter-spacing:0.5px}
+.ft a{color:#FFF;text-decoration:underline;font-weight:bold}
+</style>
+</head>
+<body>
+<div class="ds">
+
+<p class="sh">2026 CARDINALS BULLPEN -- FIRST 12 GAMES</p>
+
+<div class="cards">
+  <div class="card">
+    <p class="card-label">Bullpen ERA</p>
+    <p class="card-val" style="color:#8B3A3A">5.33</p>
+    <p class="card-sub">12th worst since 1950</p>
+  </div>
+  <div class="card">
+    <p class="card-label">ER / BB</p>
+    <p class="card-val">29 / 31</p>
+    <p class="card-sub">More walks than earned runs</p>
+  </div>
+  <div class="card">
+    <p class="card-label">BB/9</p>
+    <p class="card-val" style="color:#8B3A3A">5.69</p>
+    <p class="card-sub">6th worst in 76 seasons</p>
+  </div>
+  <div class="card">
+    <p class="card-label">IR strand rate</p>
+    <p class="card-val" style="color:#B8860B">57.7%</p>
+    <p class="card-sub">League avg ~68-72%</p>
+  </div>
+</div>
+
+<p class="sh">FIRST 12 GAMES vs FULL SEASON</p>
+<p class="n">Every Cardinals season since 1950. Bullpen ERA through first 12 games (Retrosheet) vs full-season ERA. Hover for details.</p>
+
+<div class="chart-wrap">
+  <canvas id="scatter"></canvas>
+</div>
+<div class="legend-row">
+  <span><span class="legend-dot" style="background:#B4B2A9"></span>Regular season</span>
+  <span><span class="legend-dot" style="background:#3D7ABF"></span>Made postseason</span>
+  <span><span class="legend-dot" style="background:#B8860B"></span>World Series champs</span>
+  <span><span class="legend-dot" style="background:#8B3A3A;border-radius:0;transform:rotate(45deg);width:7px;height:7px"></span>2026 (12 games)</span>
+</div>
+
+<p class="sh">WHEN THE BULLPEN STARTED THIS BADLY</p>
+<p class="n">Cardinals seasons with a 5.00+ bullpen ERA through 12 games (1950-2025). Every single one saw the ERA drop.</p>
+
+<table class="t">
+<colgroup>
+  <col style="width:12%"><col style="width:13%"><col style="width:13%"><col style="width:13%"><col style="width:12%"><col style="width:12%"><col style="width:25%">
+</colgroup>
+<tr><th>Season</th><th>First 12</th><th>Full yr</th><th>Change</th><th>W-L</th><th>BB/9</th><th>Result</th></tr>
+<tr class="hl"><td class="rdb">2026</td><td class="rdb">5.33</td><td>--</td><td>--</td><td>--</td><td class="rdb">5.69</td><td>In progress</td></tr>
+<tr class="r0"><td>1959</td><td>7.91</td><td>4.88</td><td class="gn">-3.04</td><td>71-83</td><td>5.59</td><td></td></tr>
+<tr class="r1"><td>2017</td><td>7.34</td><td>3.81</td><td class="gn">-3.53</td><td>83-79</td><td>5.24</td><td></td></tr>
+<tr class="r0"><td>1980</td><td>7.09</td><td>3.93</td><td class="gn">-3.16</td><td>74-88</td><td>3.71</td><td></td></tr>
+<tr class="r1"><td>1954</td><td>7.07</td><td>5.46</td><td class="gn">-1.61</td><td>72-82</td><td>5.07</td><td></td></tr>
+<tr class="r0 rb"><td>2004</td><td>6.38</td><td>3.01</td><td class="gnb">-3.37</td><td>105-57</td><td>4.42</td><td><span class="pill pill-green">NL champs</span></td></tr>
+<tr class="r1"><td>1998</td><td>6.33</td><td>4.23</td><td class="gn">-2.10</td><td>83-79</td><td>5.70</td><td></td></tr>
+<tr class="r0 rb"><td>2013</td><td>6.09</td><td>3.45</td><td class="gnb">-2.64</td><td>97-65</td><td>3.18</td><td><span class="pill pill-green">NL champs</span></td></tr>
+<tr class="r1"><td>1951</td><td>5.75</td><td>3.92</td><td class="gn">-1.84</td><td>81-73</td><td class="rd">6.20</td><td></td></tr>
+<tr class="r0 rb gold"><td>1964</td><td>5.64</td><td>3.33</td><td class="gnb">-2.31</td><td>93-69</td><td>4.43</td><td><span class="pill pill-gold">WS champs</span></td></tr>
+<tr class="r1"><td>1965</td><td>5.40</td><td>3.50</td><td class="gn">-1.90</td><td>80-81</td><td>4.37</td><td></td></tr>
+<tr class="r0"><td>2014</td><td>5.35</td><td>3.62</td><td class="gn">-1.72</td><td>90-72</td><td>3.21</td><td><span class="pill pill-blue">NLCS</span></td></tr>
+<tr class="r1"><td>1953</td><td>5.19</td><td>4.70</td><td class="gn">-0.50</td><td>83-71</td><td>4.15</td><td></td></tr>
+<tr class="r0"><td>2009</td><td>5.02</td><td>3.67</td><td class="gn">-1.35</td><td>91-71</td><td>2.87</td><td><span class="pill pill-blue">Postseason</span></td></tr>
+</table>
+
+<div class="callout">
+  <p><b>Every Cardinals bullpen that posted a 5.00+ ERA through 12 games saw the number drop by season's end. Zero exceptions in 76 years.</b></p>
+  <p>The average drop was 2.16 runs. The best case: 2004 started at 6.38 and finished at 3.01 with 105 wins. The 1964 World Series champions started at 5.64.</p>
+  <p>But the walk rate is the red flag. The 2026 bullpen's 5.69 BB/9 is the 6th worst first-12 mark since 1950. Only 1978 (6.31), 1951 (6.20), 2019 (6.07), 1986 (5.94), and 1970 (5.76) were worse. ERA mean-reverts through sequencing and BABIP normalization. Walk rate is a command problem.</p>
+</div>
+
+<p class="sh">2026 RELIEVERS -- THE DAMAGE REPORT</p>
+
+<table class="t">
+<colgroup>
+  <col style="width:18%"><col style="width:6%"><col style="width:7%"><col style="width:9%"><col style="width:6%"><col style="width:6%"><col style="width:6%"><col style="width:6%"><col style="width:9%"><col style="width:6%"><col style="width:6%"><col style="width:8%">
+</colgroup>
+<tr><th>Pitcher</th><th>G</th><th>IP</th><th>ERA</th><th>H</th><th>BB</th><th>K</th><th>HR</th><th>WHIP</th><th>IR</th><th>IRS</th><th>Str%</th></tr>
+<tr class="r0"><td>O'Brien</td><td>7</td><td>7.1</td><td class="gnb">0.00</td><td>4</td><td>0</td><td>7</td><td>0</td><td>0.545</td><td>2</td><td>0</td><td class="gnb">100%</td></tr>
+<tr class="r1"><td>Romero</td><td>6</td><td>6.2</td><td class="gnb">0.00</td><td>4</td><td>2</td><td>4</td><td>0</td><td>0.900</td><td>6</td><td>0</td><td class="gnb">100%</td></tr>
+<tr class="r0"><td>Graceffo</td><td>4</td><td>4.2</td><td class="gn">1.93</td><td>1</td><td>4</td><td>2</td><td>0</td><td>1.071</td><td>5</td><td>0</td><td class="gnb">100%</td></tr>
+<tr class="r1"><td>Soriano</td><td>5</td><td>6.0</td><td class="gn">3.00</td><td>3</td><td>3</td><td>3</td><td>0</td><td>1.000</td><td>0</td><td>0</td><td>--</td></tr>
+<tr class="r0"><td>Bruihl</td><td>7</td><td>6.1</td><td class="rd">5.68</td><td>5</td><td>6</td><td>3</td><td>0</td><td>1.737</td><td>5</td><td>4</td><td class="rdb">20%</td></tr>
+<tr class="r1"><td>Stanek</td><td>6</td><td>5.2</td><td class="rd">6.35</td><td>7</td><td>5</td><td>8</td><td>1</td><td>2.118</td><td>3</td><td>2</td><td class="rdb">33%</td></tr>
+<tr class="r0"><td>Svanson</td><td>6</td><td>7.2</td><td class="rdb">11.74</td><td>12</td><td>5</td><td>6</td><td>3</td><td>2.217</td><td>2</td><td>2</td><td class="rdb">0%</td></tr>
+<tr class="r1"><td>Roycroft</td><td>5</td><td>3.2</td><td class="rdb">12.27</td><td>8</td><td>5</td><td>3</td><td>1</td><td>3.545</td><td>3</td><td>3</td><td class="rdb">0%</td></tr>
+<tr class="r0"><td>Pushard</td><td>1</td><td>1.0</td><td class="rdb">27.00</td><td>3</td><td>1</td><td>1</td><td>0</td><td>4.000</td><td>0</td><td>0</td><td>--</td></tr>
+<tr style="border-top:2px solid #0B1C33"><td class="rb">Total</td><td class="rb">--</td><td class="rb">49.0</td><td class="rdb">5.33</td><td class="rb">47</td><td class="rb">31</td><td class="rb">37</td><td class="rb">5</td><td class="rb">1.592</td><td class="rb">26</td><td class="rb">11</td><td class="rb">58%</td></tr>
+</table>
+
+<div class="callout">
+  <p><b>Two bullpens in one.</b> O'Brien, Romero, and Graceffo have stranded all 13 inherited runners they faced -- 100%. Bruihl, Roycroft, Stanek, and Svanson have let 11 of 13 score -- a 15% strand rate.</p>
+</div>
+
+<p class="sh">WORLD SERIES CHAMPIONS -- HOW THEIR BULLPENS STARTED</p>
+
+<table class="t">
+<colgroup>
+  <col style="width:15%"><col style="width:20%"><col style="width:20%"><col style="width:18%"><col style="width:27%">
+</colgroup>
+<tr><th>Season</th><th>First 12 ERA</th><th>Full ERA</th><th>W-L</th><th>Note</th></tr>
+<tr class="gold rb"><td>1964</td><td>5.64</td><td>3.33</td><td>93-69</td><td>Started worse than 2026</td></tr>
+<tr class="r0"><td>1982</td><td>4.50</td><td>3.10</td><td>92-70</td><td></td></tr>
+<tr class="r1"><td>2006</td><td>3.93</td><td>4.06</td><td>83-78</td><td></td></tr>
+<tr class="r0"><td>2011</td><td>3.65</td><td>3.73</td><td>90-72</td><td></td></tr>
+<tr class="r1"><td>1967</td><td>2.27</td><td>3.20</td><td>101-60</td><td></td></tr>
+</table>
+
+<div class="ft">
+  <p>700 CLARK -- POWERED BY <a href="https://bases.chat">BASES.CHAT</a> | HISTORICAL DATA: RETROSHEET (1950-2025) | 2026 DATA: MLB STATS API</p>
+</div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+var h = [
+  {y:1950,f:2.29,s:4.31,ps:0},{y:1951,f:5.75,s:3.92,ps:0},{y:1952,f:1.90,s:3.55,ps:0},
+  {y:1953,f:5.19,s:4.70,ps:0},{y:1954,f:7.07,s:5.46,ps:0},{y:1955,f:2.30,s:3.49,ps:0},
+  {y:1956,f:3.56,s:3.63,ps:0},{y:1957,f:2.51,s:3.89,ps:0},{y:1958,f:3.63,s:3.88,ps:0},
+  {y:1959,f:7.91,s:4.88,ps:0},{y:1960,f:4.50,s:4.45,ps:0},{y:1961,f:3.63,s:4.24,ps:0},
+  {y:1962,f:2.93,s:3.60,ps:0},{y:1963,f:2.35,s:3.35,ps:0},{y:1964,f:5.64,s:3.33,ps:3},
+  {y:1965,f:5.40,s:3.50,ps:0},{y:1966,f:2.84,s:3.39,ps:0},{y:1967,f:2.27,s:3.20,ps:3},
+  {y:1968,f:1.42,s:2.47,ps:2},{y:1969,f:3.55,s:3.32,ps:1},{y:1970,f:1.09,s:4.13,ps:0},
+  {y:1971,f:3.38,s:3.10,ps:0},{y:1972,f:4.30,s:3.89,ps:0},{y:1973,f:3.63,s:3.22,ps:0},
+  {y:1974,f:3.55,s:3.29,ps:0},{y:1975,f:3.18,s:3.47,ps:0},{y:1976,f:3.29,s:3.10,ps:0},
+  {y:1977,f:3.13,s:3.33,ps:0},{y:1978,f:3.89,s:3.52,ps:0},{y:1979,f:3.55,s:3.34,ps:0},
+  {y:1980,f:7.09,s:3.93,ps:0},{y:1981,f:1.40,s:3.73,ps:0},{y:1982,f:4.50,s:3.10,ps:3},
+  {y:1985,f:3.09,s:3.03,ps:2},{y:1986,f:2.11,s:3.06,ps:0},{y:1987,f:4.10,s:3.63,ps:1},
+  {y:1988,f:2.76,s:2.96,ps:0},{y:1989,f:2.70,s:3.16,ps:0},{y:1990,f:2.33,s:3.38,ps:0},
+  {y:1991,f:3.18,s:3.56,ps:0},{y:1992,f:3.95,s:3.22,ps:0},{y:1993,f:1.80,s:4.24,ps:0},
+  {y:1994,f:4.97,s:4.27,ps:0},{y:1995,f:4.26,s:4.37,ps:0},{y:1996,f:2.31,s:3.47,ps:1},
+  {y:1997,f:3.52,s:3.59,ps:0},{y:1998,f:6.33,s:4.23,ps:0},{y:1999,f:4.69,s:4.71,ps:0},
+  {y:2000,f:4.63,s:4.45,ps:1},{y:2001,f:2.84,s:3.83,ps:1},{y:2002,f:3.00,s:3.44,ps:1},
+  {y:2003,f:4.50,s:4.79,ps:0},{y:2004,f:6.38,s:3.01,ps:2},{y:2005,f:2.40,s:3.34,ps:1},
+  {y:2006,f:3.93,s:4.06,ps:3},{y:2007,f:3.60,s:3.90,ps:0},{y:2008,f:3.65,s:4.33,ps:0},
+  {y:2009,f:5.02,s:3.67,ps:1},{y:2010,f:4.09,s:3.38,ps:0},{y:2011,f:3.65,s:3.73,ps:3},
+  {y:2012,f:2.25,s:3.37,ps:1},{y:2013,f:6.09,s:3.45,ps:2},{y:2014,f:5.35,s:3.62,ps:1},
+  {y:2015,f:2.10,s:2.82,ps:1},{y:2016,f:3.55,s:4.48,ps:0},{y:2017,f:7.34,s:3.81,ps:0},
+  {y:2018,f:3.86,s:3.72,ps:0},{y:2019,f:3.20,s:3.82,ps:1},{y:2020,f:4.26,s:3.80,ps:1},
+  {y:2021,f:4.27,s:3.97,ps:1},{y:2022,f:2.16,s:3.61,ps:1},{y:2023,f:3.32,s:4.47,ps:0},
+  {y:2024,f:3.67,s:3.64,ps:0},{y:2025,f:4.94,s:3.74,ps:0}
+];
+
+var regular=h.filter(function(d){return d.ps===0}).map(function(d){return{x:d.f,y:d.s,year:d.y}});
+var postseason=h.filter(function(d){return d.ps===1}).map(function(d){return{x:d.f,y:d.s,year:d.y}});
+var nlPennant=h.filter(function(d){return d.ps===2}).map(function(d){return{x:d.f,y:d.s,year:d.y}});
+var wsChamps=h.filter(function(d){return d.ps===3}).map(function(d){return{x:d.f,y:d.s,year:d.y}});
+
+new Chart(document.getElementById('scatter'),{
+  type:'scatter',
+  data:{datasets:[
+    {label:'Regular',data:regular,backgroundColor:'#B4B2A9',borderColor:'#888780',borderWidth:1,pointRadius:5,pointHoverRadius:7},
+    {label:'Postseason',data:postseason,backgroundColor:'#85B7EB',borderColor:'#3D7ABF',borderWidth:1.5,pointRadius:6,pointHoverRadius:8},
+    {label:'NL champs',data:nlPennant,backgroundColor:'#85B7EB',borderColor:'#185FA5',borderWidth:2,pointRadius:7,pointHoverRadius:9},
+    {label:'WS champs',data:wsChamps,backgroundColor:'#B8860B',borderColor:'#633806',borderWidth:2,pointRadius:8,pointHoverRadius:10,pointStyle:'rectRot'},
+    {label:'2026',data:[{x:5.33,y:null}],backgroundColor:'#8B3A3A',borderColor:'#501313',borderWidth:2,pointRadius:10,pointHoverRadius:12,pointStyle:'rectRot'}
+  ]},
+  options:{
+    responsive:true,maintainAspectRatio:false,
+    layout:{padding:{top:14,right:16,bottom:0,left:0}},
+    scales:{
+      x:{title:{display:true,text:'Bullpen ERA through first 12 games',color:'#707070',font:{size:11,family:'IBM Plex Sans'}},min:0,max:9,grid:{color:'rgba(0,0,0,0.05)'},ticks:{color:'#707070',stepSize:1}},
+      y:{title:{display:true,text:'Full-season bullpen ERA',color:'#707070',font:{size:11,family:'IBM Plex Sans'}},min:2,max:6,grid:{color:'rgba(0,0,0,0.05)'},ticks:{color:'#707070',stepSize:0.5}}
+    },
+    plugins:{legend:{display:false},tooltip:{callbacks:{label:function(ctx){var d=ctx.raw;if(d.year)return d.year+': '+d.x.toFixed(2)+' first 12 > '+d.y.toFixed(2)+' full';return '2026: 5.33 through 12 games (in progress)'}}}}
+  },
+  plugins:[{
+    id:'diag',beforeDraw:function(chart){var ctx=chart.ctx,x=chart.scales.x,y=chart.scales.y;ctx.save();ctx.setLineDash([6,4]);ctx.strokeStyle='rgba(0,0,0,0.08)';ctx.lineWidth=1;ctx.beginPath();ctx.moveTo(x.getPixelForValue(2),y.getPixelForValue(2));ctx.lineTo(x.getPixelForValue(6),y.getPixelForValue(6));ctx.stroke();ctx.restore()}
+  },{
+    id:'v2026',beforeDraw:function(chart){var ctx=chart.ctx,x=chart.scales.x,area=chart.chartArea,px=x.getPixelForValue(5.33);ctx.save();ctx.setLineDash([4,4]);ctx.strokeStyle='#8B3A3A';ctx.lineWidth=1;ctx.globalAlpha=0.5;ctx.beginPath();ctx.moveTo(px,area.top);ctx.lineTo(px,area.bottom);ctx.stroke();ctx.restore();ctx.save();ctx.fillStyle='#8B3A3A';ctx.font='700 10px IBM Plex Sans';ctx.textAlign='center';ctx.fillText('2026: 5.33',px,area.top-4);ctx.restore()}
+  }]
+});
+</script>
+</body>
+</html>
