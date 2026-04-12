@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>700 Clark -- Daily Cardinals Deep Scout -- 2026-04-12</title>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap" rel="stylesheet">
@@ -37,370 +37,403 @@ body{margin:0;padding:0 8px;font-family:'IBM Plex Sans',sans-serif;background:#F
 .ft{background:#0B1C33;padding:12px 16px;text-align:center;margin-top:20px;border-radius:4px}
 .ft p{color:#FFF;font-family:'IBM Plex Sans',sans-serif;font-size:11px;margin:0;letter-spacing:0.5px}
 .ft a{color:#FFF;text-decoration:underline;font-weight:bold}
+.danger{background:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin:0 0 12px 0}
+.game-bar{background:#0B1C33;color:#FFFFFF;padding:16px 20px;border-radius:4px;margin:0 0 20px 0;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+.game-bar .team{font-size:14px;font-weight:700}
+.game-bar .meta{font-size:11px;color:rgba(255,255,255,0.7);text-align:center;flex:1}
+.game-bar .pitcher{font-size:11px;color:rgba(255,255,255,0.7)}
 </style>
 </head>
 <body>
 <div class="ds">
 
-<p class="sh">SEASON CONTEXT</p>
+<!-- GAME INFO BAR -->
+<div class="game-bar">
+  <div>
+    <div class="team">STL (8-6)</div>
+    <div class="pitcher">Pallante (R) -- 1.80 ERA</div>
+  </div>
+  <div class="meta">Game 3 of 3 -- Series Tied 1-1 -- Busch Stadium -- 1:15 PM CT<br>Sunday, April 12, 2026</div>
+  <div style="text-align:right">
+    <div class="team">BOS (5-9)</div>
+    <div class="pitcher">Bello (R) -- 9.00 ERA</div>
+  </div>
+</div>
 
-<p class="h2">NL Central Standings</p>
+<!-- SECTION 1: SEASON CONTEXT -->
+<p class="sh">NL CENTRAL STANDINGS</p>
 <table class="t">
-<colgroup><col width="40%"><col width="20%"><col width="20%"><col width="20%"></colgroup>
+<colgroup><col style="width:40%"><col style="width:20%"><col style="width:20%"><col style="width:20%"></colgroup>
 <tr><th>Team</th><th>W-L</th><th>GB</th><th>Strk</th></tr>
-<tr><td>Pirates</td><td>9-5</td><td>-</td><td class="gn">W2</td></tr>
-<tr><td>Reds</td><td>9-6</td><td>0.5</td><td class="gn">W1</td></tr>
-<tr class="rb"><td>Cardinals</td><td>8-6</td><td>1.0</td><td class="rd">L1</td></tr>
-<tr><td>Brewers</td><td>8-6</td><td>1.0</td><td class="rd">L4</td></tr>
-<tr><td>Cubs</td><td>6-8</td><td>3.0</td><td class="rd">L2</td></tr>
+<tr><td>Pirates</td><td>9-5</td><td>-</td><td>W2</td></tr>
+<tr><td>Reds</td><td>9-6</td><td>0.5</td><td>W1</td></tr>
+<tr class="rb"><td>Cardinals</td><td>8-6</td><td>1.0</td><td>L1</td></tr>
+<tr><td>Brewers</td><td>8-6</td><td>1.0</td><td>L4</td></tr>
+<tr><td>Cubs</td><td>6-8</td><td>3.0</td><td>L2</td></tr>
 </table>
 
-<p class="h2">AL East Standings</p>
+<p class="sh">AL EAST STANDINGS</p>
 <table class="t">
-<colgroup><col width="40%"><col width="20%"><col width="20%"><col width="20%"></colgroup>
+<colgroup><col style="width:40%"><col style="width:20%"><col style="width:20%"><col style="width:20%"></colgroup>
 <tr><th>Team</th><th>W-L</th><th>GB</th><th>Strk</th></tr>
-<tr><td>Yankees</td><td>8-6</td><td>-</td><td class="rd">L4</td></tr>
-<tr><td>Rays</td><td>7-7</td><td>1.0</td><td class="gn">W2</td></tr>
-<tr><td>Orioles</td><td>7-7</td><td>1.0</td><td class="gn">W1</td></tr>
-<tr><td>Blue Jays</td><td>6-8</td><td>2.0</td><td class="rd">L1</td></tr>
-<tr class="rb"><td>Red Sox</td><td>5-9</td><td>3.0</td><td class="gn">W1</td></tr>
+<tr><td>Yankees</td><td>8-6</td><td>-</td><td>L4</td></tr>
+<tr><td>Rays</td><td>7-7</td><td>1.0</td><td>W2</td></tr>
+<tr><td>Orioles</td><td>7-7</td><td>1.0</td><td>W1</td></tr>
+<tr><td>Jays</td><td>6-8</td><td>2.0</td><td>L1</td></tr>
+<tr class="rb"><td>Sox</td><td>5-9</td><td>3.0</td><td>W1</td></tr>
 </table>
 
-<p class="h2">Last 10 Games</p>
+<p class="sh">RECENT RESULTS (LAST 10)</p>
 <table class="t">
-<colgroup><col width="30%"><col width="30%"><col width="40%"></colgroup>
-<tr><th>Date</th><th>Opp</th><th>Result</th></tr>
-<tr><td>4/11</td><td>BOS</td><td class="rd">L 1-7</td></tr>
-<tr><td>4/10</td><td>BOS</td><td class="gn">W 3-2</td></tr>
-<tr><td>4/8</td><td>@WSH</td><td class="gn">W 6-1</td></tr>
-<tr><td>4/7</td><td>@WSH</td><td class="gn">W 7-6 (10)</td></tr>
-<tr><td>4/6</td><td>@WSH</td><td class="rd">L 6-9</td></tr>
-<tr><td>4/5</td><td>@DET</td><td class="gn">W 5-3</td></tr>
-<tr><td>4/4</td><td>@DET</td><td class="rd">L 6-11</td></tr>
-<tr><td>4/3</td><td>@DET</td><td class="rd">L 0-4</td></tr>
-<tr><td>4/1</td><td>NYM</td><td class="gn">W 2-1 (11)</td></tr>
-<tr><td>3/31</td><td>NYM</td><td class="gn">W 3-0</td></tr>
+<colgroup><col style="width:30%"><col style="width:25%"><col style="width:25%"><col style="width:20%"></colgroup>
+<tr><th>Date</th><th>Opp</th><th>H/A</th><th>Result</th></tr>
+<tr><td>Apr 11</td><td>BOS</td><td>Home</td><td class="rd">L 1-7</td></tr>
+<tr><td>Apr 10</td><td>BOS</td><td>Home</td><td class="gn">W 3-2</td></tr>
+<tr><td>Apr 8</td><td>WSH</td><td>Away</td><td class="gn">W 6-1</td></tr>
+<tr><td>Apr 7</td><td>WSH</td><td>Away</td><td class="gn">W 7-6 (10)</td></tr>
+<tr><td>Apr 6</td><td>WSH</td><td>Away</td><td class="rd">L 6-9</td></tr>
+<tr><td>Apr 5</td><td>DET</td><td>Away</td><td class="gn">W 5-3</td></tr>
+<tr><td>Apr 4</td><td>DET</td><td>Away</td><td class="rd">L 6-11</td></tr>
+<tr><td>Apr 3</td><td>DET</td><td>Away</td><td class="rd">L 0-4</td></tr>
+<tr><td>Apr 1</td><td>NYM</td><td>Home</td><td class="gn">W 2-1 (11)</td></tr>
+<tr><td>Mar 31</td><td>NYM</td><td>Home</td><td class="gn">W 3-0</td></tr>
 </table>
 
-<p class="h2">Starting Pitchers</p>
+<p class="sh">STARTING PITCHERS</p>
 
-<p class="pp"><b>Andre Pallante (STL, RHP):</b> 1-0, 1.80 ERA, 10.0 IP, 5 K, 7 BB, 1.30 WHIP, 6 H, 0 HR, 2 GS. GB%: 68.0%. K%: 11.6%, BB%: 16.3%.</p>
+<p class="h2">Andre Pallante (R) -- Cardinals</p>
+<p class="pp"><b>2026:</b> 1-0, 1.80 ERA, 10.0 IP, 5 K, 7 BB, 1.30 WHIP, 68.0% GB rate, 2 GS, 6 H, 0 HR. Season K% of 11.6% and BB% of 16.3%.</p>
+<p class="pp"><b>Career (2025):</b> 162.7 IP, 15.5% K rate, 8.7% BB rate, 1.79 K/BB. Ground ball machine at 61.2% GB rate (515 BIP). Home ERA of 5.42 in 78.0 IP vs 4.89 away in 84.9 IP.</p>
 
-<p class="pp"><b>Brayan Bello (BOS, RHP):</b> 0-1, 9.00 ERA, 8.0 IP, 7 K, 7 BB, 2.50 WHIP, 13 H, 1 HR, 2 GS. GB%: 77.8%. K%: 15.6%, BB%: 15.6%.</p>
+<p class="h2">Brayan Bello (R) -- Red Sox</p>
+<p class="pp"><b>2026:</b> 0-1, 9.00 ERA, 8.0 IP, 7 K, 7 BB, 2.50 WHIP, 77.8% GB rate, 2 GS, 13 H, 1 HR. Season K% of 15.6% and BB% of 15.6%.</p>
+<p class="pp"><b>Career (2025):</b> 166.7 IP, 17.7% K rate, 8.4% BB rate, 2.10 K/BB. Career splits: 51.3% GB rate (497 BIP). Road ERA of 2.82 in 67.0 IP vs 3.44 at home in 102.0 IP.</p>
 
-<p class="h2">Projected Lineups</p>
+<p class="sh">EXPECTED LINEUPS</p>
 
-<p class="h3">Cardinals (projected from 2026-04-11)</p>
+<p class="h3">Cardinals (Expected)</p>
 <table class="t">
-<colgroup><col width="10%"><col width="45%"><col width="25%"><col width="20%"></colgroup>
-<tr><th>#</th><th>Player</th><th>Pos</th><th>Bats</th></tr>
-<tr><td>1</td><td>Wetherholt</td><td>2B</td><td>L</td></tr>
-<tr><td>2</td><td>Herrera</td><td>DH</td><td>R</td></tr>
-<tr><td>3</td><td>Burleson</td><td>1B</td><td>L</td></tr>
-<tr><td>4</td><td>Walker</td><td>RF</td><td>R</td></tr>
-<tr><td>5</td><td>Urias</td><td>3B</td><td>R</td></tr>
-<tr><td>6</td><td>Winn</td><td>SS</td><td>R</td></tr>
-<tr><td>7</td><td>Fermin</td><td>LF</td><td>R</td></tr>
-<tr><td>8</td><td>Pages</td><td>C</td><td>R</td></tr>
-<tr><td>9</td><td>Scott</td><td>CF</td><td>L</td></tr>
+<colgroup><col style="width:8%"><col style="width:32%"><col style="width:15%"><col style="width:15%"><col style="width:15%"><col style="width:15%"></colgroup>
+<tr><th>#</th><th>Player</th><th>Pos</th><th>Bats</th><th>2026 RISP AVG</th><th>2026 RISP OPS</th></tr>
+<tr><td>1</td><td>Wetherholt</td><td>2B</td><td>L</td><td>.231</td><td>.661</td></tr>
+<tr><td>2</td><td>Herrera</td><td>C</td><td>R</td><td>.214</td><td>.786</td></tr>
+<tr><td>3</td><td>Burleson</td><td>1B</td><td>L</td><td>.389</td><td>1.040</td></tr>
+<tr><td>4</td><td>Walker</td><td>RF</td><td>R</td><td>.214</td><td>.996</td></tr>
+<tr><td>5</td><td>Gorman</td><td>DH</td><td>L</td><td>.308</td><td>.720</td></tr>
+<tr><td>6</td><td>Urias</td><td>3B</td><td>R</td><td>.000</td><td>.250</td></tr>
+<tr><td>7</td><td>Fermin</td><td>LF</td><td>R</td><td>.333</td><td>.583</td></tr>
+<tr><td>8</td><td>Saggese</td><td>SS</td><td>R</td><td>.300</td><td>.764</td></tr>
+<tr><td>9</td><td>Scott</td><td>CF</td><td>L</td><td>.222</td><td>.422</td></tr>
 </table>
-<p class="sm">Note: Winn day-to-day (shin contusion).</p>
+<p class="n">Handedness: 5 RHB (Herrera, Walker, Urias, Fermin, Saggese), 4 LHB (Wetherholt, Burleson, Gorman, Scott).</p>
 
-<p class="h3">Red Sox (projected from 2026-04-11)</p>
+<p class="h3">Red Sox (Expected)</p>
 <table class="t">
-<colgroup><col width="10%"><col width="45%"><col width="25%"><col width="20%"></colgroup>
-<tr><th>#</th><th>Player</th><th>Pos</th><th>Bats</th></tr>
-<tr><td>1</td><td>Duran</td><td>LF</td><td>L</td></tr>
-<tr><td>2</td><td>Durbin</td><td>3B</td><td>R</td></tr>
-<tr><td>3</td><td>Yoshida</td><td>DH</td><td>L</td></tr>
-<tr><td>4</td><td>Contreras</td><td>1B</td><td>R</td></tr>
-<tr><td>5</td><td>Abreu</td><td>RF</td><td>L</td></tr>
-<tr><td>6</td><td>Story</td><td>SS</td><td>R</td></tr>
-<tr><td>7</td><td>Mayer</td><td>2B</td><td>L</td></tr>
-<tr><td>8</td><td>Narvaez</td><td>C</td><td>R</td></tr>
-<tr><td>9</td><td>Rafaela</td><td>CF</td><td>R</td></tr>
+<colgroup><col style="width:8%"><col style="width:32%"><col style="width:15%"><col style="width:15%"><col style="width:15%"><col style="width:15%"></colgroup>
+<tr><th>#</th><th>Player</th><th>Pos</th><th>Bats</th><th>2026 RISP AVG</th><th>2026 RISP OPS</th></tr>
+<tr><td>1</td><td>Anthony</td><td>DH</td><td>L</td><td>--</td><td>--</td></tr>
+<tr><td>2</td><td>Durbin</td><td>3B</td><td>R</td><td>.143</td><td>.437</td></tr>
+<tr><td>3</td><td>Duran</td><td>LF</td><td>L</td><td>--</td><td>--</td></tr>
+<tr><td>4</td><td>Contreras</td><td>1B</td><td>R</td><td>--</td><td>--</td></tr>
+<tr><td>5</td><td>Abreu</td><td>RF</td><td>L</td><td>--</td><td>--</td></tr>
+<tr><td>6</td><td>Story</td><td>SS</td><td>R</td><td>--</td><td>--</td></tr>
+<tr><td>7</td><td>Mayer</td><td>2B</td><td>L</td><td>--</td><td>--</td></tr>
+<tr><td>8</td><td>Wong</td><td>C</td><td>R</td><td>.000</td><td>.000</td></tr>
+<tr><td>9</td><td>Rafaela</td><td>CF</td><td>R</td><td>.400</td><td>.855</td></tr>
 </table>
+<p class="n">Handedness: 5 RHB (Durbin, Contreras, Story, Wong, Rafaela), 4 LHB (Anthony, Duran, Abreu, Mayer).</p>
 
-<p class="h2">Injuries</p>
+<p class="sh">INJURIES &amp; ROSTER NOTES</p>
+<p class="inj"><b>STL:</b> Lars Nootbaar (heels surgery, running progression started 3/20, no return date). Hunter Dobbins (torn right ACL, rehab assignment at Triple-A Memphis).</p>
+<p class="inj"><b>BOS:</b> Triston Casas (oblique, opened season on 10-day IL from knee rehab). Oviedo (right flexor strain, shut down 6 weeks). Slaten (right oblique strain, 15-day IL). Crawford (wrist, rehab assignment pending).</p>
 
-<p class="h3">Cardinals</p>
-<p class="inj"><b>Nootbaar</b> (OF) -- 60-day IL, heel surgery.</p>
-<p class="inj"><b>Dobbins</b> (RHP) -- 15-day IL, torn ACL.</p>
-<p class="inj"><b>Pushard</b> (RHP) -- 15-day IL, knee.</p>
-<p class="inj"><b>Winn</b> (SS) -- Day-to-day, shin contusion.</p>
-<p class="inj"><b>Naughton</b> (LHP) -- UCL damage.</p>
+<!-- SECTION 2: HISTORICAL DEPTH -->
 
-<p class="h3">Red Sox</p>
-<p class="inj"><b>Casas</b> (1B) -- 10-day IL, patellar tendon.</p>
-<p class="inj"><b>Houck</b> (RHP) -- 60-day IL, torn UCL.</p>
-<p class="inj"><b>Oviedo</b> (RHP) -- 15-day IL, flexor strain.</p>
-<p class="inj"><b>Slaten</b> (RHP) -- 15-day IL, oblique.</p>
-<p class="inj"><b>Sandoval</b> (LHP) -- 15-day IL, UCL repair.</p>
-<p class="inj"><b>Gonzalez</b> (INF/OF) -- 60-day IL, shoulder.</p>
-
-<p class="h2">Series Context</p>
-<p class="pp">Game 3 of 3. Series tied 1-1. Head-to-head: 0-3 in 2025, 2-1 in 2024, 3-0 in 2023, 1-2 in 2022.</p>
-
-<p class="sh">HISTORICAL DEPTH</p>
-<p class="n">All historical data from 2025 season or career totals through 2025 via Retrosheet/Lahman databases.</p>
-
-<p class="h2">BvP -- Cardinals vs Bello</p>
+<p class="sh">2a: BvP -- CARDINALS BATTERS vs BELLO (CAREER)</p>
 <table class="t">
-<colgroup><col width="18%"><col width="8%"><col width="8%"><col width="8%"><col width="10%"><col width="10%"><col width="10%"><col width="8%"><col width="8%"><col width="8%"></colgroup>
+<colgroup><col style="width:18%"><col style="width:8%"><col style="width:8%"><col style="width:8%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:8%"><col style="width:8%"><col style="width:8%"></colgroup>
 <tr><th>Player</th><th>PA</th><th>AB</th><th>H</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th></tr>
-<tr><td>Urias</td><td>10</td><td>9</td><td>2</td><td>.222</td><td>.300</td><td>.222</td><td>0</td><td>1</td><td>2</td></tr>
-<tr><td>Burleson</td><td>2</td><td>2</td><td>1</td><td>.500</td><td>.500</td><td>2.000</td><td>1</td><td>0</td><td>0</td></tr>
-<tr><td>Winn</td><td>2</td><td>2</td><td>0</td><td>.000</td><td>.000</td><td>.000</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Herrera</td><td>2</td><td>2</td><td>0</td><td>.000</td><td>.000</td><td>.000</td><td>0</td><td>0</td><td>1</td></tr>
-<tr><td class="nd" colspan="10">Wetherholt, Walker, Fermin, Pages, Scott -- No data</td></tr>
+<tr><td>Urias R</td><td>10</td><td>9</td><td>2</td><td>.222</td><td>.300</td><td>.222</td><td>0</td><td>1</td><td>2</td></tr>
+<tr><td class="gnb">Gorman L</td><td>2</td><td>2</td><td>1</td><td class="gnb">.500</td><td class="gnb">.500</td><td class="gnb">2.000</td><td class="gnb">1</td><td>0</td><td>1</td></tr>
+<tr><td>Herrera R</td><td>2</td><td>2</td><td>0</td><td>.000</td><td>.000</td><td>.000</td><td>0</td><td>0</td><td>1</td></tr>
+<tr><td class="gnb">Burleson L</td><td>2</td><td>2</td><td>1</td><td class="gnb">.500</td><td class="gnb">.500</td><td class="gnb">2.000</td><td class="gnb">1</td><td>0</td><td>0</td></tr>
+<tr><td colspan="10" class="nd">Wetherholt, Walker, Fermin, Saggese, Scott -- No data</td></tr>
 </table>
-<p class="sm">Small sample warning for all hitters except Urias.</p>
+<p class="sm">Small sample: Gorman (2 PA), Herrera (2 PA), Burleson (2 PA).</p>
+<p class="pp"><b>Bench BvP notes:</b> No significant bench BvP history against Bello found in the data.</p>
 
-<p class="h2">BvP -- Red Sox vs Pallante</p>
+<p class="sh">2b: BvP -- RED SOX BATTERS vs PALLANTE (CAREER)</p>
 <table class="t">
-<colgroup><col width="18%"><col width="8%"><col width="8%"><col width="8%"><col width="10%"><col width="10%"><col width="10%"><col width="8%"><col width="8%"><col width="8%"></colgroup>
+<colgroup><col style="width:18%"><col style="width:8%"><col style="width:8%"><col style="width:8%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:8%"><col style="width:8%"><col style="width:8%"></colgroup>
 <tr><th>Player</th><th>PA</th><th>AB</th><th>H</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th></tr>
-<tr><td class="rdb">Contreras</td><td>5</td><td>4</td><td>3</td><td class="rdb">.750</td><td class="rdb">.800</td><td>1.000</td><td>0</td><td>1</td><td>0</td></tr>
-<tr><td>Story</td><td>4</td><td>4</td><td>2</td><td>.500</td><td>.500</td><td>1.250</td><td>1</td><td>0</td><td>1</td></tr>
-<tr><td>Duran</td><td>4</td><td>4</td><td>0</td><td>.000</td><td>.000</td><td>.000</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Durbin</td><td>4</td><td>2</td><td>0</td><td>.000</td><td>.500</td><td>.000</td><td>0</td><td>2</td><td>0</td></tr>
-<tr><td>Yoshida</td><td>1</td><td>1</td><td>0</td><td>.000</td><td>.000</td><td>.000</td><td>0</td><td>0</td><td>1</td></tr>
-<tr><td class="nd" colspan="10">Abreu, Mayer, Narvaez, Rafaela -- No data</td></tr>
+<tr><td class="rdb">Contreras R</td><td>5</td><td>4</td><td>3</td><td class="rdb">.750</td><td class="rdb">.800</td><td class="rdb">1.000</td><td>0</td><td>1</td><td>0</td></tr>
+<tr><td>Story R</td><td>4</td><td>4</td><td>2</td><td>.500</td><td>.500</td><td>1.250</td><td>1</td><td>0</td><td>1</td></tr>
+<tr><td>Duran L</td><td>4</td><td>4</td><td>0</td><td>.000</td><td>.000</td><td>.000</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Wong R</td><td>3</td><td>3</td><td>0</td><td>.000</td><td>.000</td><td>.000</td><td>0</td><td>0</td><td>2</td></tr>
+<tr><td>Durbin R</td><td>4</td><td>2</td><td>0</td><td>.000</td><td>.500</td><td>.000</td><td>0</td><td>2</td><td>0</td></tr>
+<tr><td colspan="10" class="nd">Anthony, Abreu, Mayer, Rafaela -- No data</td></tr>
 </table>
-<p class="sm">Contreras: 3-for-4, 0 K -- most concerning BvP matchup for Pallante.</p>
+<p class="sm">Small sample: Contreras (5 PA), Story (4 PA), Duran (4 PA), Wong (3 PA), Durbin (4 PA).</p>
+<p class="pp"><b>Bench BvP notes:</b> No significant bench BvP history against Pallante found in the data.</p>
 
-<p class="h2">Platoon Splits -- Cardinals vs RHP</p>
+<!-- DANGER BAT CALLOUT -->
+<div class="danger">
+<p class="h2" style="margin-top:0">DANGER BAT: Willson Contreras vs Pallante</p>
+<p class="pp">Contreras is 3-for-4 (.750) with a .800 OBP and 1.000 SLG in 5 career PA against Pallante. Zero strikeouts. While the sample is small (5 PA, below the 10 PA threshold for full confidence), the rate is extreme enough to flag. He also drove in 3 runs last night. Pallante must game-plan around him.</p>
+</div>
+
+<p class="sh">2c: PLATOON SPLITS -- CARDINALS vs RHP (2025)</p>
 <table class="t">
-<colgroup><col width="18%"><col width="8%"><col width="10%"><col width="10%"><col width="10%"><col width="10%"><col width="8%"><col width="8%"><col width="8%"></colgroup>
-<tr><th>Player</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th><th></th></tr>
-<tr><td>Burleson (L)</td><td>419</td><td>.296</td><td>.353</td><td>.478</td><td>15</td><td>32</td><td>59</td><td></td></tr>
-<tr><td>Winn (R)</td><td>374</td><td>.251</td><td>.309</td><td>.368</td><td>7</td><td>23</td><td>71</td><td></td></tr>
-<tr><td>Scott (L)</td><td>332</td><td>.221</td><td>.310</td><td>.317</td><td>5</td><td>31</td><td>75</td><td></td></tr>
-<tr><td>Herrera (R)</td><td>328</td><td>.268</td><td>.343</td><td>.399</td><td>10</td><td>24</td><td>66</td><td></td></tr>
-<tr><td>Walker (R)</td><td>289</td><td>.200</td><td>.263</td><td>.291</td><td>4</td><td>21</td><td>94</td><td></td></tr>
-<tr><td>Pages (R)</td><td>276</td><td>.225</td><td>.264</td><td>.364</td><td>9</td><td>12</td><td>72</td><td></td></tr>
-<tr><td>Urias (R)</td><td>273</td><td>.233</td><td>.278</td><td>.367</td><td>7</td><td>17</td><td>57</td><td></td></tr>
-<tr><td>Fermin (R)</td><td>59</td><td>.280</td><td>.379</td><td>.420</td><td>1</td><td>7</td><td>8</td><td></td></tr>
+<colgroup><col style="width:18%"><col style="width:8%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:8%"><col style="width:8%"><col style="width:8%"></colgroup>
+<tr><th>Player</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th></tr>
+<tr><td class="gnb">Burleson L</td><td>419</td><td class="gnb">.296</td><td>.353</td><td>.478</td><td>15</td><td>32</td><td>59</td></tr>
+<tr><td>Fermin R</td><td>59</td><td>.280</td><td>.379</td><td>.420</td><td>1</td><td>7</td><td>8</td></tr>
+<tr><td>Herrera R</td><td>328</td><td>.268</td><td>.343</td><td>.399</td><td>10</td><td>24</td><td>66</td></tr>
+<tr><td>Saggese R</td><td>227</td><td>.254</td><td>.305</td><td>.340</td><td>1</td><td>15</td><td>63</td></tr>
+<tr><td>Urias R</td><td>273</td><td>.233</td><td>.278</td><td>.367</td><td>7</td><td>17</td><td>57</td></tr>
+<tr><td>Scott L</td><td>332</td><td>.221</td><td>.310</td><td>.317</td><td>5</td><td>31</td><td>75</td></tr>
+<tr><td class="rd">Gorman L</td><td>309</td><td class="rd">.201</td><td>.294</td><td>.349</td><td>9</td><td>37</td><td class="rdb">111</td></tr>
+<tr><td class="rd">Walker R</td><td>289</td><td class="rd">.200</td><td>.263</td><td>.291</td><td>4</td><td>21</td><td class="rdb">94</td></tr>
+</table>
+<p class="n">Wetherholt: No 2025 platoon data available (rookie).</p>
+
+<p class="sh">2c: PLATOON SPLITS -- RED SOX vs RHP (2025)</p>
+<table class="t">
+<colgroup><col style="width:18%"><col style="width:8%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:8%"><col style="width:8%"><col style="width:8%"></colgroup>
+<tr><th>Player</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th></tr>
+<tr><td class="gnb">Anthony L</td><td>205</td><td class="gnb">.299</td><td class="gnb">.424</td><td>.479</td><td>4</td><td>32</td><td>46</td></tr>
+<tr><td>Duran L</td><td>493</td><td>.273</td><td>.359</td><td>.481</td><td>13</td><td>50</td><td>115</td></tr>
+<tr><td>Story R</td><td>491</td><td>.265</td><td>.308</td><td>.433</td><td>18</td><td>24</td><td>136</td></tr>
+<tr><td>Durbin R</td><td>398</td><td>.257</td><td>.341</td><td>.387</td><td>7</td><td>26</td><td>48</td></tr>
+<tr><td>Rafaela R</td><td>432</td><td>.256</td><td>.302</td><td>.407</td><td>9</td><td>22</td><td>87</td></tr>
+<tr><td>Contreras R</td><td>418</td><td>.251</td><td>.333</td><td>.433</td><td>15</td><td>28</td><td>106</td></tr>
+<tr><td>Mayer L</td><td>109</td><td>.248</td><td>.294</td><td>.446</td><td>4</td><td>7</td><td>31</td></tr>
+<tr><td>Abreu L</td><td>354</td><td>.246</td><td>.316</td><td>.479</td><td>21</td><td>34</td><td>90</td></tr>
+<tr><td class="rd">Wong R</td><td>142</td><td class="rd">.194</td><td>.255</td><td>.248</td><td>0</td><td>10</td><td>30</td></tr>
 </table>
 
-<p class="h2">Platoon Splits -- Red Sox vs RHP</p>
+<p class="sh">2d: PITCHER PLATOON SPLITS (CAREER)</p>
 <table class="t">
-<colgroup><col width="18%"><col width="8%"><col width="10%"><col width="10%"><col width="10%"><col width="10%"><col width="8%"><col width="8%"><col width="8%"></colgroup>
-<tr><th>Player</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th><th></th></tr>
-<tr><td>Duran (L)</td><td>493</td><td>.273</td><td>.359</td><td>.481</td><td>13</td><td>50</td><td>115</td><td></td></tr>
-<tr><td>Story (R)</td><td>491</td><td>.265</td><td>.308</td><td>.433</td><td>18</td><td>24</td><td>136</td><td></td></tr>
-<tr><td>Rafaela (R)</td><td>432</td><td>.256</td><td>.302</td><td>.407</td><td>9</td><td>22</td><td>87</td><td></td></tr>
-<tr><td>Contreras (R)</td><td>418</td><td>.251</td><td>.333</td><td>.433</td><td>15</td><td>28</td><td>106</td><td></td></tr>
-<tr><td>Durbin (R)</td><td>398</td><td>.257</td><td>.341</td><td>.387</td><td>7</td><td>26</td><td>48</td><td></td></tr>
-<tr><td>Abreu (L)</td><td>354</td><td>.246</td><td>.316</td><td>.479</td><td>21</td><td>34</td><td>90</td><td></td></tr>
-<tr><td>Narvaez (R)</td><td>321</td><td>.236</td><td>.295</td><td>.421</td><td>11</td><td>24</td><td>85</td><td></td></tr>
-<tr><td>Yoshida (L)</td><td>180</td><td>.287</td><td>.328</td><td>.421</td><td>4</td><td>9</td><td>21</td><td></td></tr>
-<tr><td>Mayer (L)</td><td>109</td><td>.248</td><td>.294</td><td>.446</td><td>4</td><td>7</td><td>31</td><td></td></tr>
-</table>
-
-<p class="h2">Pitcher Platoon Splits</p>
-<table class="t">
-<colgroup><col width="16%"><col width="10%"><col width="8%"><col width="10%"><col width="10%"><col width="10%"><col width="10%"><col width="8%"><col width="8%"></colgroup>
+<colgroup><col style="width:18%"><col style="width:10%"><col style="width:8%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:8%"><col style="width:8%"></colgroup>
 <tr><th>Pitcher</th><th>vs</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>OPS</th><th>HR</th><th>K</th></tr>
-<tr><td>Bello</td><td>LHB</td><td>418</td><td>.237</td><td>.326</td><td>.375</td><td>.612</td><td>10</td><td>67</td></tr>
-<tr><td>Bello</td><td>RHB</td><td>293</td><td>.243</td><td>.301</td><td>.341</td><td>.584</td><td>7</td><td>57</td></tr>
-<tr><td>Pallante</td><td>LHB</td><td>347</td><td>.266</td><td>.329</td><td>.434</td><td>.700</td><td>10</td><td>60</td></tr>
-<tr><td>Pallante</td><td>RHB</td><td>368</td><td>.275</td><td>.345</td><td>.429</td><td>.704</td><td>11</td><td>51</td></tr>
+<tr><td>Bello</td><td>vs LHB</td><td>418</td><td>.237</td><td>.326</td><td>.375</td><td>.612</td><td>10</td><td>67</td></tr>
+<tr><td>Bello</td><td>vs RHB</td><td>293</td><td>.243</td><td>.301</td><td>.341</td><td>.584</td><td>7</td><td>57</td></tr>
+<tr><td>Pallante</td><td>vs LHB</td><td>347</td><td>.266</td><td>.329</td><td>.434</td><td>.700</td><td>10</td><td>60</td></tr>
+<tr><td>Pallante</td><td>vs RHB</td><td>368</td><td>.275</td><td>.345</td><td>.429</td><td>.704</td><td>11</td><td>51</td></tr>
 </table>
+<p class="pp"><b>Bello</b> shows no meaningful platoon split -- fairly even against both sides (.612 OPS vs LHB, .584 vs RHB). <b>Pallante</b> is nearly identical against both (.700 vs LHB, .704 vs RHB), but allows more power to lefties (.434 SLG vs .429).</p>
 
-<p class="h2">Pitcher Home/Away</p>
+<p class="sh">2d-HA: PITCHER HOME/AWAY SPLITS (CAREER)</p>
 <table class="t">
-<colgroup><col width="16%"><col width="12%"><col width="10%"><col width="12%"><col width="12%"><col width="10%"><col width="10%"><col width="10%"></colgroup>
+<colgroup><col style="width:18%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:10%"></colgroup>
 <tr><th>Pitcher</th><th>Split</th><th>BF</th><th>IP</th><th>ERA</th><th>K</th><th>BB</th><th>HR</th></tr>
-<tr><td>Bello</td><td>Away</td><td>276</td><td>67.0</td><td class="gnb">2.82</td><td>47</td><td>23</td><td>9</td></tr>
+<tr><td class="gnb">Bello</td><td>Away</td><td>276</td><td>67.0</td><td class="gnb">2.82</td><td>47</td><td>23</td><td>9</td></tr>
 <tr><td>Bello</td><td>Home</td><td>435</td><td>102.0</td><td>3.44</td><td>77</td><td>37</td><td>8</td></tr>
 <tr><td>Pallante</td><td>Away</td><td>375</td><td>84.9</td><td>4.89</td><td>67</td><td>35</td><td>11</td></tr>
-<tr><td>Pallante</td><td>Home</td><td>340</td><td>78.0</td><td class="rdb">5.42</td><td>44</td><td>27</td><td>10</td></tr>
+<tr><td>Pallante</td><td>Home</td><td>340</td><td>78.0</td><td>5.42</td><td>44</td><td>27</td><td>10</td></tr>
 </table>
-<p class="sm">Bello pitching away (better split). Pallante at home (worse split).</p>
+<p class="pp">Today's game is at <b>Busch Stadium</b> -- Pallante pitching at home (career 5.42 ERA). Bello pitching away (career 2.82 ERA). Notable: Bello is significantly better on the road. Pallante is slightly worse at home than away.</p>
 
-<p class="h2">Times Through Order (TTO) Splits</p>
+<p class="sh">2e: TTO SPLITS (CAREER)</p>
 <table class="t">
-<colgroup><col width="14%"><col width="10%"><col width="8%"><col width="10%"><col width="10%"><col width="10%"><col width="8%"><col width="8%"><col width="8%"></colgroup>
+<colgroup><col style="width:18%"><col style="width:8%"><col style="width:8%"><col style="width:10%"><col style="width:10%"><col style="width:10%"><col style="width:8%"><col style="width:8%"><col style="width:8%"></colgroup>
 <tr><th>Pitcher</th><th>TTO</th><th>PA</th><th>AVG</th><th>SLG</th><th>OPS</th><th>HR</th><th>K</th><th>BB</th></tr>
-<tr><td>Bello</td><td>1st</td><td>271</td><td>.263</td><td>.446</td><td>.709</td><td>10</td><td>51</td><td>24</td></tr>
-<tr><td>Bello</td><td>2nd</td><td>262</td><td>.223</td><td>.292</td><td>.515</td><td>3</td><td>42</td><td>19</td></tr>
-<tr><td>Bello</td><td>3rd</td><td>178</td><td>.229</td><td>.331</td><td>.560</td><td>4</td><td>31</td><td>17</td></tr>
-<tr><td>Pallante</td><td>1st</td><td>279</td><td>.266</td><td>.393</td><td>.659</td><td>6</td><td>35</td><td>21</td></tr>
-<tr><td>Pallante</td><td>2nd</td><td>270</td><td class="rdb">.309</td><td class="rdb">.487</td><td class="rdb">.796</td><td>8</td><td>46</td><td>27</td></tr>
-<tr><td>Pallante</td><td>3rd</td><td>166</td><td>.217</td><td>.408</td><td>.625</td><td>7</td><td>30</td><td>14</td></tr>
+<tr><td>Bello</td><td>TTO1</td><td>271</td><td>.263</td><td>.446</td><td>.709</td><td>10</td><td>51</td><td>24</td></tr>
+<tr><td class="gnb">Bello</td><td>TTO2</td><td>262</td><td class="gnb">.223</td><td class="gnb">.292</td><td class="gnb">.515</td><td>3</td><td>42</td><td>19</td></tr>
+<tr><td>Bello</td><td>TTO3</td><td>178</td><td>.229</td><td>.331</td><td>.560</td><td>4</td><td>31</td><td>17</td></tr>
+<tr><td>Pallante</td><td>TTO1</td><td>279</td><td>.266</td><td>.393</td><td>.659</td><td>6</td><td>35</td><td>21</td></tr>
+<tr><td class="rdb">Pallante</td><td class="rdb">TTO2</td><td>270</td><td class="rdb">.309</td><td class="rdb">.487</td><td class="rdb">.796</td><td class="rdb">8</td><td>46</td><td>27</td></tr>
+<tr><td>Pallante</td><td>TTO3</td><td>166</td><td>.217</td><td>.408</td><td>.625</td><td>7</td><td>30</td><td>14</td></tr>
 </table>
+<p class="pp"><b>Key pattern:</b> Pallante's TTO2 is a danger zone -- .309 AVG, .796 OPS, 8 HR in 270 PA. That is a 137-point OPS jump from TTO1. Bello is the opposite: he actually improves second time through (.515 OPS in TTO2 vs .709 in TTO1). If Boston can survive Bello's rough first pass, his mid-game may stabilize.</p>
 
-<p class="h2">Inherited Runners</p>
+<p class="sh">2f: INHERITED RUNNERS PROFILE (CAREER)</p>
 <table class="t">
-<colgroup><col width="30%"><col width="20%"><col width="20%"><col width="30%"></colgroup>
+<colgroup><col style="width:30%"><col style="width:18%"><col style="width:18%"><col style="width:18%"></colgroup>
 <tr><th>Reliever</th><th>IR</th><th>Scored</th><th>Strand%</th></tr>
-<tr><td>Leahy</td><td>29</td><td>11</td><td>62.1%</td></tr>
-<tr><td>Romero</td><td>26</td><td>3</td><td class="gnb">88.5%</td></tr>
-<tr><td>Svanson</td><td>26</td><td>13</td><td class="rdb">50.0%</td></tr>
-<tr><td>Graceffo</td><td>11</td><td>5</td><td>54.5%</td></tr>
-<tr><td>O'Brien</td><td>10</td><td>3</td><td>70.0%</td></tr>
-<tr><td>McGreevy</td><td>3</td><td>0</td><td class="gnb">100.0%</td></tr>
+<tr><td class="gnb">JoJo Romero</td><td>26</td><td>3</td><td class="gnb">88.5%</td></tr>
+<tr><td>Riley O'Brien</td><td>10</td><td>3</td><td>70.0%</td></tr>
+<tr><td>Kyle Leahy</td><td>29</td><td>11</td><td class="am">62.1%</td></tr>
+<tr><td>Gordon Graceffo</td><td>11</td><td>5</td><td class="rd">54.5%</td></tr>
+<tr><td class="rdb">Matt Svanson</td><td>26</td><td>13</td><td class="rdb">50.0%</td></tr>
+<tr><td>Michael McGreevy</td><td>3</td><td>0</td><td class="gnb">100.0%</td></tr>
 </table>
+<p class="n">League average strand rate: ~68-72%. Svanson allowed 5 ER in the 9th inning last night.</p>
 
-<p class="h2">Batted Ball Matchup -- Pitchers</p>
+<p class="sh">2g: BATTED BALL MATCHUP</p>
+
+<p class="h3">Pitcher Batted Ball Profiles (Career)</p>
 <table class="t">
-<colgroup><col width="24%"><col width="16%"><col width="20%"><col width="20%"><col width="20%"></colgroup>
+<colgroup><col style="width:25%"><col style="width:15%"><col style="width:20%"><col style="width:20%"><col style="width:20%"></colgroup>
 <tr><th>Pitcher</th><th>BIP</th><th>GB%</th><th>FB%</th><th>LD%</th></tr>
 <tr><td>Bello</td><td>497</td><td>51.3%</td><td>26.6%</td><td>21.7%</td></tr>
-<tr><td>Pallante</td><td>515</td><td>61.2%</td><td>18.3%</td><td>19.6%</td></tr>
+<tr><td>Pallante</td><td>515</td><td class="gnb">61.2%</td><td>18.3%</td><td>19.6%</td></tr>
 </table>
 
-<p class="h3">Batted Ball Matchup -- Red Sox Hitters</p>
+<p class="h3">Hitter Batted Ball Results (Career) -- BOS</p>
 <table class="t">
-<colgroup><col width="25%"><col width="25%"><col width="25%"><col width="25%"></colgroup>
+<colgroup><col style="width:25%"><col style="width:25%"><col style="width:25%"><col style="width:25%"></colgroup>
 <tr><th>Hitter</th><th>GB AVG</th><th>LD AVG</th><th>FB AVG</th></tr>
-<tr><td>Abreu</td><td>.279</td><td>.673</td><td>.119</td></tr>
-<tr><td>Contreras</td><td>.245</td><td>.667</td><td>.110</td></tr>
-<tr><td>Duran</td><td>.272</td><td>.658</td><td>.119</td></tr>
-<tr><td>Durbin</td><td>.224</td><td>.625</td><td>.062</td></tr>
-<tr><td>Mayer</td><td>.143</td><td>.750</td><td>.200</td></tr>
-<tr><td>Narvaez</td><td>.263</td><td>.638</td><td>.111</td></tr>
-<tr><td>Rafaela</td><td>.267</td><td>.560</td><td>.126</td></tr>
-<tr><td>Story</td><td>.326</td><td>.700</td><td>.103</td></tr>
-<tr><td>Yoshida</td><td>.235</td><td>.658</td><td>.067</td></tr>
+<tr><td>Abreu L</td><td>.279</td><td>.673</td><td>.119</td></tr>
+<tr><td>Anthony L</td><td>.295</td><td>.810</td><td>.200</td></tr>
+<tr><td>Contreras R</td><td>.245</td><td>.667</td><td>.110</td></tr>
+<tr><td>Duran L</td><td>.272</td><td>.658</td><td>.119</td></tr>
+<tr><td>Durbin R</td><td>.224</td><td>.625</td><td>.062</td></tr>
+<tr><td>Mayer L</td><td>.143</td><td>.750</td><td>.200</td></tr>
+<tr><td>Rafaela R</td><td>.267</td><td>.560</td><td>.126</td></tr>
+<tr><td>Story R</td><td>.326</td><td>.700</td><td>.103</td></tr>
+<tr><td>Wong R</td><td>.190</td><td>.625</td><td>.111</td></tr>
 </table>
+<p class="pp"><b>Ground ball context:</b> Pallante's 61.2% GB rate is elite. Story hits .326 on ground balls -- the highest in BOS lineup. With 31 SB at 96.9% success, his speed on grounders is a weapon. Most BOS hitters hit under .280 on grounders, which favors Pallante's profile.</p>
 
-<p class="h2">Battery Pairing</p>
+<p class="sh">2h: BATTERY PAIRING -- PALLANTE</p>
 <table class="t">
-<colgroup><col width="25%"><col width="15%"><col width="20%"><col width="20%"><col width="20%"></colgroup>
-<tr><th>Catcher</th><th>G</th><th>IP</th><th>ERA</th><th>AVG</th></tr>
-<tr><td>Pages</td><td>15</td><td>76.3</td><td>4.60</td><td>.257</td></tr>
-<tr><td>Pozo</td><td>8</td><td>37.7</td><td class="rdb">6.93</td><td>.303</td></tr>
-<tr><td>Crooks</td><td>5</td><td>23.3</td><td class="gnb">4.24</td><td>.258</td></tr>
-<tr><td>Herrera</td><td>5</td><td>23.7</td><td>4.56</td><td>.271</td></tr>
+<colgroup><col style="width:25%"><col style="width:12%"><col style="width:12%"><col style="width:12%"><col style="width:12%"><col style="width:12%"><col style="width:12%"></colgroup>
+<tr><th>Catcher</th><th>G</th><th>IP</th><th>ERA</th><th>AVG</th><th>OBP</th><th>SLG</th></tr>
+<tr><td>Pages</td><td>15</td><td>76.3</td><td>4.60</td><td>.257</td><td>--</td><td>--</td></tr>
+<tr><td>Pozo</td><td>8</td><td>37.7</td><td class="rd">6.93</td><td>.303</td><td>--</td><td>--</td></tr>
+<tr><td>Herrera</td><td>5</td><td>23.7</td><td>4.56</td><td>.271</td><td>--</td><td>--</td></tr>
+<tr><td>Crooks</td><td>5</td><td>23.3</td><td class="gn">4.24</td><td>.258</td><td>--</td><td>--</td></tr>
 </table>
+<p class="pp">Herrera catches today. Pallante has a 4.56 ERA in 23.7 IP with Herrera behind the plate (5 games). His most frequent catcher was Pages (15 games, 4.60 ERA).</p>
 
-<p class="h2">Baserunning</p>
-<table class="t">
-<colgroup><col width="30%"><col width="20%"><col width="20%"><col width="30%"></colgroup>
-<tr><th>Player</th><th>SB</th><th>CS</th><th>Success%</th></tr>
-<tr><td>Story</td><td>31</td><td>1</td><td class="gnb">96.9%</td></tr>
-<tr><td>Duran</td><td>24</td><td>6</td><td>80.0%</td></tr>
-<tr><td>Rafaela</td><td>20</td><td>5</td><td>80.0%</td></tr>
-<tr><td>Durbin</td><td>18</td><td>6</td><td>75.0%</td></tr>
-<tr><td>Abreu</td><td>6</td><td>3</td><td class="am">66.7%</td></tr>
-<tr><td>Contreras</td><td>5</td><td>1</td><td>83.3%</td></tr>
-<tr><td>Yoshida</td><td>3</td><td>0</td><td class="gnb">100.0%</td></tr>
-<tr><td>Narvaez</td><td>1</td><td>1</td><td class="rdb">50.0%</td></tr>
-</table>
+<p class="sh">2i: BASERUNNING MATCHUP (2025)</p>
+<p class="pp"><b>BOS baserunning threats:</b></p>
+<p class="pp">-- <b>Trevor Story:</b> 31 SB, 1 CS (96.9% success) -- elite volume and efficiency.</p>
+<p class="pp">-- <b>Jarren Duran:</b> 24 SB, 6 CS (80.0% success) -- aggressive but caught more often.</p>
+<p class="pp">-- <b>Ceddanne Rafaela:</b> 20 SB, 5 CS (80.0% success) -- consistent threat from the 9-hole.</p>
+<p class="pp">-- <b>Caleb Durbin:</b> 18 SB, 6 CS (75.0% success) -- willing runner, lower efficiency.</p>
+<p class="pp">-- <b>Wilyer Abreu:</b> 6 SB, 3 CS (66.7% success)</p>
+<p class="pp">-- <b>Willson Contreras:</b> 5 SB, 1 CS (83.3% success)</p>
+<p class="pp">-- <b>Roman Anthony:</b> 4 SB, 1 CS (80.0% success)</p>
+<p class="pp">-- <b>Connor Wong:</b> 2 SB, 1 CS (66.7% success)</p>
+<p class="pp">Boston has massive baserunning volume. Herrera needs to control the running game with Pallante on the mound.</p>
 
-<p class="h2">Defensive Context</p>
+<p class="sh">2j: DEFENSIVE CONTEXT -- CARDINALS (2025)</p>
 <table class="t">
-<colgroup><col width="22%"><col width="14%"><col width="14%"><col width="14%"><col width="14%"><col width="22%"></colgroup>
+<colgroup><col style="width:20%"><col style="width:10%"><col style="width:12%"><col style="width:12%"><col style="width:12%"><col style="width:12%"></colgroup>
 <tr><th>Player</th><th>POS</th><th>G</th><th>DP</th><th>E</th><th>Fld%</th></tr>
 <tr><td>Scott</td><td>OF</td><td>147</td><td>3</td><td>6</td><td>.983</td></tr>
-<tr><td>Winn</td><td>SS</td><td>129</td><td>64</td><td>3</td><td>.994</td></tr>
-<tr><td>Pages</td><td>C</td><td>110</td><td>6</td><td>5</td><td>.994</td></tr>
 <tr><td>Walker</td><td>OF</td><td>108</td><td>2</td><td>4</td><td>.981</td></tr>
 <tr><td>Burleson</td><td>OF</td><td>75</td><td>1</td><td>1</td><td>.992</td></tr>
 <tr><td>Urias</td><td>3B</td><td>68</td><td>18</td><td>3</td><td>.983</td></tr>
+<tr><td>Gorman</td><td>3B</td><td>54</td><td>11</td><td>6</td><td>.950</td></tr>
 <tr><td>Burleson</td><td>1B</td><td>50</td><td>27</td><td>4</td><td>.990</td></tr>
+<tr><td>Saggese</td><td>2B</td><td>35</td><td>24</td><td>4</td><td>.973</td></tr>
+<tr><td>Saggese</td><td>SS</td><td>33</td><td>7</td><td>1</td><td>.988</td></tr>
+<tr><td>Gorman</td><td>2B</td><td>28</td><td>9</td><td>1</td><td>.990</td></tr>
 <tr><td>Urias</td><td>2B</td><td>25</td><td>7</td><td>0</td><td>1.000</td></tr>
+<tr><td>Saggese</td><td>3B</td><td>18</td><td>0</td><td>2</td><td>.939</td></tr>
 <tr><td>Fermin</td><td>2B</td><td>15</td><td>5</td><td>0</td><td>1.000</td></tr>
 <tr><td>Herrera</td><td>C</td><td>14</td><td>0</td><td>1</td><td>.989</td></tr>
 <tr><td>Urias</td><td>3B</td><td>10</td><td>2</td><td>1</td><td>.944</td></tr>
-<tr><td>Fermin</td><td>OF</td><td>5</td><td>0</td><td>0</td><td>1.000</td></tr>
+<tr><td>Gorman</td><td>1B</td><td>7</td><td>4</td><td>0</td><td>1.000</td></tr>
 <tr><td>Fermin</td><td>3B</td><td>5</td><td>0</td><td>0</td><td>1.000</td></tr>
+<tr><td>Fermin</td><td>OF</td><td>5</td><td>0</td><td>0</td><td>1.000</td></tr>
 <tr><td>Herrera</td><td>OF</td><td>4</td><td>0</td><td>0</td><td>1.000</td></tr>
 <tr><td>Urias</td><td>1B</td><td>3</td><td>0</td><td>0</td><td>1.000</td></tr>
-<tr><td>Pages</td><td>1B</td><td>2</td><td>1</td><td>0</td><td>1.000</td></tr>
-<tr><td>Burleson</td><td>P</td><td>1</td><td>0</td><td>0</td><td>--</td></tr>
-<tr><td>Pages</td><td>2B</td><td>1</td><td>0</td><td>0</td><td>1.000</td></tr>
 <tr><td>Urias</td><td>2B</td><td>1</td><td>0</td><td>0</td><td>1.000</td></tr>
+<tr><td>Burleson</td><td>P</td><td>1</td><td>0</td><td>0</td><td>--</td></tr>
 </table>
+<p class="pp">Burleson at 1B today (50 G, .990 Fld%). Pallante's 61.2% GB rate means the infield defense is critical. Urias at 3B (.983 at that position) and Saggese at SS (.988) provide solid glove work for ground balls.</p>
 
-<p class="h2">Ballpark Context -- Head-to-Head</p>
-<table class="t">
-<colgroup><col width="34%"><col width="33%"><col width="33%"></colgroup>
-<tr><th>Season</th><th>STL W</th><th>STL L</th></tr>
-<tr><td>2025</td><td>0</td><td>3</td></tr>
-<tr><td>2024</td><td>2</td><td>1</td></tr>
-<tr><td>2023</td><td>3</td><td>0</td></tr>
-<tr><td>2022</td><td>1</td><td>2</td></tr>
-</table>
+<p class="sh">2k: BALLPARK &amp; HEAD-TO-HEAD CONTEXT</p>
+<p class="pp"><b>Recent head-to-head:</b> Cardinals were swept 0-3 by Boston in 2025. They won 2-1 in 2024 and swept 3-0 in 2023. The 2022 series went 1-2 in BOS favor. This 2026 series is tied 1-1 entering the rubber match.</p>
+<p class="pp"><b>Busch Stadium</b> is generally a neutral-to-pitching-friendly park. With two ground ball pitchers on the mound (Pallante 61.2% GB, Bello 51.3% GB), expect a low-fly-ball game. The Busch infield turf plays fast on grounders.</p>
 
-<p class="h2">Batter K%/BB% -- Cardinals</p>
+<p class="sh">2l: BATTER K%/BB% PROFILE (2025)</p>
+
+<p class="h3">Cardinals</p>
 <table class="t">
-<colgroup><col width="18%"><col width="12%"><col width="12%"><col width="12%"><col width="12%"><col width="12%"></colgroup>
+<colgroup><col style="width:20%"><col style="width:12%"><col style="width:12%"><col style="width:14%"><col style="width:12%"><col style="width:14%"></colgroup>
 <tr><th>Player</th><th>PA</th><th>K</th><th>K%</th><th>BB</th><th>BB%</th></tr>
-<tr><td>Burleson</td><td>544</td><td>79</td><td class="gnb">14.5%</td><td>39</td><td>7.2%</td></tr>
-<tr><td>Winn</td><td>537</td><td>102</td><td>19.0%</td><td>34</td><td>6.3%</td></tr>
-<tr><td>Scott</td><td>463</td><td>111</td><td>24.0%</td><td>42</td><td>9.1%</td></tr>
+<tr><td>Burleson</td><td>544</td><td>79</td><td>14.5%</td><td>39</td><td>7.2%</td></tr>
+<tr><td>Fermin</td><td>70</td><td>10</td><td>14.3%</td><td>8</td><td>11.4%</td></tr>
 <tr><td>Herrera</td><td>450</td><td>84</td><td>18.7%</td><td>43</td><td>9.6%</td></tr>
+<tr><td>Urias</td><td>391</td><td>88</td><td>22.5%</td><td>27</td><td class="am">6.9%</td></tr>
+<tr><td>Scott</td><td>463</td><td>111</td><td>24.0%</td><td>42</td><td>9.1%</td></tr>
+<tr><td>Saggese</td><td>295</td><td>83</td><td class="rd">28.1%</td><td>16</td><td class="rd">5.4%</td></tr>
 <tr><td>Walker</td><td>396</td><td>126</td><td class="rdb">31.8%</td><td>29</td><td>7.3%</td></tr>
-<tr><td>Urias</td><td>391</td><td>88</td><td>22.5%</td><td>27</td><td>6.9%</td></tr>
-<tr><td>Pages</td><td>389</td><td>107</td><td>27.5%</td><td>19</td><td>4.9%</td></tr>
-<tr><td>Fermin</td><td>70</td><td>10</td><td class="gnb">14.3%</td><td>8</td><td>11.4%</td></tr>
+<tr><td>Gorman</td><td>402</td><td>136</td><td class="rdb">33.8%</td><td>47</td><td>11.7%</td></tr>
 </table>
+<p class="n">Wetherholt: No 2025 K%/BB% data (rookie). Gorman (33.8% K rate) and Walker (31.8%) are the highest-strikeout bats. Saggese has a dangerously low 5.4% BB rate.</p>
 
-<p class="h2">Batter K%/BB% -- Red Sox</p>
+<p class="h3">Red Sox</p>
 <table class="t">
-<colgroup><col width="18%"><col width="12%"><col width="12%"><col width="12%"><col width="12%"><col width="12%"></colgroup>
+<colgroup><col style="width:20%"><col style="width:12%"><col style="width:12%"><col style="width:14%"><col style="width:12%"><col style="width:14%"></colgroup>
 <tr><th>Player</th><th>PA</th><th>K</th><th>K%</th><th>BB</th><th>BB%</th></tr>
-<tr><td>Duran</td><td>696</td><td>169</td><td>24.3%</td><td>60</td><td>8.6%</td></tr>
-<tr><td>Story</td><td>654</td><td>176</td><td>26.9%</td><td>33</td><td>5.0%</td></tr>
-<tr><td>Rafaela</td><td>587</td><td>117</td><td>19.9%</td><td>28</td><td>4.8%</td></tr>
-<tr><td>Contreras</td><td>562</td><td>142</td><td>25.3%</td><td>44</td><td>7.8%</td></tr>
 <tr><td>Durbin</td><td>506</td><td>50</td><td class="gnb">9.9%</td><td>30</td><td>5.9%</td></tr>
-<tr><td>Narvaez</td><td>446</td><td>111</td><td>24.9%</td><td>38</td><td>8.5%</td></tr>
+<tr><td>Rafaela</td><td>587</td><td>117</td><td>19.9%</td><td>28</td><td class="rd">4.8%</td></tr>
+<tr><td>Wong</td><td>188</td><td>42</td><td>22.3%</td><td>16</td><td>8.5%</td></tr>
 <tr><td>Abreu</td><td>417</td><td>101</td><td>24.2%</td><td>40</td><td>9.6%</td></tr>
-<tr><td>Yoshida</td><td>205</td><td>24</td><td class="gnb">11.7%</td><td>10</td><td>4.9%</td></tr>
+<tr><td>Duran</td><td>696</td><td>169</td><td>24.3%</td><td>60</td><td>8.6%</td></tr>
+<tr><td>Contreras</td><td>562</td><td>142</td><td class="rd">25.3%</td><td>44</td><td>7.8%</td></tr>
+<tr><td>Story</td><td>654</td><td>176</td><td class="rd">26.9%</td><td>33</td><td class="rd">5.0%</td></tr>
+<tr><td>Anthony</td><td>303</td><td>84</td><td class="rdb">27.7%</td><td>40</td><td class="gnb">13.2%</td></tr>
 <tr><td>Mayer</td><td>136</td><td>41</td><td class="rdb">30.1%</td><td>8</td><td>5.9%</td></tr>
 </table>
+<p class="n">Durbin's 9.9% K rate is exceptional. Anthony walks at a 13.2% clip -- best in the BOS lineup. Story and Mayer are both high-K, low-BB profiles.</p>
 
-<p class="h2">Batter Batted Ball -- Cardinals</p>
+<p class="sh">2m: BATTER BATTED BALL PROFILE (2025)</p>
+
+<p class="h3">Cardinals</p>
 <table class="t">
-<colgroup><col width="22%"><col width="16%"><col width="20%"><col width="20%"><col width="22%"></colgroup>
+<colgroup><col style="width:22%"><col style="width:14%"><col style="width:18%"><col style="width:18%"><col style="width:18%"></colgroup>
 <tr><th>Player</th><th>BIP</th><th>GB%</th><th>FB%</th><th>LD%</th></tr>
 <tr><td>Burleson</td><td>398</td><td>42.0%</td><td>33.4%</td><td>24.6%</td></tr>
-<tr><td>Winn</td><td>376</td><td>39.6%</td><td>34.0%</td><td>26.3%</td></tr>
 <tr><td>Herrera</td><td>285</td><td>52.6%</td><td>21.8%</td><td>25.6%</td></tr>
 <tr><td>Scott</td><td>259</td><td>40.2%</td><td>32.0%</td><td>27.8%</td></tr>
 <tr><td>Urias</td><td>253</td><td>45.1%</td><td>29.2%</td><td>25.7%</td></tr>
-<tr><td>Pages</td><td>243</td><td>44.9%</td><td>30.9%</td><td>24.3%</td></tr>
 <tr><td>Walker</td><td>231</td><td>48.9%</td><td>29.4%</td><td>21.6%</td></tr>
-<tr><td>Fermin</td><td>46</td><td>37.0%</td><td>32.6%</td><td>30.4%</td></tr>
+<tr><td>Gorman</td><td>199</td><td class="gnb">30.2%</td><td class="rdb">41.7%</td><td>28.1%</td></tr>
+<tr><td>Saggese</td><td>189</td><td>41.8%</td><td>29.6%</td><td>28.6%</td></tr>
+<tr><td>Fermin</td><td>46</td><td>37.0%</td><td>32.6%</td><td class="gnb">30.4%</td></tr>
 </table>
+<p class="pp"><b>Gorman</b> is the fly ball outlier at 41.7% FB rate -- the lowest GB rate on the team at 30.2%. Against Bello's 51.3% GB rate, Gorman may elevate balls that Bello wants on the ground.</p>
 
-<p class="h2">Batter Batted Ball -- Red Sox</p>
+<p class="h3">Red Sox</p>
 <table class="t">
-<colgroup><col width="22%"><col width="16%"><col width="20%"><col width="20%"><col width="22%"></colgroup>
+<colgroup><col style="width:22%"><col style="width:14%"><col style="width:18%"><col style="width:18%"><col style="width:18%"></colgroup>
 <tr><th>Player</th><th>BIP</th><th>GB%</th><th>FB%</th><th>LD%</th></tr>
 <tr><td>Duran</td><td>443</td><td>43.1%</td><td>30.5%</td><td>26.4%</td></tr>
 <tr><td>Story</td><td>419</td><td>46.1%</td><td>32.5%</td><td>21.5%</td></tr>
 <tr><td>Rafaela</td><td>417</td><td>45.8%</td><td>32.4%</td><td>21.8%</td></tr>
 <tr><td>Durbin</td><td>394</td><td>43.1%</td><td>32.5%</td><td>24.4%</td></tr>
 <tr><td>Contreras</td><td>328</td><td>44.8%</td><td>27.7%</td><td>27.4%</td></tr>
-<tr><td>Narvaez</td><td>281</td><td>47.3%</td><td>32.0%</td><td>20.6%</td></tr>
-<tr><td>Abreu</td><td>253</td><td>34.0%</td><td>46.6%</td><td>19.4%</td></tr>
-<tr><td>Yoshida</td><td>166</td><td>59.0%</td><td>18.1%</td><td>22.9%</td></tr>
+<tr><td>Abreu</td><td>253</td><td class="gnb">34.0%</td><td class="rdb">46.6%</td><td>19.4%</td></tr>
+<tr><td>Anthony</td><td>165</td><td>53.3%</td><td>21.2%</td><td>25.5%</td></tr>
+<tr><td>Wong</td><td>123</td><td>51.2%</td><td>29.3%</td><td>19.5%</td></tr>
 <tr><td>Mayer</td><td>82</td><td>51.2%</td><td>24.4%</td><td>24.4%</td></tr>
 </table>
+<p class="pp"><b>Abreu</b> is the fly ball outlier at 46.6% FB rate -- lowest GB rate in BOS lineup at 34.0%. Against Pallante's 61.2% GB rate, Abreu may resist Pallante's groundball tendencies. Anthony, Wong, and Mayer all have 51%+ GB rates, which plays into Pallante's hands.</p>
 
-<p class="h2">Pitcher K%/BB%</p>
+<p class="sh">2n: PITCHER K%/BB% PROFILE (CAREER)</p>
 <table class="t">
-<colgroup><col width="16%"><col width="12%"><col width="10%"><col width="12%"><col width="10%"><col width="12%"><col width="12%"></colgroup>
+<colgroup><col style="width:18%"><col style="width:12%"><col style="width:10%"><col style="width:12%"><col style="width:10%"><col style="width:12%"><col style="width:12%"></colgroup>
 <tr><th>Pitcher</th><th>IP</th><th>K</th><th>K%</th><th>BB</th><th>BB%</th><th>K/BB</th></tr>
 <tr><td>Pallante</td><td>162.7</td><td>111</td><td>15.5%</td><td>62</td><td>8.7%</td><td>1.79</td></tr>
 <tr><td>Bello</td><td>166.7</td><td>124</td><td>17.7%</td><td>59</td><td>8.4%</td><td>2.10</td></tr>
 </table>
+<p class="pp">Both are low-strikeout, contact-oriented pitchers. Pallante's 15.5% K rate and 1.79 K/BB ratio are below average. Bello's career 2.10 K/BB is slightly better, but his 2026 walk rate (15.6%) is well above his career norm (8.4%).</p>
 
+<!-- SECTION 3: KEY MATCHUPS (prose only in web) -->
+<p class="sh">KEY MATCHUPS &amp; WATCHLIST</p>
+<p class="pp"><b>1. Contreras vs Pallante -- The Clear Danger.</b> Contreras is 3-for-4 (.750) career against Pallante with .800 OBP and zero strikeouts (Section 2b). He drove in 3 runs last night. His .251 AVG vs RHP in 2025 (Section 2c) is not elite, but this specific matchup has produced extreme results. Pallante must game-plan around him, particularly with runners on.</p>
+<p class="pp"><b>2. Burleson and Gorman vs Bello -- The Power Punches.</b> Both are 1-for-2 career against Bello with a HR each (Section 2a). Bello's 9.00 ERA and 2.50 WHIP in 2026 suggest command issues. Burleson's .296 AVG vs RHP (Section 2c) and Gorman's fly ball profile (41.7% FB rate, Section 2m) make them the primary offensive threats.</p>
+<p class="pp"><b>3. Boston's Running Game vs Herrera.</b> Story (31 SB, 96.9%), Duran (24 SB, 80%), and Rafaela (20 SB, 80%) give Boston three high-volume base stealers (Section 2i). Herrera has 14 games at C in 2025 with a .989 Fld% (Section 2j). The running game will be a constant subplot.</p>
+<p class="pp"><b>X-Factor:</b> Pallante's TTO2 window. His career .309 AVG and .796 OPS second time through (Section 2e) is the clearest in-game pivot point. If Boston is within striking distance entering the 5th, the Cardinals need Romero (88.5% IR strand rate, Section 2f) warm and ready. Svanson (50.0% strand rate) should be avoided after last night's 5-run 9th.</p>
+
+<!-- SECTION 4: QUICK REFERENCE -->
 <p class="sh">QUICK REFERENCE -- IN-GAME QUERIES</p>
+<p class="qr">1. "Pallante career stats second time through the order"</p>
+<p class="qr">2. "Willson Contreras vs Cardinals pitchers all time"</p>
+<p class="qr">3. "Cardinals bullpen inherited runner strand rate 2025"</p>
+<p class="qr">4. "Trevor Story stolen bases vs right-handed pitchers 2025"</p>
+<p class="qr">5. "Brayan Bello walk rate by month 2025"</p>
+<p class="qr">6. "Cardinals batting with runners in scoring position 2026"</p>
+<p class="qr">7. "Busch Stadium park factors 2025"</p>
 
-<p class="qr">1. Willson Contreras career stats against Andre Pallante</p>
-<p class="qr">2. Brayan Bello times through order splits</p>
-<p class="qr">3. Andre Pallante ground ball rate and home ERA</p>
-<p class="qr">4. Cardinals bullpen inherited runners strand rate</p>
-<p class="qr">5. Red Sox stolen base leaders 2025</p>
-<p class="qr">6. Cardinals vs Red Sox head-to-head record last 4 seasons</p>
-<p class="qr">7. Alec Burleson vs right-handed pitching 2025 stats</p>
-
+<!-- FOOTER -->
 <div class="ft"><p>700 CLARK -- POWERED BY <a href="https://bases.chat">BASES.CHAT</a> | HISTORICAL DATA THROUGH 2025</p></div>
 
 </div>
