@@ -7,18 +7,18 @@
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box}
-body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FFFFFF;color:#2D3640}
-.ds{max-width:800px;margin:0 auto}
+body{margin:0;padding:0 4px;font-family:'IBM Plex Sans',sans-serif;background:#FFFFFF;color:#2D3640}
+.ds{max-width:100%;margin:0 auto}
 .sh{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin:24px 0 12px 0;padding-bottom:5px;border-bottom:2px solid #0B1C33}
 .sh:first-child{margin-top:0}
 .h1{font-size:14px;font-weight:700;color:#0B1C33;margin:0 0 6px 0}
 .h2{font-size:13px;font-weight:700;color:#0B1C33;margin:16px 0 6px 0}
 .h3{font-size:11px;font-weight:700;color:#2D3640;margin:12px 0 4px 0}
 .n{font-size:10px;color:#707070;margin:0 0 12px 0}
-.t{width:100%;border-collapse:collapse;font-size:11px;table-layout:fixed;margin-bottom:12px}
-.t th{background:#0B1C33;color:#FFF;font-weight:700;padding:6px 8px;text-align:center;position:sticky;top:0;z-index:1}
+.t{width:100%;border-collapse:collapse;font-size:10px;table-layout:auto;margin-bottom:12px}
+.t th{background:#0B1C33;color:#FFF;font-weight:700;padding:4px 3px;text-align:center;position:sticky;top:0;z-index:1;white-space:nowrap;font-size:9px}
 .t th:first-child{text-align:left}
-.t td{padding:6px 8px;border-bottom:1px solid #E0E0E0;text-align:center;color:#2D3640}
+.t td{padding:4px 3px;border-bottom:1px solid #E0E0E0;text-align:center;color:#2D3640}
 .t td:first-child{text-align:left}
 .t tr:nth-child(even){background:#F4F4F4}
 .t tr:nth-child(odd){background:#FFF}
@@ -38,10 +38,10 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 .ft p{color:#FFF;font-family:'IBM Plex Sans',sans-serif;font-size:11px;margin:0;letter-spacing:0.5px}
 .ft a{color:#FFF;text-decoration:underline;font-weight:bold}
 .danger{background:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin:0 0 12px 0}
-.game-bar{background:#0B1C33;color:#FFFFFF;padding:16px 20px;border-radius:4px;margin:0 0 20px 0;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
-.game-bar .team{font-size:14px;font-weight:700}
-.game-bar .meta{font-size:11px;color:rgba(255,255,255,0.7);text-align:center;flex:1}
-.game-bar .pitcher{font-size:11px;color:rgba(255,255,255,0.7)}
+.game-bar{background:#0B1C33;color:#FFFFFF;padding:12px 12px;border-radius:4px;margin:0 0 20px 0;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:4px}
+.game-bar .team{font-size:13px;font-weight:700}
+.game-bar .meta{font-size:10px;color:rgba(255,255,255,0.7);text-align:center;flex:1}
+.game-bar .pitcher{font-size:10px;color:rgba(255,255,255,0.7)}
 </style>
 </head>
 <body>
@@ -61,12 +61,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 </div>
 <p class="sh">NL CENTRAL STANDINGS</p>
 <table class="t">
-<colgroup>
-  <col style="width:40%">
-  <col style="width:20%">
-  <col style="width:20%">
-  <col style="width:20%">
-</colgroup>
 <thead><tr><th>Team</th><th>W-L</th><th>GB</th><th>Strk</th></tr></thead>
 <tbody>
 <tr><td>Pirates</td><td>9-6</td><td>-</td><td>L1</td></tr>
@@ -78,12 +72,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 </table>
 <p class="sh">AL CENTRAL STANDINGS</p>
 <table class="t">
-<colgroup>
-  <col style="width:40%">
-  <col style="width:20%">
-  <col style="width:20%">
-  <col style="width:20%">
-</colgroup>
 <thead><tr><th>Team</th><th>W-L</th><th>GB</th><th>Strk</th></tr></thead>
 <tbody>
 <tr><td>Twins</td><td>9-7</td><td>-</td><td>W2</td></tr>
@@ -95,12 +83,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 </table>
 <p class="sh">RECENT RESULTS (LAST 10)</p>
 <table class="t">
-<colgroup>
-  <col style="width:30%">
-  <col style="width:25%">
-  <col style="width:25%">
-  <col style="width:20%">
-</colgroup>
 <thead><tr><th>Date</th><th>Opp</th><th>H/A</th><th>Result</th></tr></thead>
 <tbody>
 <tr><td>Apr 12</td><td>BOS</td><td>Home</td><td class="rd">L 3-9</td></tr>
@@ -123,12 +105,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <p class="sh">EXPECTED LINEUPS</p>
 <p class="h3">Cardinals (Projected from 2026-04-12)</p>
 <table class="t">
-<colgroup>
-  <col style="width:10%">
-  <col style="width:40%">
-  <col style="width:25%">
-  <col style="width:25%">
-</colgroup>
 <thead><tr><th>#</th><th>Player</th><th>Pos</th><th>Bats</th></tr></thead>
 <tbody>
 <tr><td>1</td><td>Wetherholt</td><td>2B</td><td>L</td></tr>
@@ -146,11 +122,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <p class="h3">Guardians (From active roster)</p>
 <p class="n">13 players listed from active roster pool. Actual game lineup will be 9 from this group.</p>
 <table class="t">
-<colgroup>
-  <col style="width:40%">
-  <col style="width:30%">
-  <col style="width:30%">
-</colgroup>
 <thead><tr><th>Player</th><th>Pos</th><th>Bats</th></tr></thead>
 <tbody>
 <tr><td>Martínez</td><td>CF</td><td>S</td></tr>
@@ -179,18 +150,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- SECTION 2: HISTORICAL DEPTH -->
 <p class="sh">2A: BVP -- CARDINALS BATTERS VS OPPONENT STARTER</p>
 <table class="t">
-<colgroup>
-  <col style="width:18%">
-  <col style="width:8%">
-  <col style="width:8%">
-  <col style="width:8%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:8%">
-  <col style="width:8%">
-  <col style="width:8%">
-</colgroup>
 <thead><tr><th>Player</th><th>PA</th><th>AB</th><th>H</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th></tr></thead>
 <tbody>
 <tr><td>Alec Burleson</td><td>3</td><td>3</td><td>0</td><td class="rdb">0.000</td><td class="rdb">0.000</td><td class="rdb">0.000</td><td>0</td><td>0</td><td>0</td></tr>
@@ -206,18 +165,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="sh">2B: BVP -- OPPONENT BATTERS VS CARDINALS STARTER</p>
 <table class="t">
-<colgroup>
-  <col style="width:18%">
-  <col style="width:8%">
-  <col style="width:8%">
-  <col style="width:8%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:8%">
-  <col style="width:8%">
-  <col style="width:8%">
-</colgroup>
 <thead><tr><th>Player</th><th>PA</th><th>AB</th><th>H</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th></tr></thead>
 <tbody>
 <tr><td>Steven Kwan</td><td>6</td><td>6</td><td>1</td><td class="rdb">0.167</td><td class="rdb">0.167</td><td class="rdb">0.167</td><td>0</td><td>0</td><td>0</td></tr>
@@ -238,16 +185,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="sh">2C: PLATOON SPLITS -- CARDINALS</p>
 <table class="t">
-<colgroup>
-  <col style="width:18%">
-  <col style="width:8%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:8%">
-  <col style="width:8%">
-  <col style="width:8%">
-</colgroup>
 <thead><tr><th>Player</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th></tr></thead>
 <tbody>
 <tr><td class="gnb">Alec Burleson L</td><td>419</td><td class="gn">0.296</td><td class="gnb">0.353</td><td class="gnb">0.478</td><td>15</td><td>32</td><td>59</td></tr>
@@ -266,16 +203,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="sh">2C: PLATOON SPLITS -- OPPONENT</p>
 <table class="t">
-<colgroup>
-  <col style="width:18%">
-  <col style="width:8%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:8%">
-  <col style="width:8%">
-  <col style="width:8%">
-</colgroup>
 <thead><tr><th>Player</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>HR</th><th>BB</th><th>K</th></tr></thead>
 <tbody>
 <tr><td>Steven Kwan L</td><td>229</td><td>0.240</td><td class="gn">0.294</td><td>0.274</td><td>0</td><td>15</td><td>20</td></tr>
@@ -297,17 +224,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="sh">2D: PITCHER PLATOON SPLITS</p>
 <table class="t">
-<colgroup>
-  <col style="width:18%">
-  <col style="width:10%">
-  <col style="width:8%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:8%">
-  <col style="width:8%">
-</colgroup>
 <thead><tr><th>Pitcher</th><th>vs</th><th>PA</th><th>AVG</th><th>OBP</th><th>SLG</th><th>OPS</th><th>HR</th><th>K</th></tr></thead>
 <tbody>
 <tr><td>Matthew Liberatore</td><td>vs RHB</td><td>515</td><td>0.265</td><td class="gnb">0.304</td><td class="gnb">0.426</td><td>0.691</td><td>16</td><td>93</td></tr>
@@ -322,16 +238,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="sh">2D-HA: PITCHER HOME/AWAY SPLITS</p>
 <table class="t">
-<colgroup>
-  <col style="width:18%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-</colgroup>
 <thead><tr><th>Pitcher</th><th>Split</th><th>BF</th><th>IP</th><th>ERA</th><th>K</th><th>BB</th><th>HR</th></tr></thead>
 <tbody>
 <tr><td>Matthew Liberatore</td><td>Away</td><td>334</td><td>76.0</td><td>4.03</td><td>59</td><td>26</td><td>11</td></tr>
@@ -346,17 +252,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="sh">2E: TTO SPLITS (TIMES THROUGH ORDER)</p>
 <table class="t">
-<colgroup>
-  <col style="width:18%">
-  <col style="width:8%">
-  <col style="width:8%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:10%">
-  <col style="width:8%">
-  <col style="width:8%">
-  <col style="width:8%">
-</colgroup>
 <thead><tr><th>Pitcher</th><th>TTO</th><th>PA</th><th>AVG</th><th>SLG</th><th>OPS</th><th>HR</th><th>K</th><th>BB</th></tr></thead>
 <tbody>
 <tr><td>Matthew Liberatore</td><td>TTO1</td><td>264</td><td>0.237</td><td class="gnb">0.376</td><td>0.613</td><td>8</td><td>56</td><td>15</td></tr>
@@ -373,12 +268,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="sh">2F: INHERITED RUNNERS PROFILE</p>
 <table class="t">
-<colgroup>
-  <col style="width:30%">
-  <col style="width:18%">
-  <col style="width:18%">
-  <col style="width:18%">
-</colgroup>
 <thead><tr><th>Reliever</th><th>IR</th><th>Scored</th><th>Strand%</th></tr></thead>
 <tbody>
 <tr><td>Kyle Leahy</td><td>29</td><td>11</td><td class="am">62.1%</td></tr>
@@ -396,13 +285,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <p class="sh">2G: BATTED BALL MATCHUP</p>
 <p class="h3">Pitcher Batted Ball Profiles (Career)</p>
 <table class="t">
-<colgroup>
-  <col style="width:25%">
-  <col style="width:15%">
-  <col style="width:20%">
-  <col style="width:20%">
-  <col style="width:20%">
-</colgroup>
 <thead><tr><th>Pitcher</th><th>BIP</th><th>GB%</th><th>FB%</th><th>LD%</th></tr></thead>
 <tbody>
 <tr><td>Matthew Liberatore</td><td>463</td><td>39.1%</td><td>31.3%</td><td>27.6%</td></tr>
@@ -411,12 +293,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 </table>
 <p class="h3">Hitter Batted Ball Results (Career) -- CLE</p>
 <table class="t">
-<colgroup>
-  <col style="width:25%">
-  <col style="width:25%">
-  <col style="width:25%">
-  <col style="width:25%">
-</colgroup>
 <thead><tr><th>Hitter</th><th>GB AVG</th><th>LD AVG</th><th>FB AVG</th></tr></thead>
 <tbody>
 <tr><td>Chase DeLauter</td><td>0.250</td><td>0.000</td><td>--</td></tr>
@@ -438,15 +314,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="sh">2H: BATTERY PAIRING</p>
 <table class="t">
-<colgroup>
-  <col style="width:25%">
-  <col style="width:12%">
-  <col style="width:12%">
-  <col style="width:12%">
-  <col style="width:12%">
-  <col style="width:12%">
-  <col style="width:12%">
-</colgroup>
 <thead><tr><th>Catcher</th><th>G</th><th>IP</th><th>ERA</th><th>AVG</th><th>OBP</th><th>SLG</th></tr></thead>
 <tbody>
 <tr><td>Pedro Pagés</td><td>15</td><td>75.7</td><td>3.93</td><td>0.279</td><td>--</td><td>--</td></tr>
@@ -469,14 +336,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="sh">2J: DEFENSIVE CONTEXT</p>
 <table class="t">
-<colgroup>
-  <col style="width:20%">
-  <col style="width:10%">
-  <col style="width:12%">
-  <col style="width:12%">
-  <col style="width:12%">
-  <col style="width:12%">
-</colgroup>
 <thead><tr><th>Player</th><th>POS</th><th>G</th><th>DP</th><th>E</th><th>Fld%</th></tr></thead>
 <tbody>
 <tr><td>Victor Scott</td><td>OF</td><td>147</td><td>3</td><td>6</td><td>0.983</td></tr>
@@ -514,14 +373,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <p class="sh">2L: BATTER K%/BB% PROFILE</p>
 <p class="h3">Cardinals</p>
 <table class="t">
-<colgroup>
-  <col style="width:20%">
-  <col style="width:12%">
-  <col style="width:12%">
-  <col style="width:14%">
-  <col style="width:12%">
-  <col style="width:14%">
-</colgroup>
 <thead><tr><th>Player</th><th>PA</th><th>K</th><th>K%</th><th>BB</th><th>BB%</th></tr></thead>
 <tbody>
 <tr><td>Alec Burleson</td><td>544</td><td>79</td><td>14.5%</td><td>39</td><td>7.2%</td></tr>
@@ -539,14 +390,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="h3">Guardians</p>
 <table class="t">
-<colgroup>
-  <col style="width:20%">
-  <col style="width:12%">
-  <col style="width:12%">
-  <col style="width:14%">
-  <col style="width:12%">
-  <col style="width:14%">
-</colgroup>
 <thead><tr><th>Player</th><th>PA</th><th>K</th><th>K%</th><th>BB</th><th>BB%</th></tr></thead>
 <tbody>
 <tr><td>Steven Kwan</td><td>693</td><td>60</td><td class="gnb">8.7%</td><td>55</td><td>7.9%</td></tr>
@@ -568,13 +411,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <p class="sh">2M: BATTER BATTED BALL PROFILE</p>
 <p class="h3">Cardinals</p>
 <table class="t">
-<colgroup>
-  <col style="width:22%">
-  <col style="width:14%">
-  <col style="width:18%">
-  <col style="width:18%">
-  <col style="width:18%">
-</colgroup>
 <thead><tr><th>Player</th><th>BIP</th><th>GB%</th><th>FB%</th><th>LD%</th></tr></thead>
 <tbody>
 <tr><td>Alec Burleson</td><td>398</td><td>42.0%</td><td>33.4%</td><td>24.6%</td></tr>
@@ -592,13 +428,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="h3">Guardians</p>
 <table class="t">
-<colgroup>
-  <col style="width:22%">
-  <col style="width:14%">
-  <col style="width:18%">
-  <col style="width:18%">
-  <col style="width:18%">
-</colgroup>
 <thead><tr><th>Player</th><th>BIP</th><th>GB%</th><th>FB%</th><th>LD%</th></tr></thead>
 <tbody>
 <tr><td>Steven Kwan</td><td>555</td><td>39.3%</td><td>30.6%</td><td>30.1%</td></tr>
@@ -620,15 +449,6 @@ body{margin:0;padding:20px;font-family:'IBM Plex Sans',sans-serif;background:#FF
 <!-- /PHASE2_SLOT -->
 <p class="sh">2N: PITCHER K%/BB% PROFILE</p>
 <table class="t">
-<colgroup>
-  <col style="width:18%">
-  <col style="width:12%">
-  <col style="width:10%">
-  <col style="width:12%">
-  <col style="width:10%">
-  <col style="width:12%">
-  <col style="width:12%">
-</colgroup>
 <thead><tr><th>Pitcher</th><th>IP</th><th>K</th><th>K%</th><th>BB</th><th>BB%</th><th>K/BB</th></tr></thead>
 <tbody>
 <tr><td>Gavin Williams</td><td>167.7</td><td>173</td><td>24.6%</td><td>83</td><td>11.8%</td><td>2.08</td></tr>
