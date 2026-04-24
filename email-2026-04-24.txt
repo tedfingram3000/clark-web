@@ -1,0 +1,71 @@
+<!-- 700 Clark Email Block -- STL vs SEA 2026-04-24 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (14-10)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 7:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SEA (11-15)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 4.05 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, April 24, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Kirby (R) -- 2.97 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Kirby's 2025 TTO3 line is the collapse point -- .327 AVG / .645 SLG / .972 OPS when hitters see him the third time. Pallante, by contrast, sharpens in TTO3 (.217 AVG in 2025). Grind Kirby's pitch count and push the game into his third pass through the order.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Cal Raleigh. 42 HR in 2025 vs RHP with a .558 SLG and a 47.3% fly-ball rate -- the most extreme lift tendency in this lineup. Pallante's ground-ball approach (2026 to date: 64.6% GB; 2025 baseline: 61.2%) does not neutralize Raleigh, because Raleigh lifts anything he can. One hung breaker from a contact pitcher is a three-run swing.<br><br>
+<b style="color:#B8860B;">Watch:</b> Pallante's home splits. His 2025 home ERA is 5.42 vs 4.89 on the road -- the usual home-field tailwind inverts for tonight's Cardinals starter. Kirby is also worse on the road in 2025 (4.97 away vs 3.79 home), so the venue edge is a wash, not a gift.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cal Raleigh vs Pallante.</b> Raleigh's 2025 vs RHP: .238 AVG but .558 SLG and 42 HR in 547 PA, plus an elite 13.8% BB rate. His career batted-ball profile (29.4% GB, 47.3% FB) is the reverse of what Pallante wants to induce. Walk him if the count tilts; do not challenge with a sinker that stays up.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Kirby.</b> Burleson is 2-for-5 career against Kirby (.400 / .400 / .600), and his 2025 line vs RHP is .296 / .353 / .478 in 419 PA -- the best LHB profile the Cardinals bring. Kirby's 2025 vs LHB (.697 OPS) runs behind his vs RHB (.626 OPS), so the lefty side of the order is where Kirby can be tagged.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Kirby TTO3 window.</b> Kirby's 2025 TTO3 numbers -- .327 / .645 SLG / .972 OPS over 117 PA -- are nearly a run per plate appearance worse than his TTO1/TTO2 work. If the Cardinals force Kirby past pitch 85, the top of the order gets fastballs with less life on them.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Seattle's running game.</b> Arozarena 31 SB / 83.8% career, Naylor 30 SB / 93.8%, Rodriguez 30 SB / 83.3%. Three base-stealing threats in the same lineup. Pop-time preparation from whichever Cardinals catcher starts tonight is a live variable.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals bullpen fork.</b> Romero 88.5% strand vs Svanson 50.0% and Graceffo 54.5% on career inherited runners. League average strand is ~68-72%. Whichever of those arms gets the middle-inning IR call with runners on decides a lot of leverage.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Head-to-head history.</b> The Cardinals are 2-7 against Seattle across the last three seasons (2023-2025), including a 0-3 sweep in 2025. The on-paper matchup today says the Cardinals should be close to favored; the recent ledger says otherwise.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
