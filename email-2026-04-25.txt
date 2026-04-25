@@ -1,0 +1,94 @@
+<!-- 700 Clark Email Block -- STL vs SEA 2026-04-25 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (14-11)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SEA (12-15)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 3.67 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, April 25, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Woo (R) -- 2.25 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--SEA 3, STL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      SEA&nbsp;&nbsp;0 1 0 1 0 1 0 0 0 -- 3<br>
+      STL&nbsp;&nbsp;0 0 0 2 0 0 0 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Pallante battled 5.1 IP for 8 K and 3 BB, but Josh Naylor's solo HR in the 6th broke a 2-2 tie. The Cardinals' only offense came on Masyn Winn's 4th-inning two-run single. Bullpen kept it close (Bruihl, Soriano, Graceffo combined 3.2 scoreless). Mariners lead the series 1-0.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+      <b style="color:#2E7D32;">Edge:</b> Liberatore at home -- 14 BB in 75.2 IP vs 26 BB in 76.0 IP on the road. The walk discipline that erases free baserunners shows up in St. Louis. Romero's 88.5% inherited-runner strand is the late lever if traffic appears.<br><br>
+      <b style="color:#8B3A3A;">Threat:</b> Josh Naylor vs Liberatore -- 8 PA, 1 HR, 0 K, 0 BB, .625 SLG career. Naylor homered in last night's win. He is timing this matchup.<br><br>
+      <b style="color:#B8860B;">Watch:</b> TTO2 Liberatore. .310 AVG / .511 SLG / .821 OPS in 252 PA in 2025 -- the second time through the order is where his stuff stops missing bats. Innings 4-6 decide.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Naylor vs Liberatore.</b> 8 PA, 1 HR, 0 K, 0 BB, .625 SLG. Last night's HR was confirmation, not coincidence. The opponent's clearest BvP threat tonight.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cal Raleigh vs LHP.</b> .284 / .350 / .680 with 23 HR in 214 PA in 2025. Switch-hitter; the LHP side is where the slug lives. Tonight's most lopsided platoon advantage.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson and the contact tier vs Woo.</b> Burleson's 14.5% 2025 K%, with Fermín 14.3%, Pozo 13.1%, Winn 19.0% -- the only profile that survives Woo's 27.1% 2025 K%. Cards' realistic offensive path.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Refsnyder vs LHP (bench).</b> .289 / .389 / .537 with 7 HR in 144 PA in 2025. The R-handed bench bat that punishes Liberatore if SEA reaches into platoon decisions late.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Woo TTO3 power.</b> .194 2025 AVG but .406 SLG and 11 HR in 191 PA. Late-game mistakes leave the yard.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore TTO2.</b> .310 / .511 / .821 in 252 PA in 2025. Innings 4-6 are the trouble window.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand vs Svanson 50.0%, Graceffo 54.5%, Fernandez 50.0%. Which arm enters in traffic decides the middle innings.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Raley vs LHP.</b> .094 / .194 / .125 in 36 PA in 2025. If he starts, he is the platoon liability to attack.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
