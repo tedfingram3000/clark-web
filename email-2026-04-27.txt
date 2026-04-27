@@ -1,0 +1,91 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-04-27 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (14-13)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 4 -- PNC Park -- 5:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (16-12)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 5.84 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, April 27, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Montgomery (L) -- 3.97 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--SEA 3, STL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      SEA&nbsp;&nbsp;0 0 0 1 0 0 1 0 1 -- 3<br>
+      STL&nbsp;&nbsp;0 0 1 0 0 1 0 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Wetherholt's solo HR (3rd) and Church's solo HR (6th) accounted for both Cardinals runs. McGreevy was sharp -- 6.0 IP, 1 ER, 6 K, 0 BB -- with the only damage a Raleigh solo shot in the 4th. The bullpen broke late: Cole Young's RBI single off Svanson tied it in the 7th, and Rob Refsnyder's pinch-hit HR off Romero in the 9th decided it. Cardinals were swept 0-3 by Seattle and head into Pittsburgh on a 4-game losing streak.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+      <b style="color:#2E7D32;">Edge:</b> Montgomery's reverse split is the lever. He's allowed RHB a .321/.409/.505 line over 129 PA but held LHB to .206/.313/.324 in 80 PA. The Cardinals' 8 RHB tonight -- led by Herrera (2025: .330/.455/.660 vs LHP, 9 HR / 124 PA) -- walk into his weak side.<br><br>
+      <b style="color:#8B3A3A;">Threat:</b> Marcell Ozuna is 5-for-8 with a HR and 2 BB in 11 career PA against May (.625/.727/1.125). The only meaningful BvP sample on either side and the cleanest reason to game-plan around a single hitter.<br><br>
+      <b style="color:#B8860B;">Watch:</b> May's road problem. He carries a 6.28 ERA away (57.1 IP, 12 HR allowed) versus 3.24 at home (75.0 IP). Tonight is on the road, against a lefty-leaning lineup that fits his vulnerable side -- his 2025 line vs LHB is .261/.357/.495 with 15 HR in 334 PA.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Marcell Ozuna vs May.</b> 5-for-8 with a HR and 2 BB in 11 PA (.625/.727/1.125). Pair that BvP with his 15.9% 2025 BB% -- patient enough to wait for May to miss, dangerous when he doesn't.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cardinals RHB vs Montgomery.</b> Herrera, Walker, Winn, Pagés, Urías, Saggese, Fermín and Pozo all bat right against a lefty who has allowed RHB .321/.409/.505 over 129 PA. Herrera's 1.115 OPS vs LHP in 124 PA is the headline.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">May's TTO2 window.</b> 2025 line jumps from .226/.305/.347 (.573 OPS) in TTO1 to .290/.370/.508 (.798 OPS) in TTO2. Innings 4-6 are when the lefty-heavy Pittsburgh core gets a second look at him.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen leverage fork.</b> Romero 88.5% strand vs Svanson 50.0% over 26 IR opportunities each. Whichever arm enters with runners on materially changes the run expectancy.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cruz and Mangum on the bases.</b> Cruz 88.4% (38 SB / 5 CS) and Mangum 81.8% (27 SB / 6 CS) success rates. With a fresh STL battery (no Cardinals catcher in May's career battery dataset), pop-time calibration is the variable.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Montgomery's home/away gap.</b> 9.16 ERA away in 18.2 IP, 3.62 ERA home in 27.1 IP. Tonight he pitches at home -- the favorable side of the split, on small samples.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Gorman vs lefty.</b> 2025 line vs LHP: .220/.301/.439 with 5 HR in 93 PA. Power is there; contact (33.8% 2025 K%) is where Montgomery can win. He's also the lineup's only true FB-leaner (41.7% FB).
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
