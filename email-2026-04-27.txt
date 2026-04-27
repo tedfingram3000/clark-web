@@ -30,7 +30,7 @@
   <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
     <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: report_card_recap -->
-Wetherholt's solo HR (3rd) and Church's solo HR (6th) accounted for both Cardinals runs. McGreevy was sharp -- 6.0 IP, 1 ER, 6 K, 0 BB -- with the only damage a Raleigh solo shot in the 4th. The bullpen broke late: Cole Young's RBI single off Svanson tied it in the 7th, and Rob Refsnyder's pinch-hit HR off Romero in the 9th decided it. Cardinals were swept 0-3 by Seattle and head into Pittsburgh on a 4-game losing streak.
+Cardinals were swept 0-3 by Seattle, falling 3-2 in the finale. Wetherholt cracked a solo HR in the 3rd and Church added a solo shot in the 6th, but a 2-2 tie unraveled in the 7th when Cole Young singled in Joe off Svanson, then Refsnyder pinch-homered off Romero in the 9th to ice it. McGreevy was sharp -- 6.0 IP, 5 H, 1 ER, 6 K, 0 BB -- but the bullpen surrendered the lead. STL drops the fourth straight (L4).
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
@@ -43,9 +43,9 @@ Wetherholt's solo HR (3rd) and Church's solo HR (6th) accounted for both Cardina
     <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: bottom_line_content -->
-      <b style="color:#2E7D32;">Edge:</b> Montgomery's reverse split is the lever. He's allowed RHB a .321/.409/.505 line over 129 PA but held LHB to .206/.313/.324 in 80 PA. The Cardinals' 8 RHB tonight -- led by Herrera (2025: .330/.455/.660 vs LHP, 9 HR / 124 PA) -- walk into his weak side.<br><br>
-      <b style="color:#8B3A3A;">Threat:</b> Marcell Ozuna is 5-for-8 with a HR and 2 BB in 11 career PA against May (.625/.727/1.125). The only meaningful BvP sample on either side and the cleanest reason to game-plan around a single hitter.<br><br>
-      <b style="color:#B8860B;">Watch:</b> May's road problem. He carries a 6.28 ERA away (57.1 IP, 12 HR allowed) versus 3.24 at home (75.0 IP). Tonight is on the road, against a lefty-leaning lineup that fits his vulnerable side -- his 2025 line vs LHB is .261/.357/.495 with 15 HR in 334 PA.
+      <b style="color:#2E7D32;">Edge:</b> Montgomery is broken vs RHB. Career split allows .321/.409/.505/.826 OPS to right-handed bats vs .206/.313/.324/.530 to LHB. With 8 RHB on the active-roster pool (Herrera, Walker, Urias, Pages, Saggese, Winn, Pozo, Fermin), the platoon advantage stacks heavily on the right side of any lineup card the Cardinals submit.<br><br>
+      <b style="color:#8B3A3A;">Threat:</b> May's TTO2 cliff plus a Pirates lineup loaded with lefties. May's career line jumps from .226/.305/.347/.573 first time through to .290/.370/.508/.798 second pass -- a +.225 OPS spike. He also runs a .495 SLG vs LHB, and PIT's roster pool gives him Lowe, Cruz, O'Hearn, Horwitz from the L side plus Reynolds and Mangum batting L vs RHP. May's career road ERA (6.28) trails his home mark (3.24) by three full runs, and tonight is at PNC.<br><br>
+      <b style="color:#B8860B;">Watch:</b> Oneil Cruz on the bases. 38 career SB at 88.4% success against any battery he faces. Tonight's STL catcher (Herrera, Pages, or Pozo) has zero career innings paired with May -- the battery data behind Section 2H is May's Dodgers tenure, not Cardinals work. A fresh battery and a top-tier base thief is its own scouting angle.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
@@ -56,13 +56,13 @@ Wetherholt's solo HR (3rd) and Church's solo HR (6th) accounted for both Cardina
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
 <!-- PHASE2_SLOT: key_matchups_prose -->
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Marcell Ozuna vs May.</b> 5-for-8 with a HR and 2 BB in 11 PA (.625/.727/1.125). Pair that BvP with his 15.9% 2025 BB% -- patient enough to wait for May to miss, dangerous when he doesn't.
+  <b style="color:#0B1C33;">Marcell Ozuna vs May.</b> 5-for-8, 1 HR, 2 BB, 1 K in 11 career PA (.625/.727/1.125). Highest-PA BvP threat in the matchup and Ozuna's 2025 walk rate is 15.9% -- elite discipline.
 </div>
-<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Cardinals RHB vs Montgomery.</b> Herrera, Walker, Winn, Pagés, Urías, Saggese, Fermín and Pozo all bat right against a lefty who has allowed RHB .321/.409/.505 over 129 PA. Herrera's 1.115 OPS vs LHP in 124 PA is the headline.
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Oneil Cruz vs May.</b> 1-for-3 career with a HR (3 PA, 1 K). Add 38 career SB at 88.4% and Cruz's 2025 GB% of 52.7% pulls fastballs into May's middling 44.1% career GB profile. Reach + run.
 </div>
-<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">May's TTO2 window.</b> 2025 line jumps from .226/.305/.347 (.573 OPS) in TTO1 to .290/.370/.508 (.798 OPS) in TTO2. Innings 4-6 are when the lefty-heavy Pittsburgh core gets a second look at him.
+<div style="border-left:3px solid #2E7D32;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cardinals RHB vs Montgomery.</b> The cluster (Herrera 2025 .330 vs L, Walker, Urias, Pages, Saggese, Winn) gets the structural advantage. Montgomery has allowed .321 AVG / .826 OPS to RHB across his career and his 2025 BB% of 12.9% means free passes are part of the package.
 </div>
 <!-- /PHASE2_SLOT -->
 </td></tr>
@@ -72,17 +72,20 @@ Wetherholt's solo HR (3rd) and Church's solo HR (6th) accounted for both Cardina
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: watchlist_prose -->
-<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Bullpen leverage fork.</b> Romero 88.5% strand vs Svanson 50.0% over 26 IR opportunities each. Whichever arm enters with runners on materially changes the run expectancy.
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Catcher provenance.</b> Section 2H battery data (Smith, Rushing, Narvaez, Barnes, Wong) reflects May's prior tenure -- none are on the Cardinals roster. Tonight's catcher will be Herrera, Pages, or Pozo; none have caught May before.
 </div>
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Cruz and Mangum on the bases.</b> Cruz 88.4% (38 SB / 5 CS) and Mangum 81.8% (27 SB / 6 CS) success rates. With a fresh STL battery (no Cardinals catcher in May's career battery dataset), pop-time calibration is the variable.
+  <b style="color:#0B1C33;">-- Cruz running game.</b> 88.4% career SB rate, fresh battery, and a Pittsburgh manager who lets him decide. Innings can flip on one steal of second.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- TTO2 inning window (innings 4-6).</b> May's career OPS allowed climbs from .573 (TTO1) to .798 (TTO2). Pirates' L-side cluster comes around for second swings exactly when May tilts.
 </div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Montgomery's home/away gap.</b> 9.16 ERA away in 18.2 IP, 3.62 ERA home in 27.1 IP. Tonight he pitches at home -- the favorable side of the split, on small samples.
+  <b style="color:#0B1C33;">-- May on the road.</b> 6.28 career road ERA vs 3.24 at home (HR allowed: 12 away vs 9 home in larger home sample). Tonight is on the wrong side of that line.
 </div>
-<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Gorman vs lefty.</b> 2025 line vs LHP: .220/.301/.439 with 5 HR in 93 PA. Power is there; contact (33.8% 2025 K%) is where Montgomery can win. He's also the lineup's only true FB-leaner (41.7% FB).
+<div style="border-left:3px solid #2E7D32;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Romero high-leverage option.</b> 88.5% career strand rate on 26 inherited runners is the bullpen's best lockdown arm if the Cardinals can hand him a tied-or-lead inning.
 </div>
 <!-- /PHASE2_SLOT -->
   </div>
