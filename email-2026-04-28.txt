@@ -1,0 +1,94 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-04-28 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (15-13)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 4 -- PNC Park -- 5:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (16-13)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 5.63 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, April 28, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD () -- -- ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 4, PIT 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PIT&nbsp;&nbsp;1 1 0 0 0 0 0 0 0 -- 2<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 0 4 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals erased a 2-0 deficit with a 4-run 9th. May 6.0 IP / 2 ER carried the bulk; Fernandez (2.0 IP / 0 ER) and Soriano (1.0 IP / 0 ER) closed the bridge. The 9th-inning rally: Pages solo HR (3rd of season), Wetherholt solo HR (6th), and a Fermin 2-RBI double scoring Scott and Burleson, Walker to 3rd.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Leahy on the road. His 2025 split is 2.68 ERA over 43.2 IP away versus 4.47 ERA at home -- a 1.79-run improvement. Pittsburgh's lineup is ground-ball heavy (Mangum 62.0% GB%, Bart 53.2%, Cruz 52.7%, Reynolds 49.5%), and Leahy's 64.2% GB% in 2026 to date matches the at-bat profile he wants.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> The Pirates' lefty core. Lowe .280/.335/.538 vs RHP in 2025 (26 HR), O'Hearn .282/.370/.427, Cruz .229/.320/.438 with 19 HR. Leahy's career vs-LHB OPS is .616 versus .557 vs RHB -- the platoon edge tilts to the four lefties plus two switch-hitters.<br><br>
+<b style="color:#B8860B;">Watch:</b> Innings 4-5. Leahy's 2025 TTO2 sample is only 8 PA -- the second-time-through book is being written in real time as a 2026 starter (5 GS, 24.0 IP). The bullpen leverage decides the bridge: Romero 88.5% IR strand vs Svanson and Fernandez at 50.0%.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cruz vs Leahy.</b> 1-for-3 with 1 BB and 2 K in BvP. 32.0% K% in 2025. Once on base, his 38 SB / 88.4% rate is the in-game variable.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Lowe vs Leahy.</b> .280/.335/.538 vs RHP in 2025 with 26 HR. Leahy's vs-LHB OPS is .616 -- platoon-disadvantaged side.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">O'Hearn vs Leahy.</b> 1-for-1 with 1 BB in BvP, .282/.370/.427 vs RHP in 2025. Walk-rate-heavy at-bat profile against Leahy's 11.7% BB% to LHB.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Mangum running.</b> 62.0% GB% paired with 27 SB / 81.8% rate. Ground ball plus speed pressures Gorman at 3B (.950 fielding).
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy TTO1 ceiling (355 PA, .588 OPS).</b> First time through is the strongest documented inning. Once the lineup turns over a second time, the data thins.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Battery uncertainty.</b> Pages-Leahy 62.0 IP / 3.05 ERA. Pozo-Leahy 16.0 IP / 2.25 ERA. Herrera-Leahy 3.0 IP / 6.00 ERA. Tonight's catcher choice is its own scouting variable.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen middle innings.</b> Romero (88.5%) and McGreevy (100% / 3 IR) are the green-flag arms. Svanson (50.0%), Fernandez (50.0%), Graceffo (54.5%) are the danger group with men on.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pirates SP undeclared.</b> No starter named in the data file. Cardinals BvP context cannot be drawn until the Pirates announce.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
