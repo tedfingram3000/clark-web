@@ -1,0 +1,113 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-04-29 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (16-13)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 4 -- PNC Park -- 5:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (16-14)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 4.26 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, April 29, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Chandler (R) -- 4.88 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 11, PIT 7</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PIT&nbsp;&nbsp;0 0 0 0 0 3 0 3 1 -- 7<br>
+      STL&nbsp;&nbsp;0 1 2 0 3 0 3 2 0 -- 11
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals built a 6-0 lead through five on Gorman and Scott homers and a three-run fifth, then added a 3-spot in the seventh and 2 in the eighth to put it away. Burleson went 2-for-4 with 2 doubles and 3 RBI; Walker added 2 hits and 3 RBI; Herrera reached 4 times (1 H, 3 BB) with a stolen base. PIT scratched back with a 3-spot in the sixth (Cruz HR, O'Hearn 2-run HR) and another 3 in the eighth, but never got the tying run to the plate. Cardinals series lead is 2-0.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Leahy walk trouble: Leahy issued 0 BB in 5.1 IP. Threshold: 3+. 0 < 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals draw 4+ walks: Cardinals batters combined for 5 BB (Wetherholt 1, Herrera 3, Burleson 1). Threshold: 4+. 5 >= 4.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- PIT TTO1 scoring: Pittsburgh scored 0 runs in innings 1-3 (linescore 0-0-0). Threshold: 2+. 0 < 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Lowe reaches base: Brandon Lowe went 1-for-3 with 0 BB (1 reach). Threshold: 2+. 1 < 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals K total: Cardinals batters combined for 10 K (Burleson 2, Walker 1, Gorman 1, Winn 2, Pages 2, Scott 2). Threshold: 8+. 10 >= 8.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Chandler's home/road gap is the lever tonight -- 1.15 ERA on the road, 6.89 ERA at home in 15.2 IP each, and the Cardinals draw him at PNC. He is also markedly worse vs RHB (.259 / .621 OPS in 2025) than vs LHB (.169 / .474 OPS), and the projected lineup runs 6 right-handed bats. Burleson (.296 / .353 / .478 vs RHP, 2025) is the offensive anchor in the 3-hole.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Bryan Reynolds is 4-for-23 with 2 HR career against Pallante -- the slug pattern (.522 SLG) is the danger signal even as the AVG looks pedestrian. Add Cruz (3 BB in 13 PA) and O'Hearn (1 HR in 6 PA) and the LHB block is where Pallante has historically given runs back. Cruz's 88.4% career SB rate is the second-derivative problem if he reaches.<br><br>
+<b style="color:#B8860B;">Watch:</b> TTO2 collision innings 4-6. Pallante's 2025 TTO2 line is .309 / .487 / .796; Chandler's 2025 TTO2 line is .157 / .353. Pirates have the historical edge in the middle innings against Pallante; Cardinals' best window against Chandler is the first pass through the order. Whichever bullpen reaches that 4-6 window first sets the script.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Reynolds vs Pallante.</b> 23 PA career, .174 / .174 / .522, 2 HR. The AVG is quiet but the SLG is the threat -- two career homers in 23 PA against Pallante say the at-bats that don't end in a strikeout end in damage. Switch-hits and is .241 / .312 / .390 vs RHP for 2025.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cruz vs Pallante.</b> 13 PA, .200 / .385 / .200, 3 BB. The walks signal command issues; the 88.4% career SB success rate is the second variable if he reaches first. 2025 vs RHP: .229 / .320 / .438, 19 HR.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Chandler.</b> Burleson is .296 / .353 / .478 vs RHP for 2025 (419 PA, 15 HR). Chandler's 2025 vs LHB line is .169 / .197 / .305 in 61 PA -- small but directionally significant. The 3-hole is the Cardinals' offensive lever.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cardinals RHB vs Chandler.</b> Six right-handed bats (Herrera, Walker, Urias, Winn, Pozo, Saggese) face a starter whose 2025 vs RHB line is .259 / .317 / .362 / .621 OPS, well above his vs-LHB line. The right-handed block is the offensive lane.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante TTO2 window (270 PA, 2025).</b> .309 / .487 / .796 -- the historical Pirates damage zone. Innings 4-6 are where the lineup turns over to the heart against a tiring starter.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cruz baserunning (38 SB, 5 CS career).</b> 88.4% success rate. Pallante does not have an elite hold game; if Cruz reaches first, the run-expectancy curve climbs.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% IR strand vs Svanson 50.0% and Fernandez 50.0%. The arm called into a Pallante exit decides the middle innings.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Chandler home/away gap (15.2 IP each).</b> 1.15 ERA away, 6.89 ERA at home. Tiny sample, sharp directional read, and tonight is at home.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Herrera-Pallante battery (5 G, 23.2 IP, 4.56 ERA).</b> Tonight's scheduled catcher with the day's starter -- developing pairing, not a fresh battery. Watch low-strike framing on the GB-heavy mix.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
