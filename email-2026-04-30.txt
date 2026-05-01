@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-04-30 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (18-13)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 4 of 4 -- PNC Park -- 11:35 AM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (16-16)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Dobbins -- 6.23 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, April 30, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Skenes (R) -- 3.18 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 5, PIT 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PIT&nbsp;&nbsp;0 0 0 0 1 0 2 1 0 -- 4<br>
+      STL&nbsp;&nbsp;0 0 1 0 2 0 2 0 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+      Cardinals took the third game of the four-game set in Pittsburgh. Pallante worked 6.0 IP of 1-run ball (5 H, 0 BB, 6 K) before Stanek coughed up 2 ER in the 7th -- the Cardinals immediately answered with 2 in the top of the 7th (Herrera RBI single, Walker RBI single) and Pittsburgh's 8th-inning rally fell a run short. Burleson's 2-run HR (4) in the 5th was the swing of the day; Wetherholt added a 2-run RBI double; Scott swiped 2 bags. Series record: STL leads 3-0.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Pallante walk total: Pallante issued 0 BB in 6.0 IP. Threshold was 3+. 0 &lt; 3.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- PIT TTO2 scoring: Pittsburgh scored 0+1+0 = 1 run across innings 4-6. Threshold was 2+. 1 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Burleson reaches base: Burleson went 1 H + 1 BB = 2 reaches. Threshold was 2+. 2 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals K total: Cardinals batters combined for 11 K (2+1+0+2+1+0+2+1+2). Threshold was 7+. 11 &gt;= 7.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cruz attempts SB: Cruz finished with 0 SB and 0 CS. Threshold was 1+ attempt. 0 &lt; 1.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Burleson vs Skenes. .353 / .389 / .412 in 18 career PA, 1 BB and just 3 K -- the only Cardinal with usable sample and a positive line, sitting in the 3-hole behind two on-base bats. He stacks a .296 / .353 / .478 2025 line vs RHP on top. The best-priced at-bat in the lineup today.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Skenes' 2025 first-and-second-pass dominance. .199 / .272 / .471 OPS on the first pass through the order, .189 / .291 / .480 OPS on the second pass -- the Cardinals do not score early against this profile. Pittsburgh wins this game by giving Skenes a lead before innings 7+ open up.<br><br>
+<b style="color:#B8860B;">Watch:</b> Dobbins' second pass through the order. 2025 TTO1 .208 / .510 OPS jumps to TTO2 .300 / .780 OPS -- the Pirates' window is innings 4-6, and a fresh battery (Pagés has 0 career IP with Dobbins) raises miscall risk in those middle frames.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Skenes.</b> 18 career PA, .353 / .389 / .412 -- 1 BB, 3 K, zero HR. The standout BvP carry of the lineup, layered on a .296 / .353 / .478 2025 line vs RHP. He is the highest-priced at-bat the Cardinals get all afternoon.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cruz vs Dobbins.</b> No BvP history. Cruz hits .240 GB AVG / .590 LD AVG career; Dobbins is a 50.0% career GB pitcher with a 26.3% BB% in his 2026 to-date sample. The structural shape favors Cruz, and once he reaches, the running game opens (88.4% career SB success on a fresh Pagés-Dobbins battery).
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Wetherholt vs Skenes (late).</b> No career BvP, no career platoon data -- he is reading the ace fresh. The leadoff slot also gives him the best chance of seeing a fourth at-bat in the third pass through the order, the only window where Skenes' 2025 line softens (.397 SLG, 6 HR allowed).
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Dobbins second-pass cliff (105 PA 2025 sample).</b> .300 AVG / .780 OPS on the second pass through the order vs .208 / .510 OPS on the first pass -- if Pittsburgh draws first blood, it is most likely innings 4-6.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cruz on the bases.</b> 88.4% career SB success on 38 SB / 5 CS, against a Pagés-Dobbins pairing with 0 career IP together. The pop-time signal sequencing is brand new.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Romero vs the lefty heart.</b> 88.5% 2025 strand rate on 26 IR. If Dobbins leaves middle-innings traffic, the high-leverage lane runs through Romero against Cruz (.102 / .224 / .176 vs LHP 2025), Lowe, and O'Hearn.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals K profile vs Skenes.</b> Gorman 33.8% 2025 K%, Walker 31.8%, Pagés 27.5%, Church 27.7% -- four exposed bats against a 29.5% career K% pitcher. Burleson (14.5% 2025 K%) is the contact insulator at the top.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Sweep state.</b> STL leads the series 3-0 on a four-game W streak; Pirates are L5. The Cardinals enter today playing the harder pitching matchup with the easier psychological state.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
