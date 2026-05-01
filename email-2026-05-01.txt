@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs LAD 2026-05-01 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (18-13)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 7:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">LAD (20-11)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 4.75 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, May 1, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sheehan (R) -- 4.78 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 10, PIT 5</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PIT&nbsp;&nbsp;0 0 0 1 2 0 1 0 1 -- 5<br>
+      STL&nbsp;&nbsp;3 0 1 0 1 0 0 5 0 -- 10
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+<b>Cardinals 10, Pirates 5 -- series sweep, 4-0.</b> Burleson 3-for-5 with 3 RBI led the offense; Walker added a HR and 3 RBI; Wetherholt led off the game with a HR (his 7th). St. Louis plated five in the 8th to break the game open after Pittsburgh had pulled within 5-4 in the bottom of the 5th. Dobbins (4.1 IP, 5 BB) was the soft spot for the Cardinals' staff, but the bullpen held the lead.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Burleson reaches base: Burleson went 3-for-5 with 0 BB = 3 reaches. Threshold: 2+. 3 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Skenes K total: Skenes recorded 9 K in 5.0 IP. Threshold: 7+. 9 &gt;= 7.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Dobbins walk total: Dobbins issued 5 BB in 4.1 IP. Threshold: 3+. 5 &gt;= 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- PIT TTO2 scoring vs Dobbins: Pittsburgh scored 1 + 2 + 0 = 3 runs in innings 4-6. Threshold: 2+. 3 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cruz attempts SB: Cruz finished with 0 SB and 0 CS. Threshold: 1+. 0 &lt; 1.<br><br>
+<b>Hit rate: 4/5 (80%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> The Cardinals get the road version of Sheehan tonight. His career home/away split is 2.08 ERA at home (47.2 IP) versus 4.64 on the road (33.0 IP) -- away from Dodger Stadium he has historically allowed more contact and more walks.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Freeman is 4-for-5 (.800) career against Liberatore in 6 PA, and his 2025 vs-LHP line is .283 / .345 / .503 with 9 HR in 206 PA. Small BvP sample, but the platoon profile matches and Freeman is the single most dangerous bat the Cardinals will see tonight.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order. His 2025 TTO2 line is .310 AVG / .821 OPS in 252 PA -- a clear cliff between the first and second look. The middle innings (typically 4-6) are when the heart of the Dodgers' order comes around for the second pass.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Sheehan vs the Cardinals' five lefties.</b> Sheehan's 2025 vs-LHB line is .180 / .289 / .333 (.513 OPS, 128 PA). Wetherholt, Burleson, Gorman, Church, and Scott all hit left-handed and walk into Sheehan's strongest profile. Burleson (.296 / .353 / .478 vs RHP, 419 PA, 2025) is the most credible counter-bat.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Freeman vs Liberatore.</b> Career BvP: 4-for-5 (.800 / .833 / .800) in 6 PA. 2025 vs LHP: .283 / .345 / .503 with 9 HR in 206 PA. Sample is small, profile matches -- the most dangerous individual at-bat of the night.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Liberatore TTO2 (innings 4-6).</b> Second pass through the order: .310 AVG / .821 OPS in 252 PA (2025). First and third pass are .613 / .597 OPS. The middle innings are the swing window.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore middle innings (TTO2, innings 4-6).</b> .310 AVG / .821 OPS on the second pass through the order in 2025. The bullpen needs to be ready early -- this is the swing window.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Tucker on the basepaths.</b> 25 SB / 3 CS career (89.3% success) and Kim adds 13 SB / 1 CS (92.9%). Two elite efficiency bases-stealing threats; Pages (the catcher) is .994 fld_pct in 2025 but pop times are not in the JSON.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Sheehan first pass through the order.</b> .242 AVG / .615 OPS in 168 PA (2025). It is the lineup's best window before he tightens to .196 / .542 second pass. Innings 1-3 are when the Cardinals need to score.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen IR fork.</b> Romero 88.5% strand vs Svanson 50.0%. With 26 inherited runners apiece in 2025, which arm enters with traffic likely decides whether a Liberatore jam costs runs.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
