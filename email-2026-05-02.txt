@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs LAD 2026-05-02 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (19-13)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">LAD (20-12)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 2.97 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, May 2, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sasaki (R) -- 6.35 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 7, LAD 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      LAD&nbsp;&nbsp;0 1 0 0 0 1 0 0 0 -- 2<br>
+      STL&nbsp;&nbsp;3 0 1 0 0 0 3 0 0 -- 7
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+<b>Cardinals 7, Dodgers 2.</b> Liberatore went 5.2 IP (5 H, 2 ER, 2 BB, 4 K). Walker was the centerpiece -- 4-for-4, 2 RBI, 1 SB, with the seventh-inning two-RBI double that broke it open. Burleson (1-for-3, HR, 2 R) and Gorman (1-for-4, HR, 2 RBI) supplied the early power. Win streak now W5; series leads 1-0.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Freeman reaches base: Freeman went 2-for-4, 0 BB. 2 H + 0 BB = 2 reaches. Threshold 2+. 2 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Liberatore walk total: Liberatore issued 2 BB in 5.2 IP. Threshold was 3+. 2 &lt; 3.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- LAD TTO2 scoring vs Liberatore: Innings 4-6 scoring -- inning 4: 0, inning 5: 0, inning 6: 1 (Tucker SF, Freeman scored). Total 1 run. Threshold 2+. 1 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Sheehan K total: Sheehan recorded 8 K in 4.2 IP. Threshold 7+. 8 &gt;= 7.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- STL K total: Cardinals batters combined for 11 K (Wetherholt 2, Herrera 2, Burleson 1, Walker 0, Gorman 0, Winn 0, Church 2, Pagés 2, Scott 2). Threshold 8+. 11 &gt;= 8.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Sasaki's 13.7% 2025 BB% (1.27 K/BB) and 6.35 ERA in 2026 to date give the Cardinals a clear path. Burleson (.296/.353/.478 vs RHP in 2025) anchors a top of the order built to work counts; Cardinals enter on a W5 streak.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Kyle Tucker is 3-for-8 (.375) career against McGreevy with zero strikeouts. He carries the LAD pool's highest 2025 BB% (14.6%) and an 89.3% SB success rate -- he reaches and he runs.<br><br>
+<b style="color:#B8860B;">Watch:</b> McGreevy at home. 5.22 ERA at home vs 3.55 on the road in 2025. Pair the harder home context with his reverse platoon (.318/.368/.543 vs LHB in 2025) and a Dodgers pool with five LHB, and the early innings are where the night could flip.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Kyle Tucker (LHB) vs McGreevy.</b> 3-for-8 (.375) career BvP, zero strikeouts. McGreevy's reverse platoon (.318/.368/.543 vs LHB in 2025) is the matchup vector; Tucker's 14.6% 2025 BB% and 89.3% SB success rate make him a baserunning threat once he reaches.
+</div>
+<div style="border-left:3px solid #2E7D32;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson (LHB) vs Sasaki.</b> 2025 vs-RHP line .296/.353/.478 -- the lineup's strongest baseline. Sasaki's vs-LHB OBP is .350; walks are the seam. Burleson hits third tonight.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Will Smith (RHB) vs McGreevy.</b> 2-for-3 career BvP (small sample). 2025 vs-RHP: .305/.403/.505 -- best in the LAD pool. McGreevy's 2025 vs-RHB line is .225/.255/.325 -- Smith is the highest-stakes RHB test on the night.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- McGreevy at home.</b> 5.22 home ERA vs 3.55 road ERA in 2025. The harder context is tonight.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- McGreevy reverse platoon.</b> .318/.368/.543 vs LHB in 2025. Dodgers carry five LHB in tonight's pool.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Sasaki TTO3 sample.</b> 20 PA in 2025 -- .125 AVG, .250 OPS. The cliff is real but the sample is fragile; the more likely fork is whether his second pass through the order (.204 AVG, .531 OPS) holds.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand vs Svanson 50.0%. Which arm enters with runners on decides the middle innings.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Series posture.</b> Cardinals lead 1-0 of 3 with a W5 streak; Dodgers enter L3.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
