@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs LAD 2026-05-03 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (20-13)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">LAD (20-13)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 5.28 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, May 3, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wrobleski (L) -- 1.50 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 3, LAD 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      LAD&nbsp;&nbsp;0 0 0 0 0 0 0 0 2 -- 2<br>
+      STL&nbsp;&nbsp;0 0 3 0 0 0 0 0 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals took game 2, 3-2. All three runs came in the third on Burleson's RBI double scoring Herrera and Walker's two-run HR (his 10th). McGreevy held LAD scoreless across 6.0 IP (3 H, 3 BB, 3 K) before O'Brien gave back two in the ninth on RBI singles by Muncy and Pages. STL leads the series 2-0.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Sasaki walk total: Sasaki issued 2 BB in 6.0 IP. Threshold: 3+. 2 < 3.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Tucker reaches base: Tucker went 1-for-4 with 0 BB. Reaches = 1. Threshold: 2+. 1 < 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- McGreevy K total: McGreevy recorded 3 K in 6.0 IP. Threshold: 5+. 3 < 5.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- STL K total: Cardinals batters combined for 5 K (Wetherholt 1, Herrera 1, Burleson 1, Gorman 2, others 0). Threshold: 8+. 5 < 8.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- LAD TTO2 scoring vs McGreevy: LAD scored 0 runs across innings 4-6 (linescore 0-0-0). Threshold: 2+. 0 < 2.<br><br>
+<b>Hit rate: 0/5 (0%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Cardinals' RHB core meets Wrobleski's reverse split. Pages is 4-for-6 career vs Wrobleski with 2 HR, and Winn is 3-for-6 with 1 HR. Wrobleski's 2025 line vs RHB (.276 / .322 / .396 over 208 PA) is markedly worse than vs LHB (.195 / .256 / .317 over 92 PA) -- and STL's 4 RHB are Herrera, Walker, Winn, and Pages.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Kyle Tucker. 2-for-4 career vs May (.500 AVG, .500 SLG) with one walk, and the LAD pool's best on-base bat vs RHP in 2025 (.380 OBP, 14.6% BB%). Career baserunning 25 SB / 3 CS (89.3% success) -- with Pages catching for May for the first time in this dataset, the running game is live.<br><br>
+<b style="color:#B8860B;">Watch:</b> May's second pass through the order. 2025 first pass through the order: .226 / .305 / .347 (.573 OPS) over 227 PA. Second pass through the order jumps to .290 / .370 / .508 (.798 OPS) over 220 PA, with 9 HR. Innings 4-6 are the danger window.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Pages vs Wrobleski.</b> 4-for-6 career, 2 HR (.667 / .714 / 1.833). The only Cardinal with PA size and slug damage on Wrobleski. Eighth-spot bat carrying the matchup edge.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Tucker vs May.</b> 2-for-4 career (.500 AVG, .500 SLG, 1 BB). Tucker is the LAD pool's premier on-base threat (.380 OBP vs RHP in 2025; 14.6% 2025 BB%) and an 89.3% career SB threat (25 / 3).
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Herrera vs LHP.</b> 2025 platoon line .330 / .455 / .660 with 9 HR over 124 PA -- the best LHP-killer in the Cardinals' lineup. Hits second from the DH spot today.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Tucker baserunning.</b> 25 SB / 3 CS career (89.3% success). Pages-May is a fresh battery (0 IP together in this dataset) -- pop-time calibration is unproven.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Wrobleski reverse split.</b> 2025 vs LHB .195 / .256 / .317 (.512 OPS) over 92 PA, vs RHB .276 / .322 / .396 (.672 OPS) over 208 PA. The Cardinals' 4 RHB carry the matchup edge -- the LHB heart of the order may not.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May's 2025 home/away.</b> 3.24 ERA at home (75.0 IP) vs 6.28 ERA away (57.1 IP) in his prior environment. Today is functionally a "home" start for May at Busch -- the favorable historical anchor, but the venue context has shifted.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% IR strand (26 IR, 3 scored) vs Svanson 50.0% (26 IR, 13 scored). The arm called with traffic decides the middle innings.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
