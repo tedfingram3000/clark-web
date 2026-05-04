@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs MIL 2026-05-04 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (20-14)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIL (18-15)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 5.52 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, May 4, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Patrick (R) -- 2.57 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--LAD 4, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      LAD&nbsp;&nbsp;0 2 0 0 1 0 0 0 1 -- 4<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 1 0 -- 1
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals dropped the finale 4-1 but still took the series 2-of-3 from the Dodgers. Justin Wrobleski silenced the bats over 6.0 scoreless. Andy Pages doubled in Tucker and Hyeseong Kim singled in Muncy in a two-run 2nd off May (6.0 IP, 3 ER). Burleson singled in Walker for the Cardinals' lone run in the 8th.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Pages reaches base: Pedro Pages went 0-for-4 with 0 BB. 0 reaches; threshold was 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Tucker reaches base: Kyle Tucker went 1-for-5 with 0 BB. 1 reach; threshold was 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- LAD TTO2 scoring vs May: Innings 4-6 line was 0+1+0 = 1 run. Threshold was 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- STL K total: Cardinals batters combined for 2 K (Fermin 1, Pages 1). Threshold was 8+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Wrobleski walk total: Wrobleski issued 1 BB across 6.0 IP. Threshold was 2+.<br><br>
+<b>Hit rate: 0/5 (0%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Patrick's third-pass cliff. His 2025 TTO line goes from .625 OPS first pass to .530 second pass to .855 third pass (.290/.347/.565 over 75 PA). Innings 7+ is where the Cardinals get their best swings tonight.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Brewers team speed. Turang 24 SB on 75% success, Hamilton 22 on 78.6%, Frelick 19 on 76%, Lockridge 90.9% on 11 attempts, Ortiz 82.4%. Pages catches; that is one of the busiest tag situations the Cardinals will see this homestand.<br><br>
+<b style="color:#B8860B;">Watch:</b> Leahy at home. 4.47 home ERA versus 2.68 on the road -- a meaningful Busch discount. Add a Brewers lineup that runs out 6 LHB, and Leahy's vs-LHB line (.252/.337 OBP, .616 OPS) is the lever.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Patrick.</b> Burleson 2025 vs RHP: .296/.353/.478 with 15 HR (419 PA) -- the lineup's best stick against right-handers. Career BvP off Patrick: 2-for-2 (small sample). 2026 RISP slash: .381/.426/.619/1.045.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Contreras vs Leahy.</b> Brewers' top RHB at .263/.349/.409 vs RHP in 2025; 12.7% BB% leads the regulars. Career off Leahy: 1-for-4 with a walk (.250/.400). Leahy's vs-RHB line is .238/.270/.319 (.557 OPS) -- the spot to neutralize him.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Turang vs Pages-Leahy battery.</b> Turang's 24 SB on 75% success against a Leahy who runs a 44.2% career GB rate sets up first-pitch jumps. Pages has logged 110 G at .994 fielding behind the plate.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Patrick TTO3 cliff.</b> .855 OPS allowed third pass through the order in 2025 (75 PA). Innings 7+ is where Cardinals can press.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy first-pass profile.</b> 355 PA TTO1 sample at .247/.304/.341 (.588 OPS) -- comfortable on the first pass, only 8 PA logged in TTO2.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Brewers running game.</b> Six MIL hitters with 10+ SB; Lockridge 90.9% on 11 attempts is the success-rate flag. Pages-Leahy has the longest battery sample to set the counter.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- STL lefty bats vs Patrick.</b> Patrick vs LHB in 2025: .261/.337/.396. Cardinals run out 5 LHB; Burleson, Gorman, Wetherholt are the lefty engine.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Romero leverage spot.</b> Romero 88.5% IR strand percentage in 2025 (3 of 26 IR scored) -- tonight's late-inning crunch arm. Svanson 50.0% and Graceffo 54.5% are the avoid-with-runners flags.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
