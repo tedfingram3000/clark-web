@@ -1,6 +1,6 @@
 <!-- 700 Clark Email Block -- STL vs SD 2026-05-07 -->
 <!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
-
+ 
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
 <!-- HEADER BAR -->
 <tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
@@ -17,7 +17,7 @@
   </tr>
   </table>
 </td></tr>
-
+ 
 <!-- YESTERDAY'S RESULT -->
 <tr><td style="padding:16px 20px 0;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--MIL 6, STL 2</div>
@@ -35,7 +35,7 @@ The Brewers blitzed Pallante for four runs in the first inning, capped by Andrew
     </div>
   </div>
 </td></tr>
-
+ 
 <!-- PREDICTION GRADES -->
 <tr><td style="padding:16px 20px 0;">
   <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
@@ -52,7 +52,7 @@ The Brewers blitzed Pallante for four runs in the first inning, capped by Andrew
     </div>
   </div>
 </td></tr>
-
+ 
 <!-- BOTTOM LINE -->
 <tr><td style="padding:16px 20px 0;">
   <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
@@ -61,12 +61,12 @@ The Brewers blitzed Pallante for four runs in the first inning, capped by Andrew
 <!-- PHASE2_SLOT: bottom_line_content -->
 <b style="color:#2E7D32;">Edge:</b> Burleson is the offensive lever against a right-hander with command issues. King carries an 11.3% BB% and 24.5% K% in 2026 -- strikeouts come, but the walks come too. Burleson hits .296 with a .353 OBP vs RHP across 419 PA in 2025 (the highest qualifying mark in the Cardinals lineup), making him the clearest path to early base traffic against King.<br><br>
 <b style="color:#8B3A3A;">Threat:</b> The Padres' right-handed power pool tilts the matchup. Manny Machado has a .506 SLG vs LHP in 2025 (192 PA, 13 HR), Ramon Laureano sits at .282/.346/.521 with 9 HR in 159 PA, and Miguel Andujar is at .376/.396/.559 in 96 PA -- Andujar also owns a 6-for-9 career BvP line vs Liberatore (.667/.667/.889). Liberatore is left-handed; tonight's lineup pool is 9 RHB, 3 LHB, 1 SHB.<br><br>
-<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order. His 2025 TTO line jumps from .613 OPS in the first pass through the order (.237/.281/.376) to .821 in the second pass (.310/.360/.511), then collapses back to .597 in the third (.244/.288/.353). Innings 4-6 is where damage gets done -- and it's exactly when the Padres' top RHB get their second look at him.
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order. His 2025 TTO line jumps from .657 OPS in the first pass through the order (.237/.281/.376) to .871 in the second pass (.310/.360/.511), then collapses back to .641 in the third (.244/.288/.353). Innings 4-6 is where damage gets done -- and it's exactly when the Padres' top RHB get their second look at him.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
 </td></tr>
-
+ 
 <!-- KEY MATCHUPS -->
 <tr><td style="padding:16px 20px 0;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
@@ -82,14 +82,14 @@ The Brewers blitzed Pallante for four runs in the first inning, capped by Andrew
 </div>
 <!-- /PHASE2_SLOT -->
 </td></tr>
-
+ 
 <!-- WATCHLIST -->
 <tr><td style="padding:16px 20px;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: watchlist_prose -->
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Liberatore TTO2 cliff (252 PA, 2025).</b> .310 AVG, .511 SLG, .821 OPS in the second pass through the order. With Petco's RHB-heavy lineup pool, the danger window opens roughly innings 4-6.
+  <b style="color:#0B1C33;">-- Liberatore TTO2 cliff (252 PA, 2025).</b> .310 AVG, .511 SLG, .871 OPS in the second pass through the order. With Petco's RHB-heavy lineup pool, the danger window opens roughly innings 4-6.
 </div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
   <b style="color:#0B1C33;">-- King command (2026).</b> 11.3% BB% paired with a 24.5% K% -- a high-strikeout, high-walk profile. The Cardinals can get on base, but only if they take the walks they are given.
@@ -103,5 +103,5 @@ The Brewers blitzed Pallante for four runs in the first inning, capped by Andrew
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
-
+ 
 </table>
