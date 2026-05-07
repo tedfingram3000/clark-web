@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs SD 2026-05-07 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (21-15)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 4 -- Petco Park -- 9:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SD (22-14)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 4.50 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, May 7, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">King (R) -- 2.95 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--MIL 6, STL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      MIL&nbsp;&nbsp;4 0 0 0 1 0 0 0 1 -- 6<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 1 1 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+The Brewers blitzed Pallante for four runs in the first inning, capped by Andrew Vaughn's three-run homer to left center after a Jake Bauers RBI single. The Cardinals did not hit a single base hit through seven innings, finally pushing across runs in the eighth (Burleson RBI single scoring Scott) and ninth (Gorman scored on a Joey Ortiz error). Pallante took the loss with a 5 ER, 6.0 IP line. Cardinals were swept 0-2 in the series.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- MIL TTO2 scoring: Brewers scored 1 run in innings 4-6 (0 + 1 + 0). Threshold was 2+. 1 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Pallante walk total: Pallante issued 2 BB in 6.0 IP. Threshold was 3+. 2 &lt; 3.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Sproat HR allowed: Sproat allowed 0 HR in 4.0 IP. Threshold was 1+. 0 &lt; 1.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Chourio reaches base: Chourio went 2 H + 0 BB = 2 reaches. Threshold was 2+. 2 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- STL K total: Cardinals batters combined for 9 K. Threshold was 7+. 9 &gt;= 7.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Burleson is the offensive lever against a right-hander with command issues. King carries an 11.3% BB% and 24.5% K% in 2026 -- strikeouts come, but the walks come too. Burleson hits .296 with a .353 OBP vs RHP across 419 PA in 2025 (the highest qualifying mark in the Cardinals lineup), making him the clearest path to early base traffic against King.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> The Padres' right-handed power pool tilts the matchup. Manny Machado has a .506 SLG vs LHP in 2025 (192 PA, 13 HR), Ramon Laureano sits at .282/.346/.521 with 9 HR in 159 PA, and Miguel Andujar is at .376/.396/.559 in 96 PA -- Andujar also owns a 6-for-9 career BvP line vs Liberatore (.667/.667/.889). Liberatore is left-handed; tonight's lineup pool is 9 RHB, 3 LHB, 1 SHB.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order. His 2025 TTO line jumps from .613 OPS in the first pass through the order (.237/.281/.376) to .821 in the second pass (.310/.360/.511), then collapses back to .597 in the third (.244/.288/.353). Innings 4-6 is where damage gets done -- and it's exactly when the Padres' top RHB get their second look at him.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Miguel Andujar vs Liberatore.</b> 6-for-9 with a double in 9 career PA against Liberatore (.667/.667/.889), and .376/.396/.559 vs LHP across 96 PA in 2025. The single highest BvP threat in the SD pool against tonight's starter. If Andujar starts, work backward from him.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Manny Machado vs Liberatore.</b> .506 SLG vs LHP in 2025 (192 PA, 13 HR) and 2-for-5 with a HR in BvP. The premier power threat in the Padres' lineup against a left-handed starter who has surrendered 16 HR vs RHB across 515 PA.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs King.</b> The Cardinals' most productive left-handed bat vs RHP (.296/.353/.478, 419 PA in 2025) draws a right-hander with command issues. King's 11.3% BB% in 2026 means free bases are available; Burleson at the 3-hole turns those baserunners into runs.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore TTO2 cliff (252 PA, 2025).</b> .310 AVG, .511 SLG, .821 OPS in the second pass through the order. With Petco's RHB-heavy lineup pool, the danger window opens roughly innings 4-6.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- King command (2026).</b> 11.3% BB% paired with a 24.5% K% -- a high-strikeout, high-walk profile. The Cardinals can get on base, but only if they take the walks they are given.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bryce Johnson 2-for-2 BvP.</b> Johnson is .281/.343/.312 vs LHP in 37 PA in 2025 and 2-for-2 in BvP vs Liberatore. Tiny sample, but if he starts at the top of the SD order, the table sets early.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- JoJo Romero IR strand 88.5%.</b> 26 inherited runners, 3 scored. The high-leverage left-handed setup arm for the Cardinals; the bullpen fork in any tied or one-run middle inning runs through him.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
