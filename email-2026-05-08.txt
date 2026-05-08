@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs SD 2026-05-08 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (22-15)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 4 -- Petco Park -- 8:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SD (22-15)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 2.52 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, May 8, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Canning (R) -- 1.80 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 2, SD 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      SD&nbsp;&nbsp;&nbsp;1 0 0 0 0 0 0 0 0 -- 1<br>
+      STL&nbsp;&nbsp;0 0 0 1 0 0 1 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals took the series opener on the road. Burleson tied the game with a solo HR (his 6th) in the 4th, and Winn's RBI triple in the 7th plated Walker for the go-ahead run. Liberatore was the workhorse: 6.0 IP, 3 H, 1 ER, 6 K, holding the Padres to a single first-inning Bogaerts RBI. Soriano, Romero, and O'Brien combined for three scoreless innings to close it.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- SD TTO2 scoring: Padres scored 0 runs in innings 4-6 (linescore 0+0+0). Threshold was 2+. 0 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- King walk total: King issued 2 BB in 6.0 IP. Threshold was 3+. 2 &lt; 3.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Liberatore HR allowed: Liberatore allowed 0 HR in 6.0 IP. Threshold was 1+. 0 &lt; 1.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Burleson reaches base: Burleson 1 H + 1 BB = 2 reaches. Threshold 2+. 2 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- STL K total: Cardinals batters combined for 8 K (0+2+0+0+3+0+1+1+1). Threshold 8+. 8 &gt;= 8.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> McGreevy is on the road and facing a heavy right-handed lineup -- the two contexts that bring out his best. He has a 3.55 ERA away (45.2 IP) compared to 5.22 at home, and he holds RHB to a .225 AVG / .580 OPS while LHB hit him for .318 / .911. The Padres' active roster pool is 9 RHB, 3 LHB, 1 SHB tonight, exactly the matchup type where McGreevy is at his stingiest.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Manny Machado is 4-for-6 (.667 AVG, 1.000 SLG) in his career sample against McGreevy with zero strikeouts. The PA total is small, but he layers it onto a .279 / .332 / .440 line vs RHP across 500 PA in 2025. He is the at-bat to game-plan around.<br><br>
+<b style="color:#B8860B;">Watch:</b> Canning's third pass through the order. His 2025 TTO2 is a wall (.177 / .521 OPS), but TTO3 explodes to .313 / 1.004 OPS in a 55 PA sample. If the Cardinals work counts deep enough to push him into innings 7+, that is where the order can flip.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Manny Machado vs McGreevy.</b> 4-for-6 career with zero strikeouts and a 1.000 SLG. Even as a small sample, the pattern lines up with Machado's 2025 work vs RHP (.279 / .332 / .440 in 500 PA) and his 41.7% GB rate -- McGreevy is a 49.2% GB pitcher, so balls in play to the left side will be the at-bats that decide whether Machado scores or only reaches.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Canning.</b> 2-for-6 in the only meaningful career BvP sample (.333 AVG) and a .296 / .353 / .478 line vs RHP across 419 PA in 2025. Canning's vs-LHB split (.243 / .331, 11.6% BB%) is more about walks than power, but Burleson is the one Cardinals lefty whose contact profile (42.0% GB) keeps the slug in the gaps rather than the air.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">McGreevy vs the SD right-handed core.</b> Tatis (.277 / .366 / .466), Castellanos (.252 / .291 / .405), and Bogaerts (.246 / .317 / .368) all hit RHP at or below McGreevy's vs-RHB allowed line (.225 / .255 / .325). The matchup type is in the Cardinals' favor; the question is whether Machado spoils the script.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Canning's 2026 walk rate.</b> 3 BB in 5.0 IP for a 15.8% BB% in his only 2026 start so far. His 2025 baseline is 10.7% BB%. The early-season number says he is still finding the zone -- if it carries, the Cardinals can run a count-pressure offense without needing to slug.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork: Romero vs Svanson.</b> Romero is at 88.5% IR strand (3 of 26 scored) while Svanson is at 50.0% (13 of 26). Whichever arm enters the highest-leverage middle inning will set the entire shape of the game.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bryce Johnson against RHP.</b> .370 / .408 / .500 in a 50 PA 2025 sample as a switch-hitter facing RHP. Tiny but emphatic. If he enters off the bench against McGreevy's vs-RHB look, the lineup tilts toward a different shape than the rest of the right-handed core suggests.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pages-McGreevy familiar battery.</b> 14 games, 80.2 IP, 4.24 ERA paired together. Tonight is McGreevy's most-paired catcher in the dataset, so signal sequencing is set; the variable is whether McGreevy's pitch mix limits hard contact in a hitter-friendly Petco LD context.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
