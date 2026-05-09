@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs SD 2026-05-09 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (23-15)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 4 -- Petco Park -- 6:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SD (22-16)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 5.15 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, May 9, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Vásquez (R) -- 3.20 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 6, SD 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      SD&nbsp;&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0<br>
+      STL&nbsp;&nbsp;0 0 0 0 6 0 0 0 0 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+      Cardinals win 6-0 behind a six-run fifth and a near-untouchable McGreevy line. McGreevy: 6.0 IP, 1 H, 0 R, 9 K, 2 BB. Graceffo and Stanek closed it without allowing a hit. Herrera went 4-for-5; Burleson and Church added two hits each. The fifth-inning rally turned on Wetherholt's bases-clearing single (capped by a Tatis fielding error that brought Wetherholt all the way around), Gorman's RBI single, and a Winn sac fly.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Machado reaches base: Machado went 0-for-4 with 0 BB and 0 HBP. 0 reaches; threshold 2+. 0 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- McGreevy walk floor: McGreevy issued 2 BB in 6.0 IP. Threshold was 2 or fewer. 2 &le; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Canning walk total: Canning issued 2 BB in 4.1 IP. Threshold 3+. 2 &lt; 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- STL K total: Cardinals batters combined for 9 K (1+0+2+2+2+1+0+1+0). Threshold 8+. 9 &ge; 8.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- SD late scoring: Padres scored 0 runs in innings 7-9 (linescore 0-0-0). Threshold 2+. 0 &lt; 2.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Cardinals run 5 LHB tonight (Wetherholt, Burleson, Gorman, Church, Scott) into Vásquez's softer side -- his 2025 vs-LHB line is .264 AVG / .358 OBP / .406 SLG / .764 OPS, vs RHB it is .232 / .289 / .363 / .652. Burleson's 2025 vs-RHP line is .296 / .353 / .478 with 15 HR over 419 PA -- the cleanest individual platoon edge in tonight's report.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Manny Machado is 9-for-33 (.273 AVG, .515 SLG) with 2 HR over 35 career PA off May -- the largest opponent BvP sample on the slate, and a profile of consistent contact (only 6 K) plus genuine power. May's vs-RHB aggregate (.711 OPS) does not soften this individual matchup.<br><br>
+<b style="color:#B8860B;">Watch:</b> May's TTO2 cliff. First pass through the order: .226 AVG / .347 SLG / .652 OPS in 2025. Second pass: .290 / .508 / .878. Third pass: .882 OPS. Innings 4-6 are where the Padres' lineup most likely opens the door, and May's career road ERA (6.28 vs 3.24 at home) compounds the concern at Petco tonight.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Vásquez.</b> Burleson's 2025 vs-RHP line is .296 / .353 / .478 with 15 HR over 419 PA. Vásquez allows .764 OPS to LHB vs .652 to RHB. The 1-for-7 career BvP is too small to override the platoon read.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Machado vs May.</b> 9-for-33 (.273 AVG, .515 SLG, 2 HR) over 35 career PA -- the largest opponent-side BvP sample tonight. Machado has produced power without striking out (6 K in 35 PA), and his 2025 19.3% K% means May's whiff path is narrow.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">May TTO2 window vs SD.</b> Innings 4-6 are May's 2025 vulnerability: .290 AVG / .508 SLG / .878 OPS on the second pass through the order. Combine with May's 6.28 career road ERA at Petco -- the middle innings are the likeliest Padres scoring window.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Sheets and Merrill vs May.</b> Two LHB power profiles into May's worst-handedness side (.852 OPS allowed to LHB in 2025, 15 HR). Sheets 2025 vs RHP: .250 / .323 / .452, 17 HR. Merrill 2025 vs RHP: .279 / .336 / .514, 15 HR. Watch innings 4-6 specifically.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Tatis SB threat with fresh battery.</b> Tatis 32 SB / 7 CS career (82.1% success). Pagés has 0 prior IP paired with May -- pop-time and signal sequencing are not yet calibrated.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand vs Svanson 50.0% on 26 inherited runners each. Which arm gets called with traffic decides the middle-inning math.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Vásquez K-rate lift.</b> 2026 to date 22.4% K% vs 2025 baseline 13.7%. If it holds, the Cardinals' contact assumption against Vásquez resets.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
