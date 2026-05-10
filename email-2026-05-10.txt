@@ -1,6 +1,6 @@
 <!-- 700 Clark Email Block -- STL vs SD 2026-05-10 -->
 <!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
- 
+
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
 <!-- HEADER BAR -->
 <tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
@@ -11,13 +11,13 @@
     <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SD (23-16)</td>
   </tr>
   <tr>
-    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 4.93 ERA</td>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 4.42 ERA</td>
     <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, May 10, 2026</td>
-    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Buehler (R) -- 5.64 ERA</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Buehler (R) -- 5.50 ERA</td>
   </tr>
   </table>
 </td></tr>
- 
+
 <!-- YESTERDAY'S RESULT -->
 <tr><td style="padding:16px 20px 0;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--SD 4, STL 2</div>
@@ -30,75 +30,78 @@
   <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
     <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: report_card_recap -->
-May went 6.0 IP with 7 K but the 5th inning broke open -- a France HR plus a Tatis 2-RBI single did the damage. STL scratched two on RBI doubles by Church (4th) and Herrera (8th) before Machado's 8th-inning HR off Svanson sealed it. SD takes the series 3-1 pending today's finale.
+May was sharp through six (6.0 IP, 3 H, 2 ER, 7 K, 2 BB) but the fifth inning unraveled with three runs -- France's solo HR followed by Tatis' two-RBI single off Song and Fermin. Church (2-for-3, RBI double) and Herrera (2-for-4, RBI double in the 8th) carried the offense. Vasquez bottled the Cardinals through five (5.0 IP, 6 H, 1 ER, 6 K). Machado's eighth-inning solo HR off Svanson sealed it.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
 </td></tr>
- 
+
 <!-- PREDICTION GRADES -->
 <tr><td style="padding:16px 20px 0;">
   <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
     <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
     <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: prediction_grades_commentary -->
-<b style="color:#8B3A3A;">WRONG</b> -- Machado reaches base: Machado went 1 H + 0 BB = 1 reach. Threshold 2+. 1 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Machado reaches base: Machado went 1-for-4 with 0 BB. Reaches = 1 (1 H + 0 BB + 0 HBP). Threshold 2+. 1 &lt; 2.<br><br>
 <b style="color:#8B3A3A;">WRONG</b> -- May walk total: May issued 2 BB in 6.0 IP. Threshold 3+. 2 &lt; 3.<br><br>
-<b style="color:#2E7D32;">CORRECT</b> -- STL K total: Cardinals batters combined for 12 K. Threshold 8+. 12 &gt;= 8.<br><br>
-<b style="color:#2E7D32;">CORRECT</b> -- SD TTO2 scoring: Padres scored 3 runs in innings 4-6 (linescore 0/3/0). Threshold 2+. 3 &gt;= 2.<br><br>
-<b style="color:#8B3A3A;">WRONG</b> -- Burleson reaches base: Burleson went 0 H + 0 BB = 0 reaches. Threshold 2+. 0 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- STL K total: Cardinals batters combined for 12 K (sum across all 12 batting lines). Threshold 8+. 12 &gt;= 8.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- SD TTO2 scoring: Padres scored 3 runs in innings 4-6 (France HR + Tatis 2-RBI single, both bottom 5). Threshold 2+. 3 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Burleson reaches base: Burleson went 0-for-4 with 0 BB. Reaches = 0. Threshold 2+. 0 &lt; 2.<br><br>
 <b>Hit rate: 2/5 (40%)</b>
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
 </td></tr>
- 
+
 <!-- BOTTOM LINE -->
 <tr><td style="padding:16px 20px 0;">
   <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
     <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: bottom_line_content -->
-<b style="color:#2E7D32;">Edge:</b> Leahy on the road into a heavy RHB pool. The Padres roster pool is 9 RHB / 3 LHB and Leahy's 2025 line vs RHB is .238 / .270 / .319 / .589 OPS. Add a 2.68 2025 away ERA vs 4.47 home and the splits stack toward a strong outing.<br><br>
-<b style="color:#8B3A3A;">Threat:</b> Manny Machado. He homered yesterday and carries a 1-for-3 BvP vs Leahy with 1 K. 2025 vs RHP: .279 / .332 / .440 with a 19.3% K%. He will not strike himself out.<br><br>
-<b style="color:#B8860B;">Watch:</b> Leahy's second pass through the order is unmapped -- only 8 PA in 2025 (.125 / .250 / .375). Innings 4-6 are where the game gets defined; the unknown is whether Leahy holds up after the SD lineup gets a first look.
+<b style="color:#2E7D32;">EDGE:</b> Buehler is a different pitcher against left-handed bats -- .300/.390/.440 vs LHB (316 PA, .830 OPS) versus .221/.317/.433 vs RHB. The Cardinals send four LHB into that gap: Wetherholt, Burleson, Gorman, and Church. Burleson in particular is 2-for-2 career off Buehler with a 2025 vs RHP line of .296/.353/.478. The top of the order is built to attack the exact handedness Buehler struggles to retire.<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> Manny Machado is in form -- HR off Svanson last night and a 2025 vs RHP line of .279/.332/.440 over 500 PA. Career BvP vs Leahy is small (3 PA, 1 H) but Machado's recent shape and Tatis behind him (.277/.366/.466 vs RHP, 2025) gives the 2-3 spots multiple paths to drive in runs. Leahy's 2025 vs RHB line (.238/.270/.319, .589 OPS) is a hard counterweight, but Machado is the one bat that can break that pattern.<br><br>
+<b style="color:#B8860B;">WATCH:</b> Leahy's home/away split. He carries a 2.68 ERA on the road (43.2 IP) versus 4.47 at home (44.1 IP) -- today's game is away for the Cardinals, which puts Leahy in his stronger context. Combined with his 2025 first pass through the order line (355 PA, .247/.341, .645 OPS, vs only 8 PA in the second pass), the early innings should be his peak window. If Leahy gets through the order once cleanly, the bullpen behind him (Romero 88.5% strand, Svanson 50.0%) decides the middle of the game.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
 </td></tr>
- 
+
 <!-- KEY MATCHUPS -->
 <tr><td style="padding:16px 20px 0;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
 <!-- PHASE2_SLOT: key_matchups_prose -->
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Burleson vs Buehler.</b> 2-for-2 lifetime BvP, 1.000 AVG / 1.000 SLG (small 2 PA sample). 2025 vs RHP: .296 / .353 / .478. 2026 RISP: .347 AVG / .940 OPS. The cleanest LHB profile vs Buehler-vs-LHB.
-</div>
-<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Leahy vs Tatis.</b> Tatis 0-for-2 lifetime BvP. 2025 vs RHP: .277 / .366 / .466 with 12.9% BB%. 32 SB / 82.1% success in 2025 -- a baserunning lever any time he reaches.
+  <b style="color:#0B1C33;">Alec Burleson vs Walker Buehler.</b> 2-for-2 career BvP (small sample) and a 2025 vs RHP line of .296/.353/.478 over 419 PA. He bats third today against a pitcher whose 2025 vs LHB line is .300/.390/.440 -- the exact matchup tilt the lineup card is trying to exploit.
 </div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Buehler vs the LHB stack.</b> 5 LHB projected (Wetherholt, Burleson, Gorman, Church, Scott). Buehler 2025 vs LHB: .300 / .390 / .440 / .830 OPS vs .221 / .317 / .433 / .750 vs RHB. Handedness aligns on Buehler's weak side.
+  <b style="color:#0B1C33;">Manny Machado vs Kyle Leahy.</b> Machado is 1-for-3 career off Leahy (small sample) and went deep last night. His 2025 vs RHP line is .279/.332/.440. Leahy's vs RHB line is .238/.270/.319 over 200 PA, but Machado is the one Padres bat whose hot stretch can override the matchup math.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Ivan Herrera vs Walker Buehler.</b> 1-for-2 with a HR in 2 career PA -- a tiny sample with one notable swing. Herrera's 2025 vs RHP is .268/.343/.399 with 10 HR. He hits second today, which feeds him an extra plate appearance in Buehler's vulnerable first pass.
 </div>
 <!-- /PHASE2_SLOT -->
 </td></tr>
- 
+
 <!-- WATCHLIST -->
 <tr><td style="padding:16px 20px;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: watchlist_prose -->
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Buehler TTO1 power.</b> .279 / .452 / .816 OPS in 2025 first pass through the order, 9 HR in 236 PA. Innings 1-3 are when his slug allowed peaks.
+  <b style="color:#0B1C33;">-- Buehler first pass through the order.</b> 2025 TTO1 line: 236 PA, .279/.452, .816 OPS, 9 HR. His most vulnerable window. Innings 1-3 are where this Cardinals lineup needs to score.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy K/BB ratio (2.86).</b> 2025: 80 K and 28 BB in 88.0 IP. Padres' top three of Merrill, Tatis, Machado strike out at a combined 60% K floor by 2025 K%. Strike-throwing matters more than swing-and-miss.
 </div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Leahy TTO2 unmapped.</b> Only 8 PA in 2025 second pass through the order vs 355 PA in TTO1. The smallest sample on the report -- innings 4-6 will write that line.
+  <b style="color:#0B1C33;">-- Padres baserunning leverage.</b> Tatis 32 SB (82.1% success), Bogaerts 20 SB (90.9%), Machado 14 SB (82.4%). Three high-success runners in the top half against an unfamiliar catcher in Pages (career battery ERA 3.05).
 </div>
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand on 26 IR vs Svanson 50.0% on 26 IR in 2025. Whichever arm enters with traffic decides whether STL holds a lead or loses one.
+  <b style="color:#0B1C33;">-- Svanson into the middle innings.</b> 2025 inherited-runner strand rate 50.0% (worst on the staff among arms with 10+ IR). Yesterday he gave up the Machado HR. With Leahy projecting 5-6 IP, Svanson is one of the bridges to Romero -- and the most exploitable one.
 </div>
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
- 
+
 </table>
