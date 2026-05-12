@@ -1,0 +1,74 @@
+<!-- 700 Clark Email Block -- STL vs OAK 2026-05-12 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (23-17)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Sutter Health Park -- 8:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OAK (21-19)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 4.34 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, May 12, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Springs (L) -- 3.89 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">EDGE:</b> Ivan Herrera against a left-handed starter. Herrera's 2025 vs LHP line is .330/.455/.660 over 124 PA with 9 HR -- the single biggest platoon edge in the lineup. He hits second tonight, which feeds him an extra plate appearance in Springs's 2025 first pass through the order (.777 OPS, 11 HR) and second pass through the order (.722 OPS) windows. The four-RHB cluster behind him (Walker, Winn, Saggese, Pages) gives Springs no easy way out of the right-handed side.<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> Nick Kurtz vs Pallante is the matchup math. Kurtz's 2025 vs RHP line is .336/.439/.714 over 336 PA with 27 HR -- the highest SLG against RHP in either team's pool. He has never faced Pallante in the career BvP sample, so this is a profile bet, not a history bet. Pallante's 62.2% 2026 GB% has been the engine of his season, but Kurtz's air-ball game is the kind that survives a sinker if Pallante misses up.<br><br>
+<b style="color:#B8860B;">WATCH:</b> Pallante's second pass through the order is his cliff -- 2025 TTO2: 270 PA, .309 AVG, .487 SLG, .868 OPS. The first pass through the order tightens to .720 OPS and the third pass through the order recovers to .691 OPS. Innings 4-6 are the conversion window for Oakland; if Pallante navigates them, the third pass actually plays as one of his stronger stretches.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Ivan Herrera vs Jeffrey Springs.</b> 2025 vs LHP .330/.455/.660 over 124 PA with 9 HR -- the platoon edge of the night. Career BvP is 0-for-2 with a walk in 3 PA, so it is the splits, not the matchup history, doing the work.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Nick Kurtz vs Andre Pallante.</b> Kurtz 2025 vs RHP .336/.439/.714 over 336 PA, 27 HR. No career BvP rows vs Pallante in the data. Pallante's 1.79 2025 K/BB and 62.2% 2026 GB% are the counter, but Kurtz's elevated contact is the bat least suppressed by a sinker.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs Jeffrey Springs.</b> Walker 2025 vs LHP .255/.318/.347 (107 PA). He bats cleanup and faces a starter whose 2025 vs RHB SLG (.436) is the open lane vs LHB (.368). BvP is 0-for-2, noise.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante TTO2 cliff (270 PA, .309/.487/.868).</b> Innings 4-6 are the conversion window. If he gets through them, the third pass through the order tightens back to .217 / .691 OPS.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Springs going deep (TTO3 .184 / .579 OPS).</b> Springs improves through the order. The third pass through the order is where his K rate climbs and the lineup runs out of runway -- pressure on the Cardinals to score early.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante 2026 BB% (9.7%).</b> Above his 2025 baseline of 8.7% and against a lineup that turns walks into runs through Rooker (.480 SLG vs RHP) and Kurtz (.714 SLG vs RHP).
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork: Romero vs Svanson.</b> 2025 IR strand: Romero 88.5%, Svanson 50.0%. The inning Romero enters with men on -- and the inning he doesn't -- decides the middle game.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
