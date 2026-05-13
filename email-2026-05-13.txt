@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs OAK 2026-05-13 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (24-17)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Sutter Health Park -- 8:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OAK (21-20)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 4.07 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, May 13, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Ginn (R) -- 3.62 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 6, OAK 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;4 0 0 0 0 2 0 0 0 -- 6<br>
+      OAK&nbsp;&nbsp;0 3 0 0 0 0 0 1 0 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals hung a four-spot in the top of the first on RBI knocks from Walker, Fermín (a 2-RBI double), and Pozo. Oakland answered with a Langeliers two-run double in the second to make it 4-3. JJ Wetherholt's two-run homer in the sixth restored the cushion. Pallante grinded to 5.0 IP (4 H, 3 ER, 3 BB, 4 K); Romero and Stanek bridged cleanly before a Langeliers solo HR off Soriano in the eighth, but the pen closed it out.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Herrera reaches base: Herrera went 2-for-5 with 0 BB. 2 H + 0 BB = 2 reaches. Threshold 2+. 2 >= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Pallante walk total: Pallante issued 3 BB in 5.0 IP. Threshold 3+. 3 >= 3.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- OAK TTO2 scoring: Oakland posted 0 + 0 + 0 = 0 runs across innings 4-6. Threshold 2+. 0 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- STL K total: Cardinals batters combined for 9 K (Wetherholt 1, Walker 1, Burleson 1, Scott 1, Pozo 1, Church 2, Saggese 2). Threshold 8+. 9 >= 8.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Kurtz reaches base: Kurtz went 1-for-3 with 1 BB. 1 H + 1 BB = 2 reaches. Threshold 2+. 2 >= 2.<br><br>
+<b>Hit rate: 4/5 (80%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Ginn's 2026 walks tell. 15 BB in 37.1 IP with a 10.0% BB% gives a patient top of the order chances early -- Burleson is .296/.353/.478 vs RHP in 2025 and Herrera is .268/.343/.399. The Cardinals do not need to hunt; they need to take.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Shea Langeliers vs LHP in 2025: .367/.374/.667 with 10 HR in 123 PA. He is OAK's clearest answer to a Liberatore lineup, and he homered last night off Soriano to keep his bat hot.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order. 2025: .310 AVG / .511 SLG / .871 OPS, against a TTO1 line of .237 / .376 / .657. Innings 4-6 are the kill zone -- if Liberatore is still in, OAK's middle order gets their best look.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Ginn.</b> Burleson is .296/.353/.478 vs RHP in 2025 (419 PA), with 15 HR and a 14.5% K%. Against a Ginn who walks 10.0% in 2026, the third spot has the discipline to push deep counts and the slug to punish a missed strike.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Shea Langeliers vs Liberatore.</b> Langeliers is .367/.374/.667 with 10 HR vs LHP in 2025 (123 PA) and is 2-for-6 lifetime against Liberatore in BvP. The single biggest power threat in the OAK order runs through this matchup.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Nolan Gorman vs Ginn (lefty bat vs ground-ball righty).</b> Gorman is .201 vs RHP in 2025 with a 33.8% K% and a 30.2% GB rate -- the lift-and-pull profile is the opposite of what plays against Ginn's 56.6% 2026 GB%. He is the lineup's strikeout risk against a sinker-leaning righty.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore second pass.</b> 2025 TTO2 .310 AVG / .511 SLG / .871 OPS is the danger band. Hook-or-stretch decision likely comes around innings 4-6.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Rooker leverage spot.</b> .293/.385/.500 vs LHP in 2025 (161 PA). High-leverage at-bats against Liberatore are the second domino if Langeliers gets on.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- JoJo Romero bridge.</b> 88.5% 2025 strand rate on 26 inherited runners is the cleanest exit valve in the pen if the Liberatore TTO2 inning gets messy.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Wetherholt momentum.</b> 2-for-4 with HR, 1 BB, 2 R yesterday. He leads off against a RHP starter who walks 10.0% in 2026 -- expect long PAs.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
