@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs KC 2026-05-15 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (25-18)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 7:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KC (19-25)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 4.85 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, May 15, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wacha (R) -- 2.63 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 5, OAK 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 1 2 0 0 2 -- 5<br>
+      OAK&nbsp;&nbsp;1 0 0 0 0 0 3 0 0 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals took the rubber game 5-4 to win the series 2-of-3 in Oakland. McGreevy went 6.0 IP allowing 1 ER on 5 H with 1 BB and 3 K, with Nick Kurtz's first-inning solo HR the only damage on his line. Walker's solo HR in the 6th and Scott's solo HR in the 5th drew the Cardinals even before Gorman's 6th-inning RBI single put STL ahead. The bullpen coughed up a three-run 7th (Stanek allowed a Gelof HR and inherited runners scored against Romero on a Langeliers two-run single), but the Cardinals reclaimed it in the 9th when Herrera and Walker each drove in a run off Perkins. Pozo went 3-for-4.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Lopez walks: Lopez issued 3 BB in 5.0 IP. Threshold 3+. 3 >= 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Kurtz reaches base: Kurtz went 2-for-3 with 1 BB. 2 H + 1 BB = 3 reaches. Threshold 2+. 3 >= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- STL TTO2 scoring: Cardinals posted 0 + 1 + 2 = 3 runs across innings 4-6 (Scott solo HR in the 5th, then Walker solo HR + Gorman RBI single in the 6th). Threshold 2+. 3 >= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Herrera reaches base: Herrera went 1-for-5 with 0 BB. 1 H + 0 BB = 1 reach. Threshold 2+. 1 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- McGreevy K total: McGreevy recorded 3 K in 6.0 IP. Threshold 4+. 3 &lt; 4.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> May is back at Busch. His 2025 home/away split is dramatic -- 3.24 ERA at home (75.0 IP) vs 6.28 on the road (57.1 IP). Wacha's 2.63 2026 ERA is real, but the table tonight reads against him: his 2025 TTO3 line is .322 AVG / .469 SLG / .846 OPS -- a sharp third pass through the order cliff. The Cardinals' path is to push him into innings 7+ with the heart of the order.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Bobby Witt has the look against May -- career BvP 6 PA, .400 / .500 / 1.000 with 1 HR, zero strikeouts. His 2025 vs RHP line is .287 / .341 / .506 with 22 HR in 543 PA. Vinnie Pasquantino is the secondary danger from the left side: .281 / .346 / .511 vs RHP in 2025 with 26 HR, exactly the bat May leaks against (.495 SLG, 15 HR allowed vs LHB in 334 PA).<br><br>
+<b style="color:#B8860B;">Watch:</b> May's second pass through the order. 2025 TTO1: .226 AVG / .652 OPS. 2025 TTO2: .290 AVG / .878 OPS -- a hard cliff. Innings 4-6 are where the Royals get their swings, and the Witt / Pasquantino / Perez core lines up to come around right when May gets exposed.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Bobby Witt vs Dustin May.</b> 6 career PA, .400 / .500 / 1.000 with 1 HR and zero strikeouts (small sample). 2025 vs RHP: .287 / .341 / .506 in 543 PA, 22 HR. May's 2025 vs-RHB line is the more controlled side (.711 OPS), but the Witt sample says he sees May well.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Michael Wacha.</b> Burleson has the cleanest career line on the Cardinals' side -- 8 PA, .375 / .375 / .875 with 1 HR. 2025 vs RHP: .296 / .353 / .478 (419 PA, 15 HR). Wacha owns lefties in 2025 overall (.245 / .295 / .350 / .645 OPS vs LHB), so Burleson is the Cardinals' rare lefty who has hit him.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Vinnie Pasquantino vs Dustin May.</b> 4 career PA, .000 with 1 BB (tiny sample). 2025 vs RHP: .281 / .346 / .511 with 26 HR in 518 PA. May's 2025 vs LHB: .495 SLG, 15 HR allowed in 334 PA. The platoon profile is the matchup -- not the BvP line.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May second pass through the order.</b> 2025 TTO1: .226 / .652 OPS. 2025 TTO2: .290 / .878 OPS. The jump is the largest TTO break on either pitcher tonight -- innings 4-6 carry the damage risk for the Cardinals' starter.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Wacha third pass through the order.</b> 2025 TTO3: .322 / .469 / .846 OPS in 159 PA -- the highest TTO bucket of either starter's table. If the Cardinals can stretch him past 78-ish pitches, the third pass is where this lineup gets its best swings.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May-Pages fresh battery.</b> Every catcher in May's 2025 IP sample (Will Smith, Rushing, Narvaez, Barnes, Wong) is from his prior Dodgers / interleague work, not the Cardinals' active roster. Tonight's catcher is Pedro Pages with 0 career IP paired with May in this dataset -- an unfamiliar pop-time and sequencing combo. Watch the first-pass execution.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Royals running game.</b> Witt's 2025 SB profile is 38 / 9 (80.9%) -- 4th-most steals on either roster, with elite efficiency. Garcia at 23 / 9 (71.9%) and Collins at 16 / 7 (69.6%) round out the live threats. The Pages-May battery is fresh; the Royals' top-of-order speed is the leverage point if the walks come.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Romero bridge.</b> 88.5% 2025 strand on 26 inherited is the cleanest exit valve in the Cardinals pen, well above league average (68-72%). If May walks into a Pasquantino-Caglianone-Massey LHB pocket trouble, Romero is the lefty hammer.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
