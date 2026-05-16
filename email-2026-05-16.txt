@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs KC 2026-05-16 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (26-18)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KC (19-26)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 4.31 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, May 16, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Cameron (L) -- 5.55 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 5, KC 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      KC&nbsp;&nbsp;&nbsp;0 0 0 2 0 1 0 0 0 1 0 -- 4<br>
+      STL&nbsp;&nbsp;0 0 0 2 1 0 0 0 0 1 1 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals walked off the series opener 5-4 in 11 innings to take Game 1. May went 6.0 IP allowing 3 ER on 4 H with 4 BB and 3 K. Walker's two-run HR in the 4th and Pagés' solo HR in the 5th gave STL the early lead, then Collins drove in Pasquantino with an RBI grounder in the 6th to tie it. After Stanek allowed a Witt RBI double in the 10th that put KC up 4-3, Burleson singled in Saggese in the bottom of the 10th to force the 11th, where Pozo's pinch-hit RBI single past Lane Thomas scored Church for the walk-off. Walker 3-for-5 with the HR and 2 RBI; Burleson 2-for-5 with the tying knock; Pozo 1-for-1 with the winner. Romero went 1.1 scoreless to set up the late innings.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- May walks: May issued 4 BB in 6.0 IP. Threshold 3+. 4 >= 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Witt reaches base: Witt went 2-for-5 with 0 BB. 2 H + 0 BB = 2 reaches. Threshold 2+. 2 >= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- KC TTO2 scoring: Royals posted 2 + 0 + 1 = 3 runs across innings 4-6 (Jensen RBI double and Collins sac fly in the 4th, Collins RBI grounder in the 6th). Threshold 2+. 3 >= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Burleson reaches base: Burleson went 2-for-5 with 0 BB. 2 H + 0 BB = 2 reaches. Threshold 2+. 2 >= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Wacha K total: Wacha recorded 5 K in 6.0 IP. Threshold 5+. 5 >= 5.<br><br>
+<b>Hit rate: 5/5 (100%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Herrera vs Cameron is the cleanest matchup on the card. Herrera's 2025 vs LHP: .330 / .455 / .660 in 124 PA with 9 HR -- the best LHP-killing line of any Cardinals starter today. Cameron carries a 5.55 ERA across 35.2 IP in 2026 (1.63 WHIP, 5 HR allowed), well above his 2025 baseline (2.55-2.66 home/away ERA). The Cardinals' five RHB pocket -- Herrera, Walker, Winn, Saggese, Pages -- lines up against Cameron's weaker split (2025 vs RHB: .231 / .297 / .369 / .666 OPS, 13 HR in 421 PA, versus .161 / .224 / .339 / .563 OPS to LHB).<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Bobby Witt sits at the top of the Royals' active roster pool. 2025 vs RHP: .287 / .341 / .506 in 543 PA with 22 HR. Yesterday he went 2-for-5 against May, including the 10th-inning RBI double that put KC ahead. Leahy is right-handed and held RHB to a .238 / .270 / .319 / .589 OPS over 200 PA in 2025 -- but Witt's career batted-ball line (.342 GB AVG, .659 LD AVG, 38 SB on the season) is built to turn even good RHB sequences into hits. Pasquantino is the secondary LHB danger: .281 / .346 / .511 vs RHP in 2025 with 26 HR, and 1-for-2 vs Leahy in his small career sample.<br><br>
+<b style="color:#B8860B;">Watch:</b> Cameron's TTO profile reads in reverse. 2025 first pass through the order: 217 PA, .209 / .282 / .423 / .705 OPS, 11 HR. 2025 second pass: 216 PA, .233 / .282 / .356 / .638 OPS. 2025 third pass: 123 PA, .189 / .268 / .261 / .529 OPS. He gets stronger as the game wears on -- innings 1-3 are where the Cardinals' damage window opens, not after the lineup turns over. If they wait Cameron out, he tightens.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #2E7D32;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Ivan Herrera vs Noah Cameron.</b> 2025 vs LHP: .330 / .455 / .660 in 124 PA with 9 HR -- the standout platoon line in the Cardinals' projected lineup. Career BvP vs Cameron: 4 PA, .333 / .500 / .333 with 1 BB and zero strikeouts (tiny sample). Herrera is the bat Cameron's vs-LHB dominance does not solve.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Bobby Witt vs Kyle Leahy.</b> 3 career PA, .000 / .333 with 1 BB and 1 K (tiny sample, walked once). 2025 vs RHP: .287 / .341 / .506 in 543 PA, 22 HR. Yesterday went 2-for-5 against May with the 10th-inning go-ahead double. Plus 38 SB / 9 CS on the season (80.9% success) -- if he reaches, he is a base ahead.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs Noah Cameron.</b> 2 career PA, .500 / .500 / 2.000 with 1 HR (tiny sample). 2025 vs LHP: .255 / .318 / .347 in 107 PA -- pedestrian. The BvP HR is the eye-catching line; the matchup case rests on Cameron's vs-RHB profile (.666 OPS in 421 PA), not a real BvP read.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cameron's first pass through the order.</b> 2025 TTO1: 217 PA, .209 / .282 / .423 / .705 OPS, 11 HR. The highest OPS bucket of his three. Innings 1-3 are the Cardinals' window before Cameron settles in.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy's TTO sample is mostly TTO1.</b> 355 career PA at TTO1 (.247 / .341 SLG / .645 OPS) versus only 8 career PA at TTO2 -- a bullpen-shaped sample. He has 8 starts in 2026 (39.2 IP) but the historical second-pass read is essentially unknown. Watch how the Royals adjust on a second look.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Royals running game vs the Pages battery.</b> Witt 38 / 9 (80.9%), Garcia 23 / 9 (71.9%), Collins 16 / 7 (69.6%) in 2025. Leahy's 9.4% 2026 BB% is the highest among the projected matchup; first-base traffic feeds the steal threat.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy at home in 2025.</b> 4.47 ERA in 44.1 IP at home versus 2.68 in 43.2 IP on the road -- nearly two earned runs of separation, home clearly his weaker context. Today he is at Busch.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork: Romero vs Svanson.</b> Romero 88.5% strand on 26 IR in 2025 -- the cleanest exit valve in the Cardinals pen. Svanson 50.0% strand on 26 IR. If the late-inning runner-on-second moment lands on Svanson, the leverage flips.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
