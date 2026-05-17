@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs KC 2026-05-17 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (27-18)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KC (19-27)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 4.46 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, May 17, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Kolek (R) -- 6.75 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 4, KC 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      KC&nbsp;&nbsp;&nbsp;0 0 0 0 1 0 0 0 1 -- 2<br>
+      STL&nbsp;&nbsp;1 0 0 0 2 0 0 1 0 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals took game 2 of the series 4-2 to clinch with a day to spare. Leahy turned in 6.0 IP / 5 H / 1 ER / 3 BB / 2 K to set the tone, and the bullpen line of Graceffo, Bruihl, and Soriano covered the final three -- Caglianone's solo HR off Soriano in the 9th was the only late damage. The offense was top-heavy production: Burleson's sacrifice fly in the 1st and RBI single in the 8th drove in two; the 5th-inning rally came from Saggese scoring on a Scott fielder's choice and Church coming home on Winn's sacrifice fly. Church went 2-for-3 and Scott 2-for-3 from the bottom of the order.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Cameron walks: Noah Cameron issued 0 BB in 6.0 IP. Needed 3+. Far under.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Witt reaches base: Witt went 1 H + 1 BB = 2 reaches. Threshold: 2+. 2 >= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- STL TTO1 scoring: Cardinals scored 1 run in innings 1-3 (linescore 1/0/0). Needed 2+. Under.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Herrera reaches base: Herrera went 1 H + 1 BB = 2 reaches. Threshold: 2+. 2 >= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Leahy K total: Leahy recorded 2 K in 6.0 IP. Needed 4+. Under.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Pallante's 2025 4.60 ERA paired with Pages behind the plate is the deepest battery on the table (15 G, 76.1 IP), and Pallante's 61.2% career GB rate runs at a KC lineup that puts a lot of contact on the ground -- Caglianone 53.0 GB%, Marte 50.5%, Isbel 49.3% in 2025. Salvador Perez's .127 grounder AVG and Caglianone's .163 are the at-bats most likely to disappear quietly.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Witt is .250/.308/.500 with a HR in 13 career PA against Pallante and is the most active baserunner in baseball (38 SB / 9 CS at 80.9% in 2025). Pasquantino sits at .281/.346/.511 vs RHP with 26 HR in 2025 and owns the only other career HR off Pallante. The two KC bats with the longest track record against Pallante are also the ones with the most damage in their swings.<br><br>
+<b style="color:#B8860B;">Watch:</b> Pallante's second pass through the order. His 2025 TTO2 line is .309/.487/.868 across 270 PA -- innings 4-6 are where the heavy KC bats get their cleanest look. The bullpen fork there is Romero (88.5% strand on 26 IR) versus Svanson (50.0% strand on 26). Which arm enters with traffic decides the middle frames.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Pallante vs Witt.</b> Witt is .250/.308/.500 with a HR in 13 career PA against Pallante. His 2025 vs-RHP line is .287/.341/.506. Pallante's heavy sinker meets Witt's .342 career grounder AVG -- the routine ground ball is not a safe outcome.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Kolek.</b> Burleson is already 1-for-3 with a HR against Kolek in his BvP sample and runs a 2025 .296/.353/.478 line vs RHP. Kolek's vs-LHB profile (.381 SLG, 7 HR in 251 PA) is his exploitable side; Burleson is the cleanest swing to attack it.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Pallante's middle innings.</b> Second pass through the order is Pallante's 2025 sore spot (.309/.487/.868 across 270 PA). KC's top five RHP threats -- Witt, Garcia, Pasquantino, Perez, Marte -- all carry .272+ vs-RHP lines and would see Pallante a second time in the 4th-6th window.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Kolek's home/road inversion.</b> Kolek owns a 2.24 career ERA in 72.1 IP on the road versus 5.13 at home over 40.1 IP. He pitches today in his stronger context -- the Cardinals need to push the early innings before Kolek's second-pass strength (.583 OPS allowed) takes hold.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Witt on the bases.</b> 38 SB at 80.9% in 2025. If Witt reaches first off Pallante's sinker game, second base is in play immediately. Pages's pop time and Pallante's hold-the-runner mechanics get tested.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Small-sample danger bats.</b> Marte is 5-for-7 (.714/.750/.857) and Isbel 3-for-7 (.429/.500/.714) in career PA against Pallante. Both under 10 PA so the sample is thin, but if either appears in the lineup they read as live threats.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand on 26 IR. Svanson 50.0% on 26. Graceffo 54.5% on 11. Which arm gets the call with runners on in the 6th or 7th is the highest-leverage decision of the day.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Lineup K vulnerability.</b> Five Cardinals regulars (Gorman 33.8 K%, Walker 31.8, Saggese 28.1, Church 27.7, Pages 27.5) sit above the 25% K threshold. Kolek's 2025 16.7 K% is modest, but the bottom of the order can quiet itself.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
