@@ -1,0 +1,91 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-05-20 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (28-19)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (24-24)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 2.10 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, May 20, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Mlodzinski (R) -- 4.40 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--STL 9, PIT 6</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PIT&nbsp;&nbsp;0 0 0 0 4 0 0 0 2 0 -- 6<br>
+      STL&nbsp;&nbsp;0 0 2 1 0 2 0 1 0 3 -- 9
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+A 10-inning walk-off win to open the series. STL led early on Wetherholt's 2-run HR in the 3rd, then watched the Pirates flip it in the 5th -- Reynolds doubled home Triolo and Gonzales, Cruz singled in Reynolds. Gorman's 2-run HR in the 6th and a Burleson solo HR in the 8th tied threads, and Horwitz's RBI single in the top of the 9th forced extras. In the bottom of the 10th, Ivan Herrera launched a 3-run walk-off HR scoring Scott II and Wetherholt. Liberatore: 4.2 IP, 4 ER, 9 K. Three Cardinals went deep; Burleson scored 3 times.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Profile gap on the bump. McGreevy carries a 2.10 ERA, 0.88 WHIP, and 5.8% walk rate through 9 starts. Mlodzinski sits at 4.40 ERA, 1.44 WHIP, with 49 hits allowed in 45.0 IP. McGreevy limits free baserunners; Mlodzinski lets contact land.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Bryan Reynolds. He went 1-for-4 with a 2-run double in last night's loss and carries a .320 AVG / .964 OPS in RISP situations this season -- the only Pirates bat in the active-roster pool with a .900+ RISP OPS. Switch-hitter, dangerous from either side.<br><br>
+<b style="color:#B8860B;">Watch:</b> Cardinals bullpen turnover. Six arms worked yesterday's 10-inning win (Liberatore 4.2, Graceffo 1.1, Stanek 0.2, Romero 1.1, O'Brien 1.0, Soriano 1.0). McGreevy's 0.88 WHIP suggests length, but if he doesn't go deep the same arms get tapped on back-to-back days.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Wetherholt vs Mlodzinski.</b> Wetherholt opened the series with a 2-run HR and 2 reaches and brings a .333 AVG / .952 OPS in 2026 RISP situations from the leadoff spot. Mlodzinski's 1.44 WHIP gives him chances to put the leadoff bat on base again.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Reynolds vs McGreevy.</b> Reynolds is the only Pirates bat with a .900+ RISP OPS (.320 / .964 in 63 PA). The McGreevy counter is the 0.88 WHIP and 5.8% walk rate -- keep the bases ahead of Reynolds clean and the threat dilutes to a solo shot at worst.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Pirates bullpen.</b> .339 AVG / .889 OPS in RISP across 62 PA, plus a 3-run, 2-hit, HR night yesterday. If today's game stays close late, the bench-arm pickoff target is Burleson.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pirates lineup uncertainty.</b> 13 names in the active-roster pool, no batting order projected. Reynolds, Cruz, and Ozuna are the power threats from that pool against a right-handed starter.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- McGreevy command.</b> 0.88 WHIP and 5.8% walk rate against a 7-RHB-heavy active-roster pool. A strike-thrower's matchup if McGreevy stays in the zone.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Reynolds RISP.</b> .320 AVG / .964 OPS in 63 PA. The single most dangerous Pirates bat from either side of the plate.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen back-to-back risk.</b> Six STL relievers logged outs yesterday. If McGreevy doesn't give length, Romero, Stanek, O'Brien, and Soriano are all on a one-day rest tag.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
