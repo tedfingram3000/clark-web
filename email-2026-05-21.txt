@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-05-21 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (28-20)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 12:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (25-24)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 4.81 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, May 21, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Ashcraft (R) -- 3.09 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT--PIT 7, STL 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PIT&nbsp;&nbsp;0 1 0 1 0 1 0 4 0 -- 7<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Mlodzinski blanked the Cardinals over 5.0 IP (4 H, 1 BB, 1 K) and four Pirates relievers closed the game without surrendering a run, holding STL to five hits across the night. The damage broke open in the 8th, when Svanson loaded the bag and surrendered 4 ER in 0.2 IP, turning a 3-0 game into a 7-0 final. Key performer: Pirates SS Konnor Griffin -- 4-for-5 with three runs scored, the engine of the Pittsburgh attack.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- McGreevy walk control: McGreevy issued 1 BB in 5.0 IP. Threshold: fewer than 3. 1 &lt; 3.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Mlodzinski hit total: Mlodzinski allowed 4 H in 5.0 IP. Threshold: 6+. 4 &lt; 6.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Reynolds reaches base: Reynolds went 1 H + 0 BB = 1 reach. Threshold: 2+. 1 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- STL scores in innings 1-3: Cardinals scored 0 runs in innings 1-3 (linescore 0 0 0). Threshold: 1+.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Burleson reaches base: Burleson went 1 H + 1 BB = 2 reaches. Threshold: 2+. 2 &gt;= 2.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> The Cardinals' top of the order is built for leverage. Wetherholt (.324 / .928 RISP OPS in 46 PA), Burleson (.339 / .899 in 63 PA), Walker (.278 / .922 in 65 PA), and Herrera (.257 / .858 in 49 PA) are all comfortably above the .741 league RISP OPS benchmark. After a five-hit shutout, the bats need a base-runner break, and the profile says it should come.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Bryan Reynolds is the Pirates' RISP weapon -- a .327 / .984 line in 65 PA, the top RISP OPS in the Pittsburgh lineup. He is a switch-hitter, so May cannot platoon him; the only neutralizer is putting him in low-leverage spots.<br><br>
+<b style="color:#B8860B;">Watch:</b> Ashcraft is the sharper starter on paper -- 3.09 ERA, 25.6 K%, 6.4 BB% in 55.1 IP, all comfortably ahead of the 22.1% league K-rate baseline. May's 17.1 K% and 1.42 WHIP say he survives on grounders (44.9 GB%), not whiffs. If Pittsburgh's RISP hitters get traffic against him, the Cardinals' RISP edge has to clear the higher bar of beating Ashcraft to matter.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">JJ Wetherholt vs Ashcraft.</b> Leadoff LHB and the highest RISP OPS in the Cardinals lineup (.324 / .928 in 46 PA). Ashcraft's 6.4 BB% gives little margin, but Wetherholt's .457 OBP with runners on suggests he forces the count rather than chasing.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Bryan Reynolds vs May.</b> Reynolds carries a .984 RISP OPS, the top mark in today's Pittsburgh group. May's 17.1 K% lacks the whiff to put a switch-hitter away on a mistake -- expect Reynolds to see fastballs over the plate.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs Ashcraft.</b> Walker's .922 RISP OPS in 65 PA is the cleanup leverage spot. Ashcraft is a 54.9 GB% righty -- the test is whether Walker can elevate the pitch instead of pounding it into the dirt.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Wetherholt leadoff (.324 / .928 RISP).</b> The table-setter is also the most productive bat with runners on. Watch the first turn through the order: if Wetherholt is reaching, the 2-3-4 inherits leverage.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Konnor Griffin rolling.</b> Pittsburgh's SS went 4-for-5 with three runs yesterday and is set up to repeat against a contact-heavy starter. He is one of the higher-leverage bats today regardless of where he hits.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bottom of the order drag.</b> Saggese (.158 / .411 RISP OPS in 20 PA) and Pages (.138 / .429 in 35 PA) are well below the .741 league benchmark. The 8-9 spots are unlikely to extend innings on their own.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May contact profile.</b> 17.1 K%, 7.3 BB%, 1.42 WHIP, 44.9 GB% across 48.2 IP. Against a Pirates lineup that carries four .800+ RISP OPS bats (Reynolds, Cruz, Gonzales, Horwitz), traffic on the bases is the single biggest risk.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
