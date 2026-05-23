@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs CIN 2026-05-23 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (28-21)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Great American Ball Park -- 12:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN (26-24)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 4.04 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, May 23, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Paddack (R) -- 7.07 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- CIN 0, STL 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp; -- 0<br>
+      CIN&nbsp;&nbsp; -- 0
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Friday's series opener at Great American Ball Park produced no recorded plays -- linescore and box score are empty, indicating the game did not occur as scheduled and has rolled forward. Today's matchup is a fresh Game 1 of 3, with the Cardinals turning to Andre Pallante (4-4, 4.04 ERA) opposite Chris Paddack (0-5, 7.07 ERA).
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Paddack walk total: Paddack does not appear in the opponent pitching line; the prior game has no recorded plays and the prediction rolls into today's matchup.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- STL early scoring: The Cardinals linescore is empty; no innings of scoring data are available to evaluate the 2+ runs in innings 1-3 threshold.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Lowe reaches base: Lowe does not appear in the opponent batting line; prediction rolls forward into today's slate.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Cardinals K total: The Cardinals batting line is empty; no strikeout totals are available to evaluate the 8+ threshold.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Walker reaches base: Walker does not appear in the Cardinals batting line; prediction rolls forward into today's slate.<br><br>
+<b>Hit rate: 0/0</b> -- all predictions inconclusive (no recorded plays in the prior game; predictions excluded from denominator).
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Paddack arrives 0-5, 7.07 ERA, 1.63 WHIP, with 6 HR allowed in 35.2 IP. The Cardinals' top four hitters in RISP spots -- Wetherholt .324 / .928 OPS, Herrera .257 / .858, Burleson .339 / .899, Walker .286 / .924 -- get their highest-leverage looks against a right-hander whose contact damage has been punishing.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> JJ Bleday. The Reds' left-handed bat carries a 1.289 RISP OPS on 24 PA (.421 AVG / .500 OBP / .789 SLG) -- the loudest RISP profile on either active roster. Pallante's 8.9% BB% has to keep him off base, particularly with Stewart (.255 / .574 SLG / .936 OPS on 58 RISP PA) behind him.<br><br>
+<b style="color:#B8860B;">Watch:</b> Pallante's ground-ball rate (59.6% GB%) into a hitter-leaning venue. The Reds project 8 RHB and 4 LHB plus switch-hitter Cruz from the active roster pool -- a right-handed lean that fits Pallante's pattern, but Great American's contact environment can turn weak ground-ball traffic into doubles.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs Chris Paddack.</b> Walker's .286 AVG / .924 OPS on 67 RISP PA meets a Paddack profile that has already allowed 6 HR in 35.2 IP. The cleanup bat is the right matchup to punish a 7.07-ERA arm carrying a 1.63 WHIP.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">JJ Bleday vs Andre Pallante.</b> Bleday's 1.289 RISP OPS (.421 / .500 / .789 on 24 PA) is the loudest single line on either roster. Pallante's 59.6% GB% and 18.8% K% project to keep the ball in play -- exactly the look Bleday has been crushing in scoring spots.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Wetherholt + Burleson vs Paddack.</b> The left-handed top of the order is hot with runners on -- Wetherholt .324 / .928 OPS on 46 RISP PA, Burleson .339 / .899 OPS on 63. Paddack's 1.63 WHIP keeps traffic on, and these are the two bats built to convert it.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">X-factor.</b> Sal Stewart. 58 RISP PA, .255 AVG, .574 SLG, .936 OPS -- the highest-volume right-handed slugger in the Reds' RISP sample. He is the pivot bat that turns a Bleday walk into a multi-run inning if Pallante leaves a ground ball up.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bleday's RISP work.</b> 1.289 OPS on 24 PA. Small sample but the single most dangerous bat on the Reds' roster pool with runners on -- the at-bat to game-plan around.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Paddack's first-pass damage profile.</b> 6 HR allowed in 35.2 IP at a 7.07 ERA. The Cardinals' top four (Wetherholt .324, Herrera .257, Burleson .339, Walker .286 on RISP PA) all see Paddack early before the bullpen turns the order.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante's GB game at GABP.</b> 59.6% GB% is built for big-park run prevention. Great American's hitter-leaning environment can punish weak ground-ball contact off the bat -- watch the spray angle on doubles into the gaps.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals' L2 streak.</b> Coming off back-to-back home losses to Pittsburgh (0-7 and 2-6). First game of a 3-game road set against a Reds club on a W2 streak -- the reset window.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
