@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs MIL 2026-05-25 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (29-22)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- American Family Field -- 1:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIL (30-20)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 4.70 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, May 25, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Misiorowski (R) -- 1.89 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- CIN 0, STL 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp; -- 0<br>
+      CIN&nbsp;&nbsp; -- 0
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cincinnati 0, St. Louis 0 in yesterday's series finale. The game record carries no box score, scoring plays, or inning-by-inning runs -- consistent with a suspended or unplayed contest. The Cardinals lost the series 2-1.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Singer HR allowed: Cincinnati's pitching line is not present in yesterday's game record (CIN 0, STL 0, no box score or scoring plays).<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Bleday reaches base: Cincinnati's batting line is not present in yesterday's game record.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Walker reaches base: Cardinals batting line is not present in yesterday's game record.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- STL run total: Cardinals scored 0 runs (threshold 4+). 0 &lt; 4.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Liberatore walk total: Liberatore did not appear in yesterday's pitching line; he is today's scheduled Cardinals starter, so this prediction rolled over from a prior report.<br><br>
+<b>Hit rate: 0/1 (0%)</b> -- inconclusive predictions excluded from denominator.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> When the Cardinals get traffic this afternoon, the top of the order finishes it. Wetherholt .908 OPS in 49 PA with runners in scoring position, Herrera .817 in 51 PA, Burleson .896 in 67 PA, Walker 1.026 in 73 PA -- all four top-of-order bats sit above the .734 league RISP OPS benchmark. The day's central question is how often this group sees traffic against Misiorowski.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Misiorowski is the matchup's structural problem. 1.89 ERA across 57.0 IP, 0.88 WHIP, 88 strikeouts against 18 walks, 4 HR allowed. His 39.3% K% sits well above the 22.1% league average; the 0.88 WHIP says traffic itself is rare. Against a Cardinals lineup whose starter runs 19.0% K%, the bigger risk today is at-bats without contact rather than runs per inning.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore against this Brewers lineup. 4.70 ERA, 1.55 WHIP, 9 HR in 51.2 IP -- he gives up traffic and the long ball. Bauers 1.115, Turang 1.092, Hamilton 1.068, S&aacute;nchez 1.067, Mitchell 1.013, Contreras .895 -- six Brewers regulars sit at or above .895 OPS with runners in scoring position. When Liberatore puts a baserunner in scoring position, the next at-bat is the inflection.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Walker vs Misiorowski.</b> Walker carries the Cardinals' top RISP OPS (1.026 in 73 PA). Against a 39.3% K%, 0.88 WHIP starter, Walker's right-handed bat is the cleanest path to scoring-position damage in the top of the order.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Bauers vs Liberatore.</b> Bauers's 1.115 OPS in 58 PA with runners in scoring position is the highest RISP OPS among Brewers regulars in this report. He bats left against Liberatore (LHP) -- nominally a platoon disadvantage -- but his RISP slash against a 9-HR starter is the danger spot, not the matchup type.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Herrera vs Misiorowski.</b> Herrera anchors the #2 spot between Wetherholt and Burleson with a .817 RISP OPS in 51 PA. As a right-handed bat sandwiched between two lefties, he is the platoon middle when Misiorowski works through the top of the order.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">X-factor: Lineup volatility.</b> Today's Cardinals lineup is a projection from May 24. The Brewers' alignment is drawn from the active-roster pool with no batting order. Both can shift before first pitch -- particularly the Brewers' six left-handed bats against Liberatore (LHP), where platoon-driven scratches are common.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Misiorowski third-time-through risk.</b> 39.3% K% across 57.0 IP makes the first pass and second pass through the order the high-value damage windows for the Cardinals. 2025 historical splits are unavailable for this report, so the starter line is the only handle on third-pass risk; track the order count when Misiorowski reaches the bottom of the lineup a second time.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals top-four RISP profile.</b> Wetherholt .908, Herrera .817, Burleson .896, Walker 1.026 -- all above the .734 league benchmark. Damage with runners in scoring position lives in the first four spots today.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Brewers' RISP profile vs Liberatore.</b> Bauers 1.115, Turang 1.092, Hamilton 1.068, S&aacute;nchez 1.067, Mitchell 1.013, Contreras .895 -- six Brewers regulars sit at or above .895 OPS with runners in scoring position. Liberatore's 1.55 WHIP keeps creating those moments.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals bullpen bridge.</b> Liberatore's 4.70 ERA and 1.55 WHIP usually push him out before the sixth. Romero, Stanek, Soriano, and O'Brien are the relief depth that has to cover the middle innings against this Brewers OPS profile.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
