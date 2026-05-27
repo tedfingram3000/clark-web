@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs MIL 2026-05-27 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (29-24)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- American Family Field -- 12:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIL (32-20)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 5.00 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, May 27, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Patrick (R) -- 2.63 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- MIL 6, STL 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0<br>
+      MIL&nbsp;&nbsp;0 0 0 1 5 0 0 0 0 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals scattered seven hits but never crossed the plate. Kyle Harrison was the difference for Milwaukee: 6.0 IP, 4 H, 0 R, 0 BB, 2 K. Milwaukee broke it open in innings 4-5 -- Jake Bauers homered to lead off the fourth, then William Contreras's 2-run double and Garrett Mitchell's 3-run homer turned a 1-0 game into a 6-0 lead. Michael McGreevy took the loss after 4.0 IP, 7 H, 5 ER, 3 BB.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Harrison K total: Harrison struck out 2 in 6.0 IP. Threshold: 7+. 2 &lt; 7.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals K total: Cardinals batters combined for 5 K (Wetherholt 1 + Herrera 1 + Burleson 1 + Winn 2). Threshold: 9+. 5 &lt; 9.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- McGreevy walk control: McGreevy issued 3 BB in 4.0 IP. Threshold: 2 or fewer. 3 &gt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Yelich reaches base: Yelich went 3-for-5 with 0 BB = 3 reaches. Threshold: 2+. 3 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- MIL run total: Brewers scored 6 runs. Threshold: 3+. 6 &gt;= 3.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Patrick's command profile. The 2.63 ERA looks pristine, but the 2026 rate stats tell a different story: 17.6% K% (below the league average 22.1%), 10.3% BB% (above the league average 9.3%), and 39.1% GB% (below the league average 47.5%). The walks are there if the Cardinals stay patient.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> The Brewers' RISP machine vs May's 5.00 ERA. Four of Milwaukee's projected bats sit above .950 in 2026 RISP OPS: Turang (1.102, 59 PA), Bauers (1.094, 59 PA), Mitchell (1.081, 53 PA), Contreras (.956, 66 PA). May has allowed 60 H and 5 HR in 54.0 IP with a 1.43 WHIP. Traffic feeds runs.<br><br>
+<b style="color:#B8860B;">Watch:</b> The handoff window. May (5.00 ERA, 1.43 WHIP across 10 starts) and the Brewers bullpen sit behind two starters whose game-to-game length has varied. Cardinals' best chances arrive against relief sequences -- lose the middle innings and the series is gone.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Walker vs Patrick.</b> Walker carries the lineup's best 2026 RISP profile (.302 / 1.011 OPS, 74 PA) and is the four-hole right-handed power threat. Patrick has surrendered only 2 HR in 41.0 IP, but a 10.3% BB% means the cleanup at-bats arrive with men on base.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Wetherholt vs Patrick.</b> Cardinals leadoff with a .316 / .887 RISP line (50 PA). The top-of-order at-bats set the tone -- if Patrick walks Wetherholt, Herrera (.781 RISP OPS) and Burleson (.869 RISP OPS) follow.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">May vs the Brewers' RISP core.</b> Turang (1.102), Bauers (1.094), Mitchell (1.081), Contreras (.956) -- the cluster that combined for all six runs yesterday now sees a 5.00 ERA right-hander. Yelich (.819) and Hamilton (.964) round out the danger.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Patrick walk rate.</b> 10.3% BB% across 41.0 IP. League average is 9.3%. The Cardinals must turn baserunners into runs -- Walker (1.011 RISP OPS) is the bat to bring up with men on.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Brewers RISP cluster.</b> Four bats above .950 RISP OPS: Turang 1.102, Bauers 1.094, Mitchell 1.081, Contreras .956. May's 1.43 WHIP feeds the situation.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals offense vs RHP.</b> Lineup is 5 RHB / 4 LHB against right-hander Patrick. The right-handed core -- Herrera, Walker, Winn, Saggese, Pagés -- carries the platoon edge this afternoon.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Series stakes.</b> MIL leads 2-0 in a 3-game set with the Cardinals on a 3-game losing streak. A win today is sweep-avoidance.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
