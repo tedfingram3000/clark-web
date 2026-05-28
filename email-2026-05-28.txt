@@ -1,0 +1,60 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-05-28 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (29-25)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NEXT: CHC</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- MIL 2, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 1 0 0 0 0 0 -- 1<br>
+      MIL&nbsp;&nbsp;0 0 0 0 0 0 0 2 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals dropped the finale 2-1 and were swept 0-3 at American Family Field. May was outstanding across seven innings (2 H, 1 ER, 0 BB, 9 K), but the bullpen surrendered both Milwaukee runs in the bottom of the 8th: Yelich singled in Mitchell, then Frelick scored on a fielding error by Winn on a Chourio grounder. Walker (2-for-4, scored the lone run) and Torres (RBI triple in the 4th) carried the offense -- the rest of the lineup combined for five singles and a walk.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Patrick walk trouble: Patrick issued 1 BB in 4.0 IP. Needed 3+. 1 &lt; 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals K total: Cardinals batters combined for 8 K (0+0+1+0+2+1+1+1+1+1). Threshold: 8+. 8 &gt;= 8.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Brewers run total: Brewers scored 2 runs. Needed 4+. 2 &lt; 4.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Walker reaches base: Walker went 2-for-4 with 0 BB (2 H + 0 BB = 2 reaches). Threshold: 2+. 2 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- May walk total: May issued 0 BB in 7.0 IP. Needed 2+. 0 &lt; 2.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+Cardinals off day. No scout report today. Next game: May 29 vs Chicago Cubs at Busch Stadium (7:15 PM ET / 6:15 PM CT) -- opener of a three-game set with the Cubs, who sit a half-game ahead of St. Louis in the NL Central at 30-26.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
