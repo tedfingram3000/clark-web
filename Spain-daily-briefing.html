@@ -144,6 +144,22 @@ a.map{
 }
 a.map::after{content:" \2197";font-size:.78em;opacity:.7}
 
+/* weather */
+.wx{
+  background:linear-gradient(180deg,rgba(63,100,128,.08),rgba(63,100,128,.03));
+  border:1px solid rgba(63,100,128,.22);border-radius:12px;
+  padding:11px 13px;margin:16px 0 2px;
+}
+.wx-head{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:8px}
+.wx-lbl{font-size:10px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--sky)}
+.wx-range{font-size:12px;font-weight:600;color:var(--ink);white-space:nowrap}
+.wx-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.wx-cell{text-align:center;background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:6px 4px}
+.wx-cell .t{display:block;font-size:9px;letter-spacing:.05em;text-transform:uppercase;color:var(--ink-soft);font-weight:600}
+.wx-cell .v{display:block;font-size:12.5px;font-weight:600;margin-top:2px}
+.wx-cell .r{display:block;font-size:10.5px;color:var(--sky);margin-top:1px;min-height:13px}
+.wx-note{font-size:9.5px;color:var(--ink-soft);margin-top:7px;text-align:right}
+
 /* sections */
 .sec{margin-top:18px}
 .sec h4{
@@ -251,6 +267,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="40.4168" data-lon="-3.7038" data-date="2026-06-01">
+        <div class="wx-head"><span class="wx-lbl">Weather · Madrid</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Land</b><span>9:05 AM · Barajas T4</span><small>From overnight AA 36</small></div>
         <div class="item"><b>Hotel</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hyatt%20Centric%20Gran%20Via%20Madrid">Hyatt Centric Gran Vía</a></span><small>Gran Vía 31 · check-in 3 PM (early requested)</small></div>
@@ -293,6 +318,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="40.4168" data-lon="-3.7038" data-date="2026-06-02">
+        <div class="wx-head"><span class="wx-lbl">Weather · Madrid</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Dinner</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Sobrino%20de%20Botin%20Madrid">Sobrino de Botín</a> · 8 PM</span><small>World's oldest restaurant (1725) · roast suckling pig</small></div>
         <div class="item"><b>Daytime</b><span>Wide open</span><small>Your one fully free Madrid day</small></div>
@@ -332,6 +366,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="40.4168" data-lon="-3.7038" data-date="2026-06-03">
+        <div class="wx-head"><span class="wx-lbl">Weather · Madrid</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Noon</b><span>Solemn Changing of the Guard</span><small><a class="map" href="https://www.google.com/maps/search/?api=1&query=Palacio%20Real%20de%20Madrid">Royal Palace</a> · 1st Wed of month · free</small></div>
         <div class="item"><b>7 PM</b><span>Bullfight · <a class="map" href="https://www.google.com/maps/search/?api=1&query=Plaza%20de%20Toros%20de%20Las%20Ventas">Las Ventas</a></span><small>San Isidro · 6 Lagunajanda bulls · ~2h</small></div>
@@ -353,14 +396,14 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
 
       <div class="sec">
-        <h4>Bullfight — seating you've researched</h4>
+        <h4>Bullfight — the seating layout</h4>
         <ul>
-          <li><b>Best first-timer seat:</b> Tendido Preferente (Shade) €96.80–€238.70 — close, padded, always shaded.</li>
-          <li><b>Value shade:</b> sections 1, 2, 9, 10 from €33 (higher rows).</li>
-          <li><b>Budget:</b> Sol sections 5–7 from €20.50 — full sun, but bearable at a 7 PM June start.</li>
-          <li>Buy via the official <b>Plaza 1 / Janto</b> site only. Avoid lasventas.com (expired/parked).</li>
+          <li><b>Sombra (shade)</b> is the premium side — sections 1, 2, 9, 10, plus Tendido Preferente (padded seats, most legroom).</li>
+          <li><b>Sol y Sombra</b> (sections 3, 8) starts sunny, shade arrives partway through.</li>
+          <li><b>Sol (sun)</b> sections 5–7 are full sun — but bearable at a 7 PM June start.</li>
+          <li>Lower rows (Tendido) are closest to the ring; Grada and Andanada climb higher.</li>
         </ul>
-        <div class="note"><b>If tickets aren't yet bought —</b> this is the one item that can sell out. Lock seats before the day. It's a San Isidro corrida, the prestige season.</div>
+        <div class="tip"><b>Find your section number on the ticket</b> and match it above so you know whether you're in sun or shade — and bring a hat if you're on the sol side.</div>
       </div>
 
       <div class="sec">
@@ -385,6 +428,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="42.7806" data-lon="-7.4140" data-date="2026-06-04">
+        <div class="wx-head"><span class="wx-lbl">Weather · Sarria</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Checkout</b><span>Hyatt by 12:00</span><small>Confirmation #29501680</small></div>
         <div class="item"><b>Train</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Madrid%20Chamartin%20station">Chamartín</a> 13:20 → Sarria 17:32</span><small>Alvia · Car 8 · 5A/5B · loc RXF4WD</small></div>
@@ -435,6 +487,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="42.8072" data-lon="-7.6156" data-date="2026-06-05">
+        <div class="wx-head"><span class="wx-lbl">Weather · Portomarín</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Walk</b><span>22 km / 14 mi</span><small>Longest day of the week</small></div>
         <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20Ferramenteiro%20Portomarin">Hotel Ferramenteiro</a>, Portomarín</span><small>982 545 361</small></div>
@@ -463,6 +524,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="42.8736" data-lon="-7.8689" data-date="2026-06-06">
+        <div class="wx-head"><span class="wx-lbl">Weather · Palas de Rei</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Walk</b><span>18 km / 12 mi</span></div>
         <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hosteria%20Calixtino%20Lestedo%20Palas%20de%20Rei">Hostería Calixtino</a>, Lestedo</span><small>670 500 900 (Palas de Rei area)</small></div>
@@ -490,6 +560,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="42.9143" data-lon="-8.0146" data-date="2026-06-07">
+        <div class="wx-head"><span class="wx-lbl">Weather · Melide</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Walk</b><span>23 km / 14 mi</span><small>Joint-longest day</small></div>
         <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20Lux%20Melide">Hotel Lux Melide</a></span><small>981 505 417</small></div>
@@ -516,6 +595,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="42.9300" data-lon="-8.1600" data-date="2026-06-08">
+        <div class="wx-head"><span class="wx-lbl">Weather · Arzúa</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Walk</b><span>14 km / 9 mi</span><small>Shortest walking day</small></div>
         <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20Arzua">Hotel Arzúa</a></span><small>689 969 996</small></div>
@@ -542,6 +630,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="42.9070" data-lon="-8.3620" data-date="2026-06-09">
+        <div class="wx-head"><span class="wx-lbl">Weather · O Pedrouzo</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Walk</b><span>18 km / 11 mi</span></div>
         <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20O%20Pino%20Pedrouzo">Hotel O Pino</a>, Pedrouzo</span><small>981 511 035</small></div>
@@ -568,6 +665,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="42.8805" data-lon="-8.5457" data-date="2026-06-10">
+        <div class="wx-head"><span class="wx-lbl">Weather · Santiago</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Walk</b><span>20 km / 12 mi</span><small>The final stage</small></div>
         <div class="item"><b>Arrive</b><span>Santiago de Compostela</span></div>
@@ -603,6 +709,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="42.8805" data-lon="-8.5457" data-date="2026-06-11">
+        <div class="wx-head"><span class="wx-lbl">Weather · Santiago</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>9:30 AM</b><span>Old-town + Cathedral tour</span><small>Tour Galicia guide · hotel lobby</small></div>
         <div class="item"><b>Noon</b><span>Pilgrim's Mass</span><small>Tour ends here</small></div>
@@ -631,6 +746,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="42.9083" data-lon="-9.2640" data-date="2026-06-12">
+        <div class="wx-head"><span class="wx-lbl">Weather · Finisterre</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Free day</b><span>No fixed plans</span><small>Best slot for the Finisterre trip</small></div>
         <div class="item"><b>Sleep</b><span>Hotel Compostela</span></div>
@@ -664,6 +788,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="42.8805" data-lon="-8.5457" data-date="2026-06-13">
+        <div class="wx-head"><span class="wx-lbl">Weather · Santiago</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Train</b><span>Santiago 10:49 → <a class="map" href="https://www.google.com/maps/search/?api=1&query=Madrid%20Chamartin%20station">Chamartín</a> 14:15</span><small>AVLO · Car 3 · 6A/5A · loc XV7SRV</small></div>
         <div class="item"><b>Hotel</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hyatt%20Centric%20Gran%20Via%20Madrid">Hyatt Centric Gran Vía</a></span><small>Conf #65102470 · 2 twin beds · check-in 3 PM</small></div>
@@ -692,6 +825,15 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
     </div>
     <div class="day-body">
+      <div class="wx" data-lat="40.4168" data-lon="-3.7038" data-date="2026-06-14">
+        <div class="wx-head"><span class="wx-lbl">Weather · Madrid</span><span class="wx-range" data-range>—</span></div>
+        <div class="wx-grid">
+          <div class="wx-cell"><span class="t">Morning</span><span class="v" data-m>—</span><span class="r" data-mr></span></div>
+          <div class="wx-cell"><span class="t">Afternoon</span><span class="v" data-a>—</span><span class="r" data-ar></span></div>
+          <div class="wx-cell"><span class="t">Evening</span><span class="v" data-e>—</span><span class="r" data-er></span></div>
+        </div>
+        <div class="wx-note" data-note>Forecast loads when online</div>
+      </div>
       <div class="logi">
         <div class="item"><b>Checkout</b><span>Hyatt by 12:00</span></div>
         <div class="item"><b>Flight</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Madrid%20Barajas%20Airport%20Terminal%204">MAD</a> 12:40 PM → DFW 4:30 PM</span><small>AA 37 · Term 4 · 18B/18A · SBABJA</small></div>
@@ -758,6 +900,45 @@ btns.forEach(b=>{
     window.scrollTo({top:0,behavior:'smooth'});
   });
 });
+
+// live weather (Open-Meteo, no key) — auto-updates on open, caches for offline
+function cToF(c){return Math.round(c*9/5+32);}
+function wxPaint(box,x,cached){
+  box.dataset.painted='1';
+  const q=s=>box.querySelector(s);
+  q('[data-range]').textContent=`L ${x.lo.f}°/${x.lo.c}°  ·  H ${x.hi.f}°/${x.hi.c}°`;
+  const set=(s,o)=>q(s).textContent=`${o.f}°/${o.c}°`;
+  set('[data-m]',x.m);set('[data-a]',x.a);set('[data-e]',x.e);
+  q('[data-mr]').textContent=x.m.r!=null?`☂ ${x.m.r}%`:'';
+  q('[data-ar]').textContent=x.a.r!=null?`☂ ${x.a.r}%`:'';
+  q('[data-er]').textContent=x.e.r!=null?`☂ ${x.e.r}%`:'';
+  const note=q('[data-note]');
+  if(note) note.textContent=cached?'°F/°C · last saved offline · tap to refresh':'°F/°C · rain % · updated · tap to refresh';
+}
+function wxExtract(d){
+  const t=d.hourly.temperature_2m,p=d.hourly.precipitation_probability;
+  const pick=h=>({c:Math.round(t[h]),f:cToF(t[h]),r:p[h]});
+  return {m:pick(9),a:pick(15),e:pick(20),
+    hi:{c:Math.round(d.daily.temperature_2m_max[0]),f:cToF(d.daily.temperature_2m_max[0])},
+    lo:{c:Math.round(d.daily.temperature_2m_min[0]),f:cToF(d.daily.temperature_2m_min[0])}};
+}
+async function wxLoad(box){
+  if(box.dataset.manual==='1') return; // hand-edited values: leave alone
+  const {lat,lon,date}=box.dataset, note=box.querySelector('[data-note]'), ck='wx:'+lat+':'+date;
+  try{const c=localStorage.getItem(ck); if(c) wxPaint(box,JSON.parse(c),true);}catch(e){}
+  try{
+    const url=`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&hourly=temperature_2m,precipitation_probability&daily=temperature_2m_max,temperature_2m_min&timezone=Europe%2FMadrid&start_date=${date}&end_date=${date}`;
+    const r=await fetch(url); if(!r.ok) throw 0;
+    const d=await r.json();
+    if(!d.daily||d.daily.temperature_2m_max[0]==null){ if(note&&!box.dataset.painted) note.textContent='Forecast available closer to the date'; return; }
+    const data=wxExtract(d);
+    try{localStorage.setItem(ck,JSON.stringify(data));}catch(e){}
+    wxPaint(box,data,false);
+  }catch(e){
+    if(note&&!box.dataset.painted) note.textContent='No signal — forecast unavailable';
+  }
+}
+document.querySelectorAll('.wx').forEach(b=>{ b.addEventListener('click',()=>wxLoad(b)); wxLoad(b); });
 </script>
 </body>
 </html>
