@@ -1,0 +1,71 @@
+<!-- 700 Clark Email Block -- STL vs CHC 2026-05-29 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (29-25)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 6:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (31-26)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.76 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, May 29, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Imanaga (L) -- 4.04 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Pallante's ground-ball game. 59.3% GB rate well above the 47.4% league average, paired with a 1.25 WHIP and 7 HR allowed across 55.0 IP -- contact stays on the ground and largely in the park. Against a Cubs lineup carrying four left-handed bats (Busch, Conforto, Ballesteros, Crow-Armstrong), early double plays are in play.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Imanaga's command vs the Cardinals' four left-handed hitters. 25.7% K rate (above the 22.1% league average), 6.5% BB rate (well below the 9.3% league mark). Wetherholt, Burleson, Gorman, and Church take the platoon disadvantage tonight, and the Cardinals come home on a four-game losing streak after scoring 1, 0, and 1 runs across the three-game Milwaukee set.<br><br>
+<b style="color:#B8860B;">Watch:</b> Pete Crow-Armstrong vs Pallante. PCA's 2026 RISP line: .296/.371/.463/.834 across 62 PA -- the Cubs' most productive RISP threat. He bats left vs the right-handed Pallante -- platoon edge to the hitter. Limit the baserunners in front of him and PCA stays a single-run problem rather than a multi-run inning.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Walker vs Imanaga.</b> Walker's 1.011 OPS with runners in scoring position (74 PA, .302/.392/.619) is the Cardinals' highest-impact RISP profile. He bats right vs the left-handed Imanaga -- platoon edge to the hitter. If Burleson reaches in front of him, Walker's spot is the clearest multi-run inning path the Cardinals have.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Pallante vs Crow-Armstrong.</b> PCA's 2026 RISP line of .296/.371/.463/.834 across 62 PA is the Cubs' top RISP threat. He bats left vs the right-handed Pallante -- platoon edge to the hitter. Pallante's counter is the 59.3% GB rate; the at-bat ends in a double-play ball or escalates the inning.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Wetherholt vs Imanaga.</b> Wetherholt leads off as a left-handed bat -- platoon disadvantage vs the lefty. His .431 OBP with RISP (51 PA) shows the discipline is there, but Imanaga's 25.7% K rate and 6.5% BB rate close the cheap-baserunner lane. First-inning at-bats set the tone for whether the Cardinals work counts or chase.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Four-game losing streak.</b> May 25-27 in Milwaukee: 1 run, 0 runs, 1 run scored. The offense is in a drought. Friday is the reset window at home.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Imanaga K rate vs Cardinals LHB.</b> 25.7% K rate is above the 22.1% league average. Wetherholt, Burleson, Gorman, and Church all take the platoon disadvantage. The five right-handed bats -- Herrera, Walker, Winn, Saggese, Pagés -- carry tonight's offense.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante's ground-ball script.</b> 59.3% GB% is well above the 47.4% league average. Watch for early double plays against the Cubs' left-handed contact bats (Busch, Conforto, Ballesteros, Crow-Armstrong).
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
