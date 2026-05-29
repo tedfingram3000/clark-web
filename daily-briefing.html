@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Camino Daily Briefing · June 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Spline+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#241c14;
+  --ink-soft:#5a4d3e;
+  --cream:#f4ece0;
+  --cream-deep:#ebe0cf;
+  --paper:#fbf6ee;
+  --rust:#b4521f;
+  --rust-deep:#8c3d14;
+  --gold:#c08a2d;
+  --moss:#5b6b3a;
+  --sky:#3f6480;
+  --line:rgba(60,46,30,.14);
+  --shadow:0 1px 2px rgba(60,46,30,.06),0 8px 24px -12px rgba(60,46,30,.22);
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Spline Sans',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+  background:var(--cream);
+  color:var(--ink);
+  line-height:1.55;
+  padding-bottom:90px;
+  background-image:radial-gradient(circle at 12% 8%,rgba(192,138,45,.06),transparent 40%),radial-gradient(circle at 88% 92%,rgba(180,82,31,.05),transparent 45%);
+}
+.wrap{max-width:680px;margin:0 auto;padding:0 18px}
+
+/* ---- Header ---- */
+header{
+  padding:34px 0 22px;
+  text-align:center;
+  position:relative;
+}
+.kicker{
+  font-size:11px;letter-spacing:.32em;text-transform:uppercase;
+  color:var(--rust);font-weight:600;margin-bottom:10px;
+}
+header h1{
+  font-family:'Fraunces',Georgia,'Times New Roman',serif;font-weight:500;
+  font-size:clamp(32px,9vw,46px);line-height:1.02;
+  letter-spacing:-.01em;
+}
+header h1 em{font-style:italic;color:var(--rust)}
+.subhead{
+  margin-top:12px;color:var(--ink-soft);font-size:14px;
+  display:flex;gap:8px;justify-content:center;flex-wrap:wrap;align-items:center;
+}
+.subhead .dot{width:3px;height:3px;border-radius:50%;background:var(--gold)}
+
+/* ---- Quick reference bar ---- */
+.refbar{
+  display:grid;grid-template-columns:repeat(2,1fr);gap:8px;
+  margin:18px 0 6px;
+}
+.refcard{
+  background:var(--paper);border:1px solid var(--line);border-radius:14px;
+  padding:11px 13px;box-shadow:var(--shadow);
+}
+.refcard .lbl{font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--rust);font-weight:600}
+.refcard .val{font-size:13px;font-weight:500;margin-top:3px;line-height:1.35}
+.refcard .val small{display:block;color:var(--ink-soft);font-weight:400;font-size:11.5px}
+
+/* ---- Phase tabs ---- */
+.phases{
+  position:sticky;top:0;z-index:40;
+  margin:18px -18px 0;padding:10px 18px;
+  background:rgba(244,236,224,.86);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--line);
+  display:flex;gap:7px;overflow-x:auto;scrollbar-width:none;
+}
+.phases::-webkit-scrollbar{display:none}
+.phase-btn{
+  flex:0 0 auto;font-family:'Spline Sans';font-size:12.5px;font-weight:600;
+  padding:7px 14px;border-radius:999px;border:1px solid var(--line);
+  background:var(--paper);color:var(--ink-soft);cursor:pointer;
+  letter-spacing:.01em;transition:.18s;
+}
+.phase-btn.active{background:var(--ink);color:var(--cream);border-color:var(--ink)}
+
+/* ---- Day cards ---- */
+.day{
+  background:var(--paper);border:1px solid var(--line);border-radius:18px;
+  margin-top:14px;overflow:hidden;box-shadow:var(--shadow);
+}
+.day-head{
+  display:flex;align-items:center;gap:14px;padding:16px 18px;cursor:pointer;
+  position:relative;
+}
+.day-head::after{
+  content:"";position:absolute;right:18px;top:50%;width:9px;height:9px;
+  border-right:2px solid var(--ink-soft);border-bottom:2px solid var(--ink-soft);
+  transform:translateY(-65%) rotate(45deg);transition:.25s;opacity:.6;
+}
+.day.open .day-head::after{transform:translateY(-35%) rotate(225deg)}
+.daynum{
+  flex:0 0 auto;width:50px;height:50px;border-radius:13px;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  background:var(--cream-deep);border:1px solid var(--line);
+}
+.daynum .d{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-size:21px;font-weight:600;line-height:1}
+.daynum .m{font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--rust);margin-top:2px;font-weight:600}
+.day-title{flex:1;min-width:0;padding-right:18px}
+.day-title h3{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-weight:500;font-size:17px;line-height:1.15}
+.day-title .where{font-size:12px;color:var(--ink-soft);margin-top:3px;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.pill{
+  display:inline-block;font-size:10px;font-weight:600;letter-spacing:.04em;
+  padding:2px 8px;border-radius:999px;text-transform:uppercase;
+}
+.pill.walk{background:rgba(91,107,58,.14);color:var(--moss)}
+.pill.city{background:rgba(63,100,128,.14);color:var(--sky)}
+.pill.transit{background:rgba(192,138,45,.16);color:var(--rust-deep)}
+.pill.km{background:var(--ink);color:var(--cream)}
+
+.day-body{display:none;padding:0 18px 18px;border-top:1px solid var(--line)}
+.day.open .day-body{display:block;animation:fade .3s ease}
+@keyframes fade{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:none}}
+
+/* logistics strip */
+.logi{
+  display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 4px;
+}
+.logi .item{
+  background:var(--cream);border:1px solid var(--line);border-radius:10px;
+  padding:8px 11px;font-size:12px;flex:1 1 auto;min-width:120px;
+}
+.logi .item b{display:block;font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--rust);font-weight:600;margin-bottom:2px}
+.logi .item span{font-weight:500}
+.logi .item small{color:var(--ink-soft);font-weight:400}
+
+/* sections */
+.sec{margin-top:18px}
+.sec h4{
+  font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;
+  color:var(--rust);margin-bottom:9px;display:flex;align-items:center;gap:8px;
+}
+.sec h4::before{content:"";width:14px;height:1.5px;background:var(--gold)}
+.sec p{font-size:14px;color:var(--ink);margin-bottom:8px}
+.sec ul{list-style:none;display:flex;flex-direction:column;gap:7px}
+.sec li{
+  font-size:13.5px;padding-left:18px;position:relative;color:var(--ink);
+}
+.sec li::before{content:"";position:absolute;left:2px;top:8px;width:5px;height:5px;border-radius:50%;background:var(--rust);opacity:.65}
+.sec li b{font-weight:600}
+.note{
+  background:linear-gradient(180deg,rgba(180,82,31,.07),rgba(180,82,31,.03));
+  border:1px solid rgba(180,82,31,.2);border-left:3px solid var(--rust);
+  border-radius:10px;padding:10px 12px;font-size:13px;margin-top:8px;
+}
+.note b{color:var(--rust-deep)}
+.tip{
+  background:rgba(91,107,58,.08);border:1px solid rgba(91,107,58,.22);
+  border-left:3px solid var(--moss);border-radius:10px;padding:10px 12px;
+  font-size:13px;margin-top:8px;
+}
+.tip b{color:var(--moss)}
+
+/* section divider title */
+.chapter{
+  text-align:center;margin:30px 0 4px;
+}
+.chapter .ln{height:1px;background:var(--line);margin:0 0 14px}
+.chapter h2{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style:italic;font-weight:400;font-size:24px}
+.chapter span{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--rust);font-weight:600;display:block;margin-top:4px}
+
+/* footer reference */
+.fref{margin-top:26px;background:var(--ink);color:var(--cream);border-radius:18px;padding:20px;box-shadow:var(--shadow)}
+.fref h3{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-weight:500;font-size:19px;margin-bottom:14px}
+.fref .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px 16px}
+.fref .it{font-size:12.5px}
+.fref .it b{display:block;font-size:9.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--gold);margin-bottom:2px;font-weight:600}
+.fref .it a{color:var(--cream);text-decoration:none;border-bottom:1px solid rgba(244,236,224,.3)}
+.fref .full{grid-column:1/-1}
+
+.legend{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:14px;font-size:11px;color:var(--ink-soft)}
+.legend span{display:inline-flex;gap:5px;align-items:center}
+.swatch{width:18px;height:10px;border-radius:3px;display:inline-block}
+
+footer.foot{text-align:center;padding:24px 0 4px;color:var(--ink-soft);font-size:11.5px}
+footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style:italic}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="kicker">Daily Field Briefing</div>
+    <h1>Madrid &amp; the <em>Camino</em></h1>
+    <div style="margin-top:10px;font-size:12px;color:var(--ink-soft);background:rgba(192,138,45,.1);border:1px solid rgba(192,138,45,.3);border-radius:10px;padding:8px 12px;display:inline-block">
+      Tap any day to expand · use the tabs to jump to Madrid, the Walk, or Santiago
+    </div>
+    <div class="subhead">
+      <span>Margaret Cervin</span><span class="dot"></span>
+      <span>Robert Axley</span><span class="dot"></span>
+      <span>May 31 – June 14, 2026</span>
+    </div>
+
+    <div class="refbar">
+      <div class="refcard">
+        <div class="lbl">Outbound</div>
+        <div class="val">AA 36 · DFW→MAD <small>May 31, 4:40 PM → Jun 1, 9:05 AM · Term 4 · 27J/27K · SBABJA</small></div>
+      </div>
+      <div class="refcard">
+        <div class="lbl">Return</div>
+        <div class="val">AA 37 · MAD→DFW <small>Jun 14, 12:40 PM → 4:30 PM · Term 4 · 18B/18A · SBABJA</small></div>
+      </div>
+      <div class="refcard">
+        <div class="lbl">Insurance</div>
+        <div class="val">Generali GGA300 <small>Plan #26144W0849 · both insured · 24h line +1 877 243 4135</small></div>
+      </div>
+      <div class="refcard">
+        <div class="lbl">Tour Operator</div>
+        <div class="val">Fresco Tours <small>+34 94 424 89 89 · after-hrs +34 688 740 798</small></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="phases" id="phases">
+    <button class="phase-btn active" data-f="all">All Days</button>
+    <button class="phase-btn" data-f="city">Madrid</button>
+    <button class="phase-btn" data-f="walk">The Walk</button>
+    <button class="phase-btn" data-f="santiago">Santiago</button>
+  </div>
+
+  <!-- ============ MADRID ============ -->
+  <div class="chapter" data-phase="city"><div class="ln"></div><h2>Madrid</h2><span>June 1 – 4 · Hyatt Centric Gran Vía</span></div>
+
+  <!-- JUNE 1 -->
+  <div class="day" data-phase="city">
+    <div class="day-head">
+      <div class="daynum"><span class="d">1</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Arrival &amp; first night out</h3>
+        <div class="where"><span class="pill transit">Arrive</span><span class="pill city">Madrid</span> Land 9:05 AM · La Carmencita 8 PM</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Land</b><span>9:05 AM · Barajas T4</span><small>From overnight AA 36</small></div>
+        <div class="item"><b>Hotel</b><span>Hyatt Centric Gran Vía</span><small>Gran Vía 31 · check-in 3 PM (early requested)</small></div>
+        <div class="item"><b>Dinner</b><span>Taberna La Carmencita · 8 PM</span><small>Under "Cervin" · 1h45 table limit</small></div>
+      </div>
+
+      <div class="sec">
+        <h4>The shape of the day</h4>
+        <p>You land jet-lagged with hours to kill before the 3 PM room. The art of day one is staying upright until a normal bedtime — light activity, daylight, no long horizontal naps.</p>
+      </div>
+
+      <div class="sec">
+        <h4>Options &amp; ins/outs</h4>
+        <ul>
+          <li><b>Bags before check-in:</b> the Hyatt will hold luggage if the room isn't ready. Drop bags, then walk — don't sit.</li>
+          <li><b>Bus tour</b> (in your notes): the hop-on Madrid City Tour has a stop near Gran Vía / Plaza España. A loop is the lowest-effort way to stay awake and oriented while horizontal-adjacent.</li>
+          <li><b>Gentle alternative:</b> Retiro Park is a 20-min walk — flat, green, easy to bail from. The Book Fair (Feria del Libro) runs along the Paseo de Coches if it's still on.</li>
+          <li><b>La Carmencita</b> is on C/ Libertad in Chueca, ~15 min walk or short taxi from the hotel. It's one of Madrid's oldest taverns (1854) — your "second oldest restaurant" plan.</li>
+        </ul>
+      </div>
+
+      <div class="sec">
+        <h4>Concerns</h4>
+        <div class="note"><b>Don't nap past ~3 PM</b> and not more than 45 min. The 8 PM reservation is your anchor to reset to Spanish time.</div>
+        <div class="tip"><b>Cash:</b> hit an ATM in T4 arrivals or near the hotel — take €100 notes or smaller (Fresco's advice). Tell your bank you're in Spain so the first charge doesn't freeze the card.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 2 -->
+  <div class="day" data-phase="city">
+    <div class="day-head">
+      <div class="daynum"><span class="d">2</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Madrid at full speed</h3>
+        <div class="where"><span class="pill city">Madrid</span> Open day · Botín 8 PM</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Dinner</b><span>Sobrino de Botín · 8 PM</span><small>World's oldest restaurant (1725) · roast suckling pig</small></div>
+        <div class="item"><b>Daytime</b><span>Wide open</span><small>Your one fully free Madrid day</small></div>
+      </div>
+
+      <div class="sec">
+        <h4>The shape of the day</h4>
+        <p>Your only unscheduled full day in Madrid. Worth a loose plan so it doesn't evaporate. 8 PM at Botín is early by local standards (locals eat 9:30–10:30) — which is good, it leaves the evening open after.</p>
+      </div>
+
+      <div class="sec">
+        <h4>Options — pick a lane</h4>
+        <ul>
+          <li><b>Art morning:</b> the Golden Triangle — Prado, Reina Sofía (Guernica), Thyssen — all within 10 min of each other. Pick one; don't try all three. Prado is free 6–8 PM but that clashes with Botín.</li>
+          <li><b>PHotoESPAÑA 2026:</b> the photography festival is opening now across Reina Sofía, CaixaForum, Círculo de Bellas Artes. Low-cost, atmospheric, very Madrid-in-June.</li>
+          <li><b>Royal core:</b> Royal Palace + Almudena Cathedral + Plaza Mayor, then drift to La Latina for tapas. This also pre-walks tomorrow's Changing of the Guard ground.</li>
+          <li><b>Rooftop hour:</b> Círculo de Bellas Artes azotea or the Riu rooftop at Plaza España for the late golden light before dinner.</li>
+        </ul>
+      </div>
+
+      <div class="sec">
+        <h4>Concerns &amp; ins/outs</h4>
+        <div class="note"><b>Botín books out.</b> Confirm the reservation is held and arrive on time — they seat the famous cochinillo (suckling pig) and cordero (lamb) from the original wood oven. It's the signature; order it.</div>
+        <div class="tip"><b>Pace it:</b> tomorrow is your biggest Madrid day (guard + bullfight). Keep tonight from running too late.</div>
+        <div class="tip"><b>Heat:</b> June Madrid afternoons run hot and dry. Do museums/indoor 1–5 PM, save streets for morning and evening.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 3 -->
+  <div class="day" data-phase="city">
+    <div class="day-head">
+      <div class="daynum"><span class="d">3</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Guard, bullfight &amp; the market</h3>
+        <div class="where"><span class="pill city">Madrid</span> Guard noon · Las Ventas 7 PM</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Noon</b><span>Solemn Changing of the Guard</span><small>Royal Palace · 1st Wed of month · free</small></div>
+        <div class="item"><b>7 PM</b><span>Bullfight · Las Ventas</span><small>San Isidro · 6 Lagunajanda bulls · ~2h</small></div>
+        <div class="item"><b>Also</b><span>Mercado de San Miguel</span><small>Tapas market near Plaza Mayor</small></div>
+      </div>
+
+      <div class="sec">
+        <h4>The shape of the day</h4>
+        <p>Two ticketed/timed anchors at opposite ends of the day with a long free afternoon between. Morning = palace. Afternoon = rest/market. Evening = Las Ventas.</p>
+      </div>
+
+      <div class="sec">
+        <h4>Changing of the Guard — ins/outs</h4>
+        <ul>
+          <li>The <b>solemn</b> ceremony (full band, cavalry) happens the first Wednesday monthly — June 3 qualifies. Far bigger than the weekly change.</li>
+          <li>Arrive by <b>11:30</b> for a spot along the Palacio Real / Plaza de la Armería railings. It runs ~30 min.</li>
+          <li>It's outdoors and sunny — hat, water.</li>
+        </ul>
+      </div>
+
+      <div class="sec">
+        <h4>Bullfight — seating you've researched</h4>
+        <ul>
+          <li><b>Best first-timer seat:</b> Tendido Preferente (Shade) €96.80–€238.70 — close, padded, always shaded.</li>
+          <li><b>Value shade:</b> sections 1, 2, 9, 10 from €33 (higher rows).</li>
+          <li><b>Budget:</b> Sol sections 5–7 from €20.50 — full sun, but bearable at a 7 PM June start.</li>
+          <li>Buy via the official <b>Plaza 1 / Janto</b> site only. Avoid lasventas.com (expired/parked).</li>
+        </ul>
+        <div class="note"><b>If tickets aren't yet bought —</b> this is the one item that can sell out. Lock seats before the day. It's a San Isidro corrida, the prestige season.</div>
+      </div>
+
+      <div class="sec">
+        <h4>Afternoon &amp; after</h4>
+        <ul>
+          <li><b>Mercado de San Miguel</b> (your note): touristy but fun for grazing — go off-peak (3–5 PM) to dodge crowds, or after the bullfight if you want late bites.</li>
+          <li>Las Ventas is on Line 2 (metro Ventas), ~15 min from center. Taxi back after dark is easy.</li>
+          <li><b>Optional late:</b> Noches del Botánico concert series may have an opening night near this date.</li>
+        </ul>
+        <div class="tip"><b>Pack tonight.</b> Tomorrow is a travel day to Sarria and the Camino begins. Your big bag gets transferred hotel-to-hotel on the walk — but you need walking kit accessible.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 4 -->
+  <div class="day" data-phase="city walk">
+    <div class="day-head">
+      <div class="daynum"><span class="d">4</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Train to Sarria · the Camino begins</h3>
+        <div class="where"><span class="pill transit">Train</span><span class="pill walk">Sarria</span> Dep 13:20 · Group meet 7:30 PM</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Checkout</b><span>Hyatt by 12:00</span><small>Confirmation #29501680</small></div>
+        <div class="item"><b>Train</b><span>Chamartín 13:20 → Sarria 17:32</span><small>Alvia · Car 8 · 5A/5B · loc RXF4WD</small></div>
+        <div class="item"><b>7:30 PM</b><span>Fresco group meet</span><small>Hotel Mar de Plata, Sarria · guide Hector</small></div>
+        <div class="item"><b>Sleep</b><span>Sarria</span><small>Hotel Mar de Plata · 982 530 724</small></div>
+      </div>
+
+      <div class="sec">
+        <h4>The shape of the day</h4>
+        <p>Transition day. Morning in Madrid, ~4h train northwest into Galicia, evening orientation. Tonight you get your Orientation Packets, first Pilgrim's Passport stamp, and a Galician dinner (included).</p>
+      </div>
+
+      <div class="sec">
+        <h4>Logistics — ins/outs</h4>
+        <ul>
+          <li><b>Station is Chamartín, not Atocha.</b> Allow time — Chamartín is north of center, ~15–20 min taxi from Gran Vía. Be there 30+ min early; gates close 2 min before departure.</li>
+          <li>This is the <b>Alvia</b> (loc RXF4WD) — not the AVLO return train. Tickets are the June-4 Omio "Mobile" set.</li>
+          <li>Seats 5A (Robert) / 5B (Margaret), Car 8. No catering on board ("Sin Restauración") — grab lunch at Chamartín first.</li>
+          <li><b>17:32 arrival</b> gives a comfortable buffer before the 7:30 PM meet at Hotel Mar de Plata.</li>
+        </ul>
+      </div>
+
+      <div class="sec">
+        <h4>Camino bag strategy (matters from here on)</h4>
+        <div class="tip"><b>One bag per person (max 20 kg / 44 lb)</b> is transferred hotel-to-hotel each day by Fresco. The transport company is strict on weight. Carry a daypack with water, rain shell, snacks, blister kit, passport/phone — everything you need on the trail, since you won't see the big bag until the next hotel.</div>
+        <div class="note"><b>Your trail shoes are the whole trip.</b> Broken in, lightweight, waterproof. Galicia can rain any day in June.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ THE WALK ============ -->
+  <div class="chapter" data-phase="walk"><div class="ln"></div><h2>A Fresco Start · 115 km</h2><span>June 5 – 10 · Self-guided · bags transferred</span></div>
+
+  <!-- JUNE 5 -->
+  <div class="day" data-phase="walk">
+    <div class="day-head">
+      <div class="daynum"><span class="d">5</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Sarria → Portomarín</h3>
+        <div class="where"><span class="pill walk">Day 1 walking</span><span class="pill km">22 km</span> ~14 mi</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Walk</b><span>22 km / 14 mi</span><small>Longest day of the week</small></div>
+        <div class="item"><b>Sleep</b><span>Hotel Ferramenteiro, Portomarín</span><small>982 545 361</small></div>
+        <div class="item"><b>Meal</b><span>Breakfast included (B)</span></div>
+      </div>
+      <div class="sec">
+        <h4>Day notes</h4>
+        <ul>
+          <li>Depart Sarria following yellow arrows; Fresco's guide sends you off at Barbadelo, then you're solo on the Way.</li>
+          <li>You pass the <b>100 km marker</b> today — the symbolic countdown stone.</li>
+          <li>Ends at <b>Portomarín</b>, with the fortified 12th-c. Church of San Juan above the River Miño.</li>
+        </ul>
+        <div class="note"><b>Biggest distance up front.</b> Start early, pace conservatively — blisters set on day 1 ruin the week. Stop at the first hot-spot, not the first blister.</div>
+        <div class="tip"><b>Stamps:</b> collect at least two <em>sellos</em> per day in your Pilgrim's Passport from here to Santiago — required for the Compostela certificate. Bars, churches, cafés all stamp.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 6 -->
+  <div class="day" data-phase="walk">
+    <div class="day-head">
+      <div class="daynum"><span class="d">6</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Portomarín → Palas de Rei</h3>
+        <div class="where"><span class="pill walk">Day 2</span><span class="pill km">18 km</span> ~12 mi</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Walk</b><span>18 km / 12 mi</span></div>
+        <div class="item"><b>Sleep</b><span>Hostería Calixtino, Lestedo</span><small>670 500 900 (Palas de Rei area)</small></div>
+        <div class="item"><b>Meal</b><span>Breakfast (B)</span></div>
+      </div>
+      <div class="sec">
+        <h4>Day notes</h4>
+        <ul>
+          <li>Gentle climb out of the river valley through Galician hamlets — <b>hórreos</b> (raised granite corncribs) everywhere.</li>
+          <li>In <b>Lameiros</b>, look for the carved 17th-c. cross showing the Crucifixion.</li>
+          <li>Eucalyptus forests begin around Lestedo.</li>
+        </ul>
+        <div class="tip"><b>Recovery day after the 22.</b> Easier distance — good for letting legs settle. Hydrate and check feet at lunch.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 7 -->
+  <div class="day" data-phase="walk">
+    <div class="day-head">
+      <div class="daynum"><span class="d">7</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Palas de Rei → Melide</h3>
+        <div class="where"><span class="pill walk">Day 3</span><span class="pill km">23 km</span> ~14 mi · pulpo</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Walk</b><span>23 km / 14 mi</span><small>Joint-longest day</small></div>
+        <div class="item"><b>Sleep</b><span>Hotel Lux Melide</span><small>981 505 417</small></div>
+        <div class="item"><b>Meal</b><span>Breakfast (B)</span></div>
+      </div>
+      <div class="sec">
+        <h4>Day notes</h4>
+        <ul>
+          <li>Rolling forest paths through quiet farming country into the market town of <b>Melide</b>.</li>
+          <li>Melide is the <b>pulpo (octopus) capital</b> — boiled streetside in copper kettles. Pulpo a la gallega at a <em>pulpería</em> (Ezequiel is the famous one) is the meal of the trip.</li>
+        </ul>
+        <div class="note"><b>Second 23 km day.</b> By now you'll know your rhythm. Front-load the distance in the cooler morning hours.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 8 -->
+  <div class="day" data-phase="walk">
+    <div class="day-head">
+      <div class="daynum"><span class="d">8</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Melide → Arzúa</h3>
+        <div class="where"><span class="pill walk">Day 4</span><span class="pill km">14 km</span> ~9 mi · shortest</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Walk</b><span>14 km / 9 mi</span><small>Shortest walking day</small></div>
+        <div class="item"><b>Sleep</b><span>Hotel Arzúa</span><small>689 969 996</small></div>
+        <div class="item"><b>Meal</b><span>Breakfast (B)</span></div>
+      </div>
+      <div class="sec">
+        <h4>Day notes</h4>
+        <ul>
+          <li>Stop on Melide's edge for the 12th-c. Romanesque church of <b>Santa María</b>; in Boente, the little Santiago church with a wooden altarpiece.</li>
+          <li><b>Arzúa</b> is cheese country — the soft, creamy <em>queixo de Arzúa-Ulloa</em> (DOP). Pair with local bread and wine.</li>
+        </ul>
+        <div class="tip"><b>Easiest day = buffer day.</b> Sleep in a little, linger over lunch. Use it to rest before the final push.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 9 -->
+  <div class="day" data-phase="walk">
+    <div class="day-head">
+      <div class="daynum"><span class="d">9</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Arzúa → O Pedrouzo</h3>
+        <div class="where"><span class="pill walk">Day 5</span><span class="pill km">18 km</span> ~11 mi</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Walk</b><span>18 km / 11 mi</span></div>
+        <div class="item"><b>Sleep</b><span>Hotel O Pino, Pedrouzo</span><small>981 511 035</small></div>
+        <div class="item"><b>Meal</b><span>Breakfast (B)</span></div>
+      </div>
+      <div class="sec">
+        <h4>Day notes</h4>
+        <ul>
+          <li>Quiet eucalyptus paths; the excitement builds — you're a day from Santiago.</li>
+          <li>Greet villagers with <em>"Buenos días"</em> / <em>"Hola"</em> — you're a pilgrim now, not a tourist.</li>
+        </ul>
+        <div class="tip"><b>Plan tomorrow's arrival.</b> The Pilgrims' Mass is at <b>noon</b> in Santiago. If you want to make it on June 10, you'll need an early start (20 km in).</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 10 -->
+  <div class="day" data-phase="walk santiago">
+    <div class="day-head">
+      <div class="daynum"><span class="d">10</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>O Pedrouzo → Santiago de Compostela</h3>
+        <div class="where"><span class="pill walk">Day 6 · arrival</span><span class="pill km">20 km</span> 115 km done</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Walk</b><span>20 km / 12 mi</span><small>The final stage</small></div>
+        <div class="item"><b>Arrive</b><span>Santiago de Compostela</span></div>
+        <div class="item"><b>Sleep</b><span>Hotel Compostela</span><small>Rúa do Hórreo 1 · 981 585 700</small></div>
+      </div>
+      <div class="sec">
+        <h4>The arrival</h4>
+        <p>6 days, 115 km — you reach the cathedral. This is the emotional summit of the trip.</p>
+      </div>
+      <div class="sec">
+        <h4>What to do, in order</h4>
+        <ul>
+          <li><b>Pilgrims' Office</b> (Rúa Carretas 33): final stamp + request your <b>Compostela</b> certificate. Lines build midday — go on arrival or early.</li>
+          <li><b>Pilgrims' Mass</b> at the cathedral, noon (also evening masses). The <em>botafumeiro</em> (giant incense censer) swings on some days — not guaranteed.</li>
+          <li>Wander the medieval old town — Praza do Obradoiro, the cathedral facade, the buzz of arriving pilgrims.</li>
+        </ul>
+        <div class="note"><b>Two passport stamps a day minimum</b> over the last 100 km are what unlock the Compostela. If you've been collecting, you're set.</div>
+        <div class="tip"><b>Hotel Compostela for the night of the 10th</b> is your tour's final-night room (booked via Fresco). The post-tour nights (11–13) are separate reservations — see next days.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ SANTIAGO ============ -->
+  <div class="chapter" data-phase="santiago"><div class="ln"></div><h2>Santiago &amp; the coast</h2><span>June 11 – 13 · post-tour</span></div>
+
+  <!-- JUNE 11 -->
+  <div class="day" data-phase="santiago">
+    <div class="day-head">
+      <div class="daynum"><span class="d">11</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>City tour, cathedral &amp; tour's end</h3>
+        <div class="where"><span class="pill santiago" style="background:rgba(192,138,45,.16);color:var(--rust-deep)">Santiago</span> Tour 9:30 AM · dinner 9 PM</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>9:30 AM</b><span>Old-town + Cathedral tour</span><small>Tour Galicia guide · hotel lobby</small></div>
+        <div class="item"><b>Noon</b><span>Pilgrim's Mass</span><small>Tour ends here</small></div>
+        <div class="item"><b>9:00 PM</b><span>Dinner · A Horta do Obradoiro</span><small>Behind the cathedral</small></div>
+        <div class="item"><b>Sleep</b><span>Hotel Compostela</span><small>Now in individual rooms (11–13, paid)</small></div>
+      </div>
+      <div class="sec">
+        <h4>Day notes</h4>
+        <ul>
+          <li>Sleep in a bit — meet the Tour Galicia guide at <b>9:30 AM in the Hotel Compostela lobby</b>. Tour ends at the cathedral in time for the noon mass.</li>
+          <li>That's the formal end of the Fresco tour. From here you're independent.</li>
+          <li><b>Room change:</b> the post-tour nights (11→13) are a <em>separate</em> reservation — two individual rooms, already paid, at the same Hotel Compostela. You may switch rooms; confirm at the desk.</li>
+        </ul>
+        <div class="tip"><b>Dinner:</b> A Horta do Obradoiro at 9 PM — tucked behind the cathedral, strong Galician cooking. A fitting celebration meal.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 12 -->
+  <div class="day" data-phase="santiago">
+    <div class="day-head">
+      <div class="daynum"><span class="d">12</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Finisterre — the End of the World</h3>
+        <div class="where"><span class="pill santiago" style="background:rgba(63,100,128,.14);color:var(--sky)">Coast excursion</span> Optional · must pre-book</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Free day</b><span>No fixed plans</span><small>Best slot for the Finisterre trip</small></div>
+        <div class="item"><b>Sleep</b><span>Hotel Compostela</span></div>
+      </div>
+      <div class="sec">
+        <h4>The big option: Cape Finisterre</h4>
+        <p>Your one fully open day in Santiago. The classic add-on is the Costa da Morte / Finisterre coast — the "End of the World" lighthouse the Romans believed marked the edge of the earth.</p>
+      </div>
+      <div class="sec">
+        <h4>Excursion choices (book via Fresco / Camino Angel by email)</h4>
+        <ul>
+          <li><b>Standard group tour — €49 pp, ~9h, full day.</b> Best value. Includes Pontemaceira, Muxía sanctuary, Cape Finisterre, Ézaro waterfall, Carnota's long hórreo, Muros. Escort + English audioguides. Pickup at Capilla del Pilar, Alameda Park.</li>
+          <li><b>Private coastal — €369 (1–4 pax), 6–7h.</b> Muros, Carnota, Ézaro, Finisterre. Door-to-door, taxi-style, no guide.</li>
+          <li><b>Private interior — €189 (1–4 pax), ~4h.</b> Straight to the cape and back. Quickest.</li>
+          <li>Add <b>Muxía (+€49/group)</b> to either private option — 12th-c. clifftop sanctuary.</li>
+        </ul>
+        <div class="note"><b>Pre-book required.</b> Email your Fresco service manager (Camino Angel) ahead — these don't run on walk-up. For two people, the €49 pp group tour is far cheaper than private.</div>
+        <div class="tip"><b>Lunch in Finisterre town</b> isn't included on any option. Recs: O Centolo (Paseo Ribeira 3) or La Fontana — both seafood.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 13 -->
+  <div class="day" data-phase="santiago city">
+    <div class="day-head">
+      <div class="daynum"><span class="d">13</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Train back to Madrid</h3>
+        <div class="where"><span class="pill transit">Train</span><span class="pill city">Madrid</span> Dep 10:49 · one night Hyatt</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Train</b><span>Santiago 10:49 → Chamartín 14:15</span><small>AVLO · Car 3 · 6A/5A · loc XV7SRV</small></div>
+        <div class="item"><b>Hotel</b><span>Hyatt Centric Gran Vía</span><small>Conf #65102470 · 2 twin beds · check-in 3 PM</small></div>
+        <div class="item"><b>Sleep</b><span>Madrid (last night)</span></div>
+      </div>
+      <div class="sec">
+        <h4>Day notes</h4>
+        <ul>
+          <li>Earlyish AVLO (Renfe's budget high-speed) — be at Santiago station with time; gates close 2 min before. This is loc <b>XV7SRV</b> (the "Print" ticket set).</li>
+          <li><b>Basica fare:</b> no changes/cancellations, seat + large-bag rules apply. Margaret has the large-bag add-on; Robert's is seat-only — keep luggage right-sized.</li>
+          <li>Land back at Chamartín ~2:15 PM, taxi to the Hyatt for one final Madrid night.</li>
+        </ul>
+        <div class="note"><b>This Hyatt night is non-refundable</b> (Members Advance Purchase, prepaid). No changes.</div>
+        <div class="tip"><b>Last evening in Spain.</b> You're back near Gran Vía — a relaxed final tapas crawl or a return to a Madrid favorite. Repack for the flight.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JUNE 14 -->
+  <div class="day" data-phase="city">
+    <div class="day-head">
+      <div class="daynum"><span class="d">14</span><span class="m">Jun</span></div>
+      <div class="day-title">
+        <h3>Fly home</h3>
+        <div class="where"><span class="pill transit">Depart</span> AA 37 · 12:40 PM</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <div class="logi">
+        <div class="item"><b>Checkout</b><span>Hyatt by 12:00</span></div>
+        <div class="item"><b>Flight</b><span>MAD 12:40 PM → DFW 4:30 PM</span><small>AA 37 · Term 4 · 18B/18A · SBABJA</small></div>
+      </div>
+      <div class="sec">
+        <h4>Getting out clean</h4>
+        <ul>
+          <li>A 12:40 PM departure means at the airport by <b>~9:30 AM</b> for an intercontinental flight — Barajas T4 is large. Leave the hotel by 8:30.</li>
+          <li><b>VAT refund:</b> if you bought goods over ~€90, process your IVA refund at T4 before security (DIVA kiosks). Have receipts + passport ready.</li>
+          <li>Hotel checkout is noon but you'll be gone well before — no conflict.</li>
+        </ul>
+        <div class="tip"><b>Insurance is active through the 14th</b> (return date Jun 14). Coverage ends when you reach your return destination.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER REFERENCE -->
+  <div class="fref">
+    <h3>Carry-everywhere reference</h3>
+    <div class="grid">
+      <div class="it"><b>Flights (AA · SBABJA)</b>AA 36 out 5/31 4:40p · AA 37 home 6/14 12:40p</div>
+      <div class="it"><b>Trains</b>Out: Alvia RXF4WD 6/4 · Home: AVLO XV7SRV 6/13</div>
+      <div class="it"><b>Insurance 24h</b><a href="tel:+18772434135">+1 877 243 4135</a> (US) · +1 240 330 1529 (collect)</div>
+      <div class="it"><b>Generali plan #</b>26144W0849 · GGA300</div>
+      <div class="it"><b>Fresco Tours</b><a href="tel:+34944248989">+34 94 424 89 89</a> · after-hrs +34 688 740 798</div>
+      <div class="it"><b>Spain emergency</b>112 (all services)</div>
+      <div class="it full"><b>Hotels</b>Madrid Hyatt Gran Vía 31 · +34 91 837 1234 · Santiago Hotel Compostela, Rúa do Hórreo 1 · 981 585 700</div>
+      <div class="it full"><b>Good to know</b>220V round-pin adapters · Visa best (Amex iffy) · tip 5–10% meals, €20 guide, €5 local guides · no visa needed (US, &lt;90 days)</div>
+    </div>
+    <div class="legend">
+      <span><i class="swatch" style="background:var(--sky)"></i>City</span>
+      <span><i class="swatch" style="background:var(--moss)"></i>Walking</span>
+      <span><i class="swatch" style="background:var(--gold)"></i>Transit</span>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <em>Buen camino.</em><br>
+    Tap any day to expand · times in Spain (CEST) · verify train stations &amp; ticket sites before travel
+  </footer>
+
+</div>
+
+<script>
+// expand/collapse
+document.querySelectorAll('.day-head').forEach(h=>{
+  h.addEventListener('click',()=>h.parentElement.classList.toggle('open'));
+});
+// open today's-style first city day by default
+document.querySelector('.day')?.classList.add('open');
+
+// phase filter
+const btns=document.querySelectorAll('.phase-btn');
+const days=document.querySelectorAll('.day, .chapter');
+btns.forEach(b=>{
+  b.addEventListener('click',()=>{
+    btns.forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+    const f=b.dataset.f;
+    days.forEach(d=>{
+      const p=d.dataset.phase||'';
+      d.style.display=(f==='all'||p.includes(f))?'':'none';
+    });
+    window.scrollTo({top:0,behavior:'smooth'});
+  });
+});
+</script>
+</body>
+</html>
