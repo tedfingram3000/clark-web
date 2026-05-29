@@ -136,6 +136,14 @@ header h1 em{font-style:italic;color:var(--rust)}
 .logi .item span{font-weight:500}
 .logi .item small{color:var(--ink-soft);font-weight:400}
 
+/* map links */
+a.map{
+  color:var(--sky);text-decoration:none;font-weight:600;
+  border-bottom:1px solid rgba(63,100,128,.35);
+  white-space:nowrap;
+}
+a.map::after{content:" \2197";font-size:.78em;opacity:.7}
+
 /* sections */
 .sec{margin-top:18px}
 .sec h4{
@@ -245,8 +253,8 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     <div class="day-body">
       <div class="logi">
         <div class="item"><b>Land</b><span>9:05 AM · Barajas T4</span><small>From overnight AA 36</small></div>
-        <div class="item"><b>Hotel</b><span>Hyatt Centric Gran Vía</span><small>Gran Vía 31 · check-in 3 PM (early requested)</small></div>
-        <div class="item"><b>Dinner</b><span>Taberna La Carmencita · 8 PM</span><small>Under "Cervin" · 1h45 table limit</small></div>
+        <div class="item"><b>Hotel</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hyatt%20Centric%20Gran%20Via%20Madrid">Hyatt Centric Gran Vía</a></span><small>Gran Vía 31 · check-in 3 PM (early requested)</small></div>
+        <div class="item"><b>Dinner</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Taberna%20La%20Carmencita%20Madrid">Taberna La Carmencita</a> · 8 PM</span><small>Under "Cervin" · 1h45 table limit</small></div>
       </div>
 
       <div class="sec">
@@ -255,19 +263,22 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
 
       <div class="sec">
-        <h4>Options &amp; ins/outs</h4>
+        <h4>Airport → hotel (what to know)</h4>
         <ul>
-          <li><b>Bags before check-in:</b> the Hyatt will hold luggage if the room isn't ready. Drop bags, then walk — don't sit.</li>
-          <li><b>Bus tour</b> (in your notes): the hop-on Madrid City Tour has a stop near Gran Vía / Plaza España. A loop is the lowest-effort way to stay awake and oriented while horizontal-adjacent.</li>
-          <li><b>Gentle alternative:</b> Retiro Park is a 20-min walk — flat, green, easy to bail from. The Book Fair (Feria del Libro) runs along the Paseo de Coches if it's still on.</li>
-          <li><b>La Carmencita</b> is on C/ Libertad in Chueca, ~15 min walk or short taxi from the hotel. It's one of Madrid's oldest taverns (1854) — your "second oldest restaurant" plan.</li>
+          <li><b>Passport control can run 20–60+ min</b> on a US arrival before you're landside. Build that into the morning.</li>
+          <li><b>To the hotel:</b> taxi from T4 to Gran Vía is a <b>fixed €33 flat rate</b> (~25–35 min) — no meter games. Or Cercanías train C1 from inside T4 to central Madrid, then a short hop.</li>
+          <li><b>La Carmencita</b> (8 PM, C/ Libertad in Chueca) is ~15 min walk from the Hyatt — your "second oldest restaurant," est. 1854.</li>
         </ul>
       </div>
 
       <div class="sec">
-        <h4>Concerns</h4>
-        <div class="note"><b>Don't nap past ~3 PM</b> and not more than 45 min. The 8 PM reservation is your anchor to reset to Spanish time.</div>
-        <div class="tip"><b>Cash:</b> hit an ATM in T4 arrivals or near the hotel — take €100 notes or smaller (Fresco's advice). Tell your bank you're in Spain so the first charge doesn't freeze the card.</div>
+        <h4>Easy daytime to stay awake</h4>
+        <ul>
+          <li><b>Bus tour</b> (your note): hop-on loop stops near Gran Vía / Plaza España — lowest-effort way to stay upright and oriented.</li>
+          <li><b>Retiro Park</b> (20-min walk, flat) or the Book Fair along Paseo de Coches if it's still running.</li>
+        </ul>
+        <div class="note"><b>Don't nap past ~3 PM</b> or longer than 45 min. The 8 PM reservation is your anchor onto Spanish time.</div>
+        <div class="tip"><b>Cards/cash:</b> tell your bank you're in Spain (first foreign charge can auto-freeze). Visa works best; Amex is iffy. Take €100 notes or smaller from an ATM.</div>
       </div>
     </div>
   </div>
@@ -283,7 +294,7 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     </div>
     <div class="day-body">
       <div class="logi">
-        <div class="item"><b>Dinner</b><span>Sobrino de Botín · 8 PM</span><small>World's oldest restaurant (1725) · roast suckling pig</small></div>
+        <div class="item"><b>Dinner</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Sobrino%20de%20Botin%20Madrid">Sobrino de Botín</a> · 8 PM</span><small>World's oldest restaurant (1725) · roast suckling pig</small></div>
         <div class="item"><b>Daytime</b><span>Wide open</span><small>Your one fully free Madrid day</small></div>
       </div>
 
@@ -322,9 +333,9 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     </div>
     <div class="day-body">
       <div class="logi">
-        <div class="item"><b>Noon</b><span>Solemn Changing of the Guard</span><small>Royal Palace · 1st Wed of month · free</small></div>
-        <div class="item"><b>7 PM</b><span>Bullfight · Las Ventas</span><small>San Isidro · 6 Lagunajanda bulls · ~2h</small></div>
-        <div class="item"><b>Also</b><span>Mercado de San Miguel</span><small>Tapas market near Plaza Mayor</small></div>
+        <div class="item"><b>Noon</b><span>Solemn Changing of the Guard</span><small><a class="map" href="https://www.google.com/maps/search/?api=1&query=Palacio%20Real%20de%20Madrid">Royal Palace</a> · 1st Wed of month · free</small></div>
+        <div class="item"><b>7 PM</b><span>Bullfight · <a class="map" href="https://www.google.com/maps/search/?api=1&query=Plaza%20de%20Toros%20de%20Las%20Ventas">Las Ventas</a></span><small>San Isidro · 6 Lagunajanda bulls · ~2h</small></div>
+        <div class="item"><b>Also</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Mercado%20de%20San%20Miguel%20Madrid">Mercado de San Miguel</a></span><small>Tapas market near Plaza Mayor</small></div>
       </div>
 
       <div class="sec">
@@ -376,9 +387,9 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     <div class="day-body">
       <div class="logi">
         <div class="item"><b>Checkout</b><span>Hyatt by 12:00</span><small>Confirmation #29501680</small></div>
-        <div class="item"><b>Train</b><span>Chamartín 13:20 → Sarria 17:32</span><small>Alvia · Car 8 · 5A/5B · loc RXF4WD</small></div>
-        <div class="item"><b>7:30 PM</b><span>Fresco group meet</span><small>Hotel Mar de Plata, Sarria · guide Hector</small></div>
-        <div class="item"><b>Sleep</b><span>Sarria</span><small>Hotel Mar de Plata · 982 530 724</small></div>
+        <div class="item"><b>Train</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Madrid%20Chamartin%20station">Chamartín</a> 13:20 → Sarria 17:32</span><small>Alvia · Car 8 · 5A/5B · loc RXF4WD</small></div>
+        <div class="item"><b>7:30 PM</b><span>Fresco group meet</span><small><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20Mar%20de%20Plata%20Sarria">Hotel Mar de Plata</a>, Sarria · guide Hector</small></div>
+        <div class="item"><b>Sleep</b><span>Sarria</span><small><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20Mar%20de%20Plata%20Sarria">Hotel Mar de Plata</a> · 982 530 724</small></div>
       </div>
 
       <div class="sec">
@@ -387,19 +398,26 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       </div>
 
       <div class="sec">
-        <h4>Logistics — ins/outs</h4>
-        <ul>
-          <li><b>Station is Chamartín, not Atocha.</b> Allow time — Chamartín is north of center, ~15–20 min taxi from Gran Vía. Be there 30+ min early; gates close 2 min before departure.</li>
-          <li>This is the <b>Alvia</b> (loc RXF4WD) — not the AVLO return train. Tickets are the June-4 Omio "Mobile" set.</li>
-          <li>Seats 5A (Robert) / 5B (Margaret), Car 8. No catering on board ("Sin Restauración") — grab lunch at Chamartín first.</li>
-          <li><b>17:32 arrival</b> gives a comfortable buffer before the 7:30 PM meet at Hotel Mar de Plata.</li>
-        </ul>
+        <h4>The one that can't be missed</h4>
+        <div class="note"><b>This is essentially the ONLY direct train of the day to Sarria.</b> Unlike most Spanish routes, Madrid→Sarria runs about once daily. Miss the 13:20 and there's no clean same-day recovery — you'd be improvising a route via Ourense or Lugo. Treat this departure as the day's hard deadline.</div>
       </div>
 
       <div class="sec">
-        <h4>Camino bag strategy (matters from here on)</h4>
-        <div class="tip"><b>One bag per person (max 20 kg / 44 lb)</b> is transferred hotel-to-hotel each day by Fresco. The transport company is strict on weight. Carry a daypack with water, rain shell, snacks, blister kit, passport/phone — everything you need on the trail, since you won't see the big bag until the next hotel.</div>
-        <div class="note"><b>Your trail shoes are the whole trip.</b> Broken in, lightweight, waterproof. Galicia can rain any day in June.</div>
+        <h4>Getting to Chamartín — ins/outs</h4>
+        <ul>
+          <li><b>Your ticket includes a FREE Cercanías ride to Chamartín.</b> The "Combinado Cercanías" codes on your tickets (Margaret RU6F8 · Robert 5BGZY) cover the commuter train to the station, valid in the 4-hour window before departure. Don't pay €30 for a taxi you don't need — though with luggage, a taxi (~15–20 min, ~€30 flat) is still the low-stress choice.</li>
+          <li><b>It's Chamartín, NOT Atocha.</b> Two different mainline stations across the city. Chamartín is to the north, ~15–20 min from Gran Vía.</li>
+          <li><b>Be at the platform 30+ min early.</b> Renfe closes train access <b>2 minutes before</b> departure — they mean it.</li>
+          <li><b>Journey ~4h 12m</b> (13:20 → 17:32). The route may split/stop at <b>Ourense</b>; stay with the carriage marked for Sarria. This is the Alvia (loc RXF4WD) — not the AVLO you take home.</li>
+          <li><b>No food service on board</b> ("Sin Restauración") — buy lunch at Chamartín before boarding.</li>
+        </ul>
+        <div class="tip"><b>17:32 arrival</b> leaves a comfortable buffer before the 7:30 PM Fresco meet at Hotel Mar de Plata (Orientation Packets, first stamp, Galician dinner included).</div>
+      </div>
+
+      <div class="sec">
+        <h4>Camino bag system (active from here)</h4>
+        <div class="tip"><b>One bag per person, max 20 kg / 44 lb,</b> moves hotel-to-hotel by Fresco — strict on weight. Your daypack carries everything you need on the trail (water, rain shell, snacks, blister kit, passport, phone); you won't see the big bag until the next hotel each night.</div>
+        <div class="note"><b>Galicia rains unpredictably even in June</b> — rain shell in the daypack every day, regardless of the morning sky.</div>
       </div>
     </div>
   </div>
@@ -419,7 +437,7 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     <div class="day-body">
       <div class="logi">
         <div class="item"><b>Walk</b><span>22 km / 14 mi</span><small>Longest day of the week</small></div>
-        <div class="item"><b>Sleep</b><span>Hotel Ferramenteiro, Portomarín</span><small>982 545 361</small></div>
+        <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20Ferramenteiro%20Portomarin">Hotel Ferramenteiro</a>, Portomarín</span><small>982 545 361</small></div>
         <div class="item"><b>Meal</b><span>Breakfast included (B)</span></div>
       </div>
       <div class="sec">
@@ -447,7 +465,7 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     <div class="day-body">
       <div class="logi">
         <div class="item"><b>Walk</b><span>18 km / 12 mi</span></div>
-        <div class="item"><b>Sleep</b><span>Hostería Calixtino, Lestedo</span><small>670 500 900 (Palas de Rei area)</small></div>
+        <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hosteria%20Calixtino%20Lestedo%20Palas%20de%20Rei">Hostería Calixtino</a>, Lestedo</span><small>670 500 900 (Palas de Rei area)</small></div>
         <div class="item"><b>Meal</b><span>Breakfast (B)</span></div>
       </div>
       <div class="sec">
@@ -474,7 +492,7 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     <div class="day-body">
       <div class="logi">
         <div class="item"><b>Walk</b><span>23 km / 14 mi</span><small>Joint-longest day</small></div>
-        <div class="item"><b>Sleep</b><span>Hotel Lux Melide</span><small>981 505 417</small></div>
+        <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20Lux%20Melide">Hotel Lux Melide</a></span><small>981 505 417</small></div>
         <div class="item"><b>Meal</b><span>Breakfast (B)</span></div>
       </div>
       <div class="sec">
@@ -500,7 +518,7 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     <div class="day-body">
       <div class="logi">
         <div class="item"><b>Walk</b><span>14 km / 9 mi</span><small>Shortest walking day</small></div>
-        <div class="item"><b>Sleep</b><span>Hotel Arzúa</span><small>689 969 996</small></div>
+        <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20Arzua">Hotel Arzúa</a></span><small>689 969 996</small></div>
         <div class="item"><b>Meal</b><span>Breakfast (B)</span></div>
       </div>
       <div class="sec">
@@ -526,7 +544,7 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     <div class="day-body">
       <div class="logi">
         <div class="item"><b>Walk</b><span>18 km / 11 mi</span></div>
-        <div class="item"><b>Sleep</b><span>Hotel O Pino, Pedrouzo</span><small>981 511 035</small></div>
+        <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20O%20Pino%20Pedrouzo">Hotel O Pino</a>, Pedrouzo</span><small>981 511 035</small></div>
         <div class="item"><b>Meal</b><span>Breakfast (B)</span></div>
       </div>
       <div class="sec">
@@ -553,7 +571,7 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       <div class="logi">
         <div class="item"><b>Walk</b><span>20 km / 12 mi</span><small>The final stage</small></div>
         <div class="item"><b>Arrive</b><span>Santiago de Compostela</span></div>
-        <div class="item"><b>Sleep</b><span>Hotel Compostela</span><small>Rúa do Hórreo 1 · 981 585 700</small></div>
+        <div class="item"><b>Sleep</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hotel%20Compostela%20Rua%20do%20Horreo%20Santiago">Hotel Compostela</a></span><small>Rúa do Hórreo 1 · 981 585 700</small></div>
       </div>
       <div class="sec">
         <h4>The arrival</h4>
@@ -562,7 +580,7 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       <div class="sec">
         <h4>What to do, in order</h4>
         <ul>
-          <li><b>Pilgrims' Office</b> (Rúa Carretas 33): final stamp + request your <b>Compostela</b> certificate. Lines build midday — go on arrival or early.</li>
+          <li><b><a class="map" href="https://www.google.com/maps/search/?api=1&query=Pilgrims%20Office%20Santiago%20de%20Compostela%20Rua%20Carretas%2033">Pilgrims' Office</a></b> (Rúa Carretas 33): final stamp + request your <b>Compostela</b> certificate. Lines build midday — go on arrival or early.</li>
           <li><b>Pilgrims' Mass</b> at the cathedral, noon (also evening masses). The <em>botafumeiro</em> (giant incense censer) swings on some days — not guaranteed.</li>
           <li>Wander the medieval old town — Praza do Obradoiro, the cathedral facade, the buzz of arriving pilgrims.</li>
         </ul>
@@ -588,7 +606,7 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
       <div class="logi">
         <div class="item"><b>9:30 AM</b><span>Old-town + Cathedral tour</span><small>Tour Galicia guide · hotel lobby</small></div>
         <div class="item"><b>Noon</b><span>Pilgrim's Mass</span><small>Tour ends here</small></div>
-        <div class="item"><b>9:00 PM</b><span>Dinner · A Horta do Obradoiro</span><small>Behind the cathedral</small></div>
+        <div class="item"><b>9:00 PM</b><span>Dinner · <a class="map" href="https://www.google.com/maps/search/?api=1&query=A%20Horta%20do%20Obradoiro%20Santiago%20de%20Compostela">A Horta do Obradoiro</a></span><small>Behind the cathedral</small></div>
         <div class="item"><b>Sleep</b><span>Hotel Compostela</span><small>Now in individual rooms (11–13, paid)</small></div>
       </div>
       <div class="sec">
@@ -629,8 +647,9 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
           <li><b>Private interior — €189 (1–4 pax), ~4h.</b> Straight to the cape and back. Quickest.</li>
           <li>Add <b>Muxía (+€49/group)</b> to either private option — 12th-c. clifftop sanctuary.</li>
         </ul>
-        <div class="note"><b>Pre-book required.</b> Email your Fresco service manager (Camino Angel) ahead — these don't run on walk-up. For two people, the €49 pp group tour is far cheaper than private.</div>
-        <div class="tip"><b>Lunch in Finisterre town</b> isn't included on any option. Recs: O Centolo (Paseo Ribeira 3) or La Fontana — both seafood.</div>
+        <div class="note"><b>Pre-book required</b> — email Camino Angel ahead; these don't run walk-up. For two, the €49 pp group tour is far cheaper than private.</div>
+        <div class="note"><b>It eats the whole day.</b> The group tour is ~9 hours door to door (private 4–7h). If you want a slower Santiago morning instead, the interior private option (~4h) leaves the afternoon free. Either way, Finisterre is ~90 km each way — this is a real travel day, not a quick hop.</div>
+        <div class="tip"><b>Lunch in Finisterre</b> isn't included on any option. Recs: <a class="map" href="https://www.google.com/maps/search/?api=1&query=O%20Centolo%20Fisterra">O Centolo</a> (Paseo Ribeira 3) or <a class="map" href="https://www.google.com/maps/search/?api=1&query=La%20Fontana%20Fisterra">La Fontana</a> — both seafood.</div>
       </div>
     </div>
   </div>
@@ -646,19 +665,19 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     </div>
     <div class="day-body">
       <div class="logi">
-        <div class="item"><b>Train</b><span>Santiago 10:49 → Chamartín 14:15</span><small>AVLO · Car 3 · 6A/5A · loc XV7SRV</small></div>
-        <div class="item"><b>Hotel</b><span>Hyatt Centric Gran Vía</span><small>Conf #65102470 · 2 twin beds · check-in 3 PM</small></div>
+        <div class="item"><b>Train</b><span>Santiago 10:49 → <a class="map" href="https://www.google.com/maps/search/?api=1&query=Madrid%20Chamartin%20station">Chamartín</a> 14:15</span><small>AVLO · Car 3 · 6A/5A · loc XV7SRV</small></div>
+        <div class="item"><b>Hotel</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Hyatt%20Centric%20Gran%20Via%20Madrid">Hyatt Centric Gran Vía</a></span><small>Conf #65102470 · 2 twin beds · check-in 3 PM</small></div>
         <div class="item"><b>Sleep</b><span>Madrid (last night)</span></div>
       </div>
       <div class="sec">
-        <h4>Day notes</h4>
+        <h4>Return train — what's different from the way out</h4>
         <ul>
-          <li>Earlyish AVLO (Renfe's budget high-speed) — be at Santiago station with time; gates close 2 min before. This is loc <b>XV7SRV</b> (the "Print" ticket set).</li>
-          <li><b>Basica fare:</b> no changes/cancellations, seat + large-bag rules apply. Margaret has the large-bag add-on; Robert's is seat-only — keep luggage right-sized.</li>
-          <li>Land back at Chamartín ~2:15 PM, taxi to the Hyatt for one final Madrid night.</li>
+          <li><b>More trains run this direction</b> — roughly 5–8 Santiago→Madrid daily. So a missed train isn't the dead-end the outbound was. <b>But</b> your Básica fare allows <b>no changes or cancellations</b> — a miss means buying a fresh ticket, not rebooking. Still: be early.</li>
+          <li><b>~3h 26m</b> (10:49 → 14:15). This is the AVLO (loc XV7SRV) — Renfe's budget high-speed. Access closes 2 min before departure.</li>
+          <li><b>Baggage rule mismatch:</b> Margaret's fare includes a large bag; Robert's is seat-only. Keep luggage right-sized so there's no gate surprise.</li>
+          <li>Arrives <b>Chamartín 14:15</b> — taxi (~€33 flat) or Cercanías to the Hyatt for one last Madrid night. No flight pressure today; you fly tomorrow.</li>
         </ul>
-        <div class="note"><b>This Hyatt night is non-refundable</b> (Members Advance Purchase, prepaid). No changes.</div>
-        <div class="tip"><b>Last evening in Spain.</b> You're back near Gran Vía — a relaxed final tapas crawl or a return to a Madrid favorite. Repack for the flight.</div>
+        <div class="note"><b>The Hyatt night (the 13th) is non-refundable</b> — Members Advance Purchase, prepaid, no changes.</div>
       </div>
     </div>
   </div>
@@ -675,16 +694,16 @@ footer.foot em{font-family:'Fraunces',Georgia,'Times New Roman',serif;font-style
     <div class="day-body">
       <div class="logi">
         <div class="item"><b>Checkout</b><span>Hyatt by 12:00</span></div>
-        <div class="item"><b>Flight</b><span>MAD 12:40 PM → DFW 4:30 PM</span><small>AA 37 · Term 4 · 18B/18A · SBABJA</small></div>
+        <div class="item"><b>Flight</b><span><a class="map" href="https://www.google.com/maps/search/?api=1&query=Madrid%20Barajas%20Airport%20Terminal%204">MAD</a> 12:40 PM → DFW 4:30 PM</span><small>AA 37 · Term 4 · 18B/18A · SBABJA</small></div>
       </div>
       <div class="sec">
-        <h4>Getting out clean</h4>
+        <h4>Airport timing &amp; the VAT refund</h4>
         <ul>
-          <li>A 12:40 PM departure means at the airport by <b>~9:30 AM</b> for an intercontinental flight — Barajas T4 is large. Leave the hotel by 8:30.</li>
-          <li><b>VAT refund:</b> if you bought goods over ~€90, process your IVA refund at T4 before security (DIVA kiosks). Have receipts + passport ready.</li>
-          <li>Hotel checkout is noon but you'll be gone well before — no conflict.</li>
+          <li><b>Be at T4 by ~9:30 AM</b> for the 12:40 departure — Barajas is large and this is a US-bound international flight (longer check/security). Leave the hotel ~8:30; taxi to T4 is the €33 flat rate, ~25–35 min.</li>
+          <li><b>VAT refund (IVA):</b> if you bought goods over ~€90, claim it at a <b>DIVA kiosk before security</b> — scan receipts, then refund desk. Allow extra time; lines form. Passport + unused goods + receipts in hand.</li>
+          <li><b>The free Cercanías connection works in reverse too</b> if you'd rather train it — but with luggage and an international flight, the taxi is the safer call.</li>
         </ul>
-        <div class="tip"><b>Insurance is active through the 14th</b> (return date Jun 14). Coverage ends when you reach your return destination.</div>
+        <div class="tip"><b>Insurance is active through the 14th</b> — coverage ends when you reach your return destination, so you're covered door to door today.</div>
       </div>
     </div>
   </div>
