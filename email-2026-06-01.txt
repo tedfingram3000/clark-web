@@ -30,7 +30,7 @@
   <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
     <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: report_card_recap -->
-Cardinals took the rubber game and the series 2-of-3 from the Cubs. Two runs in the 1st (Walker single, Burleson run-scoring pop-out) and three more in the 3rd (Burleson single, Winn two-run knock) gave Liberatore a cushion he never gave back -- 5.1 IP, 0 ER, 3 H, 4 K. Dobbins covered 3.2 in relief, surrendering only a Bregman solo shot in the 6th. Wetherholt set the table going 2-for-3 with two runs, a walk, and a steal; Burleson (2 RBI) and Winn (2 RBI) drove home the runs.
+Cardinals took the rubber game and the series 2-of-3 from the Cubs. Two runs in the 1st (Walker RBI single scored Wetherholt, Burleson pop-out scored Herrera) and three more in the 3rd (Burleson RBI single, Winn two-run single) gave Liberatore a cushion he never gave back -- 5.1 IP, 0 ER, 3 H, 1 BB, 4 K. Dobbins covered 3.2 in relief, surrendering only a Bregman solo HR in the 6th. Wetherholt set the table going 2-for-3 with two runs, a walk, and a steal; Burleson and Winn each drove in two.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
@@ -59,9 +59,9 @@ Cardinals took the rubber game and the series 2-of-3 from the Cubs. Two runs in 
     <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: bottom_line_content -->
-<b style="color:#2E7D32;">Edge:</b> deGrom has yielded 13 HR in 59.2 IP -- a meaningful homer rate for a sub-4 ERA arm -- and Walker (.299 / .982 OPS with RISP in 78 PA) and Burleson (.328 / .851 OPS with RISP in 75 PA) are the Cardinals' two heaviest situational bats. The path to runs against deGrom tonight is the lineup hunting damage in counts, not threading singles.<br><br>
-<b style="color:#8B3A3A;">Threat:</b> Ezequiel Duran has been a one-man rally with runners in scoring position -- .419 AVG / 1.007 OPS in 47 PA -- and Josh Jung is right with him at .341 / 1.001 OPS in 50 PA. McGreevy's 53.1% ground-ball rate keeps the ball in the park, but if these two come up with traffic, the Cardinals need a punchout, not a roller.<br><br>
-<b style="color:#B8860B;">Watch:</b> deGrom's strikeout pressure (29.4% K%, 70 K in 59.2 IP) against the right-handed half of the Cardinals order. Herrera, Walker, Winn, Saggese, and Pagés get the most exposure to the heater early -- if the first pass through the order racks up empty swings, the cushion the offense needs against Texas's RISP bats never builds.
+<b style="color:#2E7D32;">Edge:</b> deGrom has yielded 13 HR across 59.2 IP with a 35.2% 2026 GB rate (well below the 47.3% league mark) -- contact tends to leave the infield. Walker (.299 / .982 OPS with RISP in 78 PA), Burleson (.328 / .851 OPS with RISP in 75 PA), and Wetherholt (.300 / .848 OPS with RISP in 52 PA) give the top half of the Cardinals order three .800-plus RISP OPS bats. The path to runs against deGrom is the lineup hunting damage when contact happens.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Texas's RISP cluster against McGreevy's contact profile. Five Rangers carry .800-plus 2026 RISP OPS: Duran .419 / 1.007 (47 PA), Jung .341 / 1.001 (50 PA), Osuna .391 / .935 (29 PA), Nimmo .310 / .912 (51 PA), Burger .267 / .818 (66 PA). McGreevy's 1.09 WHIP and 53.1% 2026 GB rate keep traffic limited, but a leadoff runner stacks two-to-three of those at-bats consecutively.<br><br>
+<b style="color:#B8860B;">Watch:</b> The strikeout differential. McGreevy's 18.0% 2026 K rate sits below the 22.0% league average; deGrom's 29.4% is well above it. Cardinals contact is harder won than Texas contact, so trouble innings will be driven by hits, not walks -- deGrom's 5.0% BB rate and McGreevy's 6.3% BB rate are both well under the 9.2% league mark.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
@@ -72,13 +72,13 @@ Cardinals took the rubber game and the series 2-of-3 from the Cubs. Two runs in 
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
 <!-- PHASE2_SLOT: key_matchups_prose -->
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Jordan Walker vs deGrom.</b> Walker is hitting .299 with a .982 OPS in 78 PA with runners in scoring position this season -- the most productive RISP profile in the Cardinals lineup. deGrom has been homer-prone (13 HR in 59.2 IP). The cleanup spot is where this game tilts.
+  <b style="color:#0B1C33;">Walker vs deGrom.</b> Walker's 2026 RISP line of .299 / .385 / .597 / .982 across 78 PA is the Cardinals' top-end profile, batting right vs the right-handed deGrom -- no platoon edge for the hitter. But deGrom has surrendered 13 HR across 59.2 IP and his 35.2% GB rate leaves the air lane open. The cleanup at-bats lined up against the contact that does happen are where this game tilts.
 </div>
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Ezequiel Duran vs McGreevy.</b> Duran's .419 AVG / 1.007 OPS with RISP in 47 PA is the loudest threat number in the Texas lineup. McGreevy keeps the ball on the ground (53.1% GB%) and limits walks (6.3% BB%), so the path Duran will need is the bloop or the seam-finder rather than the moonshot -- but his profile says he finds them.
+  <b style="color:#0B1C33;">Duran vs McGreevy.</b> Duran's .419 / .426 / .581 / 1.007 RISP line across 47 PA is the loudest threat number in the Texas roster pool. McGreevy keeps the ball on the ground (53.1% 2026 GB rate) and limits walks (6.3% BB rate), so the path Duran needs is the seam-finder rather than the moonshot -- but his profile says he finds them.
 </div>
-<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Alec Burleson vs deGrom.</b> Burleson sits at .328 / .851 OPS with RISP (75 PA) and bats left-handed in the 3-hole, immediately ahead of Walker. If Wetherholt and Herrera reach in front of him, deGrom faces back-to-back damage threats from opposite sides of the plate -- the platoon advantage of the L-R-R look is exactly the leverage spot the Cardinals want against a power righty.
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs deGrom.</b> Burleson sits at .328 / .373 / .478 / .851 with RISP across 75 PA and bats left-handed in the 3-hole, immediately ahead of Walker. If Wetherholt and Herrera reach in front, deGrom faces back-to-back damage threats from opposite sides of the plate -- the L-R-R look is the leverage spot the Cardinals want against a power righty.
 </div>
 <!-- /PHASE2_SLOT -->
 </td></tr>
@@ -88,14 +88,17 @@ Cardinals took the rubber game and the series 2-of-3 from the Cubs. Two runs in 
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: watchlist_prose -->
-<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- McGreevy ground-ball script.</b> 53.1% GB% on the season. The Texas lineup leans right (7 RHB, 5 LHB, 1 SHB) and McGreevy's job is to keep the ball in the infield against Duran, Jung, and Burger. If the GB% holds, Texas's RISP threats turn into 4-3 ground-outs.
-</div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Cardinals lineup projection caveat.</b> Tonight's Cardinals card is projected from yesterday's lineup -- not yet confirmed. The bottom third (Church CF, Saggese LF, Pagés C) is the most volatile slot; a late swap in or out of the order changes the L/R look deGrom sees second time through.
+  <b style="color:#0B1C33;">-- McGreevy K rate.</b> 18.0% 2026 K rate, below the 22.0% league average. McGreevy depends on the 53.1% GB rate and the defense behind it -- contact is in play almost every at-bat, and the margin against the Rangers' RISP cluster is thinner than the 2.98 ERA suggests.
 </div>
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- deGrom's third time through.</b> deGrom is averaging roughly 5.4 IP per start (59.2 IP across 11 GS). If the Cardinals push him into the third pass through the order, the bullpen has to cover the back end against a lineup that is hottest in the middle innings -- that handoff is the seam the Cardinals are hunting.
+  <b style="color:#0B1C33;">-- Texas RISP cluster.</b> Duran 1.007 (47 PA), Jung 1.001 (50 PA), Osuna .935 (29 PA), Nimmo .912 (51 PA), Burger .818 (66 PA) -- five 2026 RISP OPS marks above the .732 league benchmark. Any inning with the leadoff runner on lines up two-to-three of those at-bats in sequence.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- deGrom HR pattern.</b> 13 HR allowed across 59.2 IP with a 35.2% GB rate. The elite 29.4% K rate masks an air-leaning contact profile. Wetherholt and Burleson (both LHB) plus Walker (RHB cleanup) are the Cardinals' best chances to find the lane.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- New series, rested bullpen.</b> Series Game 1 of 3 against Texas. STL used only Liberatore and Dobbins yesterday -- the rest of the bullpen is fresh. Texas enters on a W3 streak; McGreevy is the Cardinals' first look at a lineup that has been productive.
 </div>
 <!-- /PHASE2_SLOT -->
   </div>
