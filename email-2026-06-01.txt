@@ -1,0 +1,104 @@
+<!-- 700 Clark Email Block -- STL vs TEX 2026-06-01 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (31-26)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TEX (28-31)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 2.98 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, June 1, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">deGrom (R) -- 3.77 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 5, CHC 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CHC&nbsp;&nbsp;0 0 0 0 0 1 0 0 0 -- 1<br>
+      STL&nbsp;&nbsp;2 0 3 0 0 0 0 0 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals took the rubber game and the series 2-of-3 from the Cubs. Two runs in the 1st (Walker single, Burleson run-scoring pop-out) and three more in the 3rd (Burleson single, Winn two-run knock) gave Liberatore a cushion he never gave back -- 5.1 IP, 0 ER, 3 H, 4 K. Dobbins covered 3.2 in relief, surrendering only a Bregman solo shot in the 6th. Wetherholt set the table going 2-for-3 with two runs, a walk, and a steal; Burleson (2 RBI) and Winn (2 RBI) drove home the runs.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Liberatore strikeouts: Liberatore recorded 4 K in 5.1 IP. Threshold 5+. 4 &lt; 5.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Wicks early exit: Wicks recorded 2.0 IP before exit. Threshold under 5.0. 2.0 &lt; 5.0.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Walker reaches: Walker went 1-for-4 with 0 BB = 1 reach. Threshold 2+. 1 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Crow-Armstrong reaches: Crow-Armstrong went 1-for-4 with 0 BB = 1 reach. Threshold 2+. 1 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- CHC middle scoring: Cubs scored 0 + 0 + 1 = 1 run across innings 4-6 (Bregman solo HR in the 6th). Threshold 2+. 1 &lt; 2.<br><br>
+<b>Hit rate: 1/5 (20%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> deGrom has yielded 13 HR in 59.2 IP -- a meaningful homer rate for a sub-4 ERA arm -- and Walker (.299 / .982 OPS with RISP in 78 PA) and Burleson (.328 / .851 OPS with RISP in 75 PA) are the Cardinals' two heaviest situational bats. The path to runs against deGrom tonight is the lineup hunting damage in counts, not threading singles.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Ezequiel Duran has been a one-man rally with runners in scoring position -- .419 AVG / 1.007 OPS in 47 PA -- and Josh Jung is right with him at .341 / 1.001 OPS in 50 PA. McGreevy's 53.1% ground-ball rate keeps the ball in the park, but if these two come up with traffic, the Cardinals need a punchout, not a roller.<br><br>
+<b style="color:#B8860B;">Watch:</b> deGrom's strikeout pressure (29.4% K%, 70 K in 59.2 IP) against the right-handed half of the Cardinals order. Herrera, Walker, Winn, Saggese, and Pagés get the most exposure to the heater early -- if the first pass through the order racks up empty swings, the cushion the offense needs against Texas's RISP bats never builds.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs deGrom.</b> Walker is hitting .299 with a .982 OPS in 78 PA with runners in scoring position this season -- the most productive RISP profile in the Cardinals lineup. deGrom has been homer-prone (13 HR in 59.2 IP). The cleanup spot is where this game tilts.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Ezequiel Duran vs McGreevy.</b> Duran's .419 AVG / 1.007 OPS with RISP in 47 PA is the loudest threat number in the Texas lineup. McGreevy keeps the ball on the ground (53.1% GB%) and limits walks (6.3% BB%), so the path Duran will need is the bloop or the seam-finder rather than the moonshot -- but his profile says he finds them.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs deGrom.</b> Burleson sits at .328 / .851 OPS with RISP (75 PA) and bats left-handed in the 3-hole, immediately ahead of Walker. If Wetherholt and Herrera reach in front of him, deGrom faces back-to-back damage threats from opposite sides of the plate -- the platoon advantage of the L-R-R look is exactly the leverage spot the Cardinals want against a power righty.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- McGreevy ground-ball script.</b> 53.1% GB% on the season. The Texas lineup leans right (7 RHB, 5 LHB, 1 SHB) and McGreevy's job is to keep the ball in the infield against Duran, Jung, and Burger. If the GB% holds, Texas's RISP threats turn into 4-3 ground-outs.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals lineup projection caveat.</b> Tonight's Cardinals card is projected from yesterday's lineup -- not yet confirmed. The bottom third (Church CF, Saggese LF, Pagés C) is the most volatile slot; a late swap in or out of the order changes the L/R look deGrom sees second time through.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- deGrom's third time through.</b> deGrom is averaging roughly 5.4 IP per start (59.2 IP across 11 GS). If the Cardinals push him into the third pass through the order, the bullpen has to cover the back end against a lineup that is hottest in the middle innings -- that handoff is the seam the Cardinals are hunting.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
