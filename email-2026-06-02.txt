@@ -1,0 +1,104 @@
+<!-- 700 Clark Email Block -- STL vs TEX 2026-06-02 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (31-27)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TEX (29-31)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 4.57 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, June 2, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Eovaldi (R) -- 3.93 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- TEX 2, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      TEX&nbsp;&nbsp;0 0 0 1 1 0 0 0 0 -- 2<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 1 0 0 0 -- 1
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+McGreevy held Texas to 2 ER over 6.0 IP, but Duran's RBI double in the 4th and Pederson's RBI single in the 5th were enough. Winn's solo HR in the 6th was the Cardinals' only run; deGrom struck out 8 over 5.0 IP and four Texas relievers shut St. Louis out the rest of the way.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- deGrom strikeouts: deGrom recorded 8 K in 5.0 IP. Threshold: 6+. 8 &gt;= 6.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- McGreevy walk control: McGreevy issued 2 BB in 6.0 IP. Threshold: 2 or fewer. 2 &lt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Walker reaches: Walker went 0 H, 0 BB -- 0 reaches. Needed 2+.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Duran reaches: Duran went 3 H, 0 BB -- 3 reaches. Needed 2+. 3 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals power: Winn hit a solo HR in the 6th. Threshold: 1+ HR. Cardinals had 1 HR.<br><br>
+<b>Hit rate: 4/5 (80%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Eovaldi has surrendered 13 HR in 68.2 IP this season -- a notable home-run rate for a 53.3% ground-ball starter. The Cardinals' top of the order is built to punish a mistake fastball: Walker carries a .968 OPS with RISP, Burleson .851, Wetherholt .830. Power is the surest path to runs against an arm that walks just 5.7%.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Ezequiel Duran is hitting .419 with a 1.007 OPS with runners in scoring position this season, and he went 3-for-4 in last night's opener with the game-changing 4th-inning RBI double. The rest of the Texas RISP order is nearly as hot -- Osuna .940, Jung .958, Nimmo .923 -- but Duran is the bat carrying current-day momentum into tonight.<br><br>
+<b style="color:#B8860B;">Watch:</b> May's 2026-to-date line carries a 20.0% K rate and a 47.1% ground-ball rate -- a pitch-to-contact profile against a Rangers lineup that just made McGreevy work for every out (5 H over 6.0 IP). McGreevy lost the game on two-inning damage in the 4th and 5th; whether May avoids that same middle-inning bleed is tonight's decisive variable.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">May vs Duran.</b> Duran's .419/1.007 RISP line for 2026 is the most dangerous number in tonight's matchup, and the 3-for-4 night against McGreevy says he is in form. May's 20.0% K rate gives him only modest swing-and-miss leverage; if he tries to challenge Duran in the zone with runners on, the damage repeats.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cardinals top of order vs Eovaldi.</b> Wetherholt (.830 OPS / RISP), Herrera (.728), Burleson (.851), and Walker (.968) face an Eovaldi giving up 13 HR over 68.2 IP. With Eovaldi's 5.7% walk rate, the Cardinals will not work counts deep -- they have to barrel mistakes when they get them.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Walker bounce-back vs a 23.7% K starter.</b> Walker's 4-K night against deGrom was the worst single-game line in the series opener, and Eovaldi runs a 23.7% K rate of his own. Walker is the cleanup bat carrying a .968 RISP OPS; whether he reverses last night's profile is the swing question in the Cardinals' run-scoring chances.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Innings 4-6 with May on the mound.</b> McGreevy gave up both runs in the 4th and 5th last night. May's 4.57 ERA and pitch-to-contact profile invite a similar middle-inning vulnerability if Texas turns the lineup over with runners on.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Burleson's RISP line in a series the Cardinals must split.</b> Burleson is hitting .328 with an .851 OPS with runners in scoring position. Eovaldi's HR rate gives a left-handed bat with bat speed a real path to a multi-run swing.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Texas RISP cluster.</b> Duran .419, Osuna .400, Jung .326, Pederson .310, Nimmo .310 with runners in scoring position. If the Rangers get traffic in front of any of them, slug rises sharply -- the same pattern that turned a Duran double into the first run last night.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
