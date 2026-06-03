@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs TEX 2026-06-03 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (31-28)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TEX (30-31)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 4.19 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, June 3, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Gore (L) -- 3.96 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- TEX 7, STL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      TEX&nbsp;&nbsp;0 0 0 0 2 1 1 0 3 -- 7<br>
+      STL&nbsp;&nbsp;0 1 0 1 0 0 2 0 0 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+May (5.2 IP, 9 K, 2 BB, 3 ER) struck out nine and the Cardinals tied it 4-4 in the 7th on Burleson's RBI double scoring Wetherholt and Walker's RBI single plating Herrera. Riley O'Brien then surrendered 3 R in the top of the 9th -- Pederson RBI single, Jung RBI single, Nimmo sac fly -- to flip a tie game. Gorman's solo HR (his 7th) in the 4th and Crooks' 2nd-inning RBI single scoring Torres carried the early scoring.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Eovaldi HR risk: Eovaldi allowed 1 HR in 6.0 IP. Threshold: 1+. 1 &gt;= 1.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- May walk control: May issued 2 BB in 5.2 IP. Threshold: 2 or fewer. 2 &lt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Duran reaches: Duran went 0-for-3 with 1 BB. 0 H + 1 BB = 1 reach; threshold was 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Walker reaches: Walker went 1-for-5 with 0 BB. 1 H + 0 BB = 1 reach; threshold was 2+.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals K count: Cardinals batters combined for 10 K (Burleson 2, Walker 3, Torres 2, Velazquez 1, Winn 1, Gorman 1). Threshold: 7+. 10 &gt;= 7.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> The Cardinals' 5-RHB lineup tilt against a fly-ball lefty. Gore's 39.3% 2026 GB rate is well below the 47.2% league mark and his 10.5% 2026 BB% sits above the 9.2% league line. Walker (.982 2026 RISP OPS), Burleson (.882), and Wetherholt (.795) carry the lineup's top three high-leverage slash lines and get the platoon edge or the elevated-mistake window to attack.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Ezequiel Duran. 1.007 2026 RISP OPS leads the Rangers' active pool. Pallante's 58.9% 2026 GB rate is the answer -- the matchup is whether the ground-ball machine can keep Duran's bat off the loft when traffic is on.<br><br>
+<b style="color:#B8860B;">Watch:</b> Sweep avoidance and bullpen leverage. Texas leads 2-0 on a five-game winning streak; a third loss tonight closes the home set 0-3 and the Cardinals fall to L3. Pallante's 18.3% 2026 K% (well below the 22.1% league mark) means he leans on contact, and O'Brien just gave up 3 R in the 9th yesterday -- the late-inning bullpen carries the swing weight.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs MacKenzie Gore.</b> Walker hits cleanup with the lineup-leading .982 2026 RISP OPS (.304 RISP AVG, .594 RISP SLG in 80 PA) and gets the right-on-left platoon edge. Gore's 39.3% 2026 GB rate is well below the 47.2% league mark -- more balls go in the air, and Walker is the lineup's most likely barrel when runners are on.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Andre Pallante vs Ezequiel Duran.</b> Duran owns the highest 2026 RISP OPS (1.007) in the Rangers' active pool. Pallante's 58.9% 2026 GB rate is the counter -- the matchup is whether the worm-burner can keep Duran's bat off the loft with runners aboard.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Andre Pallante vs Alejandro Osuna.</b> Osuna carries a .978 2026 RISP OPS (.423 RISP AVG in 32 PA) and had the 6th-inning RBI single off May yesterday. He gets the left-on-right edge against Pallante; the ground-ball lean is the answer, but Osuna's contact profile keeps the leverage at-bat live deep into counts.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante's 58.9% 2026 GB rate.</b> The widest deviation from the 47.2% league line in either rotation tonight. If Pallante keeps the ball on the dirt against the Texas RISP cluster (Duran 1.007, Osuna .978, Jung .933 -- 2026 RISP OPS), the Cardinals stay in the game.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Gore walks (10.5% 2026 BB%).</b> Above the 9.2% league line, and the Cardinals' top three RISP slash lines all live in the top four of the order. Free passes into Walker's at-bat are how this lineup builds the inning.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Sweep avoidance.</b> Texas leads the series 2-0 on a five-game winning streak. A third loss tonight closes the home set 0-3 and the Cardinals fall to L3.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Late-inning bullpen.</b> O'Brien surrendered 3 R in the 9th yesterday. With Pallante's 18.3% 2026 K% pointing to contact and traffic, the Cardinals are likely to need clean middle-relief work to keep the game in reach.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
