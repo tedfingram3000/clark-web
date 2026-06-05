@@ -1,0 +1,74 @@
+<!-- 700 Clark Email Block -- STL vs CIN 2026-06-05 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (32-28)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 7:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN (31-30)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 4.25 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, June 5, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Singer (R) -- 6.18 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Singer lands at Busch with a 6.18 ERA, 1.69 WHIP, and 16 HR allowed in 51.0 IP this season. The Cardinals' four left-handed bats sit in his weak side -- Singer's 2025 vs LHB line is .250/.330/.460 with 15 HR allowed in 404 PA. Burleson owns the head-to-head at 3-for-7 with a HR (.429 AVG, 1.143 SLG, 8 PA career).<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Eugenio Suárez. The Reds DH carries a .546 SLG and 39 HR vs RHP in 2025 (514 PA) and is 1-for-3 with a walk vs Leahy in the career sample. Noelvi Marte adds a .275 / .516 SLG line vs RHP in 2025 with 13 HR -- two right-handed bats with the power to flip an inning on one swing.<br><br>
+<b style="color:#B8860B;">Watch:</b> Leahy's home/away inverse. Career 4.47 ERA at home in 44.1 IP versus 2.68 on the road in 43.2 IP -- a substantial home/road gap. His 2025 sample beyond the first pass through the order is only 8 PA, so innings 1-3 are the ceiling and the bullpen handoff is the live decision point.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Singer.</b> 3-for-7 with a HR in their career BvP (.429 AVG, 1.143 SLG, 8 PA). Burleson hits .296 vs RHP in 2025 across 419 PA with 15 HR. He bats third and projects to see Singer 2-3 times tonight -- the most repeatable Cardinals edge on the card.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Suarez vs Leahy.</b> 1-for-3 with a walk in the career BvP sample. Suarez's 2025 vs RHP line is .247/.311/.546 with 39 HR in 514 PA -- the loudest power threat in this matchup. Leahy's 2025 vs RHB line (.589 OPS, 200 PA) suggests the profile holds; Suarez is the exception swing.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Walker vs Singer.</b> 0-for-7 with 4 K in their career BvP. Walker's 2025 vs RHP line is .200/.263/.291 with a 31.8% K rate (396 PA). Singer's 2025 edge vs RHB (.222 AVG, .626 OPS, 312 PA) lines up with the Cardinals' cleanup hitter -- this is the at-bat Singer can attack.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy first pass through the order (355 PA in 2025).</b> .247 AVG / .341 SLG / .645 OPS -- innings 1-3 are his strength. His second-pass sample is only 8 PA, so the bullpen handoff is where the leverage shifts.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Romero vs Graceffo bullpen fork.</b> Romero has stranded 23 of 26 inherited runners (88.5%); Graceffo has stranded 6 of 11 (54.5%). Which arm enters with traffic will swing a tight middle inning.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Singer's road profile.</b> 2025 road ERA 4.65 across 79.1 IP with 9 HR allowed. Four Cardinals LHB plus a fly-ball-tilted Gorman (41.7% FB in 2025) give Singer real long-ball exposure tonight.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Myers and McLain on the bases.</b> Myers is 18-for-23 (78.3%) and McLain is 18-for-20 (90.0%) in career SB attempts. Both project to be in tonight's Reds lineup -- early-inning running game is on the table.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
