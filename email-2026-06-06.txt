@@ -1,0 +1,104 @@
+<!-- 700 Clark Email Block -- STL vs CIN 2026-06-06 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (33-28)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN (31-31)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 4.35 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, June 6, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Lodolo (L) -- 5.20 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 10, CIN 3</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CIN&nbsp;&nbsp;3 0 0 0 0 0 0 0 0 -- 3<br>
+      STL&nbsp;&nbsp;2 0 1 0 1 6 0 0 0 -- 10
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals trailed 3-0 after Stewart's 2-RBI double and a Suárez RBI single in the top of the 1st, then ground the lead away over the next five innings. Burleson's 3rd-inning solo HR (8) and Walker's 5th-inning RBI double bridged to a six-run 6th built entirely on small ball -- Nootbaar double, Herrera single, Winn HBP, Fermin infield single, Crooks walk, Scott walk -- six different baserunner events, no homers. Burleson finished 4 R / 2 H / 1 HR / 1 RBI / 1 BB. Dobbins delivered 5.0 scoreless in relief (4 H, 0 R, 6 K) to lock the win.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Singer walk trouble: Singer issued 3 BB in 4.0 IP. Threshold: 3+. 3 >= 3.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Singer HR allowed: Singer allowed 1 HR. Threshold: 2+. 1 < 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals K total: Cardinals batters combined for 10 K (Nootbaar 1, Herrera 1, Walker 1, Torres 1, Winn 1, Gorman 2, Crooks 2, Scott 1). Threshold: 8+. 10 >= 8.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Burleson reaches base: Burleson 2 H + 1 BB = 3 reaches. Threshold: 2+. 3 >= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Walker strikeouts: Walker had 1 K. Threshold: 2+. 1 < 2.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Lodolo's reverse splits put the Cardinals' 4 LHB (Wetherholt, Burleson, Gorman, Church) at the throat of the matchup. Lodolo has held RHB to .214 / .263 / .375 but LHB hit .298 / .361 / .420 -- and he travels to Busch with his stronger context (2.66 away ERA vs 3.97 at home). The lineup configuration is built for the side he leaks.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Marte. He is 3-for-8 with 1 HR against Liberatore (9 PA, .375 / .444 / .750), the only opponent bat with a meaningful career BvP sample. Stewart (1 HR in 3 PA) and Lowe (1 HR in 3 PA) are the small-sample echo -- every Red who has touched Liberatore in any sample has touched him hard.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order. First pass: .237 AVG, .376 SLG, .657 OPS. Second pass: .310 AVG, .511 SLG, .871 OPS. Innings 4-6 are when Myers, Bleday, and Marte see him a second time. The third pass flattens (.244 / .353 / .641) -- the second pass is the cliff.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Noelvi Marte vs Liberatore.</b> 3-for-8 with 1 HR career (9 PA, .375 / .444 / .750) -- the only opponent BvP row with both volume and an extra-base footprint. Marte is .224 vs LHP in 2025 with just 1 HR, so this is a Liberatore-specific edge, not a platoon edge.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">JJ Bleday vs Liberatore.</b> Bleday hit .324 / .370 / .500 vs LHP in 2025 with 3 HR; career .641 LD AVG. Career BvP sample is just 1 PA, but the platoon profile says Bleday is the lefty who can punish when Liberatore misses arm side.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Lodolo.</b> Burleson hit .271 / .310 / .398 vs LHP in 2025 and is 1-for-3 career against Lodolo. From the 3-hole he is the LHB the Cardinals trust most against Lodolo's reverse split.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore TTO2 window.</b> .310 AVG, .511 SLG, .871 OPS in the second pass through the order. Innings 4-6 are the published cliff -- if Cincinnati extends Liberatore to a second look, that is the high-value zone.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork: Romero vs Svanson.</b> Romero strands inherited runners at 88.5% (26 IR). Svanson strands them at 50.0% (26 IR). Whichever arm gets the runners-on call decides the middle innings.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Reds team speed.</b> Myers (18 SB, 78.3%) and McLain (18 SB, 90.0%) are the top two stolen-base totals in the lineup pool. Pages's battery work is the brake.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
