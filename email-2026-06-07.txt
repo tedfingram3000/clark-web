@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs CIN 2026-06-07 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (34-28)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN (31-32)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 2.98 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, June 7, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Lowder -- 5.40 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 6, CIN 5</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CIN&nbsp;&nbsp;0 0 3 2 0 0 0 0 0 -- 5<br>
+      STL&nbsp;&nbsp;0 3 0 0 1 0 0 2 0 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals took the second straight from Cincinnati 6-5 behind Lars Nootbaar's two-run pinch homer in the eighth that flipped the score. Liberatore lasted only 4.1 IP and surrendered all five Reds runs (a three-spot in the third capped by a Burleson fielding error, then a McLain two-run shot in the fourth), but the bullpen -- Graceffo, Stanek, Soriano, O'Brien -- delivered 4.2 scoreless to keep it within reach. Jose Fermin's 3-for-4 night and a Walker solo HR did the early lifting; Winn's two-RBI single in the second was the first big sequence.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Liberatore TTO2 scoring: Reds plated 2 runs in innings 4-6 (McLain 2-run HR in the 4th). Threshold: 2+. 2 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Suarez K trouble: Suarez recorded 2 K in 4 AB. Threshold: 2+. 2 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Lodolo strikeouts: Lodolo recorded 3 K in 5.0 IP. Threshold: 6+. 3 &lt; 6.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Burleson reaches base: Burleson finished 1 H + 1 BB = 2 reaches. Threshold: 2+. 2 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- CIN K total: Cincinnati batters combined for 6 K (Stewart 2, Suarez 2, Marte 1, Lowe 1). Threshold: 8+. 6 &lt; 8.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> McGreevy carries a stingy right-handed batter profile (.225 AVG / .580 OPS allowed vs RHB in his platoon line) into a Cincinnati roster pool that lists 9 right-handed bats. Even with Suarez and Marte slugging vs RHP in 2025, the matchup leans STL.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Eugenio Suarez. .247 / .311 / .546 with 39 HR vs RHP in his 2025 sample. McGreevy's RHB profile bends when the bat is this big, and Suarez's 40.8% fly-ball rate is built for a Busch mistake.<br><br>
+<b style="color:#B8860B;">Watch:</b> McGreevy at Busch. He has worked to a 5.22 ERA at home this year against a 3.55 mark on the road -- a substantial home/road gap, road clearly his stronger context. The first pass through the order is the loudest part of his line (.282 AVG / .465 SLG allowed in 2025 TTO1) -- that is where innings 1-3 get tested.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Eugenio Suarez vs Michael McGreevy.</b> Career BvP is a 2-PA blip (0-for-2, 1 K) -- the bet here is profile, not history. Suarez has 39 HR and a .546 SLG vs RHP in the 2025 sample; McGreevy gives up a 3 HR / 31 K line vs RHB across his career platoon split. The slug bat is the exception to the right-handed lockdown.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Rhett Lowder.</b> Burleson is the L bat with the cleanest vs-RHP line in this lineup (.296 / .353 / .478, 15 HR in the 2025 sample). Lowder is sitting on a 5.40 ERA across 38.1 IP and a 10.8% walk rate. Two PA of BvP history (0-for-2) is noise; the platoon edge is the real signal.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">JJ Bleday vs Michael McGreevy.</b> Bleday is one of three LHB the Reds carry in this roster pool, and McGreevy's LHB line is his vulnerability (.318 AVG / .911 OPS allowed). But Bleday himself is .180 / .273 / .377 vs RHP in 2025 -- the LHB edge meets a struggling LHB. Watch whether McGreevy's tendency or Bleday's slump wins out.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- McGreevy TTO1 window (154 PA in 2025).</b> .282 AVG / .465 SLG allowed in the first pass through the order. Innings 1-3 are where his line gets loudest -- if Cincinnati's RHBs are going to break through, this is the window.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- McGreevy home split (50.0 IP).</b> 5.22 ERA at Busch vs 3.55 on the road. Today is a home start -- the gap is real, the cause is unclear, and the report card on it keeps growing.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Lowder walk rate (10.8% BB% in 2026).</b> A walks-heavy 38.1 IP profile facing a Cardinals lineup that runs Wetherholt, Herrera, and Burleson at the top. Free passes early should turn into runs.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Romero in high leverage.</b> 88.5% strand rate across 26 IR opportunities in 2025. If McGreevy walks out of an inning with traffic, Romero is the arm that closes the door.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
