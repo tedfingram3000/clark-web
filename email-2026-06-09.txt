@@ -1,0 +1,74 @@
+<!-- 700 Clark Email Block -- STL vs NYM 2026-06-09 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (35-28)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Citi Field -- 6:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NYM (29-36)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 4.59 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, June 9, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Peralta (R) -- 3.63 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Burleson against Peralta's vs-LHB profile. Peralta's 2025 vs-LHB line (.206 / .299 / .346 / .645 OPS, 12 HR in 399 PA) is his weaker split, and Burleson is .296 / .353 / .478 with 15 HR vs RHP in the 2025 sample. The Cardinals' best L bat against the matchup's softest opposing split is the path tonight.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Juan Soto. .276 / .424 / .572 with 32 HR and 95 BB vs RHP in his 2025 sample, plus a 17.8% 2025 BB% and a 90.5% SB success rate. May has already walked Soto 4 times in 15 career PA, and his vs-LHB line (.852 OPS allowed in 334 PA) is the structural opening Soto is built to exploit.<br><br>
+<b style="color:#B8860B;">Watch:</b> May's TTO2 cliff. Second pass through the order in 2025: .290 / .508 / .878 OPS allowed across 220 PA with 9 HR. Third pass through the order: .882 OPS. Innings 4-6 are the May watch window -- and they hand into a bullpen fork where Romero (88.5% 2025 strand rate) and Svanson (50.0%) are the difference between holding the line and giving it back.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Juan Soto vs Dustin May.</b> 2-for-11 with 4 BB and 2 K across 15 career PA -- Soto has already shown the discipline to draw walks off May. May's 2025 LHB line is .261 / .357 / .495 / .852 OPS with 15 HR in 334 PA, and Soto's .424 OBP and 32 HR vs RHP in 2025 is the bat built for the matchup. If he reaches, the 90.5% SB success rate against a fresh May / Pages battery is the second-act problem.
+</div>
+<div style="border-left:3px solid #2E7D32;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Freddy Peralta.</b> Burleson is the cleanest L bat in the Cardinals' lineup vs RHP (.296 / .353 / .478, 15 HR in 419 PA in 2025). Peralta's vs-LHB line in 2025 (.206 / .299 / .346 / .645 OPS) is his softer split. The career BvP is unflattering (.222 / .300 / .333 in 21 PA), but the platoon edge is the better read.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Bo Bichette vs Dustin May.</b> Bichette is .314 / .364 / .468 with 12 HR vs RHP in the 2025 sample -- the cleanest right-handed bat in the Mets pool. No career BvP rows with May. The matchup tests May's road profile (6.28 away ERA) against the Mets' steadiest contact identity.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May TTO2 cliff (220 PA in 2025).</b> .290 AVG / .508 SLG / .878 OPS in the second pass through the order, then .882 OPS in the third pass. Innings 4-6 are where the line opens up -- the right side of the rotation hands the Mets second-look access.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May away split (57.1 IP).</b> 6.28 ERA on the road vs 3.24 at home. Tonight is a road start at Citi Field -- the version of May the Cardinals send out tonight has been the leaky one in his career sample.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May / Pages first-time battery.</b> Pages has 0 career IP paired with May in the available battery data -- May's prior catchers are all Dodgers and Red Sox names. Watch the first pass through the order for any cross-up, particularly with Soto's 90.5% SB success rate in front of them.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Romero in high leverage.</b> 88.5% strand rate across 26 IR opportunities in 2025. If May walks out of an inning with traffic in the May TTO2 window, Romero is the arm that closes the door -- Svanson (50.0%) and Graceffo (54.5%) are the alternative the Cardinals do not want to call on.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
