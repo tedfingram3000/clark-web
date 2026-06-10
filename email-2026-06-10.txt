@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs NYM 2026-06-10 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (36-28)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Citi Field -- 6:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NYM (29-37)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.96 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, June 10, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Warren (R) -- 2.01 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 7, NYM 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 4 0 2 0 1 0 0 -- 7<br>
+      NYM&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals shut out the Mets 7-0 behind a 6-inning, 4-hit, 6-K start from Dustin May (1 BB, 0 R). Burleson went 2-for-5 with a HR and a double, 3 RBI. Herrera was 3-for-3 with 3 runs scored. The Cardinals broke through with 4 in the 3rd (Wetherholt 2-RBI single, Walker RBI double, Nootbaar RBI groundout), then added 2 more in the 5th (Burleson 2-run HR) and 1 in the 7th (Burleson RBI double) -- a balanced road win that gives STL the series lead.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Soto reaches base: Soto went 1 H + 1 BB = 2 reaches. Threshold: 2+. 2 >= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- May walks: May issued 1 BB in 6.0 IP. Needed 3+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Peralta strikeouts: Peralta recorded 5 K in 6.0 IP. Needed 7+.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Burleson reaches base: Burleson went 2 H + 0 BB = 2 reaches. Threshold: 2+. 2 >= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- NYM TTO2 scoring: Mets scored 0 runs in innings 4-6 (and 0 all game). Threshold: 2+.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">EDGE:</b> Warren has 9.1 career IP and 1 GS -- this is a spot start, not a typical SP usage. The Cardinals reach the Mets bullpen earlier than normal, and their 4 LHB (Wetherholt, Burleson, Gorman, Church) get the side of Warren's split that has shown vulnerability: .214 / .353 / .429 / .782 OPS with a HR in 17 career PA vs LHB.<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> The Mets' career BvP card against Pallante tilts the wrong way four times -- Vientos 2-for-4 with a HR in 5 PA, Alvarez 2-for-3 with a walk in 4 PA, Melendez 3-for-7 in 7 PA, Bichette 2-for-6. None individually significant; the pattern repeats in one direction.<br><br>
+<b style="color:#B8860B;">WATCH:</b> Pallante's second pass through the order. His 2025 TTO2 line is .309 AVG, .487 SLG, .868 OPS in 270 PA -- well clear of the first pass (.720 OPS) and the third pass (.691 OPS). Innings 4-6 are where this game can break open in either direction.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Austin Warren.</b> 1 career PA between them, so the profile carries this. Burleson sits at .296 / .353 / .478 in 419 PA vs RHP -- the cleanest profile bat in the lineup -- and Warren has allowed .214 / .353 / .429 / .782 OPS to LHB with a HR in his 17-PA career vs-LHB sample. The leverage swing tonight.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Juan Soto vs Andre Pallante.</b> 1-for-9 with 2 BB in 11 career PA -- the only opposing-lineup BvP that crosses 10 PA. Pallante has held him to .111 / .273 / .111, no HR. Pair that with Soto's 17.8% 2025 BB% and expect him to be pitched around in any leverage spot.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Mark Vientos vs Andre Pallante.</b> 5 career PA: 2-for-4 with a HR and a BB (.500 / .600 / 1.250). Tiny sample, but the loudest BvP line on the page in either direction and a clear danger spot when he comes up.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante TTO2 window (270 PA in the 2025 sample).</b> .309 AVG / .487 SLG / .868 OPS in the second pass through the order. The window where Pallante's outings have historically tilted.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Warren workload limit.</b> 9.1 career IP, 1 GS -- the Mets bullpen takes over earlier than usual. Watch warm-ups behind him from the third inning on.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Romero vs Svanson with traffic.</b> Romero strands 88.5% of inherited runners (3 of 26); Svanson 50.0% (13 of 26). Which arm enters with runners on decides the middle innings.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Soto on the bases.</b> 38 SB and a 90.5% career success rate. Cardinals battery (Pages catching, 0.994 fielding pct) is clean, but Soto runs on green-light regardless of receiver.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
