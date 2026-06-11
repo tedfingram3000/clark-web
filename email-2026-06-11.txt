@@ -1,0 +1,113 @@
+<!-- 700 Clark Email Block -- STL vs NYM 2026-06-11 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (37-28)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Citi Field -- 12:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NYM (29-38)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Dobbins (R) -- 2.77 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, June 11, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Scott (R) -- 2.50 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 9, NYM 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;2 0 2 3 1 0 0 0 1 -- 9<br>
+      NYM&nbsp;&nbsp;0 0 0 2 0 0 0 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals took the series with a 9-2 road win behind a 6-inning, 3-hit, 5-K start from Pallante (2 R, 2 ER, 2 BB, 1 HR). Walker drove in 4 with a 2-for-5 night that included his 17th HR (a 3-run shot in the 4th). Velazquez added a 2-run HR in the 3rd (his 2nd) and Burleson closed it with a solo HR in the 9th (his 10th). Wetherholt set the table with a 3-for-5 night and 2 runs scored. Svanson and Romero combined for 3 scoreless innings of relief. Streak: W6.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Burleson reaches base: Burleson went 1 H + 0 BB = 1 reach. Threshold: 2+.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Pallante walks: Pallante issued 2 BB in 6.0 IP. Threshold: 2+. 2 >= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- STL TTO2 scoring: Cardinals scored 4 runs in innings 4-6 (3 + 1 + 0). Threshold: 2+. 4 >= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Soto reaches base: Soto went 0 H + 1 BB = 1 reach. Threshold: 2+.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- NYM TTO2 scoring: Mets scored 2 runs in innings 4-6 (0 + 2 + 0). Threshold: 2+. 2 >= 2.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">EDGE:</b> Dobbins's 2025 second pass through the order is the cliff -- .208 / .302 / .578 in the first pass, then .300 / .480 / .813 in the second across 105 PA with 3 HR. Innings 4-6 are the window where this game can break open, and the Cardinals enter on a six-game streak with a 2-0 series lead.<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> Juan Soto. 17.8% 2025 BB% (nearly double the 9.2% league average) and .276 / .424 / .572 across 468 PA vs RHP with 32 HR and 95 BB. He has 2 career PA vs Dobbins (0-for-2, no read), but his discipline cap and slugging vs RHP make him the lineup's leverage bat on every PA.<br><br>
+<b style="color:#B8860B;">WATCH:</b> Dobbins on the road. His 2025 line splits sharply by venue -- 2.61 ERA across 38.0 IP at home, 4.70 ERA across 23.0 IP away. Today is at Citi Field, his weaker context, and his 2026 control has been loose (7 BB in 13.0 IP, 13.2% BB%). Free passes are the swing variable.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Christian Scott.</b> No career BvP rows on file, and Scott has no 2025 historical splits in the database -- this is a pure profile bet. Burleson is the cleanest LHB profile in the lineup at .296 / .353 / .478 across 419 PA vs RHP, batting third in a stack of six left-handed bats facing a right-handed starter.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Hunter Dobbins vs Juan Soto.</b> 2 career PA, 0-for-2 -- no read either direction. The matchup that matters is the profile: Soto's .424 OBP and 17.8% 2025 BB% vs Dobbins's loose 2026 control (13.2% BB%, 7 BB in 13.0 IP) is the walk-or-damage decision in any leverage at-bat.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Hunter Dobbins vs Francisco Alvarez.</b> 2 career PA, 2-for-2 -- a tiny sample but the loudest BvP line on the page in either direction. Pair it with Alvarez's .595 career LD AVG and his role as Scott's likely receiver and he is the small-sample alarm in the bottom third of the order.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">X-factor: Scott's first look at this lineup.</b> Scott has no 2025 platoon, TTO, or batted-ball rows on file -- the database carries only his 2026-to-date line (2.50 ERA across 36.0 IP, 26.3% K%, 11.5% BB%). The Cardinals have never seen him in the career BvP sample. Whichever side adapts first wins the early innings.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Dobbins second-pass window (105 PA in the 2025 sample).</b> .300 / .480 / .813 with 3 HR in the second pass through the order, against .208 / .302 / .578 in the first. The cliff sits in innings 4-6.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Dobbins control on the road.</b> 13.2% 2026 BB% across 13.0 IP, 7 walks already. Away ERA last season was 4.70 vs 2.61 at home. Walks set the table for the LHB-stacked Mets bats.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Romero vs Svanson with traffic.</b> Romero strands 88.5% of inherited runners (3 of 26); Svanson strands 50.0% (13 of 26). Which arm enters with runners on decides the middle innings.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Soto on the bases.</b> 38 SB at 90.5% career success. Crooks behind the plate has a clean 1.000 fielding pct in 14 G, but Soto runs on green-light regardless of receiver.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Sweep on the table.</b> Cardinals enter at 37-28 on a six-game win streak with a 2-0 series lead. Mets are 29-38, 15.5 GB in the NL East, on a two-game skid. A sweep would push the streak to seven.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
