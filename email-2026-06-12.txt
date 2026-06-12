@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs MIN 2026-06-12 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (37-29)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Target Field -- 7:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIN (31-39)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 4.42 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, June 12, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Ryan (R) -- 3.07 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- NYM 5, STL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;1 3 0 0 0 0 0 0 0 -- 4<br>
+      NYM&nbsp;&nbsp;3 0 0 0 1 0 1 0 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Three Cardinals HRs (Burleson 11th, Nootbaar 2nd, Crooks 1st with Winn aboard) built a 4-3 lead through two innings, but Dobbins gave up a Bichette 2-run HR and a Young solo HR in the first and the offense went silent after the second. Soto's 14th HR off Romero in the seventh broke a 4-4 tie. Cards still took the series 2-of-3 in New York.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Burleson reaches base: Burleson went 1 H + 0 BB = 1 reach. Threshold: 2+. HR was the only entry.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Dobbins walks: Dobbins issued 0 BB in 4.1 IP. Threshold: 2+. The HRs hurt, not the walks.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- STL TTO2 scoring: Cardinals scored 0 runs in innings 4-6. Threshold: 2+. All four STL runs came in the first two innings.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Soto reaches base: Soto went 2 H + 0 BB = 2 reaches. Threshold: 2+. 2 &gt;= 2. The HR was the dagger.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- STL strikeouts: Cardinals batters combined for 9 K (Wetherholt 0 + Herrera 1 + Burleson 0 + Walker 1 + Nootbaar 0 + Winn 1 + Crooks 1 + Gorman 2 + Torres 0 + Church 3). Threshold: 8+. 9 &gt;= 8.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Cardinals stacking six left-handed bats against Joe Ryan. Ryan is dominant vs RHB (.192 AVG, .580 OPS in 2025) but allows .447 SLG and 16 HR to LHB across 357 PA. Burleson (.296 vs RHP), Nootbaar (.249 / .340 / .394), and Gorman (9 HR vs RHP) all line up with the platoon edge. Nootbaar is 3-for-5 with a HR in 6 career PA against Ryan; Walker is 3-for-3 with a HR in 4 career PA.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Joe Ryan's 28.2% K% (2025) finds easy targets. Gorman (33.8% K%), Walker (31.8%), Crooks (37.0%), and Church (27.7%) all run high 2025 K rates. Ryan's TTO trend tightens as he goes (.746 OPS first pass, .617 second, .588 third) -- the deeper he pitches, the harder the offense gets to score.<br><br>
+<b style="color:#B8860B;">Watch:</b> Leahy's 2025 TTO sample concentrates almost entirely in the first pass (355 PA at TTO1, 8 PA at TTO2) -- a short-outing starter who puts the bullpen onstage early. Romero (88.5% strand on 26 IR) is the asset; Svanson (50.0%) and Graceffo (54.5%) sit below the 68-72% league baseline. The arm that enters with traffic decides the middle innings.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Lars Nootbaar vs Joe Ryan.</b> 3-for-5 with a HR in 6 career PA, .667 OBP -- the smallest of samples, but the platoon math lines up too. Nootbaar's 2025 vs RHP (.249 / .340 / .394) is the lineup's most productive LHB profile against Ryan's hand. Ryan allows .447 SLG to LHB; Nootbaar projects to the at-bat most likely to do extra-base damage.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs Joe Ryan.</b> 3-for-3 with a HR in 4 career PA -- the BvP eye-catcher. But Walker is a RHB facing a pitcher who eats RHB (.192 AVG, .580 OPS in 2025), and Walker's 2025 vs RHP is a .200 / .263 / .291 line. The BvP sample is real but tiny; the rate-stat baseline says this at-bat is a fade unless the pattern carries.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Luke Keaschall vs Kyle Leahy.</b> Keaschall is the only Twins bat clearing BvP danger thresholds in a 2025 platoon context -- .366 / .447 / .528 in 141 PA vs RHP. Leahy is right-handed; the platoon stack lines up exactly the wrong way. Add the SB threat (14 SB, 82.4%) and Keaschall is the lineup's most complete problem for an unfamiliar Crooks battery.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Joe Ryan's TTO arc (2025).</b> OPS by pass: .746 first, .617 second, .588 third. Unusual shape -- he gets harder, not easier. Innings 1-3 are where the offense has to take its shots; the .449 SLG and 15 HR at TTO1 say the early counts are where damage shows.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy's road bonus.</b> 2.68 ERA away (43.2 IP) vs 4.47 ERA at home (44.1 IP) in 2025. Target Field is the road context tonight -- a leading indicator if the split holds.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork after Leahy.</b> Romero 88.5% strand vs Svanson 50.0% and Graceffo 54.5%. The first arm in with runners on tells the inning the bullpen owns the loss.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks-Leahy battery vs Twins speed.</b> 4 G / 6.1 IP together in 2025 (8.53 ERA in that pairing). Buxton (24 SB, 0 CS) and Keaschall (14 SB, 82.4%) headline the running threats. Pop time and pitch sequencing under an unfamiliar pairing is the structural watch.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Series context.</b> Cardinals are 6-3 vs Twins across 2023-2025 head-to-head (3-0 in 2025, 2-1 in 2024, 1-2 in 2023). Modest historical edge in a neutral venue.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
