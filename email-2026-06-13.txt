@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs MIN 2026-06-13 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (37-30)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Target Field -- 1:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIN (32-39)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 4.48 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, June 13, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Prielipp (L) -- 5.15 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- MIN 9, STL 8</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;1 2 0 0 0 0 4 1 0 -- 8<br>
+      MIN&nbsp;&nbsp;1 0 0 0 1 2 3 2 0 -- 9
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+A back-and-forth slugfest at Target Field. Burleson opened with a solo HR in the first; the Cardinals chased the lead back at 7-4 on Walker's three-run double in a four-run top of the seventh. The bullpen could not hold it: Graceffo walked two, Stanek surrendered Kody Clemens' three-run HR to tie the seventh, then Royce Lewis (5) and Brooks Lee (11) hit back-to-back solo HRs off Stanek in the eighth to flip the game 9-8. Walker (3 RBI), Burleson (1 HR, 1 BB, 2 R), and Wetherholt (2-for-4, 1 BB) led the offense; Stanek absorbed the loss with three HRs allowed in 1.1 IP.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals strikeouts: STL batters combined for 11 K. Threshold 8+. 11 &gt;= 8.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Leahy walks: Leahy issued 1 BB in 5.0 IP. Threshold 2+. 1 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Nootbaar reaches base: Nootbaar went 1-for-5 with 0 BB (1 H + 0 BB = 1 reach). Threshold 2+. 1 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals scoring: STL scored 8 runs. Threshold 3+. 8 &gt;= 3.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Twins steals: Sum of MIN batter SB column = 0. Threshold 1+. 0 &lt; 1.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Cardinals' three RHB carry the platoon advantage against LHP Prielipp. Herrera's 2025 vs LHP is the standout: .330/.455/.660 with 9 HR in 124 PA. Walker (.255/.318/.347) and Winn (.255/.313/.349) round out the right-handed core. Prielipp's 9.4% 2026 BB% leaves margin to work; Herrera's 19 BB in 124 PA vs LHP says he will take what is offered.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Byron Buxton just homered off Liberatore yesterday and his 2025 vs LHP line is .306/.374/.676 with 10 HR in 123 PA. Add Royce Lewis (.239 vs LHP but went deep yesterday) and Tristan Gray's .364/.391/.727 vs LHP in 23 PA, and the Twins have multiple right-handed power threats sitting on Liberatore's third trip.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order is the cliff -- 2025 TTO2 line is .310 AVG / .871 OPS over 252 PA, a sharp jump from his .237 / .657 first pass. Innings 4-6 are where the Twins should break through. Bullpen fork beyond that: Romero's 88.5% strand rate stands alone; Svanson (50.0%) and Roycroft (41.7%) are the danger arms if traffic arrives.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Ivan Herrera vs Prielipp.</b> Herrera's 2025 vs LHP slash is .330/.455/.660 with 9 HR in 124 PA -- the platoon weapon in this lineup. Prielipp is a 25.7% K% lefty but he walks 9.4% of hitters; Herrera's 19 BB in 124 PA vs LHP is the right profile to make him work. 2026 RISP .193/.333/.298 is the wart, but power-on-power against the only Twins starter throwing LHP wins out.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Byron Buxton vs Liberatore.</b> Buxton went 3-for-3 with 1 HR off Liberatore yesterday. 2025 vs LHP line: .306/.374/.676 with 10 HR in 123 PA. He has zero career BvP rows against Liberatore, but the platoon and recency signals both align. Liberatore's TTO2 vulnerability (.310 AVG allowed in 2025) will likely catch Buxton on his second look.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Tristan Gray vs Liberatore (small sample).</b> Gray is .364/.391/.727 vs LHP in 2025 across 23 PA -- elite line, tiny denominator. He hits line drives at a 33.9% clip and has zero career BvP rows against Liberatore. The sample is too thin to lean on, but if he is in the box, Liberatore should not feed him a fastball middle-third.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore TTO2 window (innings 4-6).</b> 2025 second-pass-through-the-order line is .310 AVG / .871 OPS over 252 PA. If the Twins are pushing leverage, this is the inning band.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero's 88.5% strand rate is elite; Svanson 50.0%, Graceffo 54.5%, and Roycroft 41.7% are all below the league ~68-72% average. Which arm enters with runners decides the middle innings -- yesterday Graceffo walked two and Stanek surrendered a 3-run HR.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks behind the plate against Twins speed.</b> Buxton is 24-for-24 in SB this season; Keaschall 14 SB (82.4%), Lewis 12 SB (85.7%). Crooks has only 2 G / 11.0 IP paired with the staff in 2025 -- the running game is live and the catcher is the unfamiliar variable.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Nootbaar vs LHP.</b> Nootbaar's 2025 vs LHP line is .201/.291/.289 in 180 PA. He is the 5-hole bat today against a same-side starter -- watch whether the manager pinch-hits early in a leverage spot.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore at Target Field.</b> 2025-prior away ERA 4.03 in 76.0 IP, home 3.69 in 75.2 IP. Modest road downtick; the larger story is the 11 HR allowed away vs 8 at home.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
