@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs MIN 2026-06-14 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (38-30)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Target Field -- 1:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIN (32-40)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 2.99 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, June 14, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Bradley (R) -- 4.02 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 9, MIN 6</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;2 2 0 0 0 0 5 0 0 -- 9<br>
+      MIN&nbsp;&nbsp;0 0 0 2 2 0 0 1 1 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals dug out of a 4-run hole with a five-run seventh. Iván Herrera went deep twice (HR 8 and 9) for 3 RBI, Jordan Walker added a solo shot, and Blaze Jordan capped the inning with a pinch-hit 3-run blast. Pedro Pagés went 3-for-4. Liberatore allowed 4 ER on 3 HR in 4.1 IP; Svanson and Stanek combined for 2.2 scoreless to bridge to the back end.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Twins TTO2 scoring: Twins scored 4 runs in innings 4-6 (2 in the 4th, 2 in the 5th, 0 in the 6th). Threshold: 2+. 4 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Buxton reaches base: Buxton went 2-for-4 with 0 BB = 2 reaches. Threshold: 2+. 2 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Liberatore walks: Liberatore issued 1 BB in 4.1 IP. Threshold: 3+. 1 &lt; 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Herrera reaches base: Herrera went 2-for-3 with 1 BB = 3 reaches. Threshold: 2+. 3 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Twins steals: Twins batters combined for 0 SB. Threshold: 1+. 0 &lt; 1.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Bradley's home/away split is stark -- 5.25 ERA at Target Field versus 3.73 on the road, with 12 HR allowed in 70.1 home IP. The Cardinals roll out six left-handed bats into a starter who has surrendered 12 HR in 299 PA to LHB. The lineup's handedness sits right on top of Bradley's softest split.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> McGreevy is a different pitcher by handedness -- .225/.255/.325 vs RHB but .318/.368/.543 vs LHB with 9 HR allowed in 190 PA. Larnach (.254/.330/.428 vs RHP in 2025), Clemens (19 HR vs RHP in 2025), and switch hitters Bell, Lee, and Caratini all bat left against McGreevy. His vulnerable lane is exactly where this Twins lineup lives.<br><br>
+<b style="color:#B8860B;">Watch:</b> First pass through the order. McGreevy's TTO1 line (.282 AVG, .465 SLG, .792 OPS) is meaningfully worse than his second pass (.271/.417, .715 OPS) and third pass (.241/.379, .677 OPS). Innings 1-3 are the window where the Twins can tilt this game early.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Luke Keaschall vs McGreevy.</b> The Twins' best contact bat against RHP carries a 2025 line of .366/.447/.528 with a 14.0% K% -- elite plate discipline against righties. McGreevy's 2025 vs RHB profile is excellent (.225/.255/.325), but Keaschall's 26.4% LD% is built to defeat ground-ball arms. He also has 14 SB at 82.4% in 2025 -- the threat does not end at contact.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Bradley.</b> Burleson is 2-for-3 in the career BvP sample (small but encouraging). His 2025 vs RHP is .296/.353/.478 with 15 HR -- one of the Cardinals' steadiest LHB profiles. He walks into a Bradley start where 12 of 19 HR have been hit by LHB and the home ERA sits at 5.25.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Iván Herrera vs Bradley.</b> Herrera is the live RHB in the heart of the order, coming off a 2-HR, 3-RBI game. His 2025 vs RHP line is .268/.343/.399 with 10 HR, and Bradley vs RHB (.249/.314/.375) is the slightly more permissive of his two splits. A hot bat lining up with the easier handedness side.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bradley first pass (243 PA, 2025).</b> .269/.421/.756 OPS -- Bradley's first pass through the order is his most damageable bucket. Innings 1-3 are the Cardinals' best chance to bank an early lead before he settles in.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks-McGreevy battery (2 G together).</b> 8.2 IP, 9.35 ERA paired -- the smallest sample of any catcher McGreevy has worked with. A LHB catcher behind a RHP whose biggest split vulnerability is vs LHB; pop-time calibration and signal sequencing are worth tracking early.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand on 17 entries vs Svanson 50.0% on 15 entries and Roycroft 41.7% on 8. Whichever arm enters with runners on dictates whether McGreevy's traffic survives.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Keaschall on the bases.</b> .366/.447/.528 vs RHP in 2025 plus 14 SB at 82.4%. He is both the contact problem in the box and a base-running problem if he reaches against the Crooks battery.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
