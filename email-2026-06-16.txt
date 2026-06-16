@@ -1,0 +1,104 @@
+<!-- 700 Clark Email Block -- STL vs SD 2026-06-16 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (39-31)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SD (37-34)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.88 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, June 16, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">King (R) -- 3.46 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 3, SD 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      SD&nbsp;&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0<br>
+      STL&nbsp;&nbsp;0 0 0 2 1 0 0 0 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Dustin May spun a complete-game one-hitter (9.0 IP, 9 K, 1 BB, 0 R) to open the series. Jimmy Crooks delivered the game's biggest swing -- a two-RBI double in the 4th that scored Nootbaar and Winn. Alec Burleson tacked on an RBI double in the 5th to score Herrera. The Padres mustered one hit (Machado single) and never advanced a runner to third.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- May allows 1+ HR: May allowed 0 HR in 9.0 IP. Threshold was 1+. 0 &lt; 1.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Padres TTO2 scoring: SD linescore innings 4-6 read 0/0/0. Threshold was 2+. 0 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Machado reaches base: Machado finished 1 H + 0 BB = 1 reach. Threshold was 2+. 1 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals K total: Cardinals batters combined for 4 K (Wetherholt 1, Walker 1, Nootbaar 1, Church 1). Threshold was 8+. 4 &lt; 8.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Romero appearance: Romero did not appear in the Cardinals pitching line -- May threw the complete game. Prediction rolled over with no opportunity to grade.<br><br>
+<b>Hit rate: 0/4 (0%)</b> -- inconclusive predictions excluded from denominator.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Pallante's ground-ball profile (61.2% GB) drops onto a Padres lineup carrying multiple high-grounder bats -- Tatis (51.7% GB), France (48.2%), Wagner (50.0%), Solak (66.7%). With Winn behind him at short (.994 Fld%, 64 DP), the early-count rollover should be the dominant out type.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Manny Machado is the only Padres bat with a meaningful Pallante history -- 3-for-11 (.273) over 11 career PA with 0 walks. He has also slugged .694 on line drives in the 2025 sample. He does not draw free passes, but he punishes mistakes in the zone.<br><br>
+<b style="color:#B8860B;">Watch:</b> Pallante's second pass through the order. His 2025 line jumps from .266 AVG / .393 SLG (first pass) to .309 AVG / .487 SLG (second pass). Innings 4-6 are where he gets hit hardest, and that is exactly when the lineup will roll back to Tatis and Machado.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Machado vs Pallante.</b> The only Padres bat with a real career BvP sample against tonight's starter -- 11 PA, 3 H, 0 BB, .273 AVG. He profiles to the matchup too: .279 AVG vs RHP in our 2025 sample with a .694 line-drive average. If a Padres rally starts, it likely runs through this at-bat.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs King.</b> The Cardinals have no career BvP rows against King in the available sample, so this is a profile bet. Burleson is .296 / .353 / .478 vs RHP in our 2025 sample with 15 HR -- the cleanest left-handed look in the Cardinals lineup against King's right-handed mix.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Tatis on base.</b> Tatis has drawn 4 walks in 6 career PA against Pallante (.667 OBP) without a hit. Pallante's 2025 vs-RHB OBP allowed is .345. Tatis can flip an inning without a single -- the patience matchup, not the contact one.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante's home/road split.</b> Tonight is at Busch. His 2025 home ERA is 5.42 vs 4.89 on the road -- the road context has been his stronger work, so a home venue is not a tailwind here.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks behind Pallante (5 G together, 4.24 pairing ERA).</b> A modest sample but the cleanest Pallante number on the battery board. With Pages and Herrera both carrying higher pairing ERAs, the catcher choice tonight is a real input -- watch for any sequencing wobble through the second pass.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen strand-rate fork.</b> Romero is at 88.5% strand on 26 inherited runners; Svanson is 50.0% on 26. Roycroft is 41.7%. Which arm enters with traffic in the 6th or 7th likely decides the middle innings.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
