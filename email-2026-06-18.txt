@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs KC 2026-06-18 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (40-32)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Kauffman Stadium -- 6:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KC (30-45)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 4.71 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, June 18, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Cameron (L) -- 4.11 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- SD 6, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      SD&nbsp;&nbsp;&nbsp;1 0 0 1 1 0 0 0 3 -- 6<br>
+      STL&nbsp;&nbsp;0 0 0 0 1 0 0 0 0 -- 1
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Padres 6, Cardinals 1. Leahy held SD to 3 ER over 6.0 IP (1 BB, 7 K), but the bullpen handed it back -- Roycroft surrendered Jackson Merrill's 9th-inning two-run homer plus a Tatis Jr. RBI single. Burleson's RBI single in the 5th drove in Church for the lone Cardinals run. STL finished with 6 hits and no extra-base hits. Series result: STL won 2-of-3 vs SD.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Leahy walk discipline: Leahy issued 1 BB in 6.0 IP. Threshold was 3 or fewer. 1 &lt;= 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Padres TTO2 scoring: Padres scored 2 runs in innings 4-6 (1 in 4th, 1 in 5th, 0 in 6th). Threshold was 2+. 2 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Machado reaches base: Machado went 1-for-3 with 1 BB = 2 reaches. Threshold was 2+. 2 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Burleson reaches base: Burleson went 1-for-4 with 0 BB = 1 reach. Threshold was 2+. 1 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals K total: Cardinals batters combined for 4 K. Threshold was 7+. 4 &lt; 7.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Cameron's 2025 third pass through the order (.189 AVG, .529 OPS in 123 PA) is where his start typically unravels. The Cardinals' patience leaders (Nootbaar 11.0% BB%, Herrera 9.6% BB%) are equipped to push him into that window. If STL survives a brutal lefty-on-lefty first pass, the structural edge opens up in innings 6-7.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Maikel Garcia. He is 2-for-4 with a HR and 3 BB in 7 career PA against Liberatore (.500/.714/1.500) and is .314 vs LHP in 2025 over 137 PA. He doesn't expand (12.6% K%) and he doesn't walk himself out of at-bats. Witt (.328 vs LHP in 146 PA, 38 SB) is the companion threat -- any reach at the top is in scoring position quickly.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order. His 2025 second-pass line was a meaningful cliff (.310 AVG, .871 OPS in 252 PA) versus a more stable first pass (.237/.376/.657). If KC gets a runner in scoring position in innings 4-6, it is the most likely spot for damage tonight.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Maikel Garcia vs Liberatore.</b> 2-for-4 with a HR and 3 BB in 7 career PA (.500/.714/1.500); .314 vs LHP in 2025 over 137 PA. The at-bat to game-plan around -- he doesn't strike out (12.6% K%) and he doesn't chase.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Bobby Witt vs Liberatore.</b> Career sample is small and muted (1-for-7, 1 K in 8 PA), but his 2025 vs LHP line (.328/.390/.489 in 146 PA) is elite. 38 SB at 80.9% success -- any reach converts to second in a hurry.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Cameron.</b> Burleson's 2025 vs LHP (.271/.310/.398 in 127 PA) is the only Cardinals LHB number that holds up tonight. His 2026 RISP line (.337, .893 OPS over 93 PA) makes him the lineup's leverage bat.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore TTO2 window (252 PA, 2025).</b> .310 AVG, .871 OPS -- the second pass through the order in innings 4-6 is where Liberatore historically gets cracked. If Witt or Garcia reach in this window, the inning is live.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks-Liberatore battery (2G together).</b> Tonight's scheduled catcher carries just 11.0 IP with Liberatore in the 2025 sample. Pop-time calibration and pitch sequencing are fresh -- a live concern with Witt's 38-SB year and Tolbert's 91.3% success rate off the bench.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand vs Svanson 50.0% across 26 IR each. Which arm enters with runners on decides the middle innings.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cameron vs LHB clinic.</b> Cameron's 2025 vs LHB line (.161 AVG, .563 OPS in 135 PA) is a wall. Six LHB tonight -- the easy outs concentrate in the bottom of the order.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
