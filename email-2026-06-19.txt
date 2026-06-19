@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs KC 2026-06-19 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (40-33)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Kauffman Stadium -- 7:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KC (31-45)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 2.99 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, June 19, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Lugo () -- 3.86 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- KC 14, STL 6</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;2 0 0 1 1 0 2 0 0 -- 6<br>
+      KC&nbsp;&nbsp;&nbsp;1 6 0 4 0 1 1 1 0 -- 14
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+A six-run second inning buried the Cardinals before the lineup got a second look at Noah Cameron. Liberatore (1.2 IP, 7 H, 5 ER, HR to Witt) and Graceffo (1.2 IP, 4 H, 4 ER) combined for 3.1 IP and 9 earned runs out of the gate. Bobby Witt (HR, 2 H), Salvador Perez (HR, 3 H), and Jac Caglianone (HR, 2 RBI) led the Royals attack. Wetherholt's 3 H / 2 BB / 1 R and Masyn Winn's 3 H were the Cardinals bright spots in an otherwise lopsided night.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Liberatore walk discipline: Liberatore issued 0 BB in 1.2 IP. Threshold was 3 or fewer. 0 &lt;= 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Royals TTO2 scoring: KC scored 5 runs in innings 4-6 (4 + 0 + 1 per linescore). Threshold was 2+. 5 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Witt reaches base: Witt had 2 H + 0 BB = 2 reaches. Threshold was 2+. 2 &gt;= 2.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Garcia reaches base: Maikel Garcia did not appear in the Royals lineup; prediction rolled over from a prior report.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cameron K total: Cameron recorded 6 K in 5.0 IP. Threshold was 6+. 6 &gt;= 6.<br><br>
+<b>Hit rate: 4/4 (100%)</b> -- inconclusive predictions excluded from denominator.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Six left-handed bats in tonight's projected order against Seth Lugo, who has been a different pitcher by handedness this season: .272/.345/.512 with 21 HR vs LHB across 362 PA, but .203/.280/.329 vs RHB. Burleson, Wetherholt, Nootbaar, Crooks, Gorman, and Church all attack Lugo from his exposed side.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Bobby Witt. .287/.341/.506 vs RHP this season with 22 HR across 543 PA, and a 38-SB / 80.9% success rate on the bases. McGreevy has no career sample against him, so this is a profile bet -- McGreevy's .580 OPS allowed to RHB (210 PA, 2025) is the counterweight, but Witt is the engine that turns a one-run game into a four-run one.<br><br>
+<b style="color:#B8860B;">Watch:</b> Lugo's third pass through the order. His 2025 TTO3 line is .276/--/.575, .901 OPS, 12 HR in 144 PA -- a meaningful cliff from his TTO2 .668 OPS. If the Cardinals push the game into innings 7+, that is the window where the lineup's left-handed concentration meets Lugo's most vulnerable bucket.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Seth Lugo.</b> Burleson is .296/.353/.478 vs RHP across 419 PA in 2025 and 1-for-3 in the career BvP. Against a starter who is allowing .857 OPS to LHB this year, the 3-hole is the swing at-bat of innings 1-3.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Bobby Witt vs Michael McGreevy.</b> No career BvP rows. McGreevy's 2025 line vs RHB is excellent (.225/.255/.325, .580 OPS in 210 PA), but Witt's 2025 vs RHP (.287/.341/.506, 22 HR) sits at the top of every Royals scouting card. The matchup the Cardinals have to game-plan around.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Crooks-McGreevy battery (2 G together).</b> The available pairing sample shows 8.2 IP, 9.35 ERA, .385 AVG when Crooks has caught McGreevy -- a small sample with the caveat that Pagés has carried the bulk of McGreevy's work (14 G, 80.2 IP, 4.24 ERA). A fresh-ish battery is itself a scouting angle: watch the first pass through the order for sequencing.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Lugo's third pass (144 PA, .901 OPS).</b> The clearest pivot point in the game. If the Royals manage the pen so Lugo turns the order over a third time, innings 7+ is where Cardinals power lives.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- McGreevy vs LHB (.911 OPS allowed in 2025).</b> Five lefties on tonight's Royals card: Jensen, Caglianone, Rave, Misner, Massey. McGreevy's 2025 vs LHB line is .318/.368/.543 -- the handedness side where he gives runs back.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Royals running game.</b> Witt 38 SB at 80.9%, Tolbert 21 SB at 91.3%, Garcia 23 SB at 71.9%. With Crooks behind the plate on a fresh-ish pairing, base state in the middle innings deserves attention.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Caglianone vs RHP (.148 in 165 PA, 2025).</b> The Royals' Jac Caglianone has struggled vs right-handers this year. McGreevy gets the matchup -- but Caglianone homered yesterday, so the game-plan still respects the bat speed.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
