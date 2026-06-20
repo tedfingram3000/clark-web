@@ -1,0 +1,60 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-06-20 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (40-34)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NEXT: KC</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- KC 6, STL 5</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;1 0 1 0 0 0 0 0 3 -- 5<br>
+      KC&nbsp;&nbsp;&nbsp;0 0 0 4 1 1 0 0 0 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+A four-run Kansas City fourth -- RBI singles from Caglianone and Massey followed by Collins's two-run double -- erased an early 2-0 STL lead, and a three-run ninth (Winn RBI double, Blaze Jordan two-run single) came up one short. McGreevy took the loss after 5.0 IP and 5 ER on 8 hits. Walker (2-for-3, 1 RBI) and Blaze Jordan (1-for-4, 2 RBI) led the offense; Caglianone (2-for-4, HR, 2 RBI) did the headline damage for KC.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Lugo walk volume: Lugo issued 3 BB in 6.0 IP. Threshold: 3+. 3 &gt;= 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals late-inning scoring: STL scored 3 runs in the ninth (innings 7-9 total: 3). Threshold: 2+. 3 &gt;= 2.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Witt reaches base: Bobby Witt did not appear in the Kansas City lineup; prediction rolled over from a prior report.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- McGreevy K total: McGreevy recorded 2 K in 5.0 IP. Needed 4+. 2 &lt; 4.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals K total: Cardinals batters combined for 1 K (Winn). Threshold: 7+. 1 &lt; 7.<br><br>
+<b>Hit rate: 2/4 (50%)</b> -- inconclusive predictions excluded from denominator.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+Cardinals off day. No scout report today. Next game: 2026-06-21 vs Kansas City Royals at Kauffman Stadium, 1:10 PM CT (series rubber game, KC leads 2-0).
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
