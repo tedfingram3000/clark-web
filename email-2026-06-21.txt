@@ -1,0 +1,74 @@
+<!-- 700 Clark Email Block -- STL vs KC 2026-06-21 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (40-34)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Kauffman Stadium -- 1:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KC (32-45)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 3.75 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, June 21, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Kolek (R) -- 2.68 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Kolek's 2025 home/road line is inverted -- 5.13 ERA in 40.1 home innings vs 2.24 in 72.1 road innings -- and his vs-LHB profile (.300 OBP, .381 SLG, .681 OPS) is the softer side of the split. The Cardinals project six left-handed bats from Wetherholt through Church.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Bobby Witt is 2-for-5 with a HR in his career sample against May (.400/.500/1.000) and posts a .287/.341/.506 line vs RHP in 2025. Add 38 SB at 80.9% -- he is the lineup's ignition every plate appearance.<br><br>
+<b style="color:#B8860B;">Watch:</b> May's second pass through the order is the giveback -- .290 AVG, .508 SLG, .878 OPS in TTO2 in his 2025 sample, and .263/.517/.882 in TTO3. KC saw him in this same series; the lineup turning over twice is where damage compounds.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Kolek.</b> 1-for-3 with a HR in the career BvP sample. Burleson is .296/.353/.478 vs RHP in 2025, and Kolek allows .381 SLG to LHB this year -- the platoon edge of the day.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Witt vs May.</b> 2-for-5 with a HR in 6 career PA. Witt's .287/.341/.506 vs RHP in 2025 plus 38 SB at 80.9% gives KC its single highest-leverage at-bat on the day.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Wetherholt vs Kolek.</b> No career sample for the leadoff lefty, but he carries a .302 RISP AVG in 2026 -- his job is to make Kolek work early before the order's lefty core comes around.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May at Kauffman.</b> 6.28 ERA on the road in his 2025 sample with 12 HR in 57.1 away innings, versus 3.24 and 9 HR in 75 home innings. He is on the wrong side of the venue split today.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Witt running game.</b> 38 SB at 80.9% against a fresh battery -- Jimmy Crooks has 0 IP paired with May in the available battery sample.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Kolek home/road inversion.</b> 5.13 ERA at Kauffman vs 2.24 on the road in 2025 -- the venue tilt cuts against him today even with a 2.68 overall mark.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Svanson leverage.</b> 50.0% inherited-runners strand rate (13 of 26 scored) against Romero's 88.5% -- the bullpen call when men are on flips the math.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
