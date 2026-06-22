@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs ARI 2026-06-22 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (41-34)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 4 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">ARI (39-38)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.76 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, June 22, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Kelly (R) -- 5.81 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 12, KC 10</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;5 4 0 0 3 0 0 0 0 -- 12<br>
+      KC&nbsp;&nbsp;&nbsp;2 4 0 1 0 1 0 0 2 -- 10
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+A 12-10 slugfest in Kansas City. Wetherholt led the way (3-for-5, 2 HR, 3 RBI), Winn cleared the bases with a 3-RBI HR in the first, and Herrera added a 3-run shot in the 5th. May was rocked early (6 ER in 2 IP, 2 HR), but the bats provided enough cushion. Cardinals lost the series 2-of-3 but salvaged the finale.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- May walk trouble: May issued 1 BB in 2.0 IP. Threshold was 3+. 1 &lt; 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- May HR allowed: May allowed 2 HR in 2.0 IP. Threshold was 1+. 2 &gt;= 1.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Witt reaches base: Witt did not appear in the Kansas City lineup; prediction rolled over from a prior report.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- KC scores in TTO2 window: KC scored 1+0+1 = 2 runs in innings 4-6. Threshold was 2+. 2 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals K total: Cardinals batters combined for 7 K (0+1+0+2+0+0+2+2+0). Threshold was 8+. 7 &lt; 8.<br><br>
+<b>Hit rate: 2/4 (50%)</b> -- inconclusive predictions excluded from denominator.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Kelly has a 5.81 ERA and 15 HR allowed in 69.2 IP in 2026 to date, and the projected Cardinals lineup carries 6 LHB. Kelly's 2025 reverse-platoon profile (vs LHB .222/.281/.428 with 17 HR; vs RHB .229/.273/.333 with 6 HR) means the lefty stack -- Burleson, Wetherholt, Nootbaar, Crooks, Gorman, Church -- is exactly the matchup he gives up power to.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Carroll-Perdomo at the top. Carroll is 2-for-5 with 2 BB (.400/.571/.400) in 7 career PA vs Pallante and posted .267/.354/.575 vs RHP in 2025 with 24 HR. Perdomo is 2-for-6 with a BB (.333/.429/.667) in 7 career PA. Pallante's career home ERA (5.42) runs above his road number (4.89), which lines up against him tonight at Busch.<br><br>
+<b style="color:#B8860B;">Watch:</b> Pallante's second pass through the order. His 2025 TTO2 line is .309/.381/.487 (.868 OPS) -- a steep cliff from TTO1 (.266/.327/.393). Innings 4-6 is when Arizona's high-walk bats (Perdomo 13.1% BB%, Smith 14.3%, Marte 11.5% in 2025) get their deeper looks.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Kelly.</b> The Cardinals' best lefty profile against the matchup that fits him. Burleson's 2025 vs RHP line is .296/.353/.478 with 15 HR in 419 PA; Kelly's 2025 vs LHB is .222/.281/.428 with 17 HR allowed in 399 PA. BvP is only 9 PA (.125 AVG) -- this is a profile bet, not a history bet.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Carroll vs Pallante.</b> 2-for-5 with 2 BB in 7 career PA, and Carroll's 2025 vs RHP is .267/.354/.575 with 24 HR. Pallante is a 61.2% career GB pitcher, but Carroll's career fly-ball AVG (.101) is dwarfed by his line-drive AVG (.681) -- the danger is when he stays middle-of-the-field.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Pallante's TTO2 window.</b> Career .309 AVG, .487 SLG, .868 OPS in the second pass through the order vs .266/.393/.720 in TTO1. Arizona's lineup walks a lot (Perdomo, Smith, Marte all above 11%), which buys those deeper looks.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Kelly TTO3 collapse.</b> .200 TTO1, .208 TTO2, then .296 TTO3 with .827 OPS in 2025. If the Cardinals push him into a third pass, the at-bats turn around late.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante home/away.</b> Career 4.89 ERA on the road, 5.42 at home. Tonight is at Busch -- the worse split.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand vs Svanson 50.0%, both at 26 IR. Which arm walks into runners on decides a 2-3 inning swing.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks battery debut against this lineup.</b> Crooks has 5 G / 23.1 IP paired with Pallante in our sample (.258 AVG allowed) -- thinner than the Pages or Pozo logs. Pop times and signal sequencing into Carroll (84.2% career SB success) are the test.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Lineup uncertainty.</b> Arizona is from active-roster only (13 names, no batting order). Carroll, Perdomo, Marte, Arenado are the locks; the back end is fluid.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
