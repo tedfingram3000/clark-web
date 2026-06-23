@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs ARI 2026-06-23 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (42-34)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 4 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">ARI (?-?)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 4.63 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, June 23, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Rodriguez (L) -- 2.45 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 3, ARI 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      ARI&nbsp;&nbsp;0 0 0 0 0 1 1 0 0 -- 2<br>
+      STL&nbsp;&nbsp;0 0 1 2 0 0 0 0 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Pallante grinded 6 innings of 1-run ball (6 H, 0 BB, 2 K). Church went 2-for-3 with an RBI single, a stolen base, and a run scored out of the 9-hole. Stanek gave up a Troy solo HR in the 7th to tighten it, but Romero, Soriano, and O'Brien locked it down for the W. Cardinals lead the series 1-0.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Pallante TTO2 scoring: ARI scored 1 run in innings 4-6 (Carroll on Arenado's RBI groundout, top of the 6th). Threshold was 2+. 1 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Carroll reaches base: 2 H + 0 BB = 2 reaches. Threshold 2+. 2 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Burleson reaches base: 1 H + 1 BB = 2 reaches. Threshold 2+. 2 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Pallante walks: Pallante issued 0 BB in 6.0 IP. Threshold 3+. 0 &lt; 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals K total: STL batters combined for 4 K (Wetherholt 1, Walker 1, Nootbaar 1, Winn 1). Threshold 7 or fewer. 4 &lt;= 7.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Rodriguez's first pass through the order was his most exposed window in 2025 -- .315 AVG, .886 OPS, 10 HR in 262 PA. Herrera (.330/.455/.660 vs LHP in 124 PA, 9 HR) bats 2nd. Innings 1-3 is where this game tilts.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Corbin Carroll. .267/.354/.575 with 24 HR vs RHP in 2025, a .681 line-drive AVG, and Leahy is in his weaker home context tonight (4.47 ERA at Busch vs 2.68 on the road). Carroll is the bat that punishes the room-temperature pitch.<br><br>
+<b style="color:#B8860B;">Watch:</b> Leahy's first pass through the order is essentially the whole start -- his 2025 second-pass sample is only 8 PA, meaning he rarely sees TTO2 as a starter. Plan on the bullpen carrying 3+ innings. Romero (88.5% strand) is the anchor; Svanson (50.0% strand) is the leak. Which arm enters with traffic decides the middle innings.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Herrera vs Rodriguez.</b> Herrera's 2025 vs LHP line is .330/.455/.660 in 124 PA with 9 HR -- the elite STL platoon weapon. He bats 2nd, so he could see Rodriguez 3 times if the LHP gets deep. Rodriguez's 2025 TTO1 line (.315/.886 OPS) is the window where this tilt is sharpest.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Carroll vs Leahy.</b> Carroll is 0-for-1 with a K in the lone career meeting, but his 2025 vs RHP line (.267/.354/.575 with 24 HR) and 24.7% line-drive rate are real. Leahy at home in 2025 surrendered 22 ER in 44.1 IP (4.47 ERA, 3 HR) -- the more vulnerable version of him.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Marte vs Leahy.</b> Marte is 1-for-2 career vs Leahy and hit .286/.375/.516 vs RHP in 2025 (19 HR, .702 line-drive AVG). Switch-hitter, so he gets the natural-side at-bat tonight. The 2 PA history is thin, but the platoon profile is loud.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy-Crooks battery (small sample).</b> Crooks owns 6.1 IP behind STL pitchers in our 2026 sample with an 8.53 ERA and .346 AVG against, while Pages has 62.0 IP at 3.05 ERA. Tonight's catcher is Crooks. Pop-time and pitch-mix calibration with Leahy haven't built up a track record yet -- early-count sequencing is the tell.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy home/away gap.</b> 2.68 ERA on the road, 4.47 at home -- nearly two runs of separation, and tonight is Busch. The contact profile is similar (44.2% career GB), but the runs cluster at home.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand vs Svanson 50.0% on 26 IR each. Which arm enters with runners on decides the middle innings.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Rodriguez's reverse TTO pattern.</b> 2025 OPS allowed by pass: .886 first, .819 second, .727 third. He gets sharper as the lineup turns over. If STL doesn't bank runs early, they likely don't get them late.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
