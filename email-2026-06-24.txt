@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs ARI 2026-06-24 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (42-35)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 4 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">ARI (40-39)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.23 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, June 24, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Bratt () -- -- ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- ARI 4, STL 3</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      ARI&nbsp;&nbsp;0 0 0 0 0 0 0 0 4 -- 4<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 0 3 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Eight scoreless innings, then both bullpens cracked. Arenado doubled in Moreno, Gurriel singled home Vargas and Arenado off Svanson, and Arizona had a 4-0 lead. The Cardinals answered in the bottom half -- Burleson doubled in Nootbaar, Jordan's sac fly scored Fermin, Crooks singled in Burleson -- but the rally died one run short. Leahy's 6.1 scoreless was wasted by 0.1 IP of Svanson (3 ER).
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Herrera reaches base: Herrera went 0-for-3 with 1 BB. 0 H + 1 BB = 1 reach. Needed 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Carroll reaches base: Carroll went 0-for-4 with 0 BB and 2 K. 0 reaches. Needed 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- STL early scoring: Cardinals scored 0 runs across innings 1-3 (linescore 0-0-0). Needed 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Leahy K total: Leahy struck out 3 in 6.1 IP. Needed 5+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals K total: Cardinals batters combined for 9 K. Threshold was 7 or fewer. 9 &gt; 7.<br><br>
+<b>Hit rate: 0/5 (0%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Mitch Bratt is a complete unknown -- no career data, no 2026 line. Cardinals batters face a rookie blind, and Liberatore is meaningfully sharper at home (3.69 ERA vs 4.03 on the road). Take the unfamiliarity advantage early.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Geraldo Perdomo. His 2025 vs LHP is .341/.416/.486 with an 11.5% K% and 13.1% BB% -- the toughest out in the lineup against a lefty starter. He's also 2-for-3 in the small career BvP sample vs Liberatore.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's TTO2 cliff. 2025 second pass through the order: .310 AVG / .511 SLG / .871 OPS -- a steep jump from the first pass (.237 / .376 / .657). Innings 4-6 is where Arizona's contact bats (Perdomo, Marte) get their cleanest looks.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Liberatore vs Perdomo.</b> The matchup of the night. Perdomo's 2025 vs LHP slash (.341/.416/.486) is elite, his 11.5% K% is the lowest in Arizona's lineup, and the career BvP sample (2-for-3) tilts his way. Liberatore allows a .274 AVG to LHB in 2025 -- and Perdomo bats from the left side against him.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Liberatore vs Marte.</b> Switch-hitter with a .525 SLG vs LHP and 9 HR in that 2025 sample. Career BvP is 1-for-2 with a double's worth of slug. If a 9th-inning HR-and-a-pulse pattern repeats, Marte is the most likely source.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">STL bats vs Bratt.</b> Zero career data. Zero 2026 line. The Cardinals are essentially in a scouting vacuum here -- but Bratt's anonymity cuts both ways. Take the at-bats patiently and let the rookie show his shapes; the first pass through the order is the cleanest look anyone will get all night.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore TTO2 cliff.</b> 2025 second pass through the order: .310 AVG / .871 OPS vs .657 OPS on the first pass. Innings 4-6 is the danger window; mark the second time Perdomo and Marte come up.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks behind the plate.</b> Tonight's catcher is Jimmy Crooks, who has only 2 G / 11.0 IP paired with Liberatore in the battery sample. Fresh battery, fresh signal sequencing -- watch for early-count mistake calls.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Walker's contact problem.</b> .200 AVG / 31.8% 2025 K% vs RHP. Bratt is a right-hander; Walker is the swing-and-miss tax in the middle of the order until he proves otherwise.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Arizona's free-pass aversion.</b> Vargas (1.7% BB%), Barrosa (2.6%), Gurriel (5.7%), Arenado (6.4%) -- four hitters who refuse to walk. Liberatore's 6.2% 2025 BB% will not be tested by this lineup; strikes will be put in play.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork: Romero vs Svanson.</b> Romero's 88.5% 2025 strand rate vs Svanson's 50.0%. Last night Svanson surrendered 4 R in 0.1 IP. Which arm enters with runners on decides the middle innings.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
