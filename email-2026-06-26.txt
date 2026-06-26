@@ -1,0 +1,74 @@
+<!-- 700 Clark Email Block -- STL vs MIA 2026-06-26 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (42-36)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 7:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIA (42-39)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.35 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, June 26, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Meyer (R) -- 2.80 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Meyer is 8-0 with a 2.80 ERA, but the supporting splits flag a road context tonight -- 5.54 ERA away (26.0 IP) versus 3.72 at home (38.2 IP) -- and his 2025 third-pass-through-the-order line is the deepest crack in the profile: .377 / .435 / .508 / .943 OPS over 69 PA. If the Cardinals push him into innings 7+, the lineup gets the look they want.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Kyle Stowers. 2025 vs RHP: .297 / .377 / .597 with 24 HR in 356 PA. McGreevy's 2025 vs LHB line is .318 / .368 / .543 / .911 OPS in 190 PA, 9 HR allowed -- and McGreevy's home ERA (5.22) runs nearly a run and a half higher than his road number (3.55). The Marlins pool carries five LHB to feed that exposure.<br><br>
+<b style="color:#B8860B;">Watch:</b> Catcher pairing. Pages has caught McGreevy in 14 of his starts (80.2 IP, 4.24 ERA together); tonight's projected lineup carries Crooks behind the plate. The McGreevy/Crooks sample is small and rough (2 G, 8.2 IP, 9.35 ERA, .385 AVG against). Edwards is 27-for-34 on the bases in 2025 (79.4% success). A fresh-leaning battery against a running team is its own scouting angle.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Kyle Stowers vs McGreevy.</b> Stowers' 2025 vs RHP line (.297 / .377 / .597, 24 HR in 356 PA) lands square inside McGreevy's vs-LHB exposure (.318 / .368 / .543 / .911 OPS, 9 HR allowed in 190 PA). The highest-leverage single matchup in the lineup pool.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs Meyer.</b> Walker is the only true RHB power bat in the projected lineup, and Meyer's 2025 vs-RHB line is the vulnerable side (.315 / .373 / .531 / .904 OPS in 142 PA, 7 HR allowed). One swing changes the run environment.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Meyer.</b> Burleson is the Cardinals' top 2025 vs-RHP bat (.296 / .353 / .478 in 419 PA), but he is left-handed and Meyer's vs-LHB profile is his strength (.237 / .287 / .389 / .676 OPS in 143 PA). The 1B's at-bats are the discipline test for the LHB-heavy lineup.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Meyer's third pass through the order.</b> 2025 TTO3 line: .377 / .435 / .508 / .943 OPS over 69 PA. Innings 7+ are the window to push.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Fresh McGreevy/Crooks battery.</b> McGreevy has worked 80.2 IP with Pages (4.24 ERA) and only 8.2 IP with Crooks (9.35 ERA, .385 AVG against). Marlins running game is live: Edwards 27-for-34, Lopez 15-for-21, Marsee 14-for-20 in 2025.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen strand fork.</b> Romero 88.5% strand over 26 inherited runners (elite); Svanson 50.0% and Graceffo 54.5% (well below the ~68.8% league benchmark). Which arm walks into traffic decides the middle innings.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- McGreevy home/road gap.</b> 5.22 ERA at Busch versus 3.55 on the road -- nearly a run and a half of separation. Tonight is the home context.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
