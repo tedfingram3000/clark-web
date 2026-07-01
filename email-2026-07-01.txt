@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs ATL 2026-07-01 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (44-38)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Truist Park -- 6:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">ATL (49-34)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.12 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, July 1, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">López (R) -- 3.47 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 5, ATL 3</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 4 0 1 0 0 0 -- 5<br>
+      ATL&nbsp;&nbsp;0 0 1 0 0 0 1 1 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals opened the series with a 5-3 road win. Liberatore struck out 9 in 5.0 IP while allowing 1 ER (with 4 BB) -- the strikeouts carried the outing. The offense was quiet through three, then broke open with a 4-run 4th behind Velazquez's solo HR (his 3rd) and Church's 3-run bomb (his 6th) that scored Winn and Nootbaar. Church finished 1-for-4 with 3 RBI; Velazquez went 2-for-2 with a walk. The bullpen navigated the back four innings despite a shaky Romero appearance (0.2 IP, 4 H, 1 R).
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Herrera reaches base: Herrera went 0-for-5 with 0 BB (0 reaches). Threshold: 2+. 0 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Liberatore runs allowed: Liberatore allowed 1 ER in 5.0 IP. Threshold: 4+. 1 &lt; 4.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals K total: Cardinals batters combined for 6 K (Wetherholt 1, Herrera 1, Walker 1, Burleson 1, Nootbaar 1, Church 1). Threshold: 8+. 6 &lt; 8.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Perez length: Perez threw 5.0 IP (5 H, 4 ER, 3 BB, 1 K, 2 HR allowed). Threshold: 5+. 5.0 &gt;= 5.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Harris stolen base: Harris went 0-for-3 with 2 BB, 0 SB. Threshold: 1+. 0 &lt; 1.<br><br>
+<b>Hit rate: 1/5 (20%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> The Cardinals draw a right-handed starter whose 2025 sample gets pummeled by both hands -- Lopez's 2025 vs LHB line is .417 AVG / .500 OBP in 14 PA and 2025 vs RHB is .364 / .364 / .727 in 11 PA. Even acknowledging small samples, the 2025 K% (4.0%) and BB% (8.0%) point to hittable contact and free passes. Cardinals batters combine for 3+ walks tonight.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> McGreevy has a stark 2025 platoon problem -- .911 OPS allowed to LHB in 190 PA vs .580 OPS to RHB in 210 PA -- and Atlanta projects six left-handed hitters (Smith, Baldwin, Olson, Harris, Yastrzemski, Tellez) plus switch-hitter Albies. Matt Olson (.494 SLG vs RHP, 12.6% BB rate) is the danger bat to game-plan around; look for Olson to reach base 2+ times.<br><br>
+<b style="color:#B8860B;">Watch:</b> Lopez's first pass through the order. His 2025 TTO1 line is .556 AVG / .889 SLG / 1.445 OPS in 9 PA -- extreme small sample, and the trend cliffs sharply thereafter (TTO2 .944 OPS, TTO3 .453 OPS). If STL doesn't strike in the first three innings, the script flips against them. Lopez throws 5 or fewer innings tonight.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Matt Olson vs McGreevy.</b> Olson's 2025 vs RHP line: .268 / .379 / .494 in 509 PA, with a 12.6% BB rate. McGreevy's 2025 vs LHB: .318 AVG / .543 SLG / .911 OPS in 190 PA (9 HR allowed). No career BvP sample between the two, so this is a profile bet -- and the profile points to Olson. Olson reaches base 2+ times.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cardinals lefties vs Lopez.</b> Six left-handed bats in the STL lineup (Wetherholt, Burleson, Nootbaar, Crooks, Gorman, Church). Lopez's 2025 sample vs LHB is 14 PA, .417 AVG, no HR, no strikeouts. Burleson (.296 vs RHP career-year) and Nootbaar (.340 OBP) are the two most likely to punish the mistake pitches.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Austin Riley vs McGreevy TTO1.</b> Riley's 2025 K% is 28.6% (128 K in 447 PA vs RHP) and McGreevy's TTO1 sample generates most of his 2025 strikeouts. Riley strikes out 2+ times.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- McGreevy home/road split.</b> 3.55 ERA on the road (188 BF) vs 5.22 at home (212 BF). Tonight is a road start -- McGreevy's better context.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks-McGreevy battery (2 G together).</b> The Cardinals' catcher tonight is Jimmy Crooks. The Crooks-McGreevy pairing has 8.2 IP together with a 9.35 ERA and .385 opponent AVG in this dataset -- tiny sample, but a signal the receiver-pitcher calibration is still fresh.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals plate discipline vs Lopez.</b> Lopez's 2025 BB% is 8.0%. STL's top-half bats bring meaningful walk rates: Nootbaar 11.0% BB%, Herrera 9.6% BB%, Burleson 7.2% BB%. Free passes are the path against a starter this thin on strikeouts.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork after McGreevy.</b> Romero (88.5% strand rate) vs Svanson (50.0%) vs Fernandez (50.0%). If McGreevy exits with runners on, which arm walks the corridor decides the middle innings.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- McGreevy length.</b> He carries 89.1 IP across 16 starts and a 1.14 WHIP -- a workhorse profile. McGreevy pitches 5+ innings tonight.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
