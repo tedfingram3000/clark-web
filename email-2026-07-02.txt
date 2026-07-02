@@ -1,0 +1,113 @@
+<!-- 700 Clark Email Block -- STL vs ATL 2026-07-02 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (44-39)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Truist Park -- 6:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">ATL (50-34)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 4.30 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, July 2, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Waldrep (R) -- 0.00 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- ATL 5, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;1 0 0 0 0 0 0 0 0 -- 1<br>
+      ATL&nbsp;&nbsp;1 0 1 0 0 0 0 3 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Braves evened the series with a 5-1 win. McGreevy delivered a quality start (6.0 IP, 3 H, 2 ER, 1 BB, 3 K), his only real damage an Albies solo HR in the 3rd -- Albies' 13th, plus an RBI double in the 1st. STL scratched its only run in the top of the 1st on Walker's RBI single scoring Herrera. The game turned in the 8th when the bullpen collapsed: Bruihl faced three batters and gave up 2 runs (Harris RBI single, Dubón sac bunt scoring Albies); Graceffo could not clean up (Riley RBI single). Walker's 1-for-3 with a stolen base was the only Cardinals bright spot. Series tied 1-1 heading into tonight's rubber match.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- STL walks total: Cardinals batters combined for 1 BB (Wetherholt). Threshold: 3+. 1 &lt; 3.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Olson reaches base: Olson finished 0-for-4 with 0 BB (0 reaches). Threshold: 2+. 0 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Lopez length: Lopez threw 5.0 IP (2 H, 1 ER, 1 BB, 6 K). Threshold: 5 or fewer. 5.0 &lt;= 5.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Riley K total: Riley struck out 2 times. Threshold: 2+. 2 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- McGreevy length: McGreevy threw 6.0 IP (3 H, 2 ER, 1 BB, 3 K). Threshold: 5+. 6.0 &gt;= 5.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Cardinals draw rookie Hurston Waldrep, who owns only 2.0 IP of 2026 major-league work. His career line points to a soft third pass through the order: .167 AVG / .190 SLG / .461 OPS in 48 PA of TTO3. If STL pushes him past 18 batters, the run window opens. His career 24.0% K rate is a caution against LHB (.331 OBP allowed in 127 PA), so the path is contact from the top of the order and patience late.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Dustin May's platoon problem meets Atlanta's six-lefty projection. May's career vs LHB is .261 / .357 / .495 / .852 OPS in 334 PA -- 15 HR allowed. Atlanta projects Smith, Baldwin, Olson, Harris, Yastrzemski, and Tellez as left-handed bats, plus switch-hitter Albies. Mike Yastrzemski is the standout: 7-for-14 career vs May with 2 BB and zero strikeouts -- .500 / .563 / .643 in 16 PA. Yastrzemski reaches base 2+ times.<br><br>
+<b style="color:#B8860B;">Watch:</b> May's second pass through the order. Career TTO2 line: .290 AVG / .508 SLG / .878 OPS with 9 HR in 220 PA -- the run window widens between innings 4-6. May's road ERA is 6.28 in 258 BF (12 HR allowed) vs 3.24 at home -- tonight is a road start. Braves score 2+ runs in innings 4-6.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Mike Yastrzemski vs May.</b> The DANGER BAT of the night. Career vs May: 16 PA, 14 AB, 7 H, 2 BB, 1 K -- .500 / .563 / .643. His 2025 vs RHP: .256 / .362 / .446 in 454 PA. Yastrzemski reaches base 2+ times.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cardinals RHB vs Waldrep.</b> Waldrep's career vs RHB: .189 / .275 / .244 / .519 OPS in 102 PA -- an extreme edge. STL projects only three right-handed bats (Herrera, Walker, Winn). Waldrep's career vs LHB is a much sturdier .331 OBP in 127 PA, so the platoon math is not one-way. Herrera's 2025 vs RHP is .268 / .343 / .399 (328 PA) -- the best right-handed weapon.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Riley vs May, small-sample noise.</b> Riley's career vs May: 7 PA, 2 H, 2 HR, 3 K, 1.143 SLG. Explosive but tiny sample. His 2025 vs RHP shows a 28.6% K rate in 447 PA. Riley strikes out 1+ times.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">X-factor -- fresh Crooks-May battery.</b> Tonight's Cardinals catcher is Jimmy Crooks. May's battery data reflects his Dodgers tenure (top pairings Will Smith 4.98 ERA / 56.0 IP and Dalton Rushing 3.89 ERA / 34.2 IP) -- Crooks is not in that sample. Expect early mistake-call sequences to be a live signal in the first pass through the order.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May away context.</b> Career away split: 6.28 ERA in 258 BF, 12 HR allowed vs 3.24 ERA at home. Tonight is a road start -- his weaker context.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals contact risk vs Waldrep.</b> Waldrep's career 2025 K% is 24.0%. Two STL bats carry heavy 2025 K%: Walker (31.8%) and Crooks (37.0%). Cardinals batters combine for 6+ strikeouts.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Waldrep's third pass.</b> Career TTO3 line: 48 PA, .167 AVG / .190 SLG / .461 OPS, zero HR. His weak spot -- and the run window for the STL lineup late.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork after May.</b> Romero 88.5% strand vs Svanson 50.0%. If May exits with runners on, which arm walks the corridor decides the middle innings -- and the STL bullpen already gave up 3 runs in the 8th yesterday.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May HR risk.</b> Career: 21 HR allowed in 584 batters faced; 2026 to date: 7 HR in 83.2 IP. Atlanta's LHB pool includes Baldwin (15 HR vs RHP in 351 PA), Olson (23 HR in 509 PA), Yastrzemski (15 HR in 454 PA), Tellez (17 HR in 288 PA). May allows a home run tonight.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
