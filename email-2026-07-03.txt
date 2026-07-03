@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs CHC 2026-07-03 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (45-39)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Wrigley Field -- 3:05 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (49-38)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.83 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, July 3, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Peterson (L) -- 5.86 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 11, ATL 5</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;3 0 0 0 0 0 7 0 1 -- 11<br>
+      ATL&nbsp;&nbsp;5 0 0 0 0 0 0 0 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals closed the Atlanta series with an 11-5 win to take it 2-of-3. Jordan Walker put it on early with a 3-run HR (his 19th) in the top of the first before May was chased in a 5-run bottom half. Nathan Church answered with a 2-run HR in a 7-run seventh that flipped the game; Walker (2 H, 4 RBI), Winn (3 H), and Wetherholt (2 H, 2 R) drove the middle-inning surge. Alec Burleson added a solo HR (his 14th) in the ninth. Bullpen line: Bruihl through Svanson combined for 8.1 IP of 3 H, 0 R relief.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- STL K total: Cardinals batters combined for 4 K (Herrera, Burleson, Nootbaar, Crooks -- 1 each). Threshold: 6+. 4 &lt; 6.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Yastrzemski reaches base: Yastrzemski went 1-for-3 with 0 BB (1 reach). Threshold: 2+. 1 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- May length: Dustin May pitched 0.2 IP before exiting. Threshold: 5 or fewer. 0.2 &lt;= 5.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Riley K total: Austin Riley struck out 1 time (4 AB, 1 K). Threshold: 1+. 1 &gt;= 1.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- ATL innings 4-6 scoring: Braves scored 0+0+0 = 0 runs across innings 4-6 (all 5 came in the 1st). Threshold: 2+. 0 &lt; 2.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">EDGE:</b> Peterson is a reverse-platoon lefty, and today's Cardinals lineup carries six left-handed bats -- Wetherholt, Burleson, Nootbaar, Crooks, Gorman, Church. Peterson's 2025 vs LHB split is .225/.272/.285 with 1 HR in 164 PA. The one righty in the top of the order who gets the platoon flip -- Herrera -- was .330/.455/.660 with 9 HR vs LHP in 2025 (124 PA). Peterson is the wrong shape for this order.<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> Michael Busch is 4-for-4 career against Pallante with 2 HR. Carson Kelly is 4-for-4. Both sit in the heart of the Cubs order this afternoon, and Pallante's Wrigley away line (2025 4.89 ERA) is not a park factor that erases hard contact.<br><br>
+<b style="color:#B8860B;">WATCH:</b> Pallante's second pass through the order. His 2025 TTO2 line is .309/.487/.868 OPS across 270 PA -- a big cliff off the .720 TTO1 line. The middle innings 4-6 are where the Cubs get their best swings.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cardinals LHB vs Peterson.</b> Six left-handed bats meet Peterson's 2025 vs LHB line of .225/.272/.285 with just 1 HR in 164 PA. That is the game's structural advantage -- Peterson's OPS-against jumps from .557 vs LHB to .745 vs RHB.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Michael Busch vs Pallante.</b> 4-for-4 career with 2 HR against Pallante. Busch's 2025 vs RHP is .272/.358/.563 with 33 HR in 517 PA -- the profile that made the small-sample romp against Pallante specifically dangerous rather than noise.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Iván Herrera vs LHP.</b> Herrera's 2025 vs LHP line is .330/.455/.660 with 9 HR in 124 PA -- the platoon standout on either roster. Batting second, he sees Peterson early and often.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante TTO2 window (270 PA).</b> 2025 second-pass line: .309/.487/.868 OPS. Innings 4-6 are the vulnerability against a hot Cubs middle.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Peterson TTO3 climb (191 PA).</b> 2025 third pass: .269/.413/.771 OPS -- Peterson's line trends up each pass. Cardinals want him in past the 6th.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cubs running game.</b> Crow-Armstrong 35 SB (81.4% success), Hoerner 29 SB (82.9%), Swanson 20 SB (87.0%). Crooks starting behind the plate has only 5 games / 23.1 IP paired with Cardinals starters in the 2025 sample -- unfamiliar receiver against volume base stealers.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand rate (26 IR) vs Svanson 50.0% (26 IR). Which arm gets the runners-on call in the middle innings is the difference between escaping the TTO2 window and coughing up a crooked number.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cubs walk-rate profile.</b> Happ (13.1% BB%) and Conforto (11.5% BB%) lead the Cubs walk rate; Bregman (10.3% BB%) rounds it out. Against Pallante's 7.0% BB% in 2026 to date, patient bats can push counts.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
