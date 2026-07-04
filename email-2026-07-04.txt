@@ -1,0 +1,104 @@
+<!-- 700 Clark Email Block -- STL vs CHC 2026-07-04 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (46-39)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Wrigley Field -- 7:08 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (49-39)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 4.09 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, July 4, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Imanaga (L) -- 4.30 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 17, CHC 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 3 3 5 3 2 1 0 0 -- 17<br>
+      CHC&nbsp;&nbsp;0 0 0 0 0 0 1 0 0 -- 1
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals broke the Cubs open early against David Peterson (3.2 IP, 10 ER) and never let up. Church (2 H, HR, 3 RBI), Winn (2 H, HR, 4 RBI), and Burleson (2 H, 4 RBI) drove the middle innings; Herrera reached 4 times (3 H, BB, 3 R) at the top. Pallante went 5.2 shutout innings on 5 H and 1 BB with 2 K -- the lone Cubs run came off Rajcic in the 7th on a Bregman RBI double. STL takes Game 1 of the series.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- STL K total: Cardinals batters combined for 7 K (Walker 2, Wetherholt/Winn/Fermin/Jordan/Church 1 each). Threshold: 5+. 7 >= 5.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Wetherholt reaches base: 1 H + 0 BB = 1 reach. Needed 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Busch reaches base: 1 H + 0 BB = 1 reach. Needed 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- CHC innings 4-6 scoring: Cubs scored 0 runs in innings 4-6 (linescore 0/0/0). Needed 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Pallante walk trouble: Pallante issued 1 BB in 5.2 IP. Needed 2+.<br><br>
+<b>Hit rate: 1/5 (20%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Leahy on the road. Kyle Leahy carries a 2.68 ERA over 43.2 IP away from Busch with a 46/13 K/BB and just 2 HR allowed -- compared to a 4.47 ERA and 3 HR in 44.1 home innings. Wrigley suits him, and a 44.2% career GB rate against a Cubs lineup that runs 34.6% to 45.7% GB across the projected order keeps the ball on the dirt.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Michael Busch's 2025 profile. Busch owns a .272/.358/.563 slash vs RHP over 517 PA (33 HR) in his 2025 sample and is 2-for-5 with a .600 SLG against Leahy in the career BvP sample. In a Wrigley left-handed power spot against a righty starter, Busch is the one bat Leahy has to work around.<br><br>
+<b style="color:#B8860B;">Watch:</b> Imanaga's first pass through the order. Shota Imanaga allowed 19 HR in 245 PA during the first pass in his 2025 sample (.502 SLG, .771 OPS), then tightens -- .678 OPS TTO2, .610 OPS TTO3. Cardinals need to hunt fastballs in innings 1-3 or he'll settle in.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Winn vs Imanaga.</b> Masyn Winn is 4-for-12 with a HR in the career BvP sample against Imanaga -- the Cardinals' deepest sample on tonight's starter. He is one of only three RHB in the projected order and Imanaga posts a .729 OPS-against vs RHB in his 2025 platoon sample (30 HR in 438 PA). Winn is the primary right-handed lever early.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Herrera vs LHP.</b> Iván Herrera slashed .330/.455/.660 vs LHP in his 2025 sample (124 PA, 9 HR) -- best Cardinals bat in the platoon lookup. His 1-for-6 career BvP sample against Imanaga is thin, but the season profile is the tell against a left-hander tonight.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Busch vs Leahy.</b> Michael Busch is 2-for-5 with a .600 SLG in the career BvP sample vs Leahy and slashed .272/.358/.563 with 33 HR vs RHP in his 2025 sample. Leahy runs a .364 SLG-against vs LHB in his 2025 platoon sample -- generally sturdy, but Busch is the exception to game-plan around.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy second pass through the order.</b> Leahy has just 8 PA in his 2025 TTO2 bucket (.125 AVG, .375 OPS). Sample is too thin to characterize -- if he reaches innings 4-6 with a starter's line, the bullpen bridge decisions are made without a data anchor.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks-Leahy battery.</b> Jimmy Crooks has caught just 6.1 IP with a Cardinals starter this season (8.53 ERA in that sample). Fresh signal-calling context with tonight's starter -- watch pop times and glove-side setups in the first pass through the order.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cubs speed threat.</b> Pete Crow-Armstrong (35 SB, 81.4% success) and Nico Hoerner (29 SB, 82.9%) sit atop the Cubs' baserunning profile. With Crooks unfamiliar with Leahy's release, runners will test the battery early.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
