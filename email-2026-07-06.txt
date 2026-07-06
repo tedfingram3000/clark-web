@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs MIL 2026-07-06 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (47-40)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 5 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIL (55-33)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 4.80 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, July 6, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Drohan (L) -- 3.12 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- CHC 6, STL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 3 0 1 0 -- 4<br>
+      CHC&nbsp;&nbsp;2 0 0 0 0 4 0 0 0 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals lost the series finale in Chicago but still took the set 2-of-3. Jordan Walker's 3-run HR (his 20th) in the top of the 6th briefly gave St. Louis a 3-2 lead, but the Cubs answered with a 4-run bottom half -- Hoerner's 2-RBI single, a Fermin throwing error, and a Ramirez sacrifice fly did the damage. Liberatore went 5.0 IP (3 ER, 2 BB, 3 K). Wetherholt (2-for-4, 2 R) and Burleson (2-for-4) were the offensive bright spots.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Wetherholt reaches base: 2 H + 0 BB = 2 reaches. Threshold 2+. 2 >= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Busch reaches base: 1 H + 0 BB = 1 reach. Threshold 2+. 1 < 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- CHC innings 4-6 scoring: linescore innings 4-6 = 0 + 0 + 4 = 4 runs. Threshold 2+. 4 >= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Liberatore walk trouble: Liberatore issued 2 BB in 5.0 IP. Threshold 3+. 2 < 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals total runs: Cardinals scored 4 runs. Threshold 3+. 4 >= 3.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> May at Busch is a different pitcher. His 2025 home ERA is 3.24 in 75.0 IP versus 6.28 in 57.1 IP on the road -- home is clearly his stronger context. Tonight lands in the favorable half of that split.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Drohan (L) walks into a Cardinals lineup with 6 LHB. Nootbaar's .201 AVG vs LHP in 180 PA (2025) is the primary exposure point; Wetherholt has no 2025 vs LHP sample on file. Iván Herrera (R) is the counter-weight -- .330 / .455 / .660 in 124 PA vs LHP with 9 HR.<br><br>
+<b style="color:#B8860B;">Watch:</b> May's second pass through the order. 2025 TTO1 line is a .652 OPS; TTO2 jumps to a .878 OPS -- innings 4-6 are where the line thickens, and Milwaukee's patient bats (Contreras 12.7% BB%, Bauers 14.7%) are built to grind toward that window.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Herrera vs Drohan.</b> With six LHB projected around him, Herrera (R) is the one Cardinals bat with a proven LHP profile -- .330 / .455 / .660 in 124 PA vs LHP in 2025, 9 HR. He also owns a strong 12.7 K% (18 K, 124 PA) against left-handed pitching relative to his overall 18.7% 2025 K%.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">May vs Yelich.</b> Yelich is .271 / .356 / .493 vs RHP in 461 PA in 2025 with 25 HR. May's vs-LHB line is .261 / .357 / .495 with 15 HR allowed (.852 OPS). A mirror-image slugging-lefty vs slugging-vulnerable-righty spot -- Yelich is the Brewers' primary offensive path against May.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Bullpen fork.</b> Romero (88.5% IR strand in 2025, 26 IR) sits opposite Svanson (50.0%, 26 IR) at the extremes of the Cardinals' strand-rate distribution. Which arm enters with runners on decides the middle innings; league average is roughly 68-72%.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Nootbaar vs LHP.</b> .201 AVG vs LHP in 180 PA (2025). The 5-hole is the platoon-disadvantage seat tonight.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Wetherholt vs LHP sample.</b> No 2025 vs LHP sample on file for Wetherholt -- profile unknown at the top of the order.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May's second pass through the order.</b> 2025 OPS-against jumps from .652 (first pass) to .878 (second pass). Innings 4-6 are the exit ramp.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Brewers running game.</b> Turang (24 SB), Hamilton (22), Chourio (21), and Frelick (19) are all above 75% success in 2025. Crooks catches a fresh battery -- expect tests.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Contact discipline (BB%).</b> Contreras 12.7% and Bauers 14.7% are the walk-rate leaders in the Brewers pool (2025); Chourio 5.1% and Ortiz 5.3% are the low-walk anchors -- attack-zone vs patient-zone approaches will fork by hitter.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
