@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs MIL 2026-07-07 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (47-41)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 5 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIL (56-33)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD () -- -- ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, July 7, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD () -- -- ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- MIL 4, STL 3</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      MIL&nbsp;&nbsp;0 0 0 0 0 0 4 0 0 -- 4<br>
+      STL&nbsp;&nbsp;0 0 2 0 0 1 0 0 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+      Series opener slipped in the seventh. Dustin May carried a shutout into the fifth (4.2 IP, 7 K, 0 BB, 0 R), and the Cardinals nursed a 3-0 lead behind Nelson Velázquez's RBI groundout, a José Fermín RBI single, and a Masyn Winn RBI single. Then the seventh cracked open: a David Hamilton two-run double and a Brice Turang two-run single ended the bullpen's night at 4 runs on 3 hits. MIL takes Game 1 of the five-game set 4-3.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+      <b style="color:#8B3A3A;">WRONG</b> -- Herrera reaches base: Herrera went 0-for-4 with 0 BB (0 reaches). Threshold was 2+. 0 &lt; 2.<br><br>
+      <b style="color:#8B3A3A;">WRONG</b> -- Cardinals innings 4-6 scoring: Cardinals scored 1 run across innings 4-6 (0 in 4th, 0 in 5th, 1 in 6th). Threshold was 2+. 1 &lt; 2.<br><br>
+      <b style="color:#8B3A3A;">WRONG</b> -- Yelich reaches base: Yelich went 0-for-4 with 1 BB (1 reach). Threshold was 2+. 1 &lt; 2.<br><br>
+      <b style="color:#8B3A3A;">WRONG</b> -- May walk total: May issued 0 BB in 4.2 IP. Threshold was 3+. 0 &lt; 3.<br><br>
+      <b style="color:#8B3A3A;">WRONG</b> -- Brewers stolen bases: MIL batters combined for 0 SB. Threshold was 1+. 0 &lt; 1.<br><br>
+      <b>Hit rate: 0/5 (0%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+      <b style="color:#2E7D32;">Edge:</b> The Cardinals have loaded the lineup with left-handed bats -- 6 LHB to 3 RHB. Alec Burleson's 2025 vs RHP line (.296/.353/.478 in 419 PA) and Lars Nootbaar's .340 OBP on the same split give the top of the order a professional edge on a right-handed profile. Nightcap of tonight's split doubleheader with Milwaukee -- if the Brewers turn to a right-handed starter, that platoon tilt is where the runs come from.<br><br>
+      <b style="color:#8B3A3A;">Threat:</b> Jackson Chourio has crushed left-handed pitching in 2025 -- .338/.381/.568 across 160 PA vs LHP with 7 HR. He is the one bat in the Brewers pool that the Cardinals staff cannot afford to leave in the middle of the zone, and William Contreras's .361 OBP vs LHP on 194 PA is right behind him. The two RHB catchers behind Chourio and Contreras carry the highest 2025 damage rates of the visitors' bench.<br><br>
+      <b style="color:#B8860B;">Watch:</b> The Cardinals bullpen after any starter exit. Matt Svanson's 50.0% IR strand and Ryan Fernandez's 50.0% mark are the two soft spots -- both well under the 68.8% league mean -- and yesterday's seventh inning is a fresh example (Fernandez charged with 3 R on 2 H without recording an out). JoJo Romero's 88.5% strand is the swing arm the Cardinals need in any leverage spot with runners on.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+  <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+    <b style="color:#0B1C33;">Jackson Chourio vs LHP.</b> .338/.381/.568 with 7 HR in 160 PA vs LHP in 2025. His 2025 K% (20.5%) is only slightly elevated, and his hitter batted-ball line shows a .581 AVG on line drives -- when he barrels one, it is not staying in the yard. Any Cardinals lefty pitching to him in the middle of the zone is the biggest single-at-bat risk of the night.
+  </div>
+  <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+    <b style="color:#0B1C33;">Alec Burleson vs RHP.</b> .296/.353/.478 with 15 HR in 419 PA vs RHP in 2025. He is the most reliable Cardinals bat against a right-handed profile, and his 14.5% 2025 K% is the second-lowest in the projected order. If the Brewers open with a righty in the nightcap, Burleson is the swing that decides innings 3-6.
+  </div>
+  <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+    <b style="color:#0B1C33;">Brice Turang vs LHP.</b> .286/.340/.370 in 207 PA vs LHP in 2025 -- a rare left-handed bat that hits lefties, and his 24 SB (75% success) makes any walk a double. Yesterday he already went 1-for-4 with a two-run seventh-inning single. If the Cardinals starter is a lefty, the top of the Brewers order stays live.
+  </div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+  <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+    <b style="color:#0B1C33;">-- Cardinals bullpen strand.</b> Svanson 50.0%, Fernandez 50.0%, Graceffo 54.5% -- three arms sitting well under the 68.8% league-average IR strand. Romero (88.5%) is the only reliever the Cardinals can trust with inherited traffic in a tight inning.
+  </div>
+  <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+    <b style="color:#0B1C33;">-- Brewers speed.</b> Turang 24 SB, Hamilton 22, Chourio 21, Frelick 19, Yelich 16 -- five players with 16+ steals and success rates 72.7% or better. Crooks (LHB catcher) drew tonight's projected start; any early walk or single to those five is a running threat.
+  </div>
+  <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+    <b style="color:#0B1C33;">-- Discipline gap.</b> The Cardinals project two low-BB% bats in the bottom third (Nathan Church 4.6% BB%, Jimmy Crooks 0.0% BB% -- both 2025) sitting behind Nolan Gorman (no 2025 K%/BB% sample on file). The Brewers project four batters with 2025 BB% at 10% or higher (Contreras 12.7%, Turang 10.0%, Bauers 14.7%, Vaughn on the pool). The free-pass math tilts visitors' way if the Cardinals starter is anything short of sharp.
+  </div>
+  <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+    <b style="color:#0B1C33;">-- Lineup uncertainty.</b> Both lineups are projected from 2026-07-06. Both starters are TBD. The Brewers list came in as a 13-player pool without batting-order numbers, so the actual 9-man alignment is unknown until first pitch -- treat every matchup call above as directional until lineups drop.
+  </div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
