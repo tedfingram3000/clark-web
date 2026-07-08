@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs MIL 2026-07-08 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (47-43)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 4 of 5 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIL (58-33)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.12 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, July 8, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Harrison (L) -- 2.82 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- MIL 4, STL 3</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      MIL&nbsp;&nbsp;0 0 2 0 0 1 1 0 0 -- 4<br>
+      STL&nbsp;&nbsp;2 0 1 0 0 0 0 0 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals dropped Tuesday's middle game 4-3. Walker's 21st HR (2 RBI) put STL up 2-0 in the 1st. Milwaukee tied it in the 3rd on Ortiz's double and a Yelich RBI single. Herrera's 11th HR in the bottom half retook the lead 3-2. Milwaukee tied it in the 6th (Mitchell RBI single scoring Bauers) and grabbed the lead in the 7th on Yelich's second RBI double. Yelich finished 3-for-5 with 2 RBI; Ortiz 3-for-4; Bauers 2-for-3. Cardinals were swept in Tuesday's doubleheader and now trail this five-game set 3-0.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Chourio reaches base: Chourio went 0-for-5 with 0 BB (0 reaches). Needed 2+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Burleson reaches base: Burleson went 0-for-4 with 0 BB (0 reaches). Needed 2+.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Brewers stolen bases: Turang stole 1 (team total 1 SB). Threshold 1+.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals strikeouts: Cardinals batters combined for 13 K. Threshold 8+.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Turang hits: Turang went 0-for-4 (0 H). Needed 1+.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Herrera vs LHP is the lineup's sharpest tool. His 2025 vs-LHP line is .330/.455/.660 in 124 PA with 9 HR -- a slugging profile that punishes Harrison's few but real LHB HR issues (3 HR allowed in 47 PA vs LHB in 2025).<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Yelich vs RHP is the collision point. 2025 line: .271/.356/.493 in 461 PA with 25 HR. He is on a 3-for-5 heater from Tuesday. McGreevy's 2025 vs-LHB profile (.318/.368/.543, .911 OPS) is the platoon slot where the Brewers will hunt.<br><br>
+<b style="color:#B8860B;">Watch:</b> McGreevy at Busch tonight -- 5.22 ERA at home in 50.0 IP, 3.55 on the road in 45.2 IP. The venue split is a real signal, and tonight the Cardinals need him to reverse his home pattern to avoid falling 4-0 in the set.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Iván Herrera vs Harrison.</b> Herrera's 2025 vs-LHP baseline is .330/.455/.660 in 124 PA with 9 HR -- the lineup's most concentrated LHP threat. Harrison's 2025 vs-LHB sample (47 PA) allowed 3 HR against 10 K with 0 BB. Approach: force strikes, then attack for damage.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">McGreevy vs Yelich.</b> McGreevy's 2025 vs-LHB line is .318/.368/.543 (.911 OPS) with 9 HR across 190 PA. Yelich's 2025 vs-RHP: .271/.356/.493 in 461 PA with 25 HR. This is the game's biggest platoon collision, and Yelich enters hot from Tuesday.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Walker vs Harrison.</b> Walker's 2025 vs-LHP line: .255/.318/.347 in 107 PA. Cleanup RHB against a LHP with an OBP-leaky vs-RHB profile (.358 OBP allowed). If Walker works the count, the LHP-vs-RHB math tilts to him.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Harrison third pass window (15 PA sample).</b> Harrison's 2025 TTO3 line is .500/.533/.857. The sample is thin, but if the Cardinals reach the third pass through the order (innings 7+), that is the exploit window.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Brewers speed vs a fresh battery.</b> Turang (24 SB), Chourio (21), Frelick (19), Yelich (16), Ortiz (14) -- five confirmed 2025 running threats. Crooks has only 8.2 IP paired with McGreevy in the 2025 sample; the shared reps are thin, and Milwaukee will test.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Harrison on the road.</b> Harrison's 2025 away ERA is 2.08 (26.0 IP) vs 8.38 at home (9.2 IP). He is on the road tonight -- his stronger split. Expect the elite-K version, not the leaky home version.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals bullpen fork.</b> Romero 88.5% strand vs Svanson 50.0% in 2025 IR entries. Which arm inherits runners tonight bends the middle innings.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
