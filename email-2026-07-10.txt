@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs ATL 2026-07-10 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (48-44)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 7:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">ATL (54-38)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.86 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, July 10, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sale (L) -- 2.27 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- MIL 8, STL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      MIL&nbsp;&nbsp;0 2 4 0 0 0 1 0 1 -- 8<br>
+      STL&nbsp;&nbsp;0 0 0 1 0 3 0 0 0 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Milwaukee took the finale and the series (4-of-5) behind a 4-run third inning capped by Bauers' 3-run homer (his 17th) off Pallante, who was tagged for 6 ER in 5.0 IP. Walker's 3-run shot in the sixth (his 22nd) got the Cardinals back to 6-4, but Turang's solo HR in the seventh and a Contreras sac fly in the ninth put it out of reach. Pallante's 8 H / 6 ER line was the day.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Chourio reaches base: Chourio went 2-for-5 with 0 BB (2 reaches). Threshold: 2+. 2 &gt;= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Burleson reaches base: Burleson went 1-for-3 with 1 BB (2 reaches). Threshold: 1+. 2 &gt;= 1.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Brewers stolen bases: Turang stole 1 base; team total 1 SB. Threshold: 1+. 1 &gt;= 1.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals strikeouts: Cardinals batters combined for 7 K (Herrera 2, Walker 2, Burleson 1, Nootbaar 1, Church 1). Threshold: 8+. 7 &lt; 8.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Pallante walk trouble: Pallante issued 2 BB in 5.0 IP. Threshold: 3+. 2 &lt; 3.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Iván Herrera vs Chris Sale. Herrera's 2025 vs-LHP line is .330/.455/.660 with 9 HR in 124 PA -- the loudest right-handed platoon profile in the Cardinals lineup. Sale suppresses LHB (.163 AVG in a 98 PA 2025 sample) but has been more human vs RHB (.233 AVG, .644 OPS in 412 PA). The 3 RHB (Herrera, Walker, Winn) carry the offense tonight.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Sale's strikeout stuff meets a 6-LHB Cardinals card. Sale's 2025 K% is 32.4% (2026 to date 28.6%) and his vs-LHB line -- .163 AVG, .552 OPS, 32 K in 98 PA -- is where the damage stacks. Wetherholt, Burleson, Nootbaar, Crooks, Gorman, and Church all have to survive their looks in the strongest lane Sale has.<br><br>
+<b style="color:#B8860B;">Watch:</b> Leahy at home. His 2026 splits show a meaningful home/road gap -- 4.47 ERA at home in 44.1 IP vs 2.68 on the road in 43.2 IP -- and Busch tonight puts him in his uglier context against an Atlanta lineup with six lefties (Smith, Baldwin, Jarvis, Olson, Harris, Yastrzemski) who feast on RHP.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #2E7D32;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Ivan Herrera vs Sale.</b> The Cardinals' clearest offensive edge. Herrera's 2025 vs-LHP is .330/.455/.660 with 9 HR (124 PA) -- Sale is the elite lefty most likely to shut a lineup down, but Herrera profiles as the exception. His 18 K / 19 BB in 124 PA vs LHP is elite plate discipline for the platoon.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Austin Riley vs Leahy.</b> Riley is 2-for-4 in the career BvP sample against Leahy with 1 K. His 2025 vs-RHP line (.259/.312/.431, 12 HR in 346 PA) plus the small BvP head start makes him Atlanta's highest-leverage RHB against a Leahy start that has scuffled at home (4.47 ERA in 44.1 IP).
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Matt Olson &amp; Mike Yastrzemski vs Leahy.</b> Olson's 2025 vs-RHP line is .268/.379/.494 with 23 HR (509 PA). Yastrzemski's is .256/.362/.446 with 15 HR (454 PA), and his 40.9% FB rate is a Busch fly-ball concern. Leahy's 2025 vs-LHB (.252/.337/.364, 3 HR in 163 PA) is his weaker side -- the top of the Atlanta lefty stack is where trouble compounds.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Third pass through the order vs Sale.</b> Sale's 2025 TTO splits climb: .583 OPS on the first pass, .623 on the second, .697 on the third pass through the order. He is not vulnerable early. If Cardinals get to a third look in innings 7+, that is the offensive window.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals contact vs Sale.</b> Sale's 2025 K% is 32.4%. Under a swing-and-miss framing, Crooks (37.0% K% in 2025), Walker (31.8%), and Church (27.7%) are the three Cardinals profiles most exposed. Herrera's 18.7% K% is the low-strikeout profile Sale has not been feasting on.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Atlanta running game on Crooks.</b> Michael Harris 20 SB (76.9%), Jorge Mateo 15 SB (88.2%), Ozzie Albies 14 SB (82.4%), Eli White 10 SB (90.9%) -- 2025 totals. Crooks catches tonight (4 G paired with Leahy, 8.53 ERA in that pairing sample). Fresh-battery framing plus a run-first opponent.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork if Leahy exits early.</b> Romero's 88.5% strand rate in 2025 vs Svanson 50.0% and Graceffo 54.5%. Which arm gets the first inherited-runner call decides whether an Atlanta lefty rally gets contained. Leahy's own strand mark (62.1% in 29 IR) sits below the league average of ~68-72%.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
