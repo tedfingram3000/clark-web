@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs ATL 2026-07-11 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (49-44)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">ATL (54-39)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.34 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, July 11, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Lopez (R) -- 3.18 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 2, ATL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      ATL&nbsp;&nbsp;0 0 0 0 1 0 0 0 0 -- 1<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 1 0 1 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+JJ Wetherholt reached twice on walks, Ivan Herrera collected two hits, and Jimmy Crooks broke a 1-1 tie with an 8th-inning solo homer to center off Danny Young. Kyle Leahy opened with 3.0 shutout innings (2 K); the bullpen combined for the final 6.0 IP and allowed only the Yastrzemski-Riley run in the 5th. Chris Sale went 3.0 for Atlanta with 5 K -- Reynaldo Lopez did not pitch and draws Game 2 tonight.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Herrera reaches base: Ivan Herrera went 2-for-4 with 0 BB; 2 reaches. Threshold: 1+. 2 &gt;= 1.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Riley hits: Austin Riley went 1-for-2 with 1 BB and an RBI single in the 5th. Threshold: 1+. 1 &gt;= 1.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals strikeouts: Cardinals batters combined for 11 K (Walker 1, Velazquez 2, Burleson 1, Winn 1, Fermin 2, Jordan 2, Pages 1, Torres 1). Threshold: 9+. 11 &gt;= 9.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Sale strikeouts: Chris Sale recorded 5 K in 3.0 IP before exiting. Threshold: 7+. 5 &lt; 7.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Leahy walks: Kyle Leahy issued 0 BB across 3.0 opening IP. Threshold: 2+. 0 &lt; 2.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Busch has been Liberatore's steadier context -- 3.69 career ERA at home vs 4.03 on the road -- and tonight's Braves lineup is left-heavy at the top (Smith, Baldwin, Olson, Yastrzemski, Harris) with real cracks against LHP. Yastrzemski is at .138/.204/.223 in 104 PA vs LHP (2025), and the platoon lean sets up favorable at-bats for Liberatore's early innings.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Drake Baldwin is 2-for-2 career against Liberatore with 0 K and is slashing .299/.358/.460 in 95 PA vs LHP (2025) -- the biggest single-batter red flag on the card. Joey Bart has an HR in a 6-PA career sample vs Lib and .306/.419/.472 vs LHP (2025); Austin Riley owns a .500 OBP career vs Liberatore (2 BB in 6 PA). Elevated pitch selection has to start with those three.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order. OPS jumps from .657 (TTO1) to .871 (TTO2) before settling back at .641 (TTO3) -- a pronounced middle-innings cliff. If Cardinals have to bridge innings 4-6 with the pen, Romero (88.5% strand) and O'Brien (70.0%) are the reliable arms; Svanson (50.0%) and Graceffo (54.5%) are the volatile ones against league average of about 68-72%.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Drake Baldwin vs Liberatore.</b> 2-for-2 career against Lib (0 K), and the 2025 line vs LHP (.299/.358/.460 in 95 PA) says it is not a fluke. He is the toughest out in the Braves' order tonight from a matchup standpoint.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Lopez.</b> Burleson leads the Cardinals' LHB stack at .296/.353/.478 vs RHP (419 PA, 2025). Career BvP vs Lopez is 3 PA of nothing, so the platoon profile carries the read.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs Lopez.</b> Walker is at .200/.263/.291 vs RHP in 289 PA (2025) with a 31.8% K% -- the swing-and-miss risk against Lopez's small-sample profile is real, but a mistake in the zone is the kind of pitch Walker still crushes.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore TTO2 cliff (252 PA).</b> Second pass through the order jumps to .310/.360/.511/.871 in the career sample. Innings 4-6 are the leverage window.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks-Liberatore battery (2 G, 11.0 IP together).</b> Tonight's catcher per the projected card is Jimmy Crooks -- the smallest sample in the battery table. Pages (15 G) has been Lib's primary catcher; a rookie backstop pairing is its own scouting angle in the middle innings.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Braves speed on Crooks.</b> Harris (20 SB, 76.9%), Mateo (15 SB, 88.2%), Albies (14 SB, 82.4%), White (10 SB, 90.9%) -- a live running game against a rookie catcher's pop times.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Braves plate contact split.</b> Contact-heavy: Dubon 10.6% K%, Albies 14.1% K%, Baldwin 15.2% K%. Whiff-prone: Mateo 36.1% K%, Riley 28.6% K%, Bart 28.0% K% (all 2025). Sequence the middle third around the low-K bats.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
