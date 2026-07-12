@@ -1,0 +1,107 @@
+<!-- 700 Clark Email Block -- STL vs ATL 2026-07-12 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (50-44)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">ATL (54-40)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 4.55 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, July 12, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Ritchie (R) -- 4.60 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 4, ATL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      ATL&nbsp;&nbsp;0 0 0 0 0 0 1 0 0 -- 1<br>
+      STL&nbsp;&nbsp;3 0 0 1 0 0 0 0 0 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Lars Nootbaar's 3-run homer in the bottom of the 1st off Reynaldo Lopez staked STL to an early lead scoring Ivan Herrera and Jordan Walker; Blaze Jordan drove in the fourth run with an RBI single in the 4th plating Nootbaar. Matthew Liberatore held Atlanta scoreless across 6.0 IP (4 H, 1 BB, 6 K). Mauricio Dubon's solo shot off Luis Gastelum in the 7th was the only Braves damage. Soriano and O'Brien closed out the final two innings. Cardinals lead the series 2-0 with a chance to sweep this afternoon.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Baldwin reaches base: Drake Baldwin went 1-for-3 with 1 BB; 2 reaches. Threshold: 2+. 2 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Liberatore walks: Matthew Liberatore issued 1 BB across 6.0 IP. Threshold: 3+. 1 &lt; 3.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Yastrzemski strikeouts: Mike Yastrzemski did not appear in the ATL lineup; prediction rolled over from a prior report.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Burleson hit: Alec Burleson went 0-for-4. Threshold: 1+. 0 &lt; 1.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Braves TTO2 scoring: Braves scored 0 runs in innings 4-6 (linescore 0-0-0). Threshold: 2+. 0 &lt; 2.<br><br>
+<b>Hit rate: 1/4 (25%)</b> -- inconclusive predictions excluded from denominator.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> May at home is a decisive context -- 3.24 career ERA at home in 75.0 IP vs 6.28 on the road in 57.1 IP. Busch is his best setting, and STL leads the series 2-0 with a chance to sweep this afternoon. Ritchie's 14.0% 2026 BB% is well above the ~9% league benchmark, and STL's disciplined LHB stack (Burleson 7.2% 2025 BB%, Nootbaar 11.0% 2025 BB%, Herrera 9.6% 2025 BB%) is built to tax that command.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Austin Riley is 2-for-7 career against May with both hits over the fence (.286/.286/1.143, 2 HR) -- the biggest single-batter power flag on the card. Dominic Smith is 1-for-3 with an HR and 2 BB (.333/.600/1.333 in 5 PA), the second BvP power flag. May's counterweight: Olson (0-for-8, 5 K) and Albies (0-for-8, 4 K) combine for 0-for-16 with 9 K in the career sample. Elevated pitch selection has to start with Riley and Smith.<br><br>
+<b style="color:#B8860B;">Watch:</b> May's second and third pass through the order. TTO2 OPS climbs to .878 (220 PA, 9 HR); TTO3 sits at .882 (137 PA). Innings 4-6 are the leverage window. If Cardinals have to bridge, Romero (88.5% strand) and O'Brien (70.0%) are the reliable arms; Svanson (50.0%) and Graceffo (54.5%) are the volatile ones against a ~68-72% league average.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Austin Riley vs May.</b> 2-for-7 career against May with both hits over the fence (.286/.286/1.143, 2 HR). 2025 line vs RHP (.259/.312/.431 in 346 PA) is steady damage; the BvP power pattern is the loudest single-batter flag today.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Dominic Smith vs May.</b> 1-for-3 with an HR and 2 BB (.333/.600/1.333 in 5 PA) career vs May. .296/.343/.436 in 198 PA vs RHP (2025). Second career-BvP power flag; the 2-in-5 walk rate is as much a concern as the HR.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Ritchie.</b> Burleson leads STL's LHB stack at .296/.353/.478 in 419 PA vs RHP (2025). No career BvP with Ritchie -- profile-and-platoon read. Ritchie's 14.0% 2026 BB% invites patience; Burleson's 14.5% 2025 K% is disciplined-enough contact to punish the mistake.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May TTO2/TTO3 cliff (220 PA / 137 PA).</b> Second pass jumps to .290/.370/.508/.878; third pass sits at .263/.365/.517/.882. Innings 4-6 are the leverage window.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May-Crooks battery (fresh pairing).</b> Today's projected catcher is Jimmy Crooks with 0 shared career IP with May. May's battery history is Dodgers and Red Sox era catchers -- the pairing is functionally new at the big-league sample level.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Braves speed on Crooks.</b> Harris 20 SB, 76.9%. Mateo 15 SB, 88.2%. Albies 14 SB, 82.4%. White 10 SB, 90.9%. A live running game against a rookie catcher's pop times.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Braves plate contact split.</b> Contact-heavy 2025 K%: Dubon 10.6%, Albies 14.1%, Baldwin 15.2%. Whiff-prone 2025 K%: Mateo 36.1%, Riley 28.6%, Bart 28.0%. Sequence around the low-K bats.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
