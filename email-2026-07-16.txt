@@ -1,0 +1,29 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-07-16 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (50-45)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NEXT: ARI</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+<p style="margin:0 0 10px 0;"><b style="color:#0B1C33;">Cardinals off day.</b> No scout report today.</p>
+<p style="margin:0 0 10px 0;">The Cardinals sit at 50-45, third in the NL Central. Milwaukee (59-37) leads the division, with the Cubs (54-42) 5.0 back and the Cardinals 8.5 back. Pittsburgh (50-47) is fourth at 9.5 back but riding a 3-game win streak; the Brewers have dropped 3 straight. Last time out: a 4-3 loss to Atlanta at Busch on July 12.</p>
+<p style="margin:0;"><b style="color:#0B1C33;">Next game:</b> Friday, July 17 at Chase Field vs the Arizona Diamondbacks. First pitch 9:40 PM ET / 8:40 PM CT. Game 1 of a 3-game series.</p>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
