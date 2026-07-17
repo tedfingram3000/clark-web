@@ -1,0 +1,80 @@
+<!-- 700 Clark Email Block -- STL vs ARI 2026-07-17 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (50-45)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Chase Field -- 8:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">ARI (?-?)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD () -- -- ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, July 17, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Kelly (R) -- 5.38 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Kelly is carrying a 5.38 ERA and 1.51 WHIP through 93.2 IP in 2026, and his 2025 slugging allowed to LHB was .428 with 17 HR in 399 PA -- a real power lane against a Cardinals lineup that carries six left-handed bats. Burleson (.296 vs RHP in 2025) and Nootbaar (2-for-9 with a HR and 2 BB against Kelly in the career sample) headline the L-side attack.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Perdomo (.341/.416/.486 vs LHP in 2025) is a switch bat with elite plate discipline (13.1% BB, 11.5% K), and Arenado sits at .294 vs LHP in 2025 with a .560 AVG on line drives in the career sample. Whichever arm the Cardinals run out has to work through the top of Arizona's order without free passes -- Perdomo doesn't chase.<br><br>
+<b style="color:#B8860B;">Watch:</b> Kelly's third pass through the order in 2025 -- TTO3 line jumps to .296/.494/.827 after a .200/.208 batting average through the first and second passes. If Arizona lets him work into a third pass at 7+ innings, the middle-of-order Cardinals bats get their best swings of the night.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Nootbaar vs Kelly.</b> 11 PA career: .222/.364/.556 with a HR and 2 BB. Small sample, but Nootbaar's L-swing has already found Kelly's arm-side FB once. He also carries a .249/.340/.394 line vs RHP in 2025 -- steady contact, walk-inclined profile.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Kelly.</b> 9 PA career: .125/.222/.125, but the season profile is different -- .296/.353/.478 vs RHP in 2025 with 15 HR in 419 PA. Burleson's .346 AVG with RISP in 2026 is a live path in run-scoring innings.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Perdomo vs LHP.</b> .341/.416/.486 vs LHP in 2025 across 219 PA -- 6 HR, 26 BB, 15 K. On-base machine at the top of Arizona's order; can turn a Cardinals lefty into a walk-and-slug problem if that arm gets used.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Walker vs Kelly.</b> 9 PA career: .143/.333/.286 with 2 BB and 3 K. Walker's 2025 vs RHP line is .200/.263/.291 with 94 K in 289 PA -- his 31.8% K rate in 2025 is the biggest whiff signal in the Cardinals lineup vs a 22.3% K starter.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Kelly's third pass window.</b> 2025 TTO3 line .296/.494/.827 in 171 PA vs .200/.208 through the first and second passes. Cardinals want him past pitch 75 with the middle of the order due up.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals bullpen fork.</b> Romero 88.5% strand vs Svanson 50.0% on the year -- who enters with runners on decides the middle innings.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Carroll's speed.</b> 32 SB / 6 CS (84.2%) in 2025. With Cardinals starter TBD, whichever arm gets the ball has to hold Carroll if he reaches early. Crooks at C is the counter -- clean fielding sample but limited career battery data.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- STL contact discipline.</b> Walker 31.8% K and Crooks 37.0% K in 2025 are the whiff outliers against a 22.3% K starter. Nootbaar 20.4% and Burleson 14.5% are the contact ballast.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- LHB power lane on Kelly.</b> 17 HR allowed to LHB in 2025 (399 PA) vs 6 HR to RHB (349 PA). Six of Cardinals' nine projected bats hit from the left side.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
