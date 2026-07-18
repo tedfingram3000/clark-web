@@ -1,0 +1,110 @@
+<!-- 700 Clark Email Block -- STL vs ARI 2026-07-18 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (51-45)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Chase Field -- 3:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">ARI (?-?)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 4.55 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, July 18, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pfaadt (R) -- 4.70 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 5, ARI 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;2 0 0 0 1 0 0 1 1 -- 5<br>
+      ARI&nbsp;&nbsp;0 1 1 0 0 0 0 2 0 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Winn's two-out, two-run single in the first (with a third RBI added on the play as Burleson scored) set the tone. McGreevy went 6.1 IP on one earned run before the pen coughed up Tawa's HR (B3) and Carroll's two-run HR off Gastelum (B8). Wetherholt's solo shot in T5 was his 14th; Winn's T8 sac fly and Herrera's T9 sac fly restored the lead each time Arizona pushed. Series opens with STL up 1-0.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Kelly walk trouble: Kelly issued 2 BB in 5.0 IP. Threshold was 3+. 2 &lt; 3.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals HR off Kelly: Wetherholt homered in T5. Kelly pitched 5.0 IP (T1-T5), so the HR came off Kelly. 1 &gt;= 1.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Nootbaar reaches: Nootbaar went 1 H + 0 BB = 1 reach. Threshold was 2+. 1 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Perdomo reaches: Perdomo went 0 H + 2 BB = 2 reaches. 2 &gt;= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals K total: Cardinals batters combined for 5 K (Herrera 1, Burleson 1, Walker 1, Nootbaar 2). Threshold was 8+. 5 &lt; 8.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Winn is the only Cardinals batter with a positive BvP profile against Pfaadt -- 3-for-9 with a HR (.333/.455/.667 in 11 PA). Everyone else on the sample sits under .300. Pfaadt's third pass through the order is where the crack shows: .547 SLG allowed, 11 HR in 182 PA. If Winn or the top of the order gets that third look, this is the entry point.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Corbin Carroll. Homered in B8 yesterday, is 3-for-13 (.231 AVG, .538 SLG) against May in the career sample, and hits line drives at a .681 clip. May's career line vs LHB is .261/.357/.495 (.852 OPS) -- Carroll is exactly the profile May struggles with.<br><br>
+<b style="color:#B8860B;">Watch:</b> May's road split and second pass through the order. May carries a 6.28 ERA away vs 3.24 at home (career), and his TTO2 line jumps to .878 OPS after a .652 first pass. Chase Field this afternoon lines both flags up together -- if May survives the first turn, innings 4-6 are the danger zone.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Masyn Winn vs Brandon Pfaadt.</b> 11 PA, 3-for-9 with a HR, 2 BB, 3 K -- .333/.455/.667. Small sample but the only positive BvP profile in the Cardinals lineup. Winn is a 2025-baseline .251/.309/.368 hitter vs RHP; this matchup runs above that.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Corbin Carroll vs Dustin May.</b> 3-for-13 in the career BvP sample with a .538 SLG (14 PA, 0 HR yet). Line-drive AVG career .681, 84.2% SB rate. May is worse vs LHB (.852 OPS allowed career) and worse on the road (6.28 ERA away).
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">JJ Wetherholt leading off.</b> No career BvP vs Pfaadt (rookie sample). 2026 RISP AVG .322 (.898 OPS). Homered yesterday. Pfaadt's TTO1 line is .282/.330/.458 -- the leadoff spot gets first look on a starter whose first-pass results run above his overall line.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- May away vs May home.</b> Career 6.28 ERA away in 57.1 IP, 3.24 at home in 75.0 IP. Chase Field is a road start for the Cardinals.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pfaadt TTO3 crack.</b> .547 SLG allowed in the third pass, 11 HR in 182 PA. First pass .458 SLG. Getting Pfaadt to that third look is the Cardinals' cleanest scoring window.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals lineup discipline.</b> Wetherholt has no 2025 K/BB sample on file yet; among the rest, Nootbaar 11.0% BB%, Herrera 9.6% BB%, Burleson 7.2% BB%. Pfaadt's 2025 walk rate is 4.8% -- take-the-walk swings will rarely convert.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen fork.</b> O'Brien 70.0% strand, McGreevy 100% (3 IR, small), Leahy 62.1%. Svanson 50.0%, Graceffo 54.5%. Which arm inherits with runners on decides innings 6-8; the strand-rate gap between the top and bottom of the pen is real.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Perdomo the walk pump.</b> 2025 BB% 13.1 (94 BB in 720 PA), 11.5% K%. Perdomo already drew 2 BB yesterday. He is 1-for-9 vs May in the career sample but reaches by not swinging.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
