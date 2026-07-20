@@ -1,0 +1,104 @@
+<!-- 700 Clark Email Block -- STL vs LAA 2026-07-20 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (51-47)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Angel Stadium -- 9:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">LAA (39-61)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.73 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, July 20, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Soriano (R) -- 3.49 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- ARI 8, STL 7</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 5 0 2 0 0 0 0 0 -- 7<br>
+      ARI&nbsp;&nbsp;0 0 0 0 0 3 2 2 0 1 -- 8
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Cardinals built a 7-5 lead on a 5-run 3rd inning -- Blaze Jordan triple (Nootbaar scores), Wetherholt RBI single, Walker RBI double, Burleson 2-RBI single -- then added 2 in the 5th (Jordan 2-RBI single, Burleson and Fermin score). Ivan Herrera went 3-for-6. Arizona countered with 3 in the 6th (Marte RBI single, Moreno and Locklear RBI walks), 2 in the 7th (Perdomo inside-the-park HR), and 2 in the 8th (Arenado HR) before Max Kepler's walk-off double in the 10th. Cardinals lost the series 1-2 to Arizona.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Herrera reaches base: Herrera went 3-for-6 (3 H + 0 BB = 3 reaches). Threshold: 2+. 3 >= 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals K total: Cardinals batters combined for 7 strikeouts (1+0+0+0+2+3+1+0+0+0+0+0 = 7). Threshold: 8+. 7 &lt; 8.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Carroll reaches: Corbin Carroll 1 H + 0 BB = 1 reach. Threshold: 2+. 1 &lt; 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- ARI TTO2 scoring: Arizona scored 3 runs in innings 4-6 (3 in the 6th: Marte RBI single, Moreno RBI walk, Locklear RBI walk). Threshold: 2+. 3 >= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Pallante walk total: Pallante issued 2 BB in 5.1 IP. Threshold: 2+. 2 >= 2.<br><br>
+<b>Hit rate: 3/5 (60%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">EDGE:</b> Leahy takes the ball on the road tonight -- his 2025 away ERA of 2.68 (43.2 IP, 13 BB, 46 K) is a strong road split, and the Angels' active roster pool leans heavily right-handed (9 RHB). Leahy held RHBs to a .238/.270/.319 line in 2025. Meanwhile the Cardinals send 6 LHBs against Soriano, who allowed .233 AVG and .338 SLG to left-handed batters in 2025 -- a meaningful drop from his .268/.371 RHB line.<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> Soriano's 2026 K rate of 24.7% targets the Cardinals' bottom third -- Walker (31.8% K), Crooks (37.0% K), and Church (27.7% K) are strikeout-prone. The 3 Cardinals RHBs (Walker, Herrera, Winn) face Soriano's better split. Walker's .200/.263/.291 vs RHP in 2025 (289 PA) is the most exposed bat in the 4-hole.<br><br>
+<b style="color:#B8860B;">WATCH:</b> Soriano's third-pass-through-the-order window. His 2025 TTO3 line (.277/.432/.783 OPS, 176 PA) is a steep step up from his first-pass-through-the-order mark (.228/.307/.634). If the Cardinals keep the game close into innings 7 and beyond, the third-pass window is the biggest Cardinals offensive opportunity of the night.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Burleson vs Soriano.</b> Burleson's .296/.353/.478 vs RHP in 2025 (419 PA) is the Cardinals' best LHB credential against a right-hander. Soriano's 2025 LHB allowed line (.233 AVG/.338 SLG) is the matchup Burleson exploits. Batting third, he gets multiple shots at Soriano in the first two passes through the order.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Walker's RHB split.</b> Jordan Walker's .200/.263/.291 vs RHP (289 PA) and 31.8% K rate make him the lineup's most exposed spot against Soriano, who is better vs RHBs (.268 AVG) than LHBs (.233 AVG). An early 0-for showing at the 4-hole could shift the middle-inning lineup dynamics.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Leahy vs Angels' strikeout-prone lineup.</b> Eight Angels pool members have K% above 25% in 2025, including Trout (32.1%), O'Hoppe (30.8%), and Peraza (30.3%). Leahy's 2025 K/BB ratio of 2.86 matches up well. Nolan Schanuel (12.6% K, 10.5% BB%) is the one disciplined at-bat to game-plan around.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Angels' running game vs Crooks-Leahy.</b> Neto has 26 SB at 74.3%; Lowe has 18 SB at 81.8%; Peraza is 9-for-9 (100%). The Crooks-Leahy battery has logged only 4 games together in the 2025 sample. An unfamiliar battery against an aggressive running club is a live threat from the first inning.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Soriano's home ERA context.</b> His 2025 home ERA is 5.54 (76.1 IP) vs 2.43 on the road. Tonight he starts at Angel Stadium -- the context where he has historically struggled. A rough first or second pass through the order opens the game early.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals bullpen strand fork.</b> Svanson's 50.0% strand rate (26 IR) and Graceffo's 54.5% (11 IR) are below league average (~68-72%). O'Brien (70.0%, 10 IR) is the preferred arm with runners on. Which reliever enters with inherited runners determines the middle-inning outcome.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
