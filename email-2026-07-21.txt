@@ -1,0 +1,108 @@
+<!-- 700 Clark Email Block -- STL vs LAA 2026-07-21 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (51-48)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Angel Stadium -- 8:38 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">LAA (40-61)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.00 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, July 21, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Urena (R) -- 2.88 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- LAA 3, STL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 2 0 0 0 0 0 0 0 -- 2<br>
+      LAA&nbsp;&nbsp;0 0 1 0 0 0 0 0 2 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+STL took a 2-1 lead into the ninth inning but the Cardinals bullpen surrendered two runs in a walk-off loss. Kyle Leahy was excellent through 6 innings (1 ER, 4 K, 3 H). Nathan Church went 2-for-3 with an RBI single in the second that started the Cardinals' two-run frame. Jo Adell was the difference -- a solo home run (14) in the third inning tied it, and in the ninth he took a hit by pitch to score Jose Siri for the walk-off. Vaughn Grissom's double started the ninth-inning rally. Riley O'Brien (0.1 IP, 2 R, 2 ER) could not close the game out.<br><br>
+<b>Key performer: Nathan Church, 2-for-3, 1 RBI.</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Schanuel reaches: Schanuel went 2-for-3 with 1 BB. 2 H + 1 BB = 3 reaches; threshold 2+.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals K total: Cardinals batters combined for 11 strikeouts. Threshold 9+. 11 >= 9.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Neto stolen base: Neto had 0 SB in 4 AB. Threshold 1+. 0 < 1.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Leahy strikeout total: Leahy struck out 4 batters in 6.0 IP. Threshold 6+. 4 < 6.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Soriano walk total: Jose Soriano issued 1 walk in 7.0 IP. Threshold 3+. 1 < 3.<br><br>
+<b>Hit rate: 2/5 (40%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> The Cardinals carry 6 left-handed bats against Urena (R), and his 13.0% BB rate gives the lineup a walk-based offensive path. Burleson (.296 vs RHP in 2025) leads the lefty depth, with Nootbaar (.249/.340/.394, 403 PA) and Ivan Herrera (.268/.343/.399, 328 PA) backing him in the middle of the order. Working counts against a groundball pitcher with this walk profile is the prescription -- do not feed early-count grounders into Urena's 57.4% GB approach.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Jo Adell (.277/.346/.585 vs LHP in 2025, 104 PA, 7 HR) is the Angels' primary power bat against Liberatore tonight. He homered last night in this series. Neto (26 SB, 74.3% success) adds a live baserunning threat that Jimmy Crooks -- with only 14 games of catching this season -- will be tested by early and often.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the Angels lineup (TTO2, innings 4-6): .310 AVG, .871 OPS in 2025. If he gets through the first three innings intact, the Cardinals need their bullpen ready early. Svanson (50.0% strand) and Graceffo (54.5%) are not the right call with inherited runners -- O'Brien (70.0%) is the anchor for high-leverage situations.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs Walbert Urena.</b> No career BvP history on Urena -- a pure 2025 profile play. Burleson's vs-RHP line (.296/.353/.478 in 419 PA) is the Cardinals' best lefty bat by a meaningful margin. His 14.5% K rate is the best contact profile in tonight's lineup. Working Urena's 13.0% walk rate and staying off grounders is the Cardinals' best offensive angle.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jo Adell vs Matthew Liberatore.</b> Career BvP: 0-for-4 with 1 K in 4 PA -- discard the sample. The real data is Adell's 2025 vs LHP line (.277/.346/.585, 104 PA, 7 HR). His SLG against left-handers is the highest in the Angels' active roster pool. The TTO2 window (innings 4-6) is when this matchup becomes most dangerous -- Liberatore's .871 OPS allowed in his second pass elevates Adell's power profile significantly.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Zach Neto on the bases vs Jimmy Crooks.</b> Neto has 26 SB at 74.3% success this season -- LAA's most active base stealer. Crooks has 14 games of catching experience in 2026 -- an unfamiliar pop time for a runner with Neto's volume. A close game with Neto on base in the middle innings represents a tactical edge the Angels will deploy.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore TTO2 cliff (innings 4-6).</b> .310 AVG, .871 OPS in 2025 second pass. The sharpest deterioration in his splits profile -- if the Angels haven't scored by the fourth inning, this window is their primary opportunity to build a lead.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crooks-Liberatore battery (2 G, 11.0 IP together).</b> A fresh pairing with very limited shared reps. The Angels' three active base stealers (Neto 26 SB, Lowe 18 SB, Peraza 9 SB) may probe Crooks' arm early to establish the running game.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen strand split.</b> Svanson 50.0% strand, Graceffo 54.5% -- both well below the 68-72% league average. If the Cardinals pen enters with runners on base, O'Brien (70.0%) is the right call. Incorrect deployment in a tied game could be the margin.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Urena walk rate (13.0% BB).</b> High for a starter with his ERA. The Cardinals' left-handed core should take pitches and work counts rather than chasing early grounders -- letting Urena dig himself into walk trouble is the correct read against his profile.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
