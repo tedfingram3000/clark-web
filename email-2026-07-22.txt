@@ -1,0 +1,104 @@
+<!-- 700 Clark Email Block -- STL vs LAA 2026-07-22 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (51-49)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Angel Stadium -- 3:07 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">LAA (41-61)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Dobbins () -- 4.03 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, July 22, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Detmers (L) -- 4.16 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- LAA 5, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 1 0 0 0 0 -- 1<br>
+      LAA&nbsp;&nbsp;5 0 0 0 0 0 0 0 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Jo Adell's first-inning home run capped a 5-run Angels first frame that knocked Liberatore out of rhythm. Alec Burleson went 3-for-4 as the lone Cardinals bright spot in an otherwise quiet lineup.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- Alec Burleson 2+ reaches: Burleson went 3-for-4 (3 H + 0 BB = 3 reaches). Threshold was 2+. 3 >= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals 7+ strikeouts: Cardinals batters combined for 11 strikeouts vs Urena and the Angels bullpen. Threshold was 7+. 11 >= 7.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Angels 2+ runs in innings 4-6: All 5 Angels runs scored in inning 1. Innings 4, 5, and 6 combined: 0 runs. 0 &lt; 2.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Zach Neto 1+ SB: Neto had 0 stolen bases (sb=0). 0 &lt; 1.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Jo Adell 2+ reaches vs Liberatore: Adell had 2 reaches total (2H + 0BB). The HR in inning 1 is confirmed vs Liberatore; the inning of Adell's second hit cannot be determined from game totals alone -- per-pitcher attribution is not resolvable from box score data.<br><br>
+<b>Hit rate: 2/4 (50%)</b> -- inconclusive predictions excluded from denominator.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+      <b style="color:#2E7D32;">Edge:</b> Jordan Walker, Ivan Herrera, and Masyn Winn are the three RHBs in the projected Cardinals order today -- the only batters with the platoon advantage against left-hander Reid Detmers. Walker's 2026 RISP OPS of 1.072 in 133 PA makes him the primary offensive threat when runners reach.<br><br>
+      <b style="color:#8B3A3A;">Threat:</b> Detmers' 27.4 K% in 2026 is a significant strikeout risk against a Cardinals lineup where 6 of 9 projected starters bat left-handed. Same-handed matchups favor the pitcher, and Detmers has the profile to make the platoon disadvantage count over the full afternoon.<br><br>
+      <b style="color:#B8860B;">Watch:</b> Hunter Dobbins carries a 10.5 BB% through just 3 starts (22.1 IP) in 2026. Mike Trout (.477 RISP OBP in 88 PA) and Zach Neto (.352 RISP OBP in 88 PA) have the patience to force Dobbins into long counts. If the Cardinals bullpen is drawn in early, the Angels' series-clinching opportunity arrives quickly.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker.</b> One of three Cardinals RHBs with the platoon edge against Detmers (LHP). Walker's 2026 RISP AVG of .328 and OPS of 1.072 in 133 PA -- the highest RISP OPS among Cardinals projected starters -- make him the bat to watch in the middle innings.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">JJ Wetherholt at the top.</b> Wetherholt (LHB) faces the same-handed platoon challenge at the top of the lineup. His 2026 RISP OBP of .425 in 80 PA is notable -- strong plate discipline that could set the table for the RHB cluster even against the platoon disadvantage.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Dobbins' 3-start sample.</b> With just 22.1 IP in 2026, Dobbins is the least-scouted arm in today's matchup. His 10.5 BB% is elevated -- Jose Siri (.381 RISP AVG, 1.297 RISP OPS in 27 PA) and Vaughn Grissom (.308 RISP AVG, .770 RISP OPS in 77 PA) are positioned to exploit early command trouble.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Detmers' K rate (27.4 K% in 2026).</b> Six of nine Cardinals projected starters bat left-handed against this LHP. A high strikeout rate meets same-handed disadvantage -- whiff count is the early-inning signal today.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Dobbins' walk rate (10.5 BB%, 3 starts).</b> Small sample, elevated BB%. Patient Angels hitters -- Trout (.477 RISP OBP in 88 PA), Neto (.352 RISP OBP in 88 PA) -- could force a quick exit. Watch the first-inning pitch count.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Series sweep pressure.</b> Cardinals L4, Angels W3. LAA leads this series 2-0. The Angels can clinch the sweep today -- urgency leans heavily toward the home team.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
