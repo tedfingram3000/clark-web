@@ -6,14 +6,14 @@
 <tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
   <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (47-39)</td>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (52-51)</td>
     <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Wrigley Field -- 1:30 PM CT</td>
-    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (49-40)</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (58-45)</td>
   </tr>
   <tr>
-    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.33 ERA</td>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.18 ERA</td>
     <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, July 5, 2026</td>
-    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Assad (R) -- 4.53 ERA</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Assad (R) -- 4.04 ERA</td>
   </tr>
   </table>
 </td></tr>
@@ -30,7 +30,7 @@
   <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
     <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: report_card_recap -->
-Wetherholt led off with a solo HR (his 13th) and went 3-for-4. Herrera plated Church with a 3rd-inning single; Burleson knocked in Walker in the 8th. Leahy started and threw 5.0 shutout innings with 6 K on 2 BB, and the bullpen (Soriano, Stanek, Romero, O'Brien) covered the last 4 innings without a run. Cardinals take a 2-0 series lead into today's finale.
+Wetherholt homered (13) in the 1st, Herrera singled home Church in the 3rd, and Burleson singled in Walker in the 8th. Leahy delivered 5.0 innings, 6 K, 2 BB, 0 ER; Soriano, Stanek, Romero, and O'Brien combined for four scoreless frames. Cardinals enter today's series finale leading 2-0 and having outscored Chicago 20-1 across two games.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
@@ -59,9 +59,9 @@ Wetherholt led off with a solo HR (his 13th) and went 3-for-4. Herrera plated Ch
     <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: bottom_line_content -->
-<b style="color:#2E7D32;">Edge:</b> Assad is a different pitcher against left-handed bats -- .293/.339/.552 (.891 OPS) vs LHB, .205/.308/.256 (.564 OPS) vs RHB. Six of the nine Cardinals in today's projection swing left. Wetherholt sets the table from the leadoff spot after a 3-hit HR game yesterday.<br><br>
-<b style="color:#8B3A3A;">Threat:</b> Michael Busch is 2-for-5 with a HR against Liberatore in a small career sample (.400/.400/1.200), and Liberatore's vs-LHB line (.274/.348/.410) does not scare the Busch/Conforto/Crow-Armstrong left-handed trio. If Liberatore lets a lefty extend an at-bat this afternoon, it can leave the yard.<br><br>
-<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order is where he gets hurt -- 2025 TTO2 line of .310/.360/.511 (.871 OPS) vs a .657 TTO1 OPS. Innings 4-6 are the pressure window. Note also that Assad at Wrigley carries a 1.59 career home ERA vs 4.50 on the road -- his home comfort is real.
+<b style="color:#2E7D32;">Edge:</b> Assad allows a .891 OPS to left-handed batters but just a .564 OPS to righties. Five of today's nine Cardinals swing from the left side. Burleson (.375 avg in 9 career PA vs. Assad, zero strikeouts) is the left-handed anchor.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Assad's career home ERA at Wrigley is 1.59 in 17.0 IP -- well below his 4.50 away ERA in 20.0 IP. Today's afternoon start on his home field puts him in his best context. The Cardinals will need their left-handed bats to force the issue early before Assad settles in.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order has produced a .871 OPS in 252 career PA -- his most vulnerable window. That maps to innings 4-6. If the Cubs keep traffic moving in the middle innings, that is when today's game is decided.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
@@ -72,16 +72,16 @@ Wetherholt led off with a solo HR (his 13th) and went 3-for-4. Herrera plated Ch
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
 <!-- PHASE2_SLOT: key_matchups_prose -->
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">JJ Wetherholt vs Assad.</b> No career sample -- Wetherholt is a rookie leadoff bat. What matters is the profile fit: Wetherholt is left-handed, and Assad's 2025 vs-LHB line is .293/.339/.552. Wetherholt is coming off a 3-hit HR day, hitting from the top of the order into a starter whose weakness is his side.
+  <b style="color:#0B1C33;">JJ Wetherholt vs. Assad.</b> No career sample. Left-handed leadoff bat into Assad's most difficult platoon split (.891 OPS vs. LHB). Every trip begins here -- Wetherholt setting the table from the top determines how five consecutive left-handed bats rotate through Assad's weakness.
 </div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Masyn Winn vs Assad.</b> 5-for-5 with a HR in a 6-PA career look (1.000/1.000/1.600). The sample is tiny and cannot carry the analysis on its own, but Winn hitting sixth after five lefties is a real hinge -- the RHB at the bottom of the order breaks Assad's platoon comfort.
+  <b style="color:#0B1C33;">Alec Burleson vs. Assad.</b> 3-for-8 career (.375 avg), zero strikeouts in 9 PA. The most reliable combination of left-handed bat and confirmed contact history against Assad in today's lineup. Look for him to stay in the zone and avoid the hard grounder Assad's 47.7% GB rate invites.
 </div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Michael Busch vs Liberatore.</b> 2-for-5 career with a HR (.400/.400/1.200). Add Liberatore's 2025 vs-LHB slash of .274/.348/.410, and Busch is the Cubs bat with the clearest path to extra bases this afternoon.
+  <b style="color:#0B1C33;">Masyn Winn vs. Assad.</b> 5-for-5 with a HR in 6 career PA (1.000/1.000/1.600). Tiny sample -- but Winn bats sixth today, arriving after five consecutive left-handed bats. The right-handed swing mid-lineup forces Assad out of his platoon comfort zone at exactly the point where a rally can extend.
 </div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Liberatore TTO2 window.</b> His 2025 second pass through the order (.310/.360/.511, .871 OPS) is a full ~200 OPS points worse than TTO1 (.657) and TTO3 (.641). Innings 4-6 are when the Cubs get their look -- and where the game is likely decided.
+  <b style="color:#0B1C33;">Liberatore TTO2 window.</b> His second pass through the order has produced a .871 OPS in 252 career PA. That is significantly more damaging than his first pass (.657 OPS) and third pass (.641 OPS). Innings 4-6 are the highest-leverage stretch of today's game for the Cubs' offense.
 </div>
 <!-- /PHASE2_SLOT -->
 </td></tr>
@@ -92,19 +92,16 @@ Wetherholt led off with a solo HR (his 13th) and went 3-for-4. Herrera plated Ch
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: watchlist_prose -->
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Fresh battery: Liberatore + Crooks.</b> The battery table shows Liberatore has paired mostly with Pedro Pagés (15 G, 75.2 IP) and Yohel Pozo (12 G, 63.2 IP) this season. Jimmy Crooks is the projected starter today with only 2 G / 11.0 IP alongside Liberatore. Watch early-count sequencing and any cross-up risk in the first pass.
+  <b style="color:#0B1C33;">-- Fresh battery: Liberatore and Iván Herrera.</b> Herrera starts at catcher today -- his first career pairing with Liberatore (0 innings logged together in the battery data). Pedro Pagés is Liberatore's primary catcher this season (15 G, 75.2 IP). Watch early sequencing for signs the new battery finds its rhythm quickly.
 </div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Pete Crow-Armstrong on the bases.</b> 35 SB and 81.4% success in the baserunning table. Cardinals catchers this year have caught PCA off once already yesterday (CS in the box score). The Liberatore/Crooks debut battery makes another PCA challenge attempt likely.
+  <b style="color:#0B1C33;">-- Pete Crow-Armstrong on the bases.</b> 35 SB at 81.4% success. Liberatore has issued 26 walks in 76.0 road innings this season. Any free pass at the top of the Cubs' order is an immediate stolen-base risk in a fresh-battery situation.
 </div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Cardinals contact quality: 2025 BB%.</b> Discipline is a mixed bag against a control arm like Assad (2025 BB% 7.8). Nootbaar 11.0% BB% is the plate-patience anchor; Herrera 9.6%; Burleson 7.2%. Below that, Winn (6.3%), Walker (7.3%), Church (4.6%), Crooks (0.0%) -- the bottom of the order will not walk into rallies.
+  <b style="color:#0B1C33;">-- Cardinals plate discipline vs. Assad.</b> Assad's 2025 BB% is 7.8% -- he does not hand out free passes. Cardinals walk rates: Nootbaar 11.0% leads the group; Herrera 9.6%; Burleson 7.2%. Below that, the bottom of the order (Winn 6.3%, Walker 7.3%, Church 4.6%, Torres 5.3%) is unlikely to manufacture walks against a strike-thrower.
 </div>
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Assad's third time through.</b> His 2025 third pass through the order is .308/.412/.462 (.874 OPS) on a 17-PA sample -- small, but paired with a career workload only 51.2 IP deep in 2026, expect the Cubs bullpen to be quick. Watch for a lefty-heavy Cubs relief look against the Cardinals' left-handed core.
-</div>
-<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- JoJo Romero vs Matt Svanson in leverage.</b> Romero: 88.5% strand rate on 26 inherited runners. Svanson: 50.0% on 26. If the Cardinals need to bridge from Liberatore's TTO2 wobble to Riley O'Brien's 9th, which arm gets the runners on base decides the middle innings.
+  <b style="color:#0B1C33;">-- Matt Svanson in leverage.</b> Svanson has stranded 50.0% of inherited runners (26 IR, 13 scored) -- well below the league benchmark. If Svanson enters with runners on in the middle innings, those are the situations where the Cardinals' bullpen most reliably gives ground.
 </div>
 <!-- /PHASE2_SLOT -->
   </div>
