@@ -1,0 +1,104 @@
+<!-- 700 Clark Email Block -- STL vs CIN 2026-07-25 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (52-51)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN (48-54)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 4.02 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, July 25, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Greene (R) -- 6.06 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- CIN 4, STL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CIN&nbsp;&nbsp;0 0 0 1 0 0 2 0 1 -- 4<br>
+      STL&nbsp;&nbsp;0 0 0 0 2 0 0 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Dustin May was excellent -- 6.0 IP, 7H, 1R, 1ER, 1BB, 8K. Blaze Jordan's two-run double in the 5th briefly gave the Cardinals a 2-1 lead. But George Soriano surrendered Eugenio Suarez's two-run homer (14) in the 7th to flip the lead, and Luis Gastelum allowed the final run in the 9th on a Sal Stewart single. The Cardinals absorbed an untimely loss despite a quality start from May.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#2E7D32;">CORRECT</b> -- May 5+ innings: May pitched 6.0 IP. Threshold: 5.0+. 6.0 >= 5.0.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Cardinals 7+ strikeouts: Cardinals batters combined for 9 strikeouts. Threshold: 7+. 9 >= 7.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Lowe 2+ reaches: Lowe: 2 H + 0 BB = 2 reaches. Threshold: 2+. 2 >= 2.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Suarez 1+ hit: Suarez recorded 2 H in 4 AB. Threshold: 1+. 2 >= 1.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Burleson 1+ RBI: Burleson had 0 RBI in 4 AB. Threshold: 1+.<br><br>
+<b>Hit rate: 4/5 (80%)</b>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Greene pitches away tonight -- his 2025 road ERA is 4.58 in 39.1 IP vs 1.58 at home in 68.1 IP. Jordan Walker is 4-for-7 (.571/.625/.714 career) against Greene in 8 PA. With Greene in his demonstrably more vulnerable road context, tonight's early innings carry more offensive upside than his season-line 6.06 ERA suggests.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Eugenio Suarez homered last night and carries a 2025 vs-RHP line of .252/.313/.552 with 36 HR in 473 PA. Pallante's 2025 home ERA is 5.42 and his second pass through the order (TTO2) carries a .309 AVG and .868 OPS in 270 PA. The Reds' power core cycling through in innings 4-6 is the primary danger window.<br><br>
+<b style="color:#B8860B;">Watch:</b> Pallante's TTO2 second pass (.309/.868 OPS) is tonight's flashpoint. If runners reach in innings 4-6, the Cardinals' bullpen split matters: O'Brien strands at 70.0% (10 IR), but Svanson is at 50.0% (26 IR entries) and Graceffo at 54.5% (11 IR entries) -- both well below the 68.8% league average. Who pitches with runners on in that window decides the margin.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs Hunter Greene.</b> Walker is 4-for-7 (.571/.625/.714) in 8 career PA -- the Cardinals' only batter with a meaningful BvP edge against Greene. His 2025 vs-RHP line (.200/.263/.291, 289 PA) sets a low floor, but Greene's 4.58 road ERA tonight and Walker's historical production make this the Cardinals' best individual matchup on the card.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Nathaniel Lowe vs Andre Pallante.</b> Lowe is 3-for-9 (.333/.400/.667) with a career HR against Pallante in 10 PA. His 2025 vs-RHP approach (10.2% BB, 26.1% K, .252/.333/.429, 438 PA) makes him a consistent on-base threat. The second pass through the order is when Lowe will typically see Pallante again -- and Pallante's TTO2 (.309/.868) is exactly that window.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Eugenio Suarez vs Pallante at home.</b> Suarez has only 3 career PA against Pallante (.333), too few to project from. The operative data is his 2025 vs-RHP power: 36 HR, .552 SLG in 473 PA. Pallante's 2025 home ERA is 5.42 and his FB rate allowed is 18.3%. Suarez's 2025 FB rate is 41.4% -- when he elevates, he reaches the outfield rather than the infield.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Pallante TTO2 danger zone.</b> Pallante's second pass through the order carries a .309 AVG and .868 OPS in his 2025 sample (270 PA), compared to .266/.720 in the first pass and .217/.691 in the third. The Reds' power core cycles through in innings 4-6. If Pallante exits with runners on in that window, the bullpen decision carries real consequence.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Running game vs Crooks.</b> The Reds have multiple active baserunning threats: Myers (18 SB, 78.3% success), Friedl (12 SB, 80.0%), Hayes (12 SB, 80.0%), and Marte (10 SB, 76.9%). Jimmy Crooks is projected behind the plate with 14 games of catching experience in this season's sample. The Reds should identify tonight as a running game spot.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen IR split.</b> Riley O'Brien strands at 70.0% (10 IR) -- above the 68.8% league benchmark. Matt Svanson is at 50.0% (26 IR entries) and Gordon Graceffo at 54.5% (11 IR entries), both substantially below the league mark. Which arm enters with runners on in the middle innings carries different run-prevention outcomes.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
