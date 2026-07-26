@@ -13,7 +13,7 @@
   <tr>
     <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.18 ERA</td>
     <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, July 5, 2026</td>
-    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Assad (R) -- 4.04 ERA</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Assad (R) -- 3.92 ERA</td>
   </tr>
   </table>
 </td></tr>
@@ -59,7 +59,7 @@ Wetherholt homered (13) in the 1st, Herrera singled home Church in the 3rd, and 
     <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: bottom_line_content -->
-<b style="color:#2E7D32;">Edge:</b> Assad allows a .891 OPS to left-handed batters but just a .564 OPS to righties. Five of today's nine Cardinals swing from the left side. Burleson (.375 avg in 9 career PA vs. Assad, zero strikeouts) is the left-handed anchor.<br><br>
+<b style="color:#2E7D32;">Edge:</b> Assad allows a .891 OPS to left-handed batters but just a .564 OPS to righties. Five of today's nine Cardinals swing from the left side. Alec Burleson (.375 avg in 9 career PA vs. Assad, zero strikeouts) is the left-handed anchor.<br><br>
 <b style="color:#8B3A3A;">Threat:</b> Assad's career home ERA at Wrigley is 1.59 in 17.0 IP -- well below his 4.50 away ERA in 20.0 IP. Today's afternoon start on his home field puts him in his best context. The Cardinals will need their left-handed bats to force the issue early before Assad settles in.<br><br>
 <b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order has produced a .871 OPS in 252 career PA -- his most vulnerable window. That maps to innings 4-6. If the Cubs keep traffic moving in the middle innings, that is when today's game is decided.
 <!-- /PHASE2_SLOT -->
@@ -98,7 +98,7 @@ Wetherholt homered (13) in the 1st, Herrera singled home Church in the 3rd, and 
   <b style="color:#0B1C33;">-- Pete Crow-Armstrong on the bases.</b> 35 SB at 81.4% success. Liberatore has issued 26 walks in 76.0 road innings this season. Any free pass at the top of the Cubs' order is an immediate stolen-base risk in a fresh-battery situation.
 </div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Cardinals plate discipline vs. Assad.</b> Assad's 2025 BB% is 7.8% -- he does not hand out free passes. Cardinals walk rates: Nootbaar 11.0% leads the group; Herrera 9.6%; Burleson 7.2%. Winn (6.3%), Walker (7.3%), and Church (4.6%) round out the available sample -- all below Assad's own 7.8% BB% benchmark.
+  <b style="color:#0B1C33;">-- Cardinals plate discipline vs. Assad.</b> Assad's 2025 BB% is 7.8% -- he does not hand out free passes. Cardinals walk rates: Nootbaar 11.0% leads the group; Herrera 9.6%; Burleson 7.2%. Walker (7.3%), Winn (6.3%), and Church (4.6%) are unlikely to manufacture walks against a strike-thrower.
 </div>
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
   <b style="color:#0B1C33;">-- Matt Svanson in leverage.</b> Svanson has stranded 50.0% of inherited runners (26 IR, 13 scored) -- well below the league benchmark. If Svanson enters with runners on in the middle innings, those are the situations where the Cardinals' bullpen most reliably gives ground.
