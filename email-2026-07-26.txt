@@ -1,0 +1,104 @@
+<!-- 700 Clark Email Block -- STL vs CIN 2026-07-26 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (53-51)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN (48-55)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.59 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, July 26, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Abbott (L) -- 3.89 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 7, CIN 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CIN&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0<br>
+      STL&nbsp;&nbsp;1 0 0 0 0 6 0 0 0 -- 7
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+André Pallante delivered a complete-game quality outing: 7.0 IP, 2 H, 0 ER, 1 BB, 8 K. Gordon Graceffo closed out the final 2.0 IP. The Cardinals scored once in the 1st (Burleson RBI single) then erupted for 6 in the 6th: Iván Herrera doubled to score two, Bryan Torres singled to score Herrera, and Blaze Jordan singled to score two more. Nathan Church added an RBI sac bunt. Alec Burleson went 3-for-4. Series tied 1-1.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- PREDICTION GRADES -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PREDICTION GRADES</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: prediction_grades_commentary -->
+<b style="color:#8B3A3A;">WRONG</b> -- Cardinals 8+ strikeouts: Cardinals batters totaled 6 K (Wetherholt 1, Walker 1, Burleson 1, Herrera 1, Winn 1, Church 1). Threshold was 8+. 6 &lt; 8.<br><br>
+<b style="color:#2E7D32;">CORRECT</b> -- Walker 1+ hit: Jordan Walker went 2-for-4. Threshold: 1+ hit. 2 &gt;= 1.<br><br>
+<b style="color:#6B7280;">INCONCLUSIVE</b> -- Lowe 2+ reaches: Nathaniel Lowe did not appear in the Reds lineup; prediction rolled over from a prior report.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Reds score in innings 4-6: Reds were shut out (0 runs total). No Reds scoring plays in innings 4-6.<br><br>
+<b style="color:#8B3A3A;">WRONG</b> -- Greene 6+ strikeouts: Hunter Greene recorded 3 K in 5.1 IP. Threshold was 6+. 3 &lt; 6.<br><br>
+<b>Hit rate: 1/4 (25%)</b> -- inconclusive predictions excluded from denominator.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Leahy is at his best against right-handed bats -- .238 AVG/.270 OBP/.319 SLG (OPS .589 vs RHB in 2025) -- and the Reds' roster pool sends 8 RHB at him today. Abbott arrives at Busch pitching away; his away ERA in 2025 is 3.32 vs a 2.19 home ERA. Ivan Herrera is 4-for-8 (.500 AVG, .556 OBP) career vs Abbott and posts a .330/.455/.660 line vs LHP in 2025 -- the Cardinals' clearest offensive weapon this afternoon.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Abbott held Jordan Walker 0-for-12 career (6 K in 12 AB) and Lars Nootbaar 1-for-12 (7 K). The Cardinals carry 6 LHB against a southpaw who held them to a combined .614 OPS vs left-handed bats in 2025. Walker's 2025 K% of 31.8% is the lineup's most exploitable swing-and-miss profile -- batting cleanup, he's the primary liability. Leahy pitches at home today, where his 2025 ERA is 4.47 vs 2.68 on the road.<br><br>
+<b style="color:#B8860B;">Watch:</b> Abbott's third pass through the order. His 2025 TTO3 line is .243/.286/.474 OPS .760 with 10 HR allowed in 161 PA -- a meaningful power spike relative to his first (.627 OPS) and second (.627 OPS) passes. If Abbott works into the later innings today, the Cardinals' third look at him is where the power upside concentrates.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Ivan Herrera vs Andrew Abbott.</b> Herrera is 4-for-8 (.500/.556 OBP) career vs Abbott. His 2025 split vs LHP is .330/.455/.660 in 124 PA -- the platoon advantage amplifies an already favorable BvP record. Batting 2nd, he figures for 3-4 looks at Abbott today.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jordan Walker vs Andrew Abbott.</b> Walker is 0-for-12 career (6 K) against Abbott -- a real sample in the wrong direction. His 2025 K% of 31.8% is the Cardinals' highest among regular starters and Abbott's profile targets exactly that swing-and-miss tendency. Walker batting cleanup is the lineup's clearest BvP liability today.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Leahy vs the Reds' LHB trio (Bleday, Lowe, TJ Friedl).</b> Leahy's 2025 split vs LHB is .252/.337/.364 OPS .701 -- weaker than his .589 OPS vs RHB. TJ Friedl (.268/.378/.394 vs RHP in 2025, 487 PA) is the most productive of the three against a right-hander. Friedl has a career HR off Leahy in 3 PA -- small sample, live flag.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy at home (4.47 ERA vs 2.68 road).</b> Leahy's 2025 home ERA is 4.47 in 44.1 IP at Busch; his road ERA is 2.68 in 43.2 IP. Today he pitches in his weaker context. If the Reds generate early baserunners, his strand rate of 62.1% (below league average ~68.8%) and the bullpen's mixed IR results (Svanson 50.0%, Graceffo 54.5%) make inherited-runner leakage a real outcome.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Dane Myers and TJ Friedl speed threat.</b> Myers has 18 SB (78.3% success); Friedl has 12 SB (80.0%). Both get the platoon advantage against Leahy (LHB vs RHP). If either reaches base, Jimmy Crooks -- in only his 4th game receiving Leahy -- faces a live running read from two of the Reds' fastest players.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Abbott's third pass through the order (TTO3 watch).</b> Abbott's 2025 TTO3 line is .243 AVG/.474 SLG/.760 OPS with 10 HR in 161 PA -- his most hittable window. His first (.627 OPS) and second (.627 OPS) passes are tighter. If he stays in long enough to face the Cardinals a third time this afternoon, the middle of the order is the power-upside window.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
