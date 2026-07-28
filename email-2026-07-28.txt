@@ -1,0 +1,111 @@
+<!-- 700 Clark Email Block -- STL vs CHC 2026-07-28 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (53-53)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 4 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (60-46)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD () -- -- ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, July 28, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Rea (R) -- 4.85 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- CHC 7, STL 3</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CHC&nbsp;&nbsp;1 1 1 0 2 0 0 0 2 -- 7<br>
+      STL&nbsp;&nbsp;0 1 0 0 0 2 0 0 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Alex Bregman went 4-for-5 with 2 home runs, 2 RBI, and scored 3 times; Nico Hoerner went 4-for-5 with a home run and 4 RBI. Jose Fermin's 2nd-inning solo home run (5) tied the game at 1-1, and back-to-back RBI plays from Masyn Winn and Bryan Torres in the 6th pulled STL within 5-3, but Hoerner's two-run shot in the 9th against the Cardinals bullpen put it away. Matthew Liberatore lasted 3.2 innings and allowed 3 ER; Hunter Dobbins absorbed 5.1 innings of bulk relief, giving up 4 more.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WHAT WORKED / WHAT DIDN'T</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Jose Fermin homered (5) in the 2nd, answering Bregman's first-inning RBI double to tie the game at 1-1.<br>
+- Masyn Winn went 2-for-4 with an RBI single in the 6th that scored Jordan Walker.<br>
+- Bryan Torres hit a ground-rule double (1) in the 6th, driving in Winn to make it 5-3.<br>
+- Jordan Walker drew 2 walks and scored once.<br><br>
+<b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Matthew Liberatore could not hold the early lead: 3.2 IP, 8 H allowed, 3 ER.<br>
+- Alex Bregman was the story: 4-for-5, 2 home runs (11), 2 RBI, 3 runs scored.<br>
+- Nico Hoerner delivered the dagger: 4-for-5, a home run (5), 4 RBI including a two-run shot off the Cardinals bullpen in the 9th.<br>
+- Hunter Dobbins absorbed 5.1 innings of bulk relief, allowing 4 ER and 6 H.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">EDGE:</b> Rea's 2025 platoon split is the clearest structural edge tonight -- .292/.357/.497 (OPS .854) against left-handed batters vs. .222/.262/.324 (OPS .586) against right-handers. The Cardinals project 6 LHBs: Wetherholt, Burleson, Nootbaar, Crooks, Gorman, and Church. Burleson is hitting .330 vs RHP in 2026 (311 PA); Nootbaar is the only Cardinal with real career history against Rea at .308 AVG in 16 PA (.438 OBP).<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> The Cubs bring a live running game against an unknown Cardinals starter and Jimmy Crooks behind the plate. Crow-Armstrong has 35 steals at 81.4% success this year, Hoerner 29 at 82.9%, Swanson 20 at 87.0%. A fresh battery means no established delivery time or pop-time read -- the Cubs will probe early and often.<br><br>
+<b style="color:#B8860B;">WATCH:</b> The third-pass-through-the-order window. Rea's 2025 OPS allowed climbs from .642 in the first pass to .911 in the third pass (.330 AVG, .514 SLG, 122 PA). If the Cardinals can work deep counts and force a third trip through the order, the left-heavy lineup hits in its best context. Pitch count through the 5th inning is the tell.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #2E7D32;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Lars Nootbaar vs. Colin Rea.</b> The only Cardinal with real career BvP history: 4-for-13 (.308 AVG) with 3 walks in 16 PA (.438 OBP). His patient approach pairs well with Rea's worst split -- .292 AVG / .854 OPS against left-handers in 2025. Projecting 5th in the order, Nootbaar's at-bats fall squarely in the TTO2 window.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs. Colin Rea.</b> The individual counter-narrative: Burleson is 0-for-11 in 12 career PA (.000 AVG, .083 OBP) against Rea despite the broad LHB advantage. His 2026 vs RHP line (.330 AVG, 311 PA) reflects real production, but this specific pitcher has neutralized him entirely in their career sample.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cubs baserunning vs. TBD Cardinals battery.</b> Crow-Armstrong (35 SB, 81.4%), Hoerner (29 SB, 82.9%), and Swanson (20 SB, 87.0%) form the top of the Cubs' order. With an unconfirmed Cardinals starter and Jimmy Crooks behind the plate, the Cubs have a fresh battery to probe. Expect running game pressure from the first inning.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Rea LHB window.</b> 2025 vs LHB: .292 AVG, OPS .854 vs. .222 AVG, OPS .586 vs RHB. With 6 LHBs projected, the platoon matchup runs through the core of the lineup for every plate appearance tonight.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Rea TTO3 cliff.</b> 2025 third-pass line: .330 AVG, .397 OBP, .514 SLG, OPS .911 in 122 PA -- a 269-point OPS jump from the first pass (.642). Watch pitch count through the 5th to gauge whether the Cardinals can force that window.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Bullpen strand rate split.</b> Matt Svanson: 50.0% 2025 strand rate, 7.23 ERA / 1.72 WHIP in 2026 (42.1 IP) -- the danger arm with runners on. Riley O'Brien: 70.0% strand rate, 3.67 ERA / 1.22 WHIP in 2026 (41.2 IP). Michael McGreevy: 100.0% strand rate in limited 2025 sample, 3.07 ERA / 1.13 WHIP in 2026 (114.1 IP). Which arm inherits runners in a high-leverage spot is a real in-game variable tonight.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Cardinals starter TBD.</b> No starter confirmed. BvP tables for the Cubs are empty, CHC platoon splits in this report assume a LHP starter, and Crooks' pop-time baseline is unknown. Confirm starter status before first pitch -- it changes the entire analytical frame.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
