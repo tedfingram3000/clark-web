@@ -1,0 +1,111 @@
+<!-- 700 Clark Email Block -- STL vs CHC 2026-07-29 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (53-54)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 4 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (61-46)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 4.59 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, July 29, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Boyd (L) -- 3.81 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- CHC 10, STL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CHC&nbsp;&nbsp;2 5 0 0 1 0 0 1 1 -- 10<br>
+      STL&nbsp;&nbsp;0 0 0 1 0 0 0 0 1 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+McGreevy allowed 7 runs on 8 hits in 1.2 innings as the Cubs plated 2 in the first and 5 in the second, effectively ending the game before STL found any footing. Winn went 2-for-4 with an RBI ground-rule double in the ninth, and Church drove in a run on a sacrifice fly in the fourth, but STL managed just 2 runs against Colin Rea over 6.0 innings.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WHAT WORKED / WHAT DIDN'T</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Bruihl: 2.0 IP, 0 ER, 4 K -- kept the deficit from growing after McGreevy's exit.<br>
+- Winn: 2-for-4 with an RBI ground-rule double in the ninth.<br>
+- Church: sacrifice fly RBI in the fourth (Burleson scored).<br>
+- Nootbaar: 1 H, 1 BB, 1 R -- reached base twice and scored in the ninth.<br><br>
+<b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- McGreevy: 7 ER on 8 H in 1.2 IP -- Happ's 2-run double in the first and Hoerner's 2-RBI single in the second were the decisive blows.<br>
+- Herrera, Crooks, and Fermin each went hitless (0-for-4 each).<br>
+- Walker went hitless in 3 AB; the cleanup spot contributed nothing to the offense.<br>
+- Graceffo inherited the mess and allowed 1 ER in 2.1 IP -- solid damage control, but the deficit was already too large.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">EDGE:</b> May pitches at home tonight, where he carries a 3.24 ERA in 75.0 innings in 2026 -- substantially better than his 6.28 ERA in 57.1 road innings. Busch Stadium is May's better environment, and tonight's game delivers it.<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> Boyd (L, 3.81) exploits a Cardinals lineup that sends six left-handed bats to the plate. Nootbaar hit .201 against left-handed pitchers in 2025 (180 PA) and Burleson has hit .194 vs. LHP in 2026 (135 PA). The three right-handed Cardinals -- Herrera, Walker, and Winn -- are positioned at spots 2, 4, and 6 and represent the lineup's primary offensive path against a southpaw.<br><br>
+<b style="color:#B8860B;">WATCH:</b> May's second pass through the order. His 2025 first-pass OPS allowed was .652 (227 PA); the second pass jumps to .878 (220 PA). The Cubs carry Crow-Armstrong, Busch, and Suzuki -- power bats that are most dangerous the second time through. This is where tonight's game turns.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Herrera vs. Boyd.</b> Herrera (R) posted a .330/.455/.660 slash against left-handed pitchers in 2025 (124 PA) -- the strongest platoon split on tonight's Cardinals roster. In 2026, that line is .248/.808 OPS (142 PA), but the platoon advantage holds. He bats second and is the first right-handed threat Boyd sees.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Crow-Armstrong vs. May.</b> Crow-Armstrong is 3-for-3 with a home run in 3 career PA vs. May (small sample). His 2025 fly-ball rate of 40.7% (398 BIP) makes him the most likely Cub to find the seats when May elevates. He also has 35 stolen bases at an 81.4% success rate -- a dual threat that a fresh May-Crooks battery will need to contain.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">May's second pass through the order.</b> May's 2025 first-pass OPS allowed was .652 (227 PA). The second pass: .878 (220 PA). The Cubs' power core turns dangerous when the lineup cycles -- watch the innings when Boyd's spot comes around and the Cubs' middle of the order gets a second look at May.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Boyd's workload.</b> Boyd enters with only 59.0 innings in 11 starts this year. The Cardinals' best platoon opportunity may arrive when the Cubs go to their bullpen. Watch for a pitching change before the seventh inning.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Walker vs. Boyd (platoon).</b> Walker (R) hit .294 against left-handed pitchers in 2026 (118 PA, .919 OPS). He bats fourth and is the lineup's most consistent power threat against Boyd tonight.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Crow-Armstrong on the bases.</b> 35 SB at 81.4%. Crooks is a fresh battery partner for May with no prior pairing data in the record -- pop-time calibration is an unknown. Hoerner (29 SB, 82.9%) and Swanson (20 SB, 87.0%) are secondary threats.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Series pressure.</b> Chicago leads 2-0 in this 4-game set at Busch Stadium. The Cardinals have lost 3 consecutive games and 8 of their last 10. A loss tonight means a sweep at home.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
