@@ -1,0 +1,98 @@
+<!-- 700 Clark Email Block -- STL vs CHC 2026-07-30 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (54-54)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 4 of 4 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (61-47)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.77 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, July 30, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Assad (R) -- 3.86 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 3, CHC 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CHC&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 2 -- 2<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 3 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+Iván Herrera's walk-off double in the 10th inning scored Wetherholt and Walker, giving the Cardinals a 3-2 extra-inning win in Game 3. St. Louis was blanked through nine innings before Luis Gastelum allowed Pete Crow-Armstrong's 2-run homer in the top of the 10th &mdash; then the Cardinals answered with three runs in the bottom half to force a series finale this afternoon.
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WHAT WORKED / WHAT DIDN'T</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<b>&#x2713; WHAT WORKED</b><br>
+&bull; Dustin May: 5.0 IP, 1 H, 0 ER &mdash; held the Cubs to one hit and zero runs through five innings.<br>
+&bull; Bullpen bridge: Bruihl, Stanek, Soriano, and O'Brien combined for 4.0 scoreless innings (5 K, 4 BB) after May exited.<br>
+&bull; Iván Herrera: 3-for-5 with the walk-off 2-RBI double (17th) in the 10th inning.<br>
+<br>
+<b>&#x2717; WHAT DIDN'T</b><br>
+&bull; Luis Gastelum: gave up Pete Crow-Armstrong's 2-run HR in the top of the 10th (1.0 IP, 2 H, 2 R, 1 ER, 1 HR).<br>
+&bull; Masyn Winn: 0-for-4 with 3 strikeouts.<br>
+&bull; Cardinals were held scoreless through nine innings despite reaching base &mdash; 0 runs in 9.0 innings against Chicago's pitching.
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<b>EDGE:</b> Assad makes the trip to Busch Stadium with a notable home/away gap in his 2025 numbers &mdash; 4.50 ERA away vs 1.59 at home. Six Cardinals left-handed bats (Wetherholt, Burleson, Nootbaar, Crooks, Gorman, Church) attack a pitcher who posted a .891 OPS vs LHB in 2025 (.293 AVG) vs .564 OPS vs RHB (.205 AVG).<br><br><b>THREAT:</b> Ian Happ is Pallante's most dangerous matchup today. In 17 career PA, Happ hits .385 with a .529 OBP &mdash; drawing 4 walks and recording just 1 strikeout. He's the Cubs hitter whose sample is large enough to take at face value.<br><br><b>WATCH:</b> Pallante's second pass through the order. His 2025 TTO2 split: .309 AVG, .868 OPS in 270 PA &mdash; a jump from .720 OPS in the first pass. Innings 4-6 are the pressure window this afternoon.
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<div style="border-left:4px solid #0B1C33;padding:8px 12px;margin:0 0 10px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <div style="font-size:12px;font-weight:700;color:#0B1C33;">Ian Happ vs Pallante</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.5;">17 PA: .385/.529/.538, 4 BB, 1 K. The deepest and most dangerous Cubs line in today's BvP table. Happ reaches base rather than relying on power, making him a consistent threat regardless of count or situation.</div>
+</div>
+<div style="border-left:4px solid #0B1C33;padding:8px 12px;margin:0 0 10px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <div style="font-size:12px;font-weight:700;color:#0B1C33;">Alec Burleson vs Assad</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.5;">9 PA: .375 AVG, .500 SLG, 0 BB, 0 K. Best Cardinals sample vs today's Cubs starter. His left-handed profile falls in the favorable platoon split (Assad: .891 OPS vs LHB in 2025), and his career BvP history reinforces that edge.</div>
+</div>
+<div style="border-left:4px solid #0B1C33;padding:8px 12px;margin:0 0 10px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <div style="font-size:12px;font-weight:700;color:#0B1C33;">Masyn Winn vs Assad</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.5;">6 PA: 5-for-5 (1.000 AVG, 1.600 SLG), 1 HR, 1 BB. Extreme small sample &mdash; treat as a wildcard. Assad handles RHB well (.205 AVG, .564 OPS in 2025), so this BvP history is a curiosity rather than a signal.</div>
+</div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<div style="border-left:3px solid #B8860B;padding:6px 10px;margin:0 0 8px 0;">
+  <b>Pallante's second-pass window (innings 4-6)</b> &mdash; His 2025 TTO2: .309 AVG, .868 OPS in 270 PA. The Cubs collect their best at-bats after seeing Pallante once. This is the primary risk escalation window today.
+</div>
+<div style="border-left:3px solid #B8860B;padding:6px 10px;margin:0 0 8px 0;">
+  <b>Assad's away split</b> &mdash; 4.50 ERA away vs 1.59 at home in 2025. The Cardinals' left-handed majority carries more value than a neutral-park projection would suggest.
+</div>
+<div style="border-left:3px solid #B8860B;padding:6px 10px;margin:0 0 8px 0;">
+  <b>Walker and Herrera vs Assad</b> &mdash; Both are 0-for-5 career vs Assad. Assad allows .205 AVG vs RHB in 2025. If the Cardinals' right-handed bats can't break through, the LHB core &mdash; Burleson, Nootbaar, Wetherholt &mdash; will need to drive the offense.
+</div>
+  </div>
+</td></tr>
+
+</table></div>
