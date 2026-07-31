@@ -30,7 +30,7 @@
   <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
     <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: report_card_recap -->
-Andre Pallante kept St. Louis competitive through 6.1 innings with two earned runs -- a quality start. Michael Wetherholt's seventh-inning solo homer tied it at 2-2, but two runs in the Chicago tenth were too much: Roel Gastelum allowed a Bregman double and a Happ double, and the Cardinals went quietly in their half. St. Louis drops the series three-of-four to Chicago.
+Andre Pallante kept St. Louis competitive through 6.1 innings with two earned runs -- a quality start. JJ Wetherholt's seventh-inning solo homer tied it at 2-2, but two runs in the Chicago tenth were too much: Luis Gastelum allowed a Bregman double and a Happ double, and the Cardinals went quietly in their half. St. Louis drops the series three-of-four to Chicago.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
