@@ -1,0 +1,131 @@
+<!-- 700 Clark Email Block -- STL vs TOR 2026-07-31 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (54-55)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Rogers Centre -- 6:07 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TOR (50-59)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.55 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, July 31, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Cease (R) -- 2.46 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- CHC 4, STL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CHC&nbsp;&nbsp;0 0 0 1 0 0 1 0 0 2 -- 4<br>
+      STL&nbsp;&nbsp;0 1 0 0 0 0 1 0 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Andre Pallante kept St. Louis competitive through 6.1 innings with two earned runs -- a quality start. Michael Wetherholt's seventh-inning solo homer tied it at 2-2, but two runs in the Chicago tenth were too much: Roel Gastelum allowed a Bregman double and a Happ double, and the Cardinals went quietly in their half. St. Louis drops the series three-of-four to Chicago.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b>WHAT WORKED:</b><br>
+&bull; Pallante: quality start, 6.1 innings, two earned runs -- gave the bullpen every opportunity<br>
+&bull; Wetherholt went 2-for-5 with his 16th home run, tying the game in the seventh<br>
+&bull; Torres drove in Nootbaar with an RBI single in the second to give St. Louis the early lead<br>
+&bull; Stanek and O'Brien combined for two scoreless innings in the bridge role<br>
+<br>
+<b>WHAT DIDN'T:</b><br>
+&bull; Nootbaar's throwing error in the fourth inning allowed Chicago to score without a hit, flipping the lead<br>
+&bull; Gastelum surrendered two earned runs in the tenth -- the decisive margin<br>
+&bull; Walker went 0-for-5 with three strikeouts heading into tonight's start against Cease
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b>The park shapes everything tonight.</b> Dylan Cease has posted a 3.19 ERA at Rogers Centre this season versus a 5.47 ERA on the road -- St. Louis is walking into the favorable version. Kyle Leahy flips the coin: his away ERA (2.68) is his stronger split, meaning both park effects break for Toronto tonight.<br><br>
+<b>Structural edge for St. Louis:</b> Leahy pitching in his stronger environment against a Toronto lineup the Cardinals know only from roster projection.<br><br>
+<b>Threat to watch:</b> Six of nine Cardinals starters bat left-handed against a pitcher whose OPS against left-handed batters (.735) runs slightly higher than against righties (.700). Cease's 36.5% strikeout rate this season makes contact difficult regardless of handedness.<br><br>
+<b>Window to exploit:</b> Cease's times-through-order data shows a .602 OPS on the first pass and .802 on the second. If St. Louis can survive the early innings, the fourth through sixth become the primary window.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="margin-bottom:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <div style="font-size:11px;font-weight:700;color:#0B1C33;margin-bottom:4px;">Ivan Herrera vs. Dylan Cease</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.5;">Herrera is 4-for-7 in 8 career PA against Cease (.571 AVG, .857 SLG), making him the Cardinals' best-performing hitter historically against tonight's starter. The sample is small, but the contact quality is real. He bats second and serves as DH tonight.</div>
+</div>
+<div style="margin-bottom:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <div style="font-size:11px;font-weight:700;color:#0B1C33;margin-bottom:4px;">Jordan Walker vs. Dylan Cease</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.5;">Walker is 1-for-5 lifetime against Cease (.200) and came into tonight with three consecutive strikeouts against the Cubs. His 2025 K% vs. right-handed pitching was 31.8% -- against a starter with a 36.5% strikeout rate this season, plate discipline will define the matchup.</div>
+</div>
+<div style="margin-bottom:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <div style="font-size:11px;font-weight:700;color:#0B1C33;margin-bottom:4px;">George Springer vs. Kyle Leahy</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.5;">Springer hit .327/.412/.588 vs. right-handed pitching in 2025 and has stolen 18 bases at 94.7% this season. He has one prior plate appearance against Leahy -- a hit. With essentially no scouting history, Leahy will have to establish himself from scratch against one of Toronto's most complete threats.</div>
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<b>Contact rate against Cease.</b> Cease's 36.5% strikeout rate this season is among the stiffest tests the Cardinals will face this road trip. Walker (31.8% K% vs. RHP, 2025) and Crooks (37.0% K% vs. RHP, 2025) are the two most exposed in the order tonight.<br><br>
+<b>Cease's second pass.</b> TTO data shows a clear cliff: .602 OPS in the first pass, .802 in the second. If St. Louis limits damage through the first three innings, the fourth through sixth become the primary window for damage.<br><br>
+<b>Leahy-Crooks battery.</b> Jimmy Crooks starts behind the plate tonight. The Leahy-Crooks pairing has produced an 8.53 ERA in 4 prior games and 6.1 innings -- a sharp contrast to the Leahy-Pages pairing (3.05 ERA, 43 games). Worth watching how the duo establishes a game plan in a road environment.<br><br>
+<b>Springer's legs.</b> George Springer has stolen 18 bases at 94.7% success rate this season. If he reaches base, treating him as a static runner would be a mistake.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P7] Jordan Walker's OPS jump: 0.584 (2025) -> 0.848 (2026), +0.265 -- p99+ of 16,975 season pairs in MLB history | window: 2025 full season vs 2026 through 112 team games | stats: {'stat': 'OPS', 'direction': 'jump', 'ops_2025': 0.5836, 'ops_2026_asof': 0.8482, 'delta': 0.2646, 'percentile_band': 'p99+', 'n_historical_pairs': 16975, 'qual_ab': 300, 'all_time_top3': [{'delta': 0.3944, 'name': 'Javy Lopez', 'years': '2002->2003'}, {'delta': 0.3541, 'name': "Tip O'Neill", 'years': '1886->1887'}, {'delta': 0.3413, 'name': 'Bryce Harper', 'years': '2014->2015'}]}
+  [2] [P1] Dustin May has unraveled over his last 7 starts: 15.64 ERA vs 4.63 before | window: last 7 starts (since 2026-06-21) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-06-21', 'before': 4.63, 'after': 15.64, 'before_starts': 14, 'after_starts': 7}
+  [3] [P6] Jordan Walker has set a new personal season best in RBI: 84, passing his 51 (2023) | window: season to date (112 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'RBI', 'current': 84, 'previous_best': 51, 'previous_best_year': 2023}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P6/positive] Andre Pallante has set a new personal season best in wins: 12, passing his 8 (2024)
+    - [P6/positive] Jordan Walker has set a new personal season best in HR: 24, passing his 16 (2023)
+    - [P6/positive] Jordan Walker has set a new personal season best in SB: 14, passing his 10 (2025)
+    - [P6/positive] Jordan Walker has set a new personal season best in runs: 70, passing his 51 (2023)
+    - [P6/positive] Michael McGreevy has set a new personal season best in strikeouts: 79, passing his 58 (2025)
+    - [P4/negative] Since 2026-07-06, the Cardinals rank 30 of 30 in runs scored per game (3.04) -- worst-5 territory
+    - [P6/positive] Ivan Herrera has set a new personal season best in runs: 68, passing his 54 (2025)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<p style="margin:0 0 10px 0"><b>Jordan Walker's 2026 season is historically rare.</b> His OPS has jumped from .584 in 2025 to .848 in 2026 -- a +.265 swing that ranks p99+ across 16,975 qualifying season pairs in MLB history. He has already set career bests in RBI (84, surpassing his previous best of 51 from 2023), home runs, stolen bases, and runs scored. The tension: since July 6, the Cardinals rank 30th in baseball in runs per game (3.04) -- a significant portion of the team's offensive output has funneled through a single bat.</p>
+<p style="margin:0"><b>Dustin May has become a bullpen liability.</b> May carried a 4.63 ERA over his first 14 outings this season; over his last seven starts since June 21, that number has risen to 15.64. The Cardinals have had to navigate high-leverage late innings without a reliable arm in that role -- last night's extras illustrated the depth problem directly.</p>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
