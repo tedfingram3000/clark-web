@@ -114,7 +114,7 @@ TOR&nbsp;&nbsp;0 0 0 0 0 1 0 2 0 -- 3</div>
 </table></div>
 <p class="sh">STARTING PITCHERS</p>
 <!-- PHASE2_SLOT: season_context_starters -->
-<p class="pp"><b>Quinn Mathews (STL, L default):</b> No 2026 season stats available in dataset. Throws hand field is empty; platoon queries defaulted to L. No career BvP data retrievable (null retro_id). Today's start is a genuine unknown quantity — confirm ERA and line at game time.</p>
+<p class="pp"><b>Quinn Mathews (STL, LHP):</b> Making his major-league debut. He has no MLB career line, which is why no season stats and no BvP history (null retro_id) appear in the dataset — the absence is his debut, not a gap. Throwing hand confirmed left-handed via StatsAPI; the platoon splits below are matched correctly.</p>
 <p class="pp"><b>Kevin Gausman (TOR, R, ERA 4.51):</b> 121.2 IP, 123 K, 35 BB, WHIP 1.27, GB% 44.7, K% 23.9, BB% 6.8. Gausman is pitching at home today (Cardinals are visiting Rogers Centre). His 2025 home ERA was 3.76 in 95.2 IP. He held left-handed batters to a .193/.247/.339 line (.586 OPS) in 370 PA last season — the defining matchup context for today's game given the Cardinals' 6-LHB projected order.</p>
 <!-- /PHASE2_SLOT -->
 <p class="sh">EXPECTED LINEUPS</p>
@@ -208,7 +208,7 @@ TOR&nbsp;&nbsp;0 0 0 0 0 1 0 2 0 -- 3</div>
 <p class="sh">2B: BVP -- OPPONENT BATTERS VS CARDINALS STARTER</p>
 <p class="nd">No data available for this section.</p>
 <!-- PHASE2_SLOT: bvp_opponent_vs_starter_annotation -->
-<p class="pp">Quinn Mathews has a null retro_id in the dataset, which prevents retrieval of any career batter-vs-pitcher matchup history. No Blue Jays hitter has a documented record against Mathews in this dataset. Both sides are approaching this matchup without meaningful historical context.</p>
+<p class="pp">Quinn Mathews has no MLB career entering today — this is his debut — so no batter-vs-pitcher history exists for any Blue Jays hitter. Both sides are approaching this matchup without historical context.</p>
 <!-- /PHASE2_SLOT -->
 <p class="sh">2C: PLATOON SPLITS -- CARDINALS</p>
 <div class="tw"><table class="t">
@@ -271,7 +271,7 @@ TOR&nbsp;&nbsp;0 0 0 0 0 1 0 2 0 -- 3</div>
 </table></div>
 <p class="sm">2026 companion columns: sample floor is 60 PA vs this hand (below floor renders SSS in the table above). The 2026 column never leads in this section -- 2025 vs-hand always leads, regardless of 2026 sample size.</p>
 <!-- PHASE2_SLOT: platoon_opponent_annotation -->
-<p class="pp">Note: Mathews' throwing hand is listed as unknown in the dataset; the query defaulted to L for platoon matching. These splits reflect TOR batters vs LHP. Ernie Clement (.326/.351/.549, 187 PA) and Vladimir Guerrero Jr. (.326/.428/.519, 159 PA) both show strong production vs left-handed pitching and represent the Blue Jays' clearest threat spots in the order. Andrés Giménez (.175, 86 PA) and Luis Urías (.183, 68 PA) trend unfavorably in this split but sample sizes limit conclusions. The 2026 companion column is SSS for all Toronto batters vs LHP — insufficient plate appearances against confirmed left-handed pitching in the current season to cross the 60-PA floor.</p>
+<p class="pp">Note: Mathews' throwing hand is confirmed left-handed; the platoon query matched on L. These splits reflect TOR batters vs LHP. Ernie Clement (.326/.351/.549, 187 PA) and Vladimir Guerrero Jr. (.326/.428/.519, 159 PA) both show strong production vs left-handed pitching and represent the Blue Jays' clearest threat spots in the order. Andrés Giménez (.175, 86 PA) and Luis Urías (.183, 68 PA) trend unfavorably in this split but sample sizes limit conclusions. The 2026 companion column is SSS for all Toronto batters vs LHP — insufficient plate appearances against confirmed left-handed pitching in the current season to cross the 60-PA floor.</p>
 <!-- /PHASE2_SLOT -->
 <p class="sh">2D: PITCHER PLATOON SPLITS</p>
 <div class="tw"><table class="t">
@@ -405,7 +405,7 @@ TOR&nbsp;&nbsp;0 0 0 0 0 1 0 2 0 -- 3</div>
 <p class="sh">2H: BATTERY PAIRING</p>
 <p class="nd">No data available for this section.</p>
 <!-- PHASE2_SLOT: battery_annotation -->
-<p class="pp">Today's starting catcher is Jimmy Crooks (batting order 7, bats L, 14 G in 2026, .559 OPS). Mathews has a null retro_id in the dataset, so no historical battery pairing data is available. This is a fresh combination with no retrievable track record. Crooks' 14 games of MLB catching experience makes him a limited reference point against a Toronto lineup that will test him on the bases (see Section 2I).</p>
+<p class="pp">Today's starting catcher is Jimmy Crooks (batting order 7, bats L, 14 G in 2026, .559 OPS). Mathews is making his major-league debut, so no historical battery pairing data exists. This is a fresh combination with no retrievable track record. Crooks' 14 games of MLB catching experience makes him a limited reference point against a Toronto lineup that will test him on the bases (see Section 2I).</p>
 <!-- /PHASE2_SLOT -->
 <p class="sh">2I: BASERUNNING MATCHUP</p>
 <!-- PHASE2_SLOT: baserunning_content -->
@@ -609,7 +609,7 @@ TOR&nbsp;&nbsp;0 0 0 0 0 1 0 2 0 -- 3</div>
 </tbody>
 </table></div>
 <!-- PHASE2_SLOT: pitcher_kbb_annotation -->
-<p class="pp">Gausman's 2025 command profile is elite: 24.4% strikeout rate, 6.5% walk rate, 3.78 K/BB ratio across 193.0 IP. He misses bats without giving away free passes — the Cardinals should not expect to work deep counts for many walks. For a Cardinals lineup with three hitters carrying career K rates above 27%, this is a challenging profile to attack. Burleson's low K rate (14.5%) and Nootbaar's walk rate (11.0%) are the best tools for wearing Gausman down. Quinn Mathews' K%/BB% data is unavailable (no 2026 season stats in dataset).</p>
+<p class="pp">Gausman's 2025 command profile is elite: 24.4% strikeout rate, 6.5% walk rate, 3.78 K/BB ratio across 193.0 IP. He misses bats without giving away free passes — the Cardinals should not expect to work deep counts for many walks. For a Cardinals lineup with three hitters carrying career K rates above 27%, this is a challenging profile to attack. Burleson's low K rate (14.5%) and Nootbaar's walk rate (11.0%) are the best tools for wearing Gausman down. Quinn Mathews' K%/BB% data does not exist yet — today is his major-league debut.</p>
 <!-- /PHASE2_SLOT -->
 
 <!-- SECTION 3: KEY MATCHUPS (prose only in web) -->
@@ -647,7 +647,7 @@ TOR&nbsp;&nbsp;0 0 0 0 0 1 0 2 0 -- 3</div>
 7. <b>Cardinals starting catcher:</b> Jimmy Crooks (order 7, bats L, .559 OPS, 95 PA in 2026).<br>
 8. <b>Gausman K%/BB% (2025):</b> 24.4% K, 6.5% BB, 3.78 K/BB. Cardinals K risks: Crooks 31.6%, Walker 25.2%, Church 20.7% (all 2026).<br>
 9. <b>Cardinals record vs TOR last 2 seasons:</b> 0-6 (0-3 in 2025, 0-3 in 2024). Series currently TOR leads 1-0.<br>
-10. <b>Mathews data:</b> No ERA, no BvP data, throws hand unavailable (defaulted L). Treat as unknown starter.<br>
+10. <b>Mathews data:</b> Making his MLB debut — no ERA or BvP data exists yet. Throws left (confirmed via StatsAPI).<br>
 11. <b>Trend Watch — O'Brien (hidden decline):</b> BB% 9.6% → 16.3% over last 86 BF. Use with caution in inherited-runner spots.<br>
 12. <b>Svanson IR strand rate:</b> 50.0% (26 IR) — below league average; avoid in high-leverage inherited-runner situations.
 </p>

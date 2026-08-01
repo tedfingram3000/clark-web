@@ -11,7 +11,7 @@
     <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TOR (51-59)</td>
   </tr>
   <tr>
-    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Mathews () -- -- ERA</td>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Mathews (L) -- MLB debut</td>
     <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, August 1, 2026</td>
     <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Gausman (R) -- 4.51 ERA</td>
   </tr>
@@ -43,7 +43,7 @@ Kyle Leahy gave the Cardinals every chance -- six innings, one earned run -- but
     <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: retrospective_commentary -->
 <strong>WHAT WORKED:</strong> Leahy was sharp -- 6.0 IP, 6 H, 1 ER, 1 BB, 3 K. Church went 2-for-4 with a stolen base, providing the only consistent offensive threat. Walker's RBI single in the fifth was the lone Cardinals run.<br><br>
-<strong>WHAT DIDN'T:</strong> The lineup went quiet beyond the fifth inning. Strzelecki allowed 2 ER on 2 BB in 1.0 IP in the eighth, turning a 1-1 tie into a two-run deficit. The Cardinals are now 0-2 in this series and have dropped back-to-back games in Toronto.
+<strong>WHAT DIDN'T:</strong> The lineup went quiet beyond the fifth inning. Strzelecki allowed 2 ER on 2 BB in 1.0 IP in the eighth, turning a 1-1 tie into a two-run deficit. The Cardinals have lost two straight and trail this series 1-0.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
@@ -55,7 +55,7 @@ Kyle Leahy gave the Cardinals every chance -- six innings, one earned run -- but
     <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: bottom_line_content -->
-Quinn Mathews makes his start this afternoon with no published ERA and an unknown throwing hand -- a genuine unknown quantity facing a Toronto lineup the Cardinals have lost six straight to over the last two seasons. Kevin Gausman held left-handed batters to a .193 average and .586 OPS in 370 plate appearances in 2025, and the Cardinals are projected to line up six left-handed bats today. Burleson (.803 OPS this season, .942 vs RHP) and Walker (.835 OPS, 22 HR) are the most credible threats to change the equation.<br><br>
+Quinn Mathews makes his major-league debut this afternoon. The left-hander arrives with no big-league track record -- nothing for Toronto to scout, and nothing to project from -- against a lineup the Cardinals have lost six straight to over the last two seasons. Kevin Gausman held left-handed batters to a .193 average and .586 OPS in 370 plate appearances in 2025, and the Cardinals are projected to line up six left-handed bats today. Burleson (.803 OPS this season, .942 vs RHP) and Walker (.835 OPS, 22 HR) are the most credible threats to change the equation.<br><br>
 WATCH: Gausman's home ERA at Rogers Centre was 3.76 in 2025 -- the Cardinals are the road team today. The three-bat right-handed portion of the lineup (Herrera, Walker, Winn) carries the platoon edge. If the offense is going to find footing this afternoon, it runs through those three.
 <!-- /PHASE2_SLOT -->
     </div>
@@ -93,8 +93,8 @@ WATCH: Gausman's home ERA at Rogers Centre was 3.76 in 2025 -- the Cardinals are
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: watchlist_prose -->
 <strong>Alec Burleson vs. Gausman</strong> -- Burleson carries a .942 OPS vs right-handed pitching this season (.803 overall), making him the left-handed bat most likely to buck Gausman's LHB suppression. His 15 HR and 71 RBI show the power is real.<br><br>
-<strong>Quinn Mathews' command</strong> -- With no published season line and no opponent BvP data available, Mathews is a clean slate. His walk rate and ability to get through the Blue Jays' right-handed-heavy lineup will define the Cardinals' run prevention.<br><br>
-<strong>Guerrero Jr. vs. Mathews</strong> -- Vladimir Guerrero Jr. (.835 OPS this season based on team context) has no BvP history against Mathews in the dataset. He represents the Blue Jays' primary power threat in a lineup that has won two straight.
+<strong>Quinn Mathews' command</strong> -- The debut cuts both ways -- no book on him for Toronto, but no big-league track record to lean on either. His walk rate and ability to get through the Blue Jays' right-handed-heavy lineup will define the Cardinals' run prevention.<br><br>
+<strong>Guerrero Jr. vs. Mathews</strong> -- Vladimir Guerrero Jr. has hit .326/.428/.519 in 159 career plate appearances against left-handed pitching -- exactly what Mathews brings. No one in this lineup has faced him before. He is the Blue Jays' primary power threat in a lineup that has won two straight.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
