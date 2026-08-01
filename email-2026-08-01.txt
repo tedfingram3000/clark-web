@@ -1,0 +1,127 @@
+<!-- 700 Clark Email Block -- STL vs TOR 2026-08-01 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (54-56)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Rogers Centre -- 2:07 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TOR (51-59)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Mathews () -- -- ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, August 1, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Gausman (R) -- 4.51 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- TOR 3, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 1 0 0 0 0 -- 1<br>
+      TOR&nbsp;&nbsp;0 0 0 0 0 1 0 2 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Kyle Leahy gave the Cardinals every chance -- six innings, one earned run -- but the offense managed just one run on Walker's fifth-inning RBI single. Toronto broke it open in the eighth on a pair of runs off Strzelecki, completing the series opener 3-1.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<strong>WHAT WORKED:</strong> Leahy was sharp -- 6.0 IP, 6 H, 1 ER, 1 BB, 3 K. Church went 2-for-4 with a stolen base, providing the only consistent offensive threat. Walker's RBI single in the fifth was the lone Cardinals run.<br><br>
+<strong>WHAT DIDN'T:</strong> The lineup went quiet beyond the fifth inning. Strzelecki allowed 2 ER on 2 BB in 1.0 IP in the eighth, turning a 1-1 tie into a two-run deficit. The Cardinals are now 0-2 in this series and have dropped back-to-back games in Toronto.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+Quinn Mathews makes his start this afternoon with no published ERA and an unknown throwing hand -- a genuine unknown quantity facing a Toronto lineup the Cardinals have lost six straight to over the last two seasons. Kevin Gausman held left-handed batters to a .193 average and .586 OPS in 370 plate appearances in 2025, and the Cardinals are projected to line up six left-handed bats today. Burleson (.803 OPS this season, .942 vs RHP) and Walker (.835 OPS, 22 HR) are the most credible threats to change the equation.<br><br>
+WATCH: Gausman's home ERA at Rogers Centre was 3.76 in 2025 -- the Cardinals are the road team today. The three-bat right-handed portion of the lineup (Herrera, Walker, Winn) carries the platoon edge. If the offense is going to find footing this afternoon, it runs through those three.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;margin-bottom:8px;">
+    <div style="font-size:11px;font-weight:700;color:#0B1C33;margin-bottom:4px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CARDINALS' SIX LEFT-HANDED BATS vs. GAUSMAN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+    Gausman held LHBs to .193/.247/.339 (.586 OPS) in 370 PA in 2025 -- a pronounced split against the majority of today's Cardinals order. Wetherholt, Burleson, Nootbaar, Crooks, Gorman, and Church all bat left. Burleson has a 7-PA career sample against Gausman (.286 AVG) and carries a .942 OPS vs right-handed pitching this season. Nootbaar is 2-for-4 (.500) against Gausman in limited career looks. No Cardinals hitter clears the PA threshold for a full danger-bat designation.
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;margin-bottom:8px;">
+    <div style="font-size:11px;font-weight:700;color:#0B1C33;margin-bottom:4px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WALKER AND THE RIGHT-HANDED TRIO</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+    Gausman's splits versus right-handers were notably weaker -- .238/.290/.374 (.664 OPS, 405 PA). Walker (3-for-9 career vs Gausman), Herrera (.823 OPS vs LHP this season), and Winn are the three RHBs in the projected order. Walker's 22 HR and team-leading 79 RBI make him the primary power threat among this group.
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:11px;font-weight:700;color:#0B1C33;margin-bottom:4px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TORONTO'S SPEED vs. CROOKS</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+    Springer (18 SB, 94.7% career success), Straw (12 SB, 92.3%), and Gimenez (12 SB, 85.7%) represent an active running game. Jimmy Crooks starts behind the plate with 14 games of MLB experience -- an untested combination against a Blue Jays team that has used the basepaths aggressively.
+    </div>
+  </div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<strong>Alec Burleson vs. Gausman</strong> -- Burleson carries a .942 OPS vs right-handed pitching this season (.803 overall), making him the left-handed bat most likely to buck Gausman's LHB suppression. His 15 HR and 71 RBI show the power is real.<br><br>
+<strong>Quinn Mathews' command</strong> -- With no published season line and no opponent BvP data available, Mathews is a clean slate. His walk rate and ability to get through the Blue Jays' right-handed-heavy lineup will define the Cardinals' run prevention.<br><br>
+<strong>Guerrero Jr. vs. Mathews</strong> -- Vladimir Guerrero Jr. (.835 OPS this season based on team context) has no BvP history against Mathews in the dataset. He represents the Blue Jays' primary power threat in a lineup that has won two straight.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P9] Riley O'Brien's results are holding but the indicators aren't: K% 0.245 -> 0.221, BB% 0.096 -> 0.163 over his last 19 outings | window: last 19 outings (86 BF) | stats: {'kind': 'hidden_decline', 'surface': 'ERA', 'era_window': 3.93, 'era_season': 3.5, 'k_pct_window': 0.221, 'k_pct_season': 0.245, 'bb_pct_window': 0.163, 'bb_pct_season': 0.096, 'window_bf': 86, 'season_bf': 188}
+  [2] [P1] Matthew Liberatore has unraveled over his last 8 starts: 8.55 ERA vs 4.92 before | window: last 8 starts (since 2026-06-13) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-06-13', 'before': 4.92, 'after': 8.55, 'before_starts': 13, 'after_starts': 8}
+  [3] [P1] Kyle Leahy has sharpened over his last 7 starts: 1.11 ERA vs 4.69 before | window: last 7 starts (since 2026-06-23) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-06-23', 'before': 4.69, 'after': 1.11, 'before_starts': 7}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P1/negative] Ivan Herrera has slumped since 2026-06-23: 0.856 OPS before vs 0.510 after (138 PA)
+    - [P1/negative] Lars Nootbaar has slumped since 2026-06-28: 0.932 OPS before vs 0.531 after (96 PA)
+    - [P8/neutral] JJ Wetherholt on pace for 24 HR (milestone: 20)
+    - [P18/neutral] Cardinals pacing near the franchise best fielding percentage mark (0.989, 2019)
+    - [P6/positive] Ivan Herrera has set a new personal season best in runs: 65, passing his 54 (2025)
+    - [P6/positive] Kyle Leahy has set a new personal season best in strikeouts: 91, passing his 80 (2025)
+    - [P18/neutral] Cardinals pacing near the franchise fewest errors mark (66, 2019)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<strong>Riley O'Brien -- the surface holds, the indicators don't.</strong> O'Brien's ERA over his last 19 outings (86 BF) sits at 3.93 vs. a 3.50 season mark -- not alarming on its own. But his strikeout rate has slipped from 24.5% to 22.1% in that window, while his walk rate has climbed from 9.6% to 16.3%. The results are masking increasing contact and command vulnerability. Worth watching before the ERA catches up.<br><br>
+<strong>Matthew Liberatore -- the ERA tells the story.</strong> Liberatore has posted an 8.55 ERA over his last 8 starts (since June 13) after a 4.92 ERA across his prior 13. That's a significant and sustained deterioration over a meaningful sample.<br><br>
+<strong>Kyle Leahy -- sharper in the second half.</strong> Leahy put together another quality start Friday (6.0 IP, 1 ER), consistent with his run since June 23: a 1.11 ERA over his last 7 starts vs. a 4.69 ERA in the 14 before. Friday also pushed his strikeout total to a new personal season best.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
