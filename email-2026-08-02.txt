@@ -1,0 +1,133 @@
+<!-- 700 Clark Email Block -- STL vs TOR 2026-08-02 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (54-57)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Rogers Centre -- 12:37 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TOR (52-59)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.26 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, August 2, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Scherzer (R) -- 9.49 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- TOR 5, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 1 0 0 0 -- 1<br>
+      TOR&nbsp;&nbsp;0 0 1 1 0 0 3 0 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Quinn Mathews held Toronto to 2 earned runs through 5.0 innings, but Luis Gastelum gave up 3 runs in 1.1 innings in the seventh and turned a manageable 2-1 deficit into a 5-1 loss. Masyn Winn's RBI double in the sixth -- scoring Iván Herrera -- was the Cardinals' only run. Alejandro Kirk put it away with a 2-RBI single later that inning.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+-- Quinn Mathews: 5.0 IP, 2 ER, 3 K. Kept the Cardinals within striking distance through six innings against a lineup that would ultimately score 5.<br>
+-- Masyn Winn: RBI double in the sixth scored Iván Herrera for the Cardinals' only run.<br>
+-- Jordan Walker and Alec Burleson: each went 2-for-4 at the plate.<br>
+-- Peter Strzelecki: clean 1.2 IP, 0 ER in relief.<br><br>
+<b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+-- Luis Gastelum: 3 ER on 2 hits in 1.1 IP in the seventh. A 2-1 game became 5-1 before the inning was over.<br>
+-- JJ Wetherholt: 0-for-4 and caught stealing, eliminating the one baserunner who could have sparked a rally.<br>
+-- The Cardinals scored in only 1 of 9 innings despite reaching base in multiple frames.<br>
+-- Alejandro Kirk's 2-RBI single in the seventh was the decisive blow -- a result of inherited runners from Gastelum that carried the full scoring consequence.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Scherzer allowed a 2025 .850 OPS to left-handed batters, and the Cardinals send 6 LHB to the plate this afternoon. Burleson leads that group -- a .296 AVG vs RHP in 2025, already .325 vs RHP in 2026. The platoon composition puts the Cardinals in a structural matchup advantage if they can stay patient and make Scherzer work early.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Ernie Clement and Vladimir Guerrero each hit .326 vs lefties in 2025, with Clement posting a .549 SLG against that hand. Both have made contact against Liberatore in limited career looks. Add George Springer (18 SB, 94.7% success) and Myles Straw (12 SB, 92.3% success) and Toronto's basepaths create pressure with or without extra-base hits -- a dynamic that puts a fresh battery at an immediate disadvantage.<br><br>
+<b style="color:#B8860B;">Watch:</b> Liberatore's second pass through the order (innings 4-6) is the game's inflection point -- a 2025 .310 AVG and .871 OPS allowed. If the Cardinals cannot build a lead during the first pass, that TTO2 window is where the Blue Jays do their most concentrated damage. The first-pass performance sets the terms for everything that follows.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;color:#2D3640;line-height:1.5;">
+  <b style="color:#0B1C33;">Alec Burleson vs Max Scherzer.</b> Scherzer's 2025 .850 OPS against left-handed batters makes every Cardinals lefty a priority spot. Burleson leads that group: .296 AVG vs RHP in 2025, .325 in 2026. The career BvP sample is just 2 PA -- this is a profile bet, not a history bet. If Scherzer is still struggling with command (2026: 12.0% BB%), Burleson's patient approach is a genuine asset.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;color:#2D3640;line-height:1.5;">
+  <b style="color:#0B1C33;">Ernie Clement vs Matthew Liberatore.</b> Clement is 3-for-5 (.600 AVG, 1 HR) in career BvP -- a tiny sample, but his broader profile is consistent: .326 AVG and .549 SLG vs lefties in 2025. He is also a contact machine (2026: 9.6% K rate). Liberatore needs to navigate him cleanly in the first pass before the TTO2 window opens.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;color:#2D3640;line-height:1.5;">
+  <b style="color:#0B1C33;">Jimmy Crooks/Liberatore battery vs Toronto baserunning.</b> This is only the third time Crooks has caught Liberatore (11.0 career IP together, 2.45 ERA in that sample). With George Springer (94.7% SB success) and Myles Straw (92.3%) in the lineup, a fresh receiver is a live target. Signal sequencing between Crooks and Liberatore will be tested early.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Liberatore TTO2 window (innings 4-6).</b> His second pass through the order is the red zone -- a 2025 .310 AVG and .871 OPS allowed. Watch for first signs of trouble in that stretch. A Cardinals lead heading into TTO2 changes Liberatore's approach significantly.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Springer and Straw on the bases.</b> George Springer (18 SB, 94.7% success) and Myles Straw (12 SB, 92.3%) are elite-level baserunners. With Crooks behind the plate in a fresh battery arrangement, the threat is immediate from the first inning.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Andrés Giménez vs LHP platoon split.</b> Gimenez hits only .175 vs lefties in 2025 -- a genuine platoon weakness Liberatore can target when Gimenez steps in. His 2026 companion column (87 PA, .213) shows modest improvement but remains the softest spot in the Toronto lineup against a southpaw.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P6] Iván Herrera has set a new personal season best in runs: 66, passing his 54 (2025) | window: season to date (111 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'runs', 'current': 66, 'previous_best': 54, 'previous_best_year': 2025}
+  [2] [P14] CJ Abrams (Washington Nationals) has out-homered the ENTIRE Cardinals team since 2026-07-18: 8 home runs to 5 | window: since 2026-07-18 (15 games) | stats: {'stat': 'home runs', 'player': 'CJ Abrams', 'player_team': 'Washington Nationals', 'player_total': 8, 'stl_team_total': 5, 'window_anchor': '2026-07-18', 'anchor_source': 'P1 change-point (team R/G)', 'window_games': 15}
+  [3] [P18] Cardinals pacing near the franchise best fielding percentage mark (0.989, 2019) | window: through 111 games | stats: {'stat': 'fielding percentage', 'current': 0.988, 'games': 111, 'pace_162': 0.988, 'franchise_record': 0.989, 'franchise_record_year': 2019, 'direction': 'best', 'mlb_record': 0.991, 'mlb_record_year': 2013, 'mlb_record_team': 'BAL'}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P1/negative] Iván Herrera has slumped since 2026-06-23: 0.856 OPS before vs 0.516 after (142 PA)
+    - [P1/negative] Lars Nootbaar has slumped since 2026-06-28: 0.932 OPS before vs 0.530 after (100 PA)
+    - [P8/neutral] JJ Wetherholt on pace for 23 HR (milestone: 20)
+    - [P16/positive] Over the last 21 days the Cardinals rank 2 of 30 in errors per game (0.24)
+    - [P8/neutral] Alec Burleson on pace for 22 HR (milestone: 20)
+    - [P18/neutral] Cardinals pacing near the franchise fewest errors mark (66, 2019)
+    - [P6/positive] Kyle Leahy has set a new personal season best in strikeouts: 91, passing his 80 (2025)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<p class="pp"><b>Iván Herrera is having the best run-scoring season of his career.</b> His 66 runs scored are a new personal best, passing the 54 he put up in all of 2025 -- with seven weeks still to play. Worth noting alongside it: he has slumped since June 23, posting a .516 OPS over his last 142 plate appearances after a .856 OPS before that date. The milestone is real. The recent form is the headwind against it.</p>
+<p class="pp"><b>One player has out-homered the entire Cardinals team over the last 15 games -- and he plays for Washington.</b> Since July 18, CJ Abrams of the Nationals has hit 8 home runs. The Cardinals as a team have hit 5 over the same stretch. That number is not a cold streak. It describes a power outage that has persisted across nearly 15 games and counting.</p>
+<p class="pp"><b>Quietly, the Cardinals are playing near-errorless baseball.</b> Their .988 fielding percentage through 111 games is closing in on the franchise best of .989, set in 2019. Over the last 21 days they rank second in the majors in errors per game at 0.24. The defense is not the problem right now -- and it may be the one thing holding this team together during a stretch where the offense and rotation have struggled to follow.</p>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
