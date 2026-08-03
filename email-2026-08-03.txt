@@ -61,7 +61,7 @@ Liberatore dominated for six innings -- 0 ER, 7 K -- to give St. Louis the early
     <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: bottom_line_content -->
-<b>WATCH:</b> McGreevy's 2025 OPS against left-handed batters was .911 -- and tonight he faces a lineup with six of them. The Yankees were built to do exactly this to right-handed pitchers who can't neutralize the platoon gap.<br><br>
+<b>WATCH:</b> New York can stack as many as six left-handed bats against McGreevy -- the platoon profile that battered him in 2025. His 2026 splits say he has largely closed that gap; tonight is the sternest test yet of whether it stays closed.<br><br>
 &bull; Schlittler has posted a .570 OPS against left-handed hitters in 2026, which means the Cardinals' lineup construction offers no natural edge on the other side of the ball.<br>
 &bull; Tonight's battery pairs McGreevy with Jimmy Crooks -- a combination spanning only 2 starts and carrying a 9.35 ERA in that sample.<br>
 &bull; New York (63-49) is playing meaningful October-chase baseball; St. Louis (55-57) needs wins in this series to stay in the wild card conversation.
@@ -78,7 +78,7 @@ Liberatore dominated for six innings -- 0 ER, 7 K -- to give St. Louis the early
   <tr>
     <td style="padding:0 0 12px 0;">
       <div style="font-size:11px;font-weight:700;color:#0B1C33;margin-bottom:4px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MCGREEVY vs YANKEES LHB CORE</div>
-      <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">McGreevy posted a .911 OPS against left-handed batters in 2025 -- a number that drops to .580 against right-handers. New York can start as many as six LHBs (Wells, Rice, Chisholm, McMahon, Grisham, Jones), giving McGreevy the platoon profile he handles worst across most of the lineup.</div>
+      <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">McGreevy posted a .911 OPS against left-handed batters in 2025 -- a number that drops to .580 against right-handers. In 2026 he has narrowed that gap to almost nothing: .721 against lefties across 294 batters faced, .707 against righties. New York can start as many as six LHBs (Wells, Rice, Chisholm, McMahon, Grisham, Jones) -- a lineup built to test whether the 2025 platoon problem is truly behind him.</div>
     </td>
   </tr>
   <tr>
@@ -97,8 +97,8 @@ Liberatore dominated for six innings -- 0 ER, 7 K -- to give St. Louis the early
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: watchlist_prose -->
 <b>McGreevy's first time through the order:</b> He allowed a .792 OPS in TTO1 in 2025. With six LHBs cycling through early, those first looks matter -- watch whether New York does damage before McGreevy finds a groove or is lifted.<br><br>
-<b>Battery chemistry:</b> McGreevy and Crooks have worked together in 2 starts (8.2 IP, 9.35 ERA). Their shared experience is limited heading into Yankee Stadium, which compounds the baserunning threat New York presents.<br><br>
-<b>Wetherholt HR milestone:</b> JJ Wetherholt enters tonight with 16 home runs on a pace for 23. The milestone threshold is 20 -- watch every at-bat for a chance to move the number.
+<b>Battery chemistry:</b> The unfamiliar McGreevy-Crooks pairing meets a Yankees offense that pressures the running game -- watch how quickly they settle in and control the running lanes early.<br><br>
+<b>Wetherholt HR milestone:</b> The chase detailed in the trend section below is live tonight -- watch every Wetherholt at-bat for a chance to move the number.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
@@ -123,7 +123,7 @@ Liberatore dominated for six innings -- 0 ER, 7 K -- to give St. Louis the early
 <!-- PHASE2_SLOT: trend_watch_prose -->
 <b>Lars Nootbaar slump:</b> Nootbaar's OPS was .932 before June 28 and has been .533 across 105 plate appearances since. Yesterday afternoon's RBI double was a bright spot in an otherwise prolonged cold stretch -- the sample is now large enough that the trend is real and worth tracking every game.<br><br>
 <b>JJ Wetherholt, pace for 23 HR (milestone: 20):</b> Wetherholt has 16 home runs through 112 team games. He is on pace for 23 -- the number to watch is 20, which would be a career-high threshold.<br><br>
-<b>Alec Burleson, pace for 22 HR (milestone: 20):</b> Burleson sits at 15 home runs, on pace for 22. Like JJ Wetherholt, the threshold that changes the conversation is 20.
+<b>Alec Burleson, pace for 22 HR (milestone: 20):</b> Burleson sits at 15 home runs, on pace for 22. As with Wetherholt, the threshold that changes the conversation is 20.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
