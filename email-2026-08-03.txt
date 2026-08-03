@@ -1,0 +1,131 @@
+<!-- 700 Clark Email Block -- STL vs NYY 2026-08-03 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (55-57)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Yankee Stadium -- 6:05 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NYY (63-49)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.57 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, August 3, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Schlittler (R) -- 2.04 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 5, TOR 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 1 0 0 0 0 0 4 -- 5<br>
+      TOR&nbsp;&nbsp;0 0 0 0 0 0 0 1 0 -- 1
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Liberatore dominated for six innings -- 0 ER, 7 K -- to give St. Louis the early lead. The offense was quiet from the fourth inning through the eighth before a four-run ninth, capped by Walker's two-run single, put the game away. Nootbaar's RBI double in the third scored Church for the lone early run. St. Louis took yesterday afternoon's finale but dropped the Toronto series two of three.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b>WHAT WORKED</b><br>
+&bull; Liberatore was the story: 6.0 IP, 0 ER, 7 K. He carried the load and handed a clean game to the bullpen.<br>
+&bull; The four-run ninth broke it open. Fermin's RBI single scored Winn, and Walker's two-run single brought home two more.<br>
+&bull; Nootbaar's RBI double in the third scored Church for the early lead -- the only run through eight innings.<br>
+<br>
+<b>WHAT DIDN'T</b><br>
+&bull; Five consecutive scoreless frames (innings four through eight) left St. Louis living on a single run far longer than comfortable.<br>
+&bull; Toronto scored in the eighth to deny the shutout, and the Cardinals still dropped the series two games to one.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b>WATCH:</b> McGreevy's 2025 OPS against left-handed batters was .911 -- and tonight he faces a lineup with six of them. The Yankees were built to do exactly this to right-handed pitchers who can't neutralize the platoon gap.<br><br>
+&bull; Schlittler has posted a .570 OPS against left-handed hitters in 2026, which means the Cardinals' lineup construction offers no natural edge on the other side of the ball.<br>
+&bull; Tonight's battery pairs McGreevy with Jimmy Crooks -- a combination spanning only 2 starts and carrying a 9.35 ERA in that sample.<br>
+&bull; New York (63-49) is playing meaningful October-chase baseball; St. Louis (55-57) needs wins in this series to stay in the wild card conversation.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="padding:0 0 12px 0;">
+      <div style="font-size:11px;font-weight:700;color:#0B1C33;margin-bottom:4px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MCGREEVY vs YANKEES LHB CORE</div>
+      <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">McGreevy posted a .911 OPS against left-handed batters in 2025 -- a number that drops to .580 against right-handers. New York can start as many as six LHBs (Wells, Rice, Chisholm, McMahon, Grisham, Jones), giving McGreevy the platoon profile he handles worst across most of the lineup.</div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:12px 0 0 0;border-top:1px solid #E0E0E0;">
+      <div style="font-size:11px;font-weight:700;color:#0B1C33;margin-bottom:4px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CARDINALS LHB CORE vs SCHLITTLER AT HOME</div>
+      <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Wetherholt, Burleson, Nootbaar, and Crooks all bat left-handed against Schlittler tonight at Yankee Stadium. Schlittler's 2026 home ERA is 3.83 -- markedly higher than his 1.10 away -- but left-handed hitters managed just a .570 OPS against him in 2026. The Cardinals' LHB lineup finds no meaningful edge here.</div>
+    </td>
+  </tr>
+</table>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<b>McGreevy's first time through the order:</b> He allowed a .792 OPS in TTO1 in 2025. With six LHBs cycling through early, those first looks matter -- watch whether New York does damage before McGreevy finds a groove or is lifted.<br><br>
+<b>Battery chemistry:</b> McGreevy and Crooks have worked together in 2 starts (8.2 IP, 9.35 ERA). Their shared experience is limited heading into Yankee Stadium, which compounds the baserunning threat New York presents.<br><br>
+<b>Wetherholt HR milestone:</b> JJ Wetherholt enters tonight with 16 home runs on a pace for 23. The milestone threshold is 20 -- watch every at-bat for a chance to move the number.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Lars Nootbaar has slumped since 2026-06-28: 0.932 OPS before vs 0.533 after (105 PA) | window: since 2026-06-28 (105 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': '2026-06-28', 'before': 0.932, 'after': 0.533, 'before_pa': 78, 'after_pa': 105}
+  [2] [P8] JJ Wetherholt on pace for 23 HR (milestone: 20) | window: through 112 team games | stats: {'stat': 'HR', 'current': 16, 'pace_162': 23, 'milestone': 20}
+  [3] [P8] Alec Burleson on pace for 22 HR (milestone: 20) | window: through 112 team games | stats: {'stat': 'HR', 'current': 15, 'pace_162': 22, 'milestone': 20}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P6/positive] Kyle Leahy has set a new personal season best in strikeouts: 91, passing his 80 (2025)
+    - [P8/neutral] Alec Burleson on pace for 103 RBI (milestone: 100)
+    - [P19/negative] George Soriano has blown 2 saves in his last 5 appearances
+    - [P8/neutral] JJ Wetherholt on pace for 100 runs (milestone: 100)
+    - [P1/negative] Ivan Herrera has slumped since 2026-06-23: 0.856 OPS before vs 0.502 after (146 PA)
+    - [P1/negative] Pedro Pages has slumped since 2026-05-03: 0.740 OPS before vs 0.427 after (92 PA)
+    - [P1/negative] Nathan Church has slumped since 2026-07-07: 0.715 OPS before vs 0.298 after (66 PA)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Lars Nootbaar slump:</b> Nootbaar's OPS was .932 before June 28 and has been .533 across 105 plate appearances since. Yesterday afternoon's RBI double was a bright spot in an otherwise prolonged cold stretch -- the sample is now large enough that the trend is real and worth tracking every game.<br><br>
+<b>JJ Wetherholt, pace for 23 HR (milestone: 20):</b> Wetherholt has 16 home runs through 112 team games. He is on pace for 23 -- the number to watch is 20, which would be a career-high threshold.<br><br>
+<b>Alec Burleson, pace for 22 HR (milestone: 20):</b> Burleson sits at 15 home runs, on pace for 22. Like JJ Wetherholt, the threshold that changes the conversation is 20.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
