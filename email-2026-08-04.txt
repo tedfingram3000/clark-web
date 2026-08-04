@@ -1,0 +1,124 @@
+<!-- 700 Clark Email Block -- STL vs NYY 2026-08-04 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (56-57)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Yankee Stadium -- 6:05 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NYY (63-50)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Dobbins (R) -- 3.74 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, August 4, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Weathers (L) -- 3.99 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 13, NYY 7</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;2 1 1 2 0 0 0 7 0 -- 13<br>
+      NYY&nbsp;&nbsp;0 0 0 0 3 0 4 0 0 -- 7
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Alec Burleson hit 3 home runs (Nos. 16, 17, 18) and drove in 6 in a 3-for-5 effort. Nathan Church drove in 4 -- including a 3-run homer in the 8th inning (No. 9) with Blaze Jordan and Masyn Winn on base -- and Jimmy Crooks hit a 2-run shot (No. 4) in the same frame. The Cardinals scored 7 runs in the 8th to rally from a 7-6 deficit, as the Yankees had briefly seized the lead thanks to a 4-run 7th. Michael McGreevy started and allowed 2 ER in 4.1 innings; the middle relief trio of Bruihl, Stanek, and Soriano combined for 5 ER in 2.2 IP before Gordon Graceffo closed with 2.0 hitless innings.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<span style="font-weight:700;color:#2E7D32;">WHAT WORKED</span><br>
+&bull; Alec Burleson: 3-for-5 with 3 HR (Nos. 16, 17, 18) and 6 RBI -- the engine of a 13-run night<br>
+&bull; Nathan Church: 2-for-3 with 2 BB, a 3-run homer (No. 9), and 4 RBI on the night<br>
+&bull; 8th-inning explosion: home runs from Church (3 RBI), Crooks (2 RBI), and Burleson (2 RBI) produced 7 runs against the Angels Chivilli in one frame, erasing a 7-6 deficit<br>
+&bull; Gordon Graceffo: 2.0 IP, 0 ER, 0 H to close after the middle bullpen unraveled<br>
+<br>
+<span style="font-weight:700;color:#8B3A3A;">WHAT DIDN'T</span><br>
+&bull; Middle relief in the 7th: Ryne Stanek allowed 3 ER in 0.1 IP (2 HR); George Soriano gave up 1 ER in 0.2 IP (1 HR) -- together surrendering the 7-6 lead entering the 8th<br>
+&bull; Masyn Winn: 0-for-4 with 3 strikeouts
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+STL leads this series 1-0 tonight and sends Hunter Dobbins (R, 3.74 ERA, 33.2 IP, 2-1) against Ryan Weathers (L, 3.99 ERA, 115.0 IP, 4-7). The central analytical story is Weathers's times-through-order profile. In 2025, his second-pass OPS was .880 across 69 PA -- the most exploitable split on his card. In 2026, that same window reads .622 OPS across 184 BF -- now his <em>best</em> current split. Any gameplan that waits for the second pass to attack Weathers is working off outdated information.<br><br>
+The Cardinals carry 6 left-handed bats against the lefty, but Weathers is holding LHB to .725 OPS in 111 BF this season. The primary offensive upside tonight is with the right-handed hitters at the top of the order: Jordan Walker posts a .913 OPS vs LHP in 2026 (123 PA) and Ivan Herrera .804 OPS vs LHP (149 PA). Dobbins makes his fifth start of 2026 with a road test ahead; his 2025 away ERA of 4.70 (23.0 IP) is the relevant baseline, as his 14.2 IP away this season falls below the sample floor.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<p style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;margin:0 0 10px 0;"><span style="font-weight:700;color:#0B1C33;">Walker and Herrera vs. Weathers (LHP).</span> Jordan Walker's 2026 vs-LHP line is .913 OPS (123 PA) and Ivan Herrera's is .804 OPS (149 PA) -- the two right-handed bats best positioned to exploit the platoon against tonight's left-handed starter. Herrera also has 1 career HR in 3 PA vs Weathers.</p>
+<p style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;margin:0 0 10px 0;"><span style="font-weight:700;color:#0B1C33;">Ben Rice vs. Dobbins (RHP).</span> Rice (LHB) carries a .971 OPS vs right-handed pitching in 2026 (299 PA), the highest-danger bat in the NYY pool for tonight's Cardinals starter. His 2025 vs-RHP baseline was .269/.356/.504 in 411 PA -- the 2026 number represents a significant step up.</p>
+<p style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;margin:0 0 0 0;"><span style="font-weight:700;color:#0B1C33;">Dobbins on the road.</span> His 2025 away ERA was 4.70 across 23.0 IP (98 BF), compared to a 2.61 ERA at home (38.0 IP). Tonight at Yankee Stadium is his road start context; the 2026 road sample at 14.2 IP falls below the 20-IP floor for seasonal comparison.</p>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<span style="font-weight:700;">Weathers's TTO2 adaptation.</span> His former worst split -- a .880 OPS second pass in 2025 (69 PA) -- has become his best current split in 2026. Waiting for a 5th-6th-inning rally that may not come the way it used to is the primary trap tonight.<br><br>
+<span style="font-weight:700;">Crooks behind the plate.</span> Tonight's battery is Dobbins-Crooks. Jimmy Crooks (14 career games at catcher, 1.000 fielding percentage in 2025) will face active base stealers: Jose Caballero (49 SB, 81.7% success in 2025) and Jazz Chisholm (31 SB, 79.5%) are the primary threats.<br><br>
+<span style="font-weight:700;">Winn vs. LHP recovery.</span> Masyn Winn was 0-for-4 with 3 K last night. His 2025 vs-LHP profile is .255/.313/.349 (163 PA) -- contact-oriented but limited power against southpaws. Tonight's leadoff matchup against Weathers tests whether the approach resets.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P6] Kyle Leahy has set a new personal season best in strikeouts: 91, passing his 80 (2025) | window: season to date (113 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'strikeouts', 'current': 91, 'previous_best': 80, 'previous_best_year': 2025}
+  [2] [P6] Michael McGreevy has set a new personal season best in strikeouts: 81, passing his 58 (2025) | window: season to date (113 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'strikeouts', 'current': 81, 'previous_best': 58, 'previous_best_year': 2025}
+  [3] [P6] Andre Pallante has set a new personal season best in wins: 11, passing his 8 (2024) | window: season to date (113 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'wins', 'current': 11, 'previous_best': 8, 'previous_best_year': 2024}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P1/negative] Michael McGreevy has unraveled over his last 3 starts: 15.88 ERA vs 3.20 before
+    - [P16/positive] Over the last 21 days the Cardinals rank 1 of 30 in errors per game (0.17)
+    - [P19/negative] George Soriano has blown 2 saves in his last 5 appearances
+    - [P1/negative] Ivan Herrera has slumped since 2026-06-23: 0.856 OPS before vs 0.499 after (151 PA)
+    - [P1/negative] Pedro Pages has slumped since 2026-05-03: 0.740 OPS before vs 0.427 after (92 PA)
+    - [P8/neutral] Andre Pallante on pace for 16 wins (milestone: 15)
+    - [P6/positive] Ivan Herrera has set a new personal season best in runs: 67, passing his 54 (2025)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<span style="font-weight:700;">Kyle Leahy -- career-best 91 strikeouts.</span> Leahy has set a new personal season high with 91 strikeouts in 2026, surpassing his previous best of 80 (2025). His workload at 107.1 innings on the year has been the most durable backbone of the Cardinals rotation depth.<br><br>
+<span style="font-weight:700;">Michael McGreevy -- career-best 81 strikeouts.</span> McGreevy has 81 strikeouts in 2026, a new career best that clears his prior mark of 58 (2025) -- even as a 15.88 ERA over his last three starts has raised questions about whether the counting milestone reflects his current form.<br><br>
+<span style="font-weight:700;">Andre Pallante -- career-best 11 wins.</span> Pallante's 11 wins in 2026 represent a new career high, surpassing his previous best of 8 (2024). He is on pace for 16 wins by season's end -- a total that would clear the 15-win threshold and rank among the stronger Cardinals starting-pitcher seasons in recent memory.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- OPERATOR FOOTER -->
+<tr><td style="padding:6px 20px 12px;">
+  <p style="font-size:9px;color:#707070;text-align:center;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;margin:0;">editorial direction: operator-supplied</p>
+</td></tr>
+
+</table></div>
