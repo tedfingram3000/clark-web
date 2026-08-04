@@ -30,7 +30,7 @@
   <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
     <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: report_card_recap -->
-McGreevy allowed 7 runs on 8 hits in 1.2 innings as the Cubs plated 2 in the first and 5 in the second, effectively ending the game before STL found any footing. Winn went 2-for-4 with an RBI ground-rule double in the ninth, and Church drove in a run on a sacrifice fly in the fourth, but STL managed just 2 runs against Colin Rea over 6.0 innings.
+McGreevy allowed 7 runs on 8 hits in 1.2 innings as the Cubs plated 2 in the first and 5 in the second, effectively ending the game before STL found any footing. Winn went 2-for-4 with an RBI ground-rule double in the ninth, and Church drove in a run on a sacrifice fly in the fourth, but STL managed just 2 runs all game -- only 1 of them charged to Colin Rea over his 6.0 innings.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
