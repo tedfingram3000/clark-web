@@ -45,11 +45,11 @@ Alec Burleson hit 3 home runs (Nos. 16, 17, 18) and drove in 6 in a 3-for-5 effo
 <span style="font-weight:700;color:#2E7D32;">WHAT WORKED</span><br>
 &bull; Alec Burleson: 3-for-5 with 3 HR (Nos. 16, 17, 18) and 6 RBI -- the engine of a 13-run night<br>
 &bull; Nathan Church: 2-for-3 with 2 BB, a 3-run homer (No. 9), and 4 RBI on the night<br>
-&bull; 8th-inning explosion: home runs from Church (3 RBI), Crooks (2 RBI), and Burleson (2 RBI) produced 7 runs against the Angels Chivilli in one frame, erasing a 7-6 deficit<br>
+&bull; 8th-inning explosion: home runs from Church (3 RBI), Crooks (2 RBI), and Burleson (2 RBI) produced 7 runs in the frame -- 6 of them charged to Angel Chivilli -- erasing a 7-6 deficit<br>
 &bull; Gordon Graceffo: 2.0 IP, 0 ER, 0 H to close after the middle bullpen unraveled<br>
 <br>
 <span style="font-weight:700;color:#8B3A3A;">WHAT DIDN'T</span><br>
-&bull; Middle relief in the 7th: Ryne Stanek allowed 3 ER in 0.1 IP (2 HR); George Soriano gave up 1 ER in 0.2 IP (1 HR) -- together surrendering the 7-6 lead entering the 8th<br>
+&bull; Middle relief in the 7th: Ryne Stanek allowed 3 ER in 0.1 IP (2 HR); George Soriano gave up 1 ER in 0.2 IP (1 HR) -- a 4-run inning that flipped the lead and sent the Cardinals to the 8th trailing 7-6<br>
 &bull; Masyn Winn: 0-for-4 with 3 strikeouts
 <!-- /PHASE2_SLOT -->
     </div>
@@ -86,7 +86,7 @@ The Cardinals carry 6 left-handed bats against the lefty, but Weathers is holdin
 <!-- PHASE2_SLOT: watchlist_prose -->
 <span style="font-weight:700;">Weathers's TTO2 adaptation.</span> His former worst split -- a .880 OPS second pass in 2025 (69 PA) -- has become his best current split in 2026. Waiting for a 5th-6th-inning rally that may not come the way it used to is the primary trap tonight.<br><br>
 <span style="font-weight:700;">Crooks behind the plate.</span> Tonight's battery is Dobbins-Crooks. Jimmy Crooks (14 career games at catcher, 1.000 fielding percentage in 2025) will face active base stealers: Jose Caballero (49 SB, 81.7% success in 2025) and Jazz Chisholm (31 SB, 79.5%) are the primary threats.<br><br>
-<span style="font-weight:700;">Winn vs. LHP recovery.</span> Masyn Winn was 0-for-4 with 3 K last night. His 2025 vs-LHP profile is .255/.313/.349 (163 PA) -- contact-oriented but limited power against southpaws. Tonight's leadoff matchup against Weathers tests whether the approach resets.
+<span style="font-weight:700;">Winn vs. LHP recovery.</span> Masyn Winn was 0-for-4 with 3 K last night. Against lefties in 2026 he is hitting .287 with a .730 OPS (109 PA) -- a clear step up from his .255/.313/.349 line in 2025 (163 PA). Tonight's leadoff matchup against Weathers tests whether that season-long progress absorbs one bad night.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
