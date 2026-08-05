@@ -1,0 +1,128 @@
+<!-- 700 Clark Email Block -- STL vs NYY 2026-08-05 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (56-58)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Yankee Stadium -- 6:05 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NYY (64-50)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.72 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, August 5, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Warren (R) -- 4.14 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- NYY 2, STL 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0<br>
+      NYY&nbsp;&nbsp;0 1 0 0 1 0 0 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Ryan Weathers shut down the Cardinals for 6 innings (6.0 IP, 0 ER, 6 K), and solo home runs from Jazz Chisholm Jr. in the 2nd inning and George Lombard Jr. in the 5th provided the only scoring in a 2-0 shutout. Hunter Dobbins went 6.1 innings for St. Louis, limiting the damage to those two solo blasts, but the Cardinals could not manufacture a run despite reaching base multiple times.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+&#8226; Hunter Dobbins pitched 6.1 innings, holding the Yankees to 2 solo home runs and limiting the deficit at a point the Cardinals' offense never closed.<br>
+&#8226; Caleb Ferguson covered the final 1.2 innings with a scoreless line (0 ER, 1 K), keeping the game clean in relief.<br>
+&#8226; The Cardinals drew 3 walks (Wetherholt, Burleson, Torres) against Weathers, finding ways on base in a shutout.<br><br>
+<b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+&#8226; The Cardinals were blanked: 0 runs on 6 hits against Ryan Weathers and the New York bullpen, stranding every baserunner.<br>
+&#8226; Hunter Dobbins surrendered both NYY runs on home runs -- Jazz Chisholm Jr. (HR 17) in the 2nd inning and George Lombard Jr. (HR 1) in the 5th -- the only times the Yankees needed the ball in the air.<br>
+&#8226; The Cardinals went 0-for-the-night with men on base, unable to convert any of their 3 walks or 6 hits into runs.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">EDGE:</b> Andre Pallante's best work this season has come on the road. His 2026 away ERA is 2.66 (44.0 IP), well below his 4.34 ERA at home (74.2 IP). Tonight he pitches at Yankee Stadium, where that road-side form is directly in play. His 2025 ground-ball rate (61.2% GB) generates weak contact throughout the lineup, and the Yankees are not an extreme fly-ball crew.<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> Will Warren is pitching at home tonight, and his home splits are meaningfully better than his road numbers. His 2026 ERA at Yankee Stadium is 3.75 (48.0 IP) versus 4.45 on the road (60.2 IP). His first-pass OPS allowed in 2026 is .686 -- that's the Cardinals' least favorable window. Factor in Jordan Walker's absence (scratched with right knee inflammation, per pre-game notes), and the Cardinals enter without their primary right-handed power bat (.834 OPS, 22 HR in 2026).<br><br>
+<b style="color:#B8860B;">WATCH:</b> The third time through the order is the critical window. Warren's 2026 OPS allowed climbs to .930 when facing a lineup for the third time (93 BF, above the 60-BF analytical floor) -- a steep jump from his second-pass .759 and first-pass .686. If the Cardinals can survive Warren's first two turns through their order, innings 7 and later become their highest-leverage opportunity. Watch whether the bullpen closes that window before the Cardinals can use it.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <b style="color:#0B1C33;">Alec Burleson vs. Will Warren.</b> Burleson is 2-for-4 (.500 AVG, .600 OBP) in 5 career PA against Warren -- the best head-to-head read any Cardinal brings tonight. He also leads the projected lineup against right-handed pitching: his 2025 vs-RHP line is .296/.353/.478 (419 PA), and his 2026 vs-RHP companion is .329/.404/.563 (334 PA). He is the Cardinals' primary offensive threat against a righty in a lineup that has lost its cleanup bat.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <b style="color:#0B1C33;">Ryan McMahon vs. Andre Pallante.</b> McMahon is the only Yankees batter with a double-digit career PA sample against Pallante: 10 PA, .250/.400/.750 with a home run. Pallante's 2025 ground-ball rate is 61.2%, but McMahon has found the ball in the air against him before. His career sample (.750 SLG in 10 PA) is small but signals air-ball contact from a confirmed at-bat history.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Warren's third-pass window.</b> Warren's 2026 OPS allowed reaches .930 in his third time through the lineup (93 BF). When the Cardinals cycle through their order for the third time -- roughly the 7th inning and beyond -- they enter his most hittable stretch. Track the at-bat count against Warren.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jose Caballero on base.</b> Caballero has 49 stolen bases at 81.7% success rate in 2026. Jimmy Crooks starts behind the plate tonight in a fresh battery pairing with Pallante. Any Caballero on-base situation is a live stolen-base threat.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Walker's replacement at RF.</b> Jordan Walker (22 HR, .834 OPS in 2026) is scratched with right knee inflammation. His replacement will define the Cardinals' right-handed depth in a lineup now starting with only 2 confirmed right-handed bats. Watch the official batting order at first pitch.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.779 after (409 PA) | window: since 2026-04-14 (409 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': '2026-04-14', 'before': 1.136, 'after': 0.779, 'before_pa': 66, 'after_pa': 409}
+  [2] [P7] Jordan Walker's OPS jump: 0.584 (2025) -> 0.834 (2026), +0.250 -- p99+ of 16,975 season pairs in MLB history | window: 2025 full season vs 2026 through 114 team games | stats: {'stat': 'OPS', 'direction': 'jump', 'ops_2025': 0.5836, 'ops_2026_asof': 0.8339, 'delta': 0.2503, 'percentile_band': 'p99+', 'n_historical_pairs': 16975, 'qual_ab': 300, 'all_time_top3': [{'delta': 0.3944, 'name': 'Javy Lopez', 'years': '2002->2003'}, {'delta': 0.3541, 'name': "Tip O'Neill", 'years': '1886->1887'}, {'delta': 0.3413, 'name': 'Bryce Harper', 'years': '2014->2015'}]}
+  [3] [P1] Ivan Herrera has slumped since 2026-06-23: 0.856 OPS before vs 0.499 after (155 PA) | window: since 2026-06-23 (155 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': '2026-06-23', 'before': 0.856, 'after': 0.499, 'before_pa': 347, 'after_pa': 155}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P1/negative] Pedro Pages has slumped since 2026-05-03: 0.740 OPS before vs 0.434 after (95 PA)
+    - [P16/positive] Over the last 21 days the Cardinals rank 1 of 30 in errors per game (0.16)
+    - [P1/negative] Michael McGreevy has unraveled over his last 3 starts: 15.88 ERA vs 3.20 before
+    - [P19/negative] George Soriano has blown 2 saves in his last 5 appearances
+    - [P2/positive] Jordan Walker: multi-hit streak at 3 games
+    - [P1/negative] Dustin May has unraveled over his last 7 starts: 15.64 ERA vs 4.63 before
+    - [P8/neutral] Jordan Walker on pace for 115 RBI (milestone: 100)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<p style="margin:0 0 10px;"><b>Jordan Walker's 2026 is historically rare -- and tonight it's on hold.</b> His OPS jump from 0.584 (2025 full season) to 0.834 (2026, through 114 team games) ranks in the p99+ of 16,975 historical season pairs in the database -- a magnitude of improvement historically comparable to Bryce Harper (2014 to 2015, +0.341) and Javy Lopez (2002 to 2003, +0.394). But within 2026, Walker has slumped since April 14: 1.136 OPS before that date (66 PA) versus 0.779 after (409 PA). That internal tension -- the best season of his career shadowed by a sustained in-season decline -- is the story that has been building for months. Tonight it goes on pause: Walker is scratched with right knee inflammation. The slope of his return will be worth watching.</p>
+<p style="margin:0 0 10px;"><b>Ivan Herrera has been cold since late June and hasn't recovered.</b> Through June 22, Herrera posted a 0.856 OPS over 347 PA -- a productive first half batting near the top of the order. Since June 23, he has dropped to a 0.499 OPS over 155 PA, a sustained fall that now spans more than six weeks. He starts tonight batting 2nd against a quality right-hander at a park where Warren's home splits are stronger. Herrera's approach to early-count plate appearances against Warren -- especially given his recent struggles -- is one of the quieter questions in tonight's lineup.</p>
+<p style="margin:0 0 4px;font-size:10px;color:#707070;">editorial direction: operator-supplied</p>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
