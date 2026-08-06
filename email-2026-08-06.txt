@@ -63,9 +63,8 @@ Cardinals off day. No scout report today. Next game: August 7 vs Colorado at Bus
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
-  [1] [P1] Dustin May has unraveled over his last 7 starts: 15.64 ERA vs 4.63 before | window: last 7 starts (since 2026-06-21) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-06-21', 'before': 4.63, 'after': 15.64, 'before_starts': 14, 'after_starts': 7, 'window_unit': 'starts', 'role': None}
-  [2] [P16] Over the last 21 days the Cardinals rank 1 of 30 in errors per game (0.25) | window: last 21 days | stats: {'metric': 'errors per game, league rank', 'value': 0.25, 'rank': 1, 'teams': 30}
-  [3] [P19] George Soriano has blown 2 saves in his last 5 appearances | window: last 5 appearances (2026-07-29..2026-08-05) | stats: {'kind': 'reliever_blown_saves', 'blown': 2, 'appearances': 5, 'threshold': 2, 'window_unit': 'appearances', 'role': None}
+  [1] [P16] Over the last 21 days the Cardinals rank 1 of 30 in errors per game (0.25) | window: last 21 days | stats: {'metric': 'errors per game, league rank', 'value': 0.25, 'rank': 1, 'teams': 30}
+  [2] [P19] George Soriano has blown 2 saves in his last 5 appearances | window: last 5 appearances (2026-07-29..2026-08-05) | stats: {'kind': 'reliever_blown_saves', 'blown': 2, 'appearances': 5, 'threshold': 2, 'window_unit': 'appearances', 'role': None}
   ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
     - [P2/negative] Cesar Prieto is hitless in his last 20 at-bats
     - [P1/negative] Pedro Pages has slumped since 2026-05-03: 0.740 OPS before vs 0.434 after (95 PA)
@@ -76,7 +75,6 @@ Cardinals off day. No scout report today. Next game: August 7 vs Colorado at Bus
     - [P1/negative] Nathan Church has slumped since 2026-07-04: 0.726 OPS before vs 0.484 after (91 PA)
 -->
 <!-- PHASE2_SLOT: trend_watch_prose -->
-<b>Dustin May has unraveled over his last 7 starts: 15.64 ERA vs. 4.63 in the 14 before.</b> The anchor date is June 21 -- since then, seven outings and a full collapse. Before that point his work was serviceable; after it the numbers stopped resembling a viable rotation slot.<br><br>
 <b>The Cardinals have been the cleanest defensive club in baseball over the last three weeks.</b> St. Louis ranks 1 of 30 in errors per game at 0.25 over the last 21 days -- the lowest error rate among all 30 clubs over that stretch. In a season where the offense has run inconsistent, the infield has been the quiet counternarrative.<br><br>
 <b>George Soriano has blown 2 saves in his last 5 appearances.</b> Two in five is a pattern, not variance. The Cardinals enter the home stand needing dependable late-inning work, and this is the arm that needs to stabilize.
 <!-- /PHASE2_SLOT -->
