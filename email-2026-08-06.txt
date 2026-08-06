@@ -1,0 +1,86 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-08-06 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (57-58)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NEXT: COL</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 3, NYY 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 3 0 0 0 0 -- 3<br>
+      NYY&nbsp;&nbsp;0 0 0 0 0 1 0 0 0 -- 1
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals won last night's series finale at Yankee Stadium, 3-1, on a three-run fifth. JJ Wetherholt's two-run double drove in Bryan Torres and Jimmy Crooks; Ivan Herrera followed with a ground-rule double to score Wetherholt and push the lead to 3-0. Andre Pallante worked 5.1 innings (1 ER), the bullpen closed the game without allowing another run, and St. Louis took the series 2-of-3.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- JJ Wetherholt: 1-for-3, 2 BB, 2 RBI -- his two-run double in the 5th drove in Torres and Crooks and opened the scoring.<br>
+- Ivan Herrera: ground-rule double in the same inning scored Wetherholt and pushed the lead to 3-0 before New York answered.<br>
+- Bullpen: Soriano (1.0 IP, 3 K), Bruihl (0.2 IP), Stanek (1.0 IP, 2 K), and O'Brien (1.0 IP) were each scoreless after Pallante exited.<br><br>
+<b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Pallante's command: 3 walks in 5.1 IP kept the Yankees close through the early innings.<br>
+- Fermin: 0-for-4, no walks. Prieto: 0-for-3, no walks. No contribution from either at the bottom of the order.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+Cardinals off day. No scout report today. Next game: August 7 vs Colorado at Busch Stadium, 7:15 PM CT.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Dustin May has unraveled over his last 7 starts: 15.64 ERA vs 4.63 before | window: last 7 starts (since 2026-06-21) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-06-21', 'before': 4.63, 'after': 15.64, 'before_starts': 14, 'after_starts': 7, 'window_unit': 'starts', 'role': None}
+  [2] [P16] Over the last 21 days the Cardinals rank 1 of 30 in errors per game (0.25) | window: last 21 days | stats: {'metric': 'errors per game, league rank', 'value': 0.25, 'rank': 1, 'teams': 30}
+  [3] [P19] George Soriano has blown 2 saves in his last 5 appearances | window: last 5 appearances (2026-07-29..2026-08-05) | stats: {'kind': 'reliever_blown_saves', 'blown': 2, 'appearances': 5, 'threshold': 2, 'window_unit': 'appearances', 'role': None}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P2/negative] Cesar Prieto is hitless in his last 20 at-bats
+    - [P1/negative] Pedro Pages has slumped since 2026-05-03: 0.740 OPS before vs 0.434 after (95 PA)
+    - [P1/negative] Michael McGreevy has unraveled over his last 3 starts: 15.88 ERA vs 3.20 before
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.386 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.2)
+    - [P7/positive] Jordan Walker's OPS jump: 0.584 (2025) -> 0.834 (2026), +0.250 -- p99+ of 16,975 season pairs in MLB history
+    - [P8/neutral] Andre Pallante on pace for 17 wins (milestone: 15)
+    - [P1/negative] Nathan Church has slumped since 2026-07-04: 0.726 OPS before vs 0.484 after (91 PA)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Dustin May has unraveled over his last 7 starts: 15.64 ERA vs. 4.63 in the 14 before.</b> The anchor date is June 21 -- since then, seven outings and a full collapse. Before that point his work was serviceable; after it the numbers stopped resembling a viable rotation slot.<br><br>
+<b>The Cardinals have been the cleanest defensive club in baseball over the last three weeks.</b> St. Louis ranks 1 of 30 in errors per game at 0.25 over the last 21 days -- the lowest error rate among all 30 clubs over that stretch. In a season where the offense has run inconsistent, the infield has been the quiet counternarrative.<br><br>
+<b>George Soriano has blown 2 saves in his last 5 appearances.</b> Two in five is a pattern, not variance. The Cardinals enter the home stand needing dependable late-inning work, and this is the arm that needs to stabilize.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
