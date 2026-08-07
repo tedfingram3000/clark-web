@@ -72,7 +72,7 @@ Cardinals took game 2 of the series 4-2 to clinch with a day to spare. Leahy tur
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
 <!-- PHASE2_SLOT: key_matchups_prose -->
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Pallante vs Witt.</b> Witt is .250/.308/.500 with a HR in 13 career PA against Pallante. His 2025 vs-RHP line is .287/.341/.506. Pallante's heavy sinker meets Witt's .342 career grounder AVG -- the routine ground ball is not a safe outcome.
+  <b style="color:#0B1C33;">Pallante vs Witt.</b> Witt is .250/.308/.500 with a HR in 13 career PA against Pallante. His 2025 vs-RHP line is .287/.341/.506. Pallante's heavy sinker meets Witt's .342 2025 grounder AVG -- the routine ground ball is not a safe outcome.
 </div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
   <b style="color:#0B1C33;">Burleson vs Kolek.</b> Burleson is already 1-for-3 with a HR against Kolek in his BvP sample and runs a 2025 .296/.353/.478 line vs RHP. Kolek's vs-LHB profile (.381 SLG, 7 HR in 251 PA) is his exploitable side; Burleson is the cleanest swing to attack it.

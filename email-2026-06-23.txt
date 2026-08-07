@@ -92,7 +92,7 @@ Pallante grinded 6 innings of 1-run ball (6 H, 0 BB, 2 K). Church went 2-for-3 w
   <b style="color:#0B1C33;">-- Leahy-Crooks battery (small sample).</b> Crooks owns 6.1 IP behind STL pitchers in our 2026 sample with an 8.53 ERA and .346 AVG against, while Pages has 62.0 IP at 3.05 ERA. Tonight's catcher is Crooks. Pop-time and pitch-mix calibration with Leahy haven't built up a track record yet -- early-count sequencing is the tell.
 </div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Leahy home/away gap.</b> 2.68 ERA on the road, 4.47 at home -- nearly two runs of separation, and tonight is Busch. The contact profile is similar (44.2% career GB), but the runs cluster at home.
+  <b style="color:#0B1C33;">-- Leahy home/away gap.</b> 2.68 ERA on the road, 4.47 at home -- nearly two runs of separation, and tonight is Busch. The contact profile is similar (44.2% 2025 GB), but the runs cluster at home.
 </div>
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
   <b style="color:#0B1C33;">-- Bullpen fork.</b> Romero 88.5% strand vs Svanson 50.0% on 26 IR each. Which arm enters with runners on decides the middle innings.

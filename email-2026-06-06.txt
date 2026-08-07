@@ -75,7 +75,7 @@ The Cardinals trailed 3-0 after Stewart's 2-RBI double and a Suárez RBI single 
   <b style="color:#0B1C33;">Noelvi Marte vs Liberatore.</b> 3-for-8 with 1 HR career (9 PA, .375 / .444 / .750) -- the only opponent BvP row with both volume and an extra-base footprint. Marte is .224 vs LHP in 2025 with just 1 HR, so this is a Liberatore-specific edge, not a platoon edge.
 </div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">JJ Bleday vs Liberatore.</b> Bleday hit .324 / .370 / .500 vs LHP in 2025 with 3 HR; career .641 LD AVG. Career BvP sample is just 1 PA, but the platoon profile says Bleday is the lefty who can punish when Liberatore misses arm side.
+  <b style="color:#0B1C33;">JJ Bleday vs Liberatore.</b> Bleday hit .324 / .370 / .500 vs LHP in 2025 with 3 HR; 2025 .641 LD AVG. Career BvP sample is just 1 PA, but the platoon profile says Bleday is the lefty who can punish when Liberatore misses arm side.
 </div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
   <b style="color:#0B1C33;">Burleson vs Lodolo.</b> Burleson hit .271 / .310 / .398 vs LHP in 2025 and is 1-for-3 career against Lodolo. From the 3-hole he is the LHB the Cardinals trust most against Lodolo's reverse split.

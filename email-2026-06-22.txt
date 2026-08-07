@@ -75,7 +75,7 @@ A 12-10 slugfest in Kansas City. Wetherholt led the way (3-for-5, 2 HR, 3 RBI), 
   <b style="color:#0B1C33;">Burleson vs Kelly.</b> The Cardinals' best lefty profile against the matchup that fits him. Burleson's 2025 vs RHP line is .296/.353/.478 with 15 HR in 419 PA; Kelly's 2025 vs LHB is .222/.281/.428 with 17 HR allowed in 399 PA. BvP is only 9 PA (.125 AVG) -- this is a profile bet, not a history bet.
 </div>
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Carroll vs Pallante.</b> 2-for-5 with 2 BB in 7 career PA, and Carroll's 2025 vs RHP is .267/.354/.575 with 24 HR. Pallante is a 61.2% career GB pitcher, but Carroll's career fly-ball AVG (.101) is dwarfed by his line-drive AVG (.681) -- the danger is when he stays middle-of-the-field.
+  <b style="color:#0B1C33;">Carroll vs Pallante.</b> 2-for-5 with 2 BB in 7 career PA, and Carroll's 2025 vs RHP is .267/.354/.575 with 24 HR. Pallante is a 61.2% 2025 GB pitcher, but Carroll's 2025 fly-ball AVG (.101) is dwarfed by his line-drive AVG (.681) -- the danger is when he stays middle-of-the-field.
 </div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
   <b style="color:#0B1C33;">Pallante's TTO2 window.</b> Career .309 AVG, .487 SLG, .868 OPS in the second pass through the order vs .266/.393/.720 in TTO1. Arizona's lineup walks a lot (Perdomo, Smith, Marte all above 11%), which buys those deeper looks.

@@ -60,7 +60,7 @@ Nick Kurtz turned a scoreless game with a grand slam in the bottom of the 5th to
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: bottom_line_content -->
 <b style="color:#2E7D32;">Edge:</b> Lopez's 2026 control is shot -- 6.11 ERA, 1.75 WHIP, 24 BB in 35.1 IP. The 2025 baseline 9.3% BB% has spiked to a 14.4% BB% this year. The Cardinals carry 5 RHB into a lefty-on-lefty disadvantage; Herrera is the standout at .330 / .455 / .660 vs LHP in 2025 (9 HR in 124 PA). The Cardinals do not need to hunt; they need to take.<br><br>
-<b style="color:#8B3A3A;">Threat:</b> Nick Kurtz is the lineup. 2025 vs RHP: .336 / .439 / .714 with 27 HR in 336 PA. Career LD AVG .790. He took Liberatore deep for a grand slam yesterday, and McGreevy's vs-LHB line in 2025 (.318 / .368 / .543, 9 HR in 190 PA) is the lineup's softest spot.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Nick Kurtz is the lineup. 2025 vs RHP: .336 / .439 / .714 with 27 HR in 336 PA. 2025 LD AVG .790. He took Liberatore deep for a grand slam yesterday, and McGreevy's vs-LHB line in 2025 (.318 / .368 / .543, 9 HR in 190 PA) is the lineup's softest spot.<br><br>
 <b style="color:#B8860B;">Watch:</b> Lopez's second pass through the order. 2025 TTO2 line: .268 / .811 OPS, against a TTO1 line of .223 / .699. That .811 is the cliff -- innings 4-6 are the Cardinals' opening, with TTO3 (.158 / .559) the reward if they get through it.
 <!-- /PHASE2_SLOT -->
     </div>

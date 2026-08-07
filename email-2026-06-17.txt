@@ -72,7 +72,7 @@ Andre Pallante carried this one: 7.0 IP, 4 H, 2 R, 0 BB, 6 K. Blaze Jordan's RBI
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
 <!-- PHASE2_SLOT: key_matchups_prose -->
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Machado vs Leahy.</b> Only Padres bat with even a token Leahy sample (3 PA, 1 H, .333 AVG) -- not enough on its own to read, but the profile bet is heavy. Machado is .279 / .332 / .440 vs RHP in 2025 with a .694 career LD AVG. He is the at-bat where a 2-0 Cardinals lead can flip in one swing.
+  <b style="color:#0B1C33;">Machado vs Leahy.</b> Only Padres bat with even a token Leahy sample (3 PA, 1 H, .333 AVG) -- not enough on its own to read, but the profile bet is heavy. Machado is .279 / .332 / .440 vs RHP in 2025 with a .694 2025 LD AVG. He is the at-bat where a 2-0 Cardinals lead can flip in one swing.
 </div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
   <b style="color:#0B1C33;">Burleson vs TBD.</b> San Diego has not announced today's starter. Burleson is the cleanest left-handed look in the lineup (.296 / .353 / .478 vs RHP in 2025 with 15 HR). If the matchup arm is right-handed, this is the highest-leverage Cardinals at-bat. If left-handed, the read flips to Walker and Herrera.

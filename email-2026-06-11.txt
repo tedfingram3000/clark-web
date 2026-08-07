@@ -78,7 +78,7 @@ Cardinals took the series with a 9-2 road win behind a 6-inning, 3-hit, 5-K star
   <b style="color:#0B1C33;">Hunter Dobbins vs Juan Soto.</b> 2 career PA, 0-for-2 -- no read either direction. The matchup that matters is the profile: Soto's .424 OBP and 17.8% 2025 BB% vs Dobbins's loose 2026 control (13.2% BB%, 7 BB in 13.0 IP) is the walk-or-damage decision in any leverage at-bat.
 </div>
 <div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Hunter Dobbins vs Francisco Alvarez.</b> 2 career PA, 2-for-2 -- a tiny sample but the loudest BvP line on the page in either direction. Pair it with Alvarez's .595 career LD AVG and his role as Scott's likely receiver and he is the small-sample alarm in the bottom third of the order.
+  <b style="color:#0B1C33;">Hunter Dobbins vs Francisco Alvarez.</b> 2 career PA, 2-for-2 -- a tiny sample but the loudest BvP line on the page in either direction. Pair it with Alvarez's .595 2025 LD AVG and his role as Scott's likely receiver and he is the small-sample alarm in the bottom third of the order.
 </div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
   <b style="color:#0B1C33;">X-factor: Scott's first look at this lineup.</b> Scott has no 2025 platoon, TTO, or batted-ball rows on file -- the database carries only his 2026-to-date line (2.50 ERA across 36.0 IP, 26.3% K%, 11.5% BB%). The Cardinals have never seen him in the career BvP sample. Whichever side adapts first wins the early innings.

@@ -95,7 +95,7 @@ Braves evened the series with a 5-1 win. McGreevy delivered a quality start (6.0
   <b style="color:#0B1C33;">-- May away context.</b> Career away split: 6.28 ERA in 258 BF, 12 HR allowed vs 3.24 ERA at home. Tonight is a road start -- his weaker context.
 </div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">-- Cardinals contact risk vs Waldrep.</b> Waldrep's career 2025 K% is 24.0%. Two STL bats carry heavy 2025 K%: Walker (31.8%) and Crooks (37.0%). Cardinals batters combine for 6+ strikeouts.
+  <b style="color:#0B1C33;">-- Cardinals contact risk vs Waldrep.</b> Waldrep's 2025 K% is 24.0%. Two STL bats carry heavy 2025 K%: Walker (31.8%) and Crooks (37.0%). Cardinals batters combine for 6+ strikeouts.
 </div>
 <div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
   <b style="color:#0B1C33;">-- Waldrep's third pass.</b> Career TTO3 line: 48 PA, .167 AVG / .190 SLG / .461 OPS, zero HR. His weak spot -- and the run window for the STL lineup late.
