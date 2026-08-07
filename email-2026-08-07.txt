@@ -1,0 +1,92 @@
+<!-- 700 Clark Email Block -- STL vs COL 2026-08-07 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (57-58)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 7:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">COL (45-70)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.44 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, August 7, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Feltner (R) -- 5.75 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Kyle Leahy carries a 2.95 ERA in 55.0 home innings in 2026, pitching at Busch Stadium against a Colorado club at 45-70. Ryan Feltner comes in at 6.00 ERA in 27.0 road innings this year. The Cardinals project six left-handed batters tonight against a pitcher who has allowed an .847 OPS to left-handed batters in 167 batters faced in 2026 -- the 2025 baseline was .880 OPS in 68 PA. Both samples clear the platoon floor and both point the same direction.<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Leahy's own left-handed split is elevated. His 2026 OPS allowed to left-handed batters is .856 (233 batters faced). Colorado's active roster pool tonight includes six left-handed hitters and two switch-hitters -- the same platoon exposure that cuts in St. Louis's favor on offense cuts back on the pitching side.<br><br>
+<b style="color:#B8860B;">Watch:</b> Feltner's second pass through the order. 2026 to date: .265 AVG / .824 OPS in 128 batters faced. 2025 baseline: .311 AVG / .985 OPS in 54 plate appearances. With both samples above the floor, the 2026 number is the operative benchmark -- but the 2025 extreme shows what can happen when Cardinals left-handed contact finds him a second time.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Alec Burleson vs. Ryan Feltner.</b> Burleson is 1-for-6 (.167) in career plate appearances against Feltner -- zero walks, one strikeout, a sample too thin to weigh directly. What the career sample can't capture is the seasonal form: Burleson's 2026 line versus right-handed pitching is .329 AVG and .968 OPS in 337 plate appearances, one of the strongest vs-RHP marks in tonight's lineup. He is a left-handed bat leading off in the third spot against Feltner's exposed platoon profile.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Hunter Goodman vs. Kyle Leahy.</b> Goodman is 0-for-3 with 3 strikeouts against Leahy in career plate appearances. The early pattern favors Leahy, and the pitcher's split backs it up: Leahy's 2026 OPS allowed to right-handed batters is .619 (223 batters faced); 2025 baseline was .589 (200 plate appearances) -- a consistent same-hand edge across both seasons. Goodman's 33 home runs this year make him Colorado's primary power threat regardless of the career pattern; his .863 OPS vs right-handed pitching in 296 plate appearances in 2026 keeps the at-bat relevant every time through.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Jimmy Crooks catching Kyle Leahy.</b> Crooks starts at catcher tonight with only 4 games and 6.1 innings of paired history with Leahy, carrying an 8.53 ERA in that small window. Pedro Pages is Leahy's primary receiver this season -- 43 games caught, 3.05 ERA together -- and is not starting tonight. Fresh battery pairings carry real signal-sequencing risk, especially in the first pass when Colorado's baserunners will be probing Crooks's timing.
+</div>
+<!-- /PHASE2_SLOT -->
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Colorado's running game against a fresh battery.</b> Jordan Beck (19 SB, 70.4% success rate in 2026) and Tyler Freeman (18 SB, 66.7%) are Colorado's most active baserunners. With Jimmy Crooks behind the plate in only his fourth paired start with Leahy, the timing read and throw rhythm has not been road-tested. Colorado will probe that early.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Leahy's third pass through the lineup.</b> His 2026 first-pass OPS allowed is .556 (191 batters faced) -- the strongest portion of his start. By the third pass, that figure has risen to 1.068 OPS (86 batters faced) in 2026. If Leahy reaches innings 7-plus, the Cardinals' bullpen decision needs to be proactive. Watch pitch count near 90 in the lineup's third look as the trigger point.
+</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Jordan Walker as the lineup's RISP conversion engine.</b> Walker's 2026 RISP OPS is 1.013 in 144 plate appearances -- the highest on-base run-scoring mark in tonight's Cardinals order. If left-handed batters reach base against Feltner in the first three innings, Walker batting fourth is the most direct conversion lever to watch.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P2] César Prieto is hitless in his last 20 at-bats | window: last 7 games (2026-05-06..2026-08-05) | stats: {'streak_type': 'hitless at-bats', 'length': 20, 'games': 7, 'threshold': 20}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P4/negative] Since 2026-07-20, the Cardinals rank 28 of 30 in runs scored per game (3.24) -- worst-5 territory
+    - [P1/negative] Pedro Pagés has slumped since 2026-05-03: 0.740 OPS before vs 0.434 after (95 PA)
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.386 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.2)
+    - [P8/neutral] Andre Pallante on pace for 17 wins (milestone: 15)
+    - [P1/negative] Michael McGreevy has unraveled over his last 3 starts: 15.88 ERA vs 3.20 before
+    - [P16/positive] Over the last 21 days the Cardinals rank 1 of 30 in errors per game (0.25)
+    - [P18/neutral] Cardinals pacing near the franchise best fielding percentage mark (0.989, 2019)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Cesar Prieto is hitless in his last 20 at-bats</b> across seven games (through August 5). That is not a slump on an otherwise productive season -- those 20 at-bats are the entire 2026 season, a line of .000 that has run from May through last week without interruption. Prieto is not in tonight's projected lineup; the streak has been the reason. The Cardinals have struggled to generate offense in stretches this summer, and Prieto's situation represents the longest edge of that pattern -- every at-bat of his season, hitless, with the streak still open.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
