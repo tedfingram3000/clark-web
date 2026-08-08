@@ -1,0 +1,123 @@
+<!-- 700 Clark Email Block -- STL vs COL 2026-08-08 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (58-58)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">COL (45-71)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 4.97 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, August 8, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Freeland (L) -- 6.81 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 3, COL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      COL&nbsp;&nbsp;0 1 0 1 0 0 0 0 0 -- 2<br>
+      STL&nbsp;&nbsp;0 2 1 0 0 0 0 0 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Kyle Leahy dealt 5.0 innings with 8 strikeouts and no walks, and Ivan Herrera's solo home run -- his 13th of the season -- gave the Cardinals the decisive third run in a 3-2 win last night. The bullpen threw 4.0 scoreless innings to close it out.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b>What Worked:</b><br>
+&bull; Ivan Herrera's solo home run in the 3rd (his 13th) extended the lead to 3-1 and held as the decisive run.<br>
+&bull; Kyle Leahy: 5.0 IP, 0 BB, 8 K -- struck out 8 and walked none despite surrendering 8 hits.<br>
+&bull; The bullpen (Bruihl, Ferguson, Stanek, O'Brien) combined for 4.0 scoreless innings to close the game.<br>
+<br>
+<b>What Didn't:</b><br>
+&bull; Both Colorado runs came on Troy Johnston groundout RBIs -- TJ Rumfield scored both times on infield contact in the 2nd and 4th innings.<br>
+&bull; Cardinals left-handed bats Wetherholt, Burleson, and Church went a combined 0-for-8 with no extra-base hits.<br>
+&bull; Leahy's 8 hits allowed in 5.0 IP kept the game within reach; Colorado consistently made contact.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b>EDGE:</b> Kyle Freeland arrives tonight with an 8.29 ERA in 51.0 road innings this season. His 2026 line against right-handed hitters -- .926 OPS in 357 batters faced -- aligns directly with the Cardinals' strongest weapons: Ivan Herrera (2-for-6 with 1 HR in career plate appearances vs. Freeland), Jordan Walker (.913 OPS vs left-handed pitchers in 2026, 123 plate appearances), and Masyn Winn. Freeland's first pass through opposing orders in 2026 has also been extreme (.958 OPS in 181 batters faced) -- the Cardinals' best window is innings 1-3.<br><br>
+<b>THREAT:</b> Matthew Liberatore's third-pass profile is tonight's primary risk. Opposing hitters have posted a 1.089 OPS against him in the third pass through the order in 2026 (85 batters faced, above the analytical floor). His first two passes are solid (.772 and .755 OPS). Colorado carries enough patient hitters -- Julien (14.1% walk rate in 2026), Karros (12.1%), Johnston (8.3%) -- to extend at-bats and push Liberatore toward his third-pass window.<br><br>
+<b>WATCH:</b> Jordan Walker vs. Kyle Freeland. Walker's .913 OPS vs left-handed pitchers in 2026 leads the Cardinals lineup in platoon advantage against tonight's starter. Freeland's .926 OPS allowed vs right-handed hitters in 2026 is the structural context. Walker bats 4th.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<b>1. Jordan Walker vs. Kyle Freeland (structural)</b><br>
+Walker is hitting .913 OPS vs left-handed pitchers in 2026 (123 plate appearances, above the analytical floor). Freeland allows a .926 OPS to right-handed hitters in 2026 (357 batters faced). Career line: 2-for-8 (.286) in 8 plate appearances vs. Freeland -- a small sample that reinforces the current-season directional read. Walker bats 4th tonight.<br><br>
+<b>2. Ivan Herrera vs. Kyle Freeland (BvP + structural)</b><br>
+Herrera is 2-for-6 with 1 HR in career plate appearances against Freeland -- the only Cardinal in tonight's projected lineup with a home run in the career data. His 2026 OPS vs left-handed pitchers is .790 (154 PA), second to Walker among Cardinals right-handed bats. The BvP and platoon signals point the same direction. Herrera bats 2nd.<br><br>
+<b>3. Colorado lineup vs. Liberatore's third pass</b><br>
+Liberatore has allowed a 1.089 OPS in his third pass through opposing lineups in 2026 (85 batters faced). His first-pass (.772 OPS, 198 BF) and second-pass (.755 OPS, 193 BF) are both solid. Colorado's lineup has several patient bats -- Julien (14.1% walk rate in 2026, 276 PA), Karros (12.1%, 380 PA), Johnston (8.3%, 360 PA) -- who can extend at-bats. If Liberatore approaches 80 pitches, the third-pass risk window opens.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<b>Winn vs. the left-hander:</b> Masyn Winn's career BvP against Kyle Freeland is 1-for-6 (.167) -- the weakest line among the three Cardinals right-handed bats in the projected lineup. His 2026 OPS vs left-handed pitching is .735 (111 PA). Watch whether Winn can reverse the career pattern tonight batting 6th, where his at-bats may come with runners on base late in Freeland's outing.<br><br>
+<b>The new battery:</b> Jimmy Crooks is the scheduled catcher tonight but has caught only 2 of Liberatore's 2026 starts (compared to Pedro Pages's 15). The battery has limited shared game time. Watch for any early-count rhythm differences as this less-familiar pairing works through its first innings together.<br><br>
+<b>Colorado's running game:</b> Jordan Beck (19 stolen bases, 70.4% success) and Tyler Freeman (18 SB, 66.7%) are Colorado's primary baserunning threats. With Crooks catching -- no 2026 caught-stealing data available in tonight's dataset -- watch how the Cardinals manage these runners if Beck or Freeman reaches base.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P6] Jordan Walker has set a new personal season best in RBI: 81, passing his 51 (2023) | window: season to date (116 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'RBI', 'current': 81, 'previous_best': 51, 'previous_best_year': 2023}
+  [2] [P6] Jordan Walker has set a new personal season best in SB: 14, passing his 10 (2025) | window: season to date (116 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'SB', 'current': 14, 'previous_best': 10, 'previous_best_year': 2025}
+  [3] [P6] Jordan Walker has set a new personal season best in HR: 22, passing his 16 (2023) | window: season to date (116 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'HR', 'current': 22, 'previous_best': 16, 'previous_best_year': 2023}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P6/positive] Jordan Walker has set a new personal season best in runs: 68, passing his 51 (2023)
+    - [P4/negative] Since 2026-07-20, the Cardinals rank 29 of 30 in runs scored per game (3.22) -- worst-5 territory
+    - [P7/positive] Jordan Walker's OPS jump: 0.584 (2025) -> 0.831 (2026), +0.247 -- p99+ of 16,975 season pairs in MLB history
+    - [P6/positive] Andre Pallante has set a new personal season best in wins: 12, passing his 8 (2024)
+    - [P6/positive] Jordan Walker has set a new personal season best in hits: 124, passing his 116 (2023)
+    - [P6/positive] Michael McGreevy has set a new personal season best in strikeouts: 81, passing his 58 (2025)
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.391 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.2)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+Jordan Walker is having a career year by every counting measure. His 81 RBIs in 2026 are a personal best -- surpassing the 51 he drove in during 2023. His 22 home runs are also a career high, passing his previous best of 16 (2023). And his 14 stolen bases exceed his prior single-season mark of 10, set in 2025. All three milestones have arrived in the same season. His on-base-plus-slugging has jumped from .584 in 2025 to .831 in 2026, a gain that places this season among the most dramatic single-year improvements in the modern game. The tension worth naming: since July 20, the Cardinals rank 29th of 30 teams in runs per game (3.22). Walker has been the engine carrying this offense. He bats 4th against Kyle Freeland tonight.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
