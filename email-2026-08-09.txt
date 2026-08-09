@@ -1,0 +1,109 @@
+<!-- 700 Clark Email Block -- STL vs COL 2026-08-09 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (58-59)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">COL (46-71)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.59 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, August 9, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Lorenzen (R) -- 6.94 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- COL 8, STL 6</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      COL&nbsp;&nbsp;1 0 3 0 1 2 0 0 1 -- 8<br>
+      STL&nbsp;&nbsp;2 0 0 0 1 1 0 1 1 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Jake McCarthy homered twice last night -- No. 12 in the first inning and No. 13 in the sixth -- and drove in 3 runs as Colorado won 8-6. Matthew Liberatore allowed 5 earned runs over 5.0 innings. Ivan Herrera went 3-for-5 with 2 runs scored, and Jordan Walker hit home run No. 23 in the eighth, but the Cardinals could not overcome an early deficit.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<strong>WHAT WORKED</strong><br>
+Ivan Herrera 3-for-5, 2 R, 1 RBI. Jose Fermin 2-for-2 with a double, 3 BB, 1 SB, and 2 RBI. Jordan Walker hit home run No. 23 in the eighth inning. The Cardinals scored in five different innings.<br><br>
+<strong>WHAT DIDN'T</strong><br>
+Matthew Liberatore: 5.0 IP, 9 H, 5 ER, 1 HR allowed. Jake McCarthy went 4-for-5 with 2 HR and 3 RBI against Cardinals pitching. Gastelum allowed 2 earned runs over 2.0 innings of relief.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<strong>EDGE:</strong> Six left-handed bats in the projected Cardinals lineup face Michael Lorenzen, who has posted a 1.030 OPS against left-handed hitters in 2026 (286 batters faced). The structural platoon alignment strongly favors St. Louis in today's series finale.<br><br><strong>THREAT:</strong> Hunter Goodman (33 HR, .858 OPS) heads a Colorado lineup that scored 8 runs last night. McGreevy must navigate Mickey Moniak (.292 vs. RHP, 238 PA in 2026) and a Rockies club with fresh momentum heading into the rubber match.<br><br><strong>WATCH:</strong> McGreevy's 15.88 ERA over his last 3 starts against a 3.59 full-season mark. He pitches at home today -- his 2026 home ERA is 3.28 -- and limits first-pass batters to a .651 OPS. Whether the baseline form returns this afternoon is the series-deciding question.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<strong>Alec Burleson vs. Michael Lorenzen:</strong> 4-for-5 with 2 HR in career matchups (5 PA -- extreme small sample). Burleson's 2025 line vs. RHP: .296/.353/.478 (419 PA). With Lorenzen's 1.030 OPS allowed against left-handed hitters in 2026, Burleson is the Cardinals' prime contact point to press early.<br><br><strong>Mickey Moniak vs. Michael McGreevy:</strong> 4-for-6 with 1 HR in career matchups (6 PA). Moniak posts a .292 average against right-handed pitching in 2026 (238 PA). McGreevy's 2026 TTO3 OPS-against is .778 (94 BF) -- if Moniak sees a third pass, the matchup tilts his way.<br><br><strong>Jake McCarthy -- stolen base timing:</strong> McCarthy has not been caught stealing on the season (6 SB, 0 CS). Today's catcher is Jimmy Crooks, who has caught McGreevy in only 2 games (8.2 IP in 2025). An unfamiliar battery facing a perfect stolen-base runner is a live first-inning variable.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<strong>McGreevy's recent form (see Trend Watch below):</strong> Today's start at Busch Stadium -- his 2026 home ERA is 3.28 -- is the first opportunity to interrupt a difficult recent stretch. Worth holding alongside the trend data: his 81 strikeouts this season are a career best, so the underlying profile has not collapsed.<br><br><strong>Lorenzen past the fourth inning:</strong> In 2026, opposing batters post a .890 OPS against Lorenzen in the second time through the order (207 BF) and a 1.132 OPS in the third (102 BF). If he is still in the game past the fourth, the Cardinals platoon edge compounds with every additional pass. Attack him early -- but do not assume he leaves early.<br><br><strong>Crooks-McGreevy battery:</strong> Jimmy Crooks has caught McGreevy in just 2 games (8.2 IP together in 2025). Pedro Pages has been the primary pairing (14 G, 80.2 IP). A less-familiar battery in a meaningful series finale, combined with McCarthy on the bases, is the game's most underrated live variable.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Kyle Leahy has sharpened over his last 8 starts: 1.43 ERA vs 4.69 before | window: last 8 starts (since 2026-06-23) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-06-23', 'before': 4.69, 'after': 1.43, 'before_starts': 14, 'after_starts': 8, 'window_unit': 'starts', 'role': 'SP'}
+  [2] [P1] Matthew Liberatore has unraveled over his last 20 starts: 6.54 ERA vs 3.50 before | window: last 20 starts (since 2026-04-13) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-04-13', 'before': 3.5, 'after': 6.54, 'before_starts': 3, 'after_starts': 20, 'window_unit': 'starts', 'role': 'SP'}
+  [3] [P1] Michael McGreevy has unraveled over his last 3 starts: 15.88 ERA vs 3.20 before | window: last 3 starts (since 2026-07-23) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-07-23', 'before': 3.2, 'after': 15.88, 'before_starts': 19, 'after_starts': 3, 'window_unit': 'starts', 'role': 'SP'}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P8/neutral] Andre Pallante on pace for 17 wins (milestone: 15)
+    - [P1/negative] Pedro Pages has slumped since 2026-05-03: 0.740 OPS before vs 0.434 after (95 PA)
+    - [P4/negative] Since 2026-07-20, the Cardinals rank 28 of 30 in runs scored per game (3.37) -- worst-5 territory
+    - [P6/positive] Andre Pallante has set a new personal season best in wins: 12, passing his 8 (2024)
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.383 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.3)
+    - [P6/positive] Michael McGreevy has set a new personal season best in strikeouts: 81, passing his 58 (2025)
+    - [P1/negative] Nathan Church has slumped since 2026-07-04: 0.726 OPS before vs 0.470 after (100 PA)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<strong>Kyle Leahy, sharpening:</strong> Over his last 8 starts (since June 23), Leahy has posted a 1.43 ERA vs. a 4.69 ERA in his prior 14. That reversal -- across 112.1 innings on the season -- is one of the more dramatic in-year pivots on the Cardinals staff.<br><br><strong>Matthew Liberatore, unraveling:</strong> Over his last 20 starts (since April 13), Liberatore has posted a 6.54 ERA vs. a 3.50 ERA in his first 3 starts. Last night's 5-run outing in 5.0 innings added weight to that line. He is 113.2 innings into a season increasingly defined by that trend.<br><br><strong>Michael McGreevy, proof or pivot:</strong> Over his last 3 starts (since July 23), McGreevy has posted a 15.88 ERA vs. a 3.20 ERA in his prior 19. He starts this afternoon at Busch Stadium -- today's series finale is the first chance to interrupt that run. Worth noting: his 81 strikeouts this season are a career best, so the underlying profile has not collapsed. The recent cluster is the anomaly to watch.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
