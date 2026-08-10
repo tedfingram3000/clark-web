@@ -1,0 +1,121 @@
+<!-- 700 Clark Email Block -- STL vs PHI 2026-08-10 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (59-59)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PHI (63-56)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Dobbins (R) -- 3.60 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, August 10, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Painter (R) -- 6.48 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 7, COL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      COL&nbsp;&nbsp;1 0 0 0 0 2 0 1 0 -- 4<br>
+      STL&nbsp;&nbsp;1 0 2 0 1 0 0 3 0 -- 7
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+Ivan Herrera went 4-for-5 and JJ Wetherholt drove in 2 with a two-run double in the 8th as St. Louis beat Colorado 7-4 yesterday afternoon, taking the series 2-of-3. Alec Burleson hit his 19th home run in the 5th to build the lead to 4-1. Michael McGreevy started and went 5.2 innings, allowing 3 earned runs on 8 hits.
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+&bull; Ivan Herrera: 4-for-5, 1 RBI -- consistent contact all afternoon.<br>
+&bull; JJ Wetherholt: 2-for-3, 2 BB, 2 RBI -- his 12th double of the season drove home 2 in the 8th to seal it.<br>
+&bull; Alec Burleson: solo HR (19) in the 5th extended the lead to 4-1; he also scored twice.<br>
+&bull; Justin Bruihl: 1.1 scoreless innings bridging from McGreevy to the 8th.<br><br>
+<b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+&bull; Michael McGreevy lasted only 5.2 innings, giving up 8 hits and 3 earned runs -- needed the bullpen with the game still in question.<br>
+&bull; George Soriano allowed Hunter Goodman's 34th home run of the year in the 8th, tightening the score to 7-4 before O'Brien closed it.
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<b style="color:#2E7D32;">Edge:</b> Andrew Painter carries a 6.48 ERA and is at his most hittable the first time through the order. With 6 left-handed batters in tonight's projected lineup facing a right-hander who has allowed .847 OPS to left-handed hitters in 2026, the Cardinals have a clear window early. St. Louis needs to score before the game reaches Jhoan Duran (1.74 ERA) and a Phillies relief unit that also features Jonathan Bowlan (2.81 ERA) and Brooks Raley (2.23 ERA).<br><br>
+<b style="color:#8B3A3A;">Threat:</b> Trea Turner, Bryson Stott, and Bryce Harper bring one of the more active running games in the NL to Busch Stadium tonight. Jimmy Crooks catches for St. Louis. Each time Turner reaches, the Cardinals face a live stolen-base decision from a catcher with limited game reps.<br><br>
+<b style="color:#B8860B;">Watch:</b> Hunter Dobbins' second pass through the Philadelphia order. His 2025 data shows a jump from .578 OPS in the first pass to .813 in the second (105 PA) and .855 in the third (35 PA). With just 5 starts of 2026 data, all three TTO buckets are too thin to read. If the Phillies' patient hitters -- Arraez, Turner -- reach the second time through without a Cardinals lead in hand, this becomes a bullpen race Philly is built to win.
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Cardinals offense vs Painter's first pass.</b> Painter's 2026 first-time-through-the-order OPS of .976 (127 BF) is the Cardinals' primary offensive window. Alec Burleson (.326 AVG vs RHP in 2026, 345 PA), Jordan Walker (.281 AVG vs RHP, 361 PA), and Ivan Herrera (.245 AVG vs RHP, 362 PA) are in the lineup with enough 2026 context to read. The window narrows as Painter improves -- his second-pass OPS is .873 and his third-pass OPS is .653 (48 BF, smaller sample).
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">Bryce Harper vs Hunter Dobbins.</b> Harper's 2025 vs-RHP slash is .253/.370/.493 (351 PA) and his 2026 vs-RHP OPS is 1.005 (314 PA). Dobbins' 2025 vs-LHB OPS was .746 (124 PA) -- a left-handed matchup that puts Harper among the more dangerous at-bats in this Phillies order. Harper also has 12 SB at 85.7% this season; once on base, he adds to the running game.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:0;">
+  <b style="color:#0B1C33;">Trea Turner and the Cardinals battery.</b> Turner has 36 SB at an 83.7% success rate (36 SB, 7 CS), Bryson Stott adds 24 SB at 82.8% (24 SB, 5 CS). Tonight's Cardinals catcher is Jimmy Crooks.
+</div>
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- First-inning Cardinals scoring.</b> Painter's first-pass OPS of .976 is real -- 127 batters faced. If St. Louis scores in innings 1 or 2, they build a cushion before the Phillies' bullpen becomes the story.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;">
+  <b style="color:#0B1C33;">-- Turner on base.</b> Each time Turner reaches, watch the count on the next at-bat. His 83.7% stolen-base success rate makes any delayed read from the catcher costly.
+</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:0;">
+  <b style="color:#0B1C33;">-- Dobbins' fourth and fifth innings.</b> His 2025 second-pass-through-the-order OPS was .813 -- well above his first-pass figure of .578. The patient Phillies lineup, led by Luis Arraez (3.1% K% in 2025), improves its position the deeper it gets into the order.
+</div>
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P30] The Cardinals bullpen is pacing at 599.0 relief innings -- the franchise record is 584.3 (2021) | window: season to date (118 team games) | stats: {'kind': 'workload_record_pace', 'stat': 'relief innings', 'unit': 'innings', 'current': 436.3, 'games': 118, 'pace_162': 599.0, 'franchise_record': 584.3, 'franchise_record_year': 2021, 'direction': 'most', 'league_comparator': 'modern_era_2015_2025_distribution', 'league_z': 0.4, 'mlb_record': 824.3, 'mlb_record_year': 2018, 'mlb_record_team': 'TBA'}
+  [2] [P8] Andre Pallante on pace for 16 wins (milestone: 15) | window: through 118 team games | stats: {'stat': 'wins', 'current': 12, 'pace_162': 16, 'milestone': 15}
+  [3] [P8] Riley O'Brien on pace for 40 saves (milestone: 40) | window: through 118 team games | stats: {'stat': 'saves', 'current': 29, 'pace_162': 40, 'milestone': 40}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P8/neutral] Andre Pallante on pace for 16 wins (milestone: 15)
+    - [P8/neutral] Riley O'Brien on pace for 40 saves (milestone: 40)
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.383 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.3)
+    - [P31/negative] The Cardinals rotation is pacing at 847.0 starter innings -- the franchise fewest is 832.7 (2021)
+    - [P9/negative] Riley O'Brien's results are holding but the indicators aren't versus the rest of his season: K% 0.252 -> 0.217, BB% 0.059 -> 0.157, Strike% 0.631 -> 0.579 over his last 20 outings
+    - [P1/negative] Pedro Pages has slumped since 2026-05-03: 0.740 OPS before vs 0.434 after (95 PA)
+    - [P20/negative] Over the window the Cardinals rank 5 of 30 in runners left on base per game (7.9)
+-->
+<p style="margin:0 0 10px 0;"><b>The Cardinals' bullpen is pacing toward a franchise record in relief innings.</b> Through 118 team games, St. Louis has logged 436.3 relief innings -- on pace for 599.0 over a full 162-game season. The franchise record is 584.3, set in 2021, and it is now within reach with the season still in August. The flip side: the rotation is pacing at 847.0 starter innings, approaching the franchise fewest (832.7, also 2021). Both numbers tell the same story -- the bullpen has absorbed a historically high share of the workload this season.</p>
+<p style="margin:0 0 10px 0;"><b>Andre Pallante is on pace for 16 wins, closing in on a career milestone.</b> Pallante has 12 wins through 118 team games, pacing to reach 16 over a full season. The number to watch is 15 -- a threshold he has never reached in a single season. His 2026 ERA is 3.63 (124.0 IP), the performance behind the pace.</p>
+<p style="margin:0;"><b>Riley O'Brien is on pace for 40 saves.</b> O'Brien has 29 saves and is pacing to reach 40 -- a round-number milestone. His 2026 line: 3.21 ERA over 47.2 innings. One note: his recent-stretch indicators have shifted versus the rest of his season -- K% has come down from 25.2% to 21.7% and BB% has risen from 5.9% to 15.7% over his last 20 outings. The results are holding; the process is worth watching as save opportunities accumulate.</p>
+  </div>
+</td></tr>
+
+</table></div>
