@@ -1,0 +1,147 @@
+<!-- 700 Clark Email Block -- STL vs PHI 2026-08-11 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (59-60)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PHI (64-56)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.63 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, August 11, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sánchez (L) -- 2.65 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- PHI 6, STL 5</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PHI&nbsp;&nbsp;0 2 0 0 1 0 1 2 0 -- 6<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 2 0 3 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals trailed 6-2 entering the bottom of the eighth and scored three times -- Alec Burleson's run-scoring double, Masyn Winn's run-scoring double, and Jose Fermin's RBI single cut the deficit -- but fell one run short in a 6-5 loss to open the series. Burleson finished 2-for-4 with a two-run single in the sixth and three RBI total; Ivan Herrera scored twice; Hunter Dobbins limited Philadelphia to one earned run across five innings before the bullpen allowed four runs.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b>WHAT WORKED</b><br>
+&bull; Alec Burleson drove in three runs -- a two-run single in the sixth inning (Wetherholt and Herrera scored) and a run-scoring double in the eighth that started the comeback rally.<br>
+&bull; Hunter Dobbins held Philadelphia to one earned run on four hits across five innings, striking out six.<br>
+&bull; The eighth-inning rally: Burleson double, Masyn Winn double, and Jose Fermin RBI single scored three runs and brought St. Louis within one.<br>
+&bull; Luis Gastelum: 1.1 innings, zero runs allowed, three strikeouts in relief.<br>
+<br>
+<b>WHAT DIDN'T</b><br>
+&bull; The Cardinals did not score until the sixth inning -- scoreless against Andrew Painter across the first five frames, while Dobbins allowed four hits and three runs (one earned) over the same stretch.<br>
+&bull; Caleb Ferguson recorded zero outs in his relief appearance: one hit and three walks, putting runners on base that later scored in the seventh and eighth.<br>
+&bull; Jordan Walker: 1-for-4, three strikeouts.<br>
+&bull; Jimmy Crooks: 0-for-4, two strikeouts.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">EDGE:</b> Tonight's venue is Sanchez's tougher setting: his 2026 away ERA is 4.48, compared to 1.41 at Citizens Bank Park. The Cardinals' three right-handed batters -- Ivan Herrera, Jordan Walker, and Masyn Winn -- face his more hittable platoon side.<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> Six of nine projected Cardinals starters bat left-handed, and Sanchez's 2026 numbers against left-handed batters -- .131 average and .315 on-base plus slugging in 148 batters faced -- represent one of the more extreme platoon advantages in the National League this year. Two-thirds of the lineup faces his dominant side.<br><br>
+<b style="color:#B8860B;">WATCH:</b> Pallante's 2026 home ERA is materially higher than his road ERA. His second-time-through-the-order numbers in 2025 (.309 average, .868 on-base plus slugging, 8 home runs in 270 plate appearances) are the clearest in-game danger zone tonight; a Philadelphia lineup without a published batting order adds uncertainty about when that zone arrives.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #2E7D32;padding:0 0 0 10px;margin:0 0 10px 0;">
+<b>RHBs vs. Sanchez's Platoon Split</b><br>
+Ivan Herrera, Jordan Walker, and Masyn Winn are the Cardinals' best hope against Cristopher Sanchez. Herrera has a home run in 3 career plate appearances against him (.500 average, 2.000 slugging); Walker is 1-for-8 (.125, five strikeouts); Winn is 0-for-4 with a walk. Sanchez's 2026 splits against right-handed batters (.292 average, .774 on-base plus slugging in 478 batters faced) are his more hittable side.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding:0 0 0 10px;margin:0 0 10px 0;">
+<b>Pallante's Second Time Through the Order</b><br>
+In 2025, opposing hitters batted .309 with an .868 on-base plus slugging and 8 home runs in 270 plate appearances against Pallante in his second pass through the lineup -- his weakest zone by a significant margin. His 2026 second-pass numbers (.231 average, .645 on-base plus slugging in 198 batters faced) have improved but remain the key period to watch. Philadelphia's lineup depth -- Schwarber, Harper, Arraez -- will cycle into that stretch.
+</div>
+<div style="border-left:3px solid #B8860B;padding:0 0 0 10px;margin:0 0 10px 0;">
+<b>Philadelphia's Running Game vs. Crooks</b><br>
+The Phillies project multiple active base stealers: Trea Turner (36 stolen bases, 83.7% success rate), Bryson Stott (24 stolen bases, 82.8%), Bryce Harper (12 stolen bases, 85.7%), and Kyle Schwarber (10 stolen bases, 83.3%). Jimmy Crooks is the projected catcher tonight; he has 1 caught stealing in 13 throwing attempts this season, with his caught-stealing rate withheld -- the total is below the 20-attempt publication minimum.
+</div>
+<div style="border-left:3px solid #0B1C33;padding:0 0 0 10px;margin:0 0 10px 0;">
+<b>Schwarber's BvP Context</b><br>
+Kyle Schwarber is 4-for-9 (.444 average, .889 slugging, 1 home run) against Andre Pallante in 9 career plate appearances -- one plate appearance below the formal danger-bat threshold. The pattern is the most acute small-sample concern in the BvP table, particularly given his 2025 profile against right-handed pitching: .364 on-base percentage, .541 slugging in 448 plate appearances.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding:0 0 0 10px;margin:0 0 10px 0;">
+<b>Pallante's Walk Rate at Home</b><br>
+Pallante's 2026 home ERA (4.34) is higher than his road ERA (2.55), and his season-long walk rate of 7.2 percent across 124.0 innings signals a potential baserunner creation risk at Busch. Philadelphia's lineup includes patient batters: Bryce Harper (15.7% walk rate, 510 plate appearances in 2026), Kyle Schwarber (15.4%, 508 PA), and Bryson Stott (9.7%, 445 PA). First-inning baserunner traffic is the early signal to monitor.
+</div>
+<div style="border-left:3px solid #8B3A3A;padding:0 0 0 10px;margin:0 0 10px 0;">
+<b>Cardinals Bullpen Availability After Last Night</b><br>
+Caleb Ferguson (0 outs recorded, 3 walks) and Gordon Graceffo (1.2 innings, 2 earned runs) both appeared in last night's game; their availability tonight may be reduced. Riley O'Brien leads the current-season relief group at 47.2 innings, 3.21 earned run average, and a 1.15 WHIP -- the steadiest option available if Pallante exits early.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P30] The Cardinals bullpen is pacing at 599.3 relief innings -- the franchise record is 584.3 (2021) | window: season to date (119 team games) | stats: {'kind': 'workload_record_pace', 'stat': 'relief innings', 'unit': 'innings', 'current': 440.3, 'games': 119, 'pace_162': 599.3, 'franchise_record': 584.3, 'franchise_record_year': 2021, 'direction': 'most', 'league_comparator': 'modern_era_2015_2025_distribution', 'league_z': 0.4, 'mlb_record': 824.3, 'mlb_record_year': 2018, 'mlb_record_team': 'TBA'}
+  [2] [P6] Alec Burleson has set a new personal season best in RBI: 81, passing his 78 (2024) | window: season to date (119 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'RBI', 'current': 81, 'previous_best': 78, 'previous_best_year': 2024}
+  [3] [P2] Iván Herrera: multi-hit streak at 3 games | window: last 3 games (2026-08-08..2026-08-10) | stats: {'streak_type': 'multi-hit streak', 'length': 3, 'threshold': 3}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P6/positive] Iván Herrera has set a new personal season best in hits: 112, passing his 110 (2025)
+    - [P8/neutral] Alec Burleson on pace for 26 HR (milestone: 20)
+    - [P31/negative] The Cardinals rotation is pacing at 846.7 starter innings -- the franchise fewest is 832.7 (2021)
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.383 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.3)
+    - [P2/positive] Iván Herrera: multi-hit streak at 3 games
+    - [P19/negative] George Soriano has blown 3 saves in his last 5 appearances
+    - [P8/neutral] Alec Burleson on pace for 110 RBI (milestone: 100)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<div style="border-left:3px solid #2E7D32;padding:0 0 0 10px;margin:0 0 10px 0;">
+<b style="color:#2E7D32;">[MILESTONE]</b> <b>Alec Burleson RBI Career Best</b><br>
+Burleson's three-RBI night in last night's loss pushed his season total to 81 RBI -- a new career high, passing his previous season best of 78 (2024). He bats third tonight against a left-handed pitcher who has been historically dominant against left-handed hitters.
+</div>
+<div style="border-left:3px solid #2E7D32;padding:0 0 0 10px;margin:0 0 10px 0;">
+<b style="color:#2E7D32;">[STREAK]</b> <b>Ivan Herrera Multi-Hit Streak</b><br>
+Ivan Herrera has recorded multiple hits in each of the last three games (August 8 through August 10). He scored twice in last night's game and enters tonight as one of three right-handed batters in a lineup that is otherwise stacked left-handed -- the hand Sanchez historically dominates. His 112 hits on the season are a new personal best, passing his 110 from 2025, and his BvP history against Sanchez includes a home run in 3 career plate appearances.
+</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
