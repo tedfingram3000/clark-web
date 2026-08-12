@@ -1,0 +1,117 @@
+<!-- 700 Clark Email Block -- STL vs PHI 2026-08-12 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (60-60)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PHI (64-57)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.45 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, August 12, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wheeler (R) -- 2.69 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 2, PHI 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PHI&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 0 1 1 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Andre Pallante held Philadelphia scoreless through six innings on four hits and three walks. The Cardinals broke through in the seventh: Jordan Walker drew a walk and stole second base, then scored on a Masyn Winn line-drive single to right field. Everson Pereira added a solo home run in the eighth -- his fifth of the season -- off Tim Mayza. Philadelphia starter Cristopher Sanchez had dominated St. Louis through six frames, limiting the Cardinals to four hits with seven strikeouts.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b>WHAT WORKED</b><br>
+&bull; Pallante's six scoreless innings: 4 hits, 3 walks, 2 strikeouts -- the Cardinals' bulk pitching plan executed cleanly against a Philadelphia lineup that went hitless on the night.<br>
+&bull; Jordan Walker drew a walk and stole second base before scoring the go-ahead run in the seventh on Winn's line drive to right field.<br>
+&bull; Everson Pereira's solo home run in the eighth off Tim Mayza provided the insurance run and closed the scoring at 2-0.<br>
+<br>
+<b>WHAT DIDN'T</b><br>
+&bull; Caleb Ferguson couldn't record an out in the eighth inning, walking three consecutive batters to load the bases. Ryne Stanek entered and escaped the threat without allowing a run.<br>
+&bull; JJ Wetherholt (0-for-4) and Ivan Herrera (0-for-4, 2 strikeouts) were shut down by Sanchez through six innings -- the heart of the projected lineup went hitless against him.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+The Cardinals won last night to even the series, and today's rubber match at 1:15 PM arrives with a clear central story: Kyle Leahy's left-handed platoon gap. In 2026, Leahy has allowed a .876 on-base plus slugging against left-handed batters (250 batters faced). Philadelphia projects 7 left-handers in today's lineup pool -- Schwarber, Harper, Arraez, Marsh, Stott, Crawford, and Stubbs. Leahy's right-handed split (.606 on-base plus slugging, 228 batters faced) is substantially stronger, which means Bohm, Cruz, Hill, Realmuto, Turner, and Sosa represent the more manageable half of Philadelphia's order. Zack Wheeler goes the other way: his 2026 on-base plus slugging allowed is nearly flat across all three times through the lineup (.593/.580/.670), while Leahy's escalates from .567 in his first pass to 1.041 in his third. The Cardinals win today if Leahy keeps the left-handed core at bay early, and if Ivan Herrera, Jordan Walker, and Masyn Winn can manufacture offense against Wheeler's consistent suppression profile.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<b>Leahy vs. PHI left-handed core:</b> The five most dangerous left-handed bats in today's PHI pool against right-handed pitching -- Kyle Schwarber (2026 OPS vs. RHP: .874, 323 PA), Bryce Harper (2026: .995 OPS, 320 PA), Luis Arraez (2026: .791 OPS, 355 PA), Brandon Marsh (2026: .791 OPS, 343 PA), and Bryson Stott (2026: .734 OPS, 352 PA) -- are all matchups where Leahy's 2026 vs-LHB line (.320 average, .876 on-base plus slugging) represents a real vulnerability. His right-handed side (.606 on-base plus slugging) gives him favorable looks against Bohm, Cruz, Hill, Realmuto, Turner, and Sosa.<br>
+<br>
+<b>Wheeler vs. Cardinals left-handed bats:</b> Six of the nine projected Cardinals bat left. Wheeler held left-handers to a .640 on-base plus slugging in 2026 (261 batters faced). Alec Burleson has the deepest career history (9 plate appearances vs. Wheeler, .333 on-base percentage). Wetherholt, Crooks, Gorman, Nootbaar, and Church face Wheeler's stronger platoon side.<br>
+<br>
+<b>Right-handed counter:</b> Ivan Herrera and Jordan Walker are each 1-for-3 in career plate appearances against Wheeler. Walker's 2026 OPS vs. right-handed pitching is .801 (366 plate appearances); his runners-in-scoring-position OPS is 1.005 (149 PA). Last night Walker walked, stole second, and scored the go-ahead run -- that combination is the Cardinals' best path to offense this afternoon.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<b>Leahy's times-through-order cliff:</b> In 2026, Leahy's on-base plus slugging allowed goes from .567 in his first pass through the lineup (200 batters faced) to .795 in his second pass (188 batters faced) to 1.041 in his third (90 batters faced). Watch the point where Philadelphia's lineup turns over a second time -- that's where the risk curve inflects sharply. Closer Riley O'Brien (3.14 ERA, 2026) is the primary backstop if Leahy is pulled early.<br>
+<br>
+<b>Walker and Winn vs. Wheeler's right-handed side:</b> Both right-handed batters, both facing Wheeler's RHB split (2026: .555 on-base plus slugging, 170 batters faced -- his less dominant side). Walker is the key: his 2026 runners-in-scoring-position on-base plus slugging is 1.005 (149 plate appearances), and he scored last night after a walk and stolen base. Watch the Winn-Walker combination again this afternoon -- the same ingredients are in place.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P6] George Soriano has set a new personal season best in strikeouts: 53, passing his 52 (2023) | window: season to date (120 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'strikeouts', 'current': 53, 'previous_best': 52, 'previous_best_year': 2023}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P18/neutral] Cardinals pacing near the franchise best fielding percentage mark (0.989, 2019)
+    - [P19/negative] George Soriano has blown 3 saves in his last 5 appearances
+    - [P8/neutral] JJ Wetherholt on pace for 22 HR (milestone: 20)
+    - [P1/negative] Pedro Pages has slumped since 2026-05-03: 0.740 OPS before vs 0.441 after (98 PA)
+    - [P8/neutral] JJ Wetherholt on pace for 101 runs (milestone: 100)
+    - [P1/positive] Hunter Dobbins has sharpened over his last 3 starts: 1.55 ERA vs 5.95 before
+    - [P8/neutral] Alec Burleson on pace for 26 HR (milestone: 20)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+George Soriano has 53 strikeouts in 2026 -- a personal best that passes his previous season high of 52 (set in 2023), reached over a 120-team-game sample. He added 2 strikeouts in last night's clean inning of relief. Worth noting alongside the milestone: Soriano has also blown 3 saves in his last 5 appearances. The personal strikeout record is real and earned; so is the recent finish-line instability. Both facts live in the same 2026 line.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
