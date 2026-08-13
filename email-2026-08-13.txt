@@ -60,6 +60,30 @@ Cardinals off day. No scout report today. Next game: August 14 vs. Chicago Cubs 
   </div>
 </td></tr>
 
+<!-- SINCE THE OFF DAY (SPIKE-38 hand-insert, 2026-08-13) -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SINCE THE OFF DAY</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<p class="pp"><b>Four of six, and the homestand did its job.</b> St. Louis went 4-2 over the six games since the last off day &mdash; three against Colorado, three against Philadelphia, all of them at Busch.</p>
+<p class="pp"><b>The bats were the reason.</b> Thirty runs in six games, 5.00 a game, against a season rate of 4.37. This was the offense playing above its own year, not a couple of blowouts carrying a flat week.</p>
+<p class="pp"><b>The rotation kept games close without going deep.</b> Cardinals starters threw 31 2/3 innings over the six, allowing 12 earned for a 3.41 ERA &mdash; and produced exactly one quality start. Effective while they were out there; out there for about five and a half innings a night.</p>
+<p class="pp"><b>The bullpen absorbed the difference.</b> Relievers covered 22 1/3 innings across the stretch and gave up seven earned runs, a 2.82 ERA. That is a lot of asking, and it got answered.</p>
+<p class="pp"><b>The defense was close to spotless.</b> Two errors in six games, a .991 fielding percentage, and 15 double plays turned &mdash; two and a half a game.</p>
+<p class="pp"><b>And the math moved.</b> The Cardinals sit 61-60, 2.5 games behind the third wild card &mdash; a full game closer than the 3.5 they carried into the last off day. The last wild-card spot is sitting at 64-58.</p>
+  </div>
+</td></tr>
+
+<!-- THE NEXT STRETCH (SPIKE-38 hand-insert, 2026-08-13) -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE NEXT STRETCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<p class="pp"><b>Eleven games, three cities, ten days, and no day off until August 24.</b> The Cardinals leave Busch tonight and do not sleep at home again until this is over.</p>
+<p class="pp"><b>Chicago first, Friday through Sunday at Wrigley.</b> The season series is dead even at 5-5. The Cubs are 7.5 games clear of the wild-card cut and chasing Milwaukee, so they are not playing for the same thing St. Louis is &mdash; which historically has not made Wrigley any friendlier.</p>
+<p class="pp"><b>Then five games in four days at Cincinnati, Monday through Thursday</b> &mdash; a split doubleheader Monday makes it five. St. Louis leads the season series 5-3. The Reds are 5.5 back of the cut and running out of runway; this is the stretch where a team either separates from the pack behind it or lets that pack back in.</p>
+<p class="pp"><b>Philadelphia closes it, Friday through Sunday.</b> &#9873; The Phillies arrive on the same 64-58 record as the third wild card, and the Cardinals just took two of three from them this week at Busch. Three games in Philadelphia against a club sitting exactly on the line St. Louis is chasing &mdash; that is the series this trip will be remembered for.</p>
+  </div>
+</td></tr>
+
 <!-- TREND WATCH -->
 <tr><td style="padding:16px 20px 0;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
