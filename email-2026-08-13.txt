@@ -1,0 +1,86 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-08-13 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (61-60)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NEXT: CHC</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 7, PHI 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PHI&nbsp;&nbsp;0 0 0 1 0 0 0 0 0 -- 1<br>
+      STL&nbsp;&nbsp;0 1 0 0 4 0 2 0 0 -- 7
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Kyle Leahy went 5.0 innings with 1 earned run and 6 strikeouts, and a 4-run fifth inning put the Cardinals ahead for good in a 7-1 win over Philadelphia yesterday afternoon. Alec Burleson drove in 3 runs (2-for-3 with a double and an RBI single), while Ivan Herrera and Jordan Walker each added RBI hits in the fifth. St. Louis won the series 2-of-3.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Kyle Leahy: 5.0 IP, 1 ER, 6 K, 0 BB -- a clean start that gave the Cardinals every opportunity to pull away.<br>
+- Alec Burleson: 2-for-3, 3 RBI -- his 5th-inning double scored JJ Wetherholt and Ivan Herrera, and he added an RBI single in the seventh.<br>
+- 4-run fifth: Ivan Herrera (RBI single), Burleson (2-RBI double), and Jordan Walker (RBI double) drove in all four runs in the inning that decided the game.<br>
+- JJ Wetherholt: 2 runs scored, 2 walks, 1 stolen base -- on base and active throughout the afternoon.<br><br>
+<b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Masyn Winn: 0-for-4 with 2 strikeouts -- no production from the middle of the lineup.<br>
+- Bottom of the order: Jose Fermin (0-for-3, 1 K), Jimmy Crooks (0-for-3, 1 K), and Blaze Jordan (0-for-2, 1 K) were all hitless.<br>
+- Leahy allowed 6 hits in 5.0 IP, and a Luis Arraez ground-rule double in the fourth briefly tied the game 1-1 before the Cardinals answered with four in the fifth.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+Cardinals off day. No scout report today. Next game: August 14 vs. Chicago Cubs at Wrigley Field (1:20 PM CT, Game 1 of 3).
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P7] Jordan Walker's OPS jump: 0.584 (2025) -> 0.832 (2026), +0.248 -- p99+ of 16,975 season pairs in MLB history | window: 2025 full season vs 2026 through 121 team games | stats: {'stat': 'OPS', 'direction': 'jump', 'ops_2025': 0.5836, 'ops_2026_asof': 0.8317, 'delta': 0.2481, 'percentile_band': 'p99+', 'n_historical_pairs': 16975, 'qual_ab': 300, 'all_time_top3': [{'delta': 0.3944, 'name': 'Javy Lopez', 'years': '2002->2003'}, {'delta': 0.3541, 'name': "Tip O'Neill", 'years': '1886->1887'}, {'delta': 0.3413, 'name': 'Bryce Harper', 'years': '2014->2015'}]}
+  [2] [P1] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.779 after (433 PA) | window: since 2026-04-14 (433 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': '2026-04-14', 'before': 1.136, 'after': 0.779, 'before_pa': 66, 'after_pa': 433}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P28/positive] The Cardinals have won 3 of their last 3 series (0 losses) -- 20 of 42 on the season
+    - [P1/negative] Pedro Pagés has slumped since 2026-05-03: 0.740 OPS before vs 0.441 after (98 PA)
+    - [P1/positive] Hunter Dobbins has sharpened over his last 3 starts: 1.55 ERA vs 5.95 before
+    - [P1/negative] Nathan Church has slumped since 2026-07-04: 0.726 OPS before vs 0.506 after (112 PA)
+    - [P1/negative] Iván Herrera has slumped since 2026-06-23: 0.856 OPS before vs 0.588 after (188 PA)
+    - [P8/neutral] Jordan Walker on pace for 112 RBI (milestone: 100)
+    - [P18/neutral] Cardinals pacing near the franchise best fielding percentage mark (0.989, 2019)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<p class="pp"><b>Jordan Walker's 2026 season belongs in historical company.</b> His OPS has jumped from 0.584 in 2025 to 0.832 in 2026 through 121 team games -- a gain of 0.248 points that ranks in the p99+ band among 16,975 season-to-season pairs in MLB history. The three above it: Javy Lopez's jump in 2002-2003, Tip O'Neill in 1886-1887, and Bryce Harper in 2014-2015. Walker's comparison holds up -- the sample clears the 300-AB qualifying threshold the detector requires.</p>
+<p class="pp"><b>Inside the season, the shape matters.</b> Walker opened 2026 at a 1.136 OPS across his first 66 plate appearances, then settled to 0.779 OPS across the 433 that followed, since April 14. The 0.832 season mark sits where it does largely because of that April start. That is the split worth carrying into Friday's series opener in Chicago: a historic full-season jump at one distance, and a sustained 0.779 post-April baseline at close range.</p>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
