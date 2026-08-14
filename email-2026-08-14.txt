@@ -1,0 +1,61 @@
+<!-- 700 Clark Email Block -- STL vs CHC 2026-08-14 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (61-60)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Wrigley Field -- 1:20 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (71-51)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.15 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, August 14, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Holmes (R) -- 2.86 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->Matthew Liberatore (5.15 ERA) takes the mound at Wrigley Field this afternoon carrying the harder assignment in this matchup. His sharpest vulnerability is the second time through the order -- a .871 OPS allowed in 2025, .785 in 2026 across 202 batters faced. Clay Holmes (2.86 ERA) is the more settled story on the other side: he has held left-handed batters to a .681 OPS across 376 plate appearances in 2025, and six of St. Louis's nine projected starters bat left. The Cardinals enter on a two-game winning streak and have won three consecutive series; the Cubs are 10 games above .500 and one of the NL Central's steadiest clubs this season.<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose --><b>Liberatore vs. Chicago:</b> Nico Hoerner is 3-for-8 with a walk against him (.375 AVG, .444 OBP, .500 SLG across 9 PA -- zero strikeouts). Ian Happ has walked 4 times in 10 plate appearances (.500 OBP) with a home run; his on-base ability is the threat regardless of batting average. Michael Busch has hit .400 with a home run in 5 PA (1.200 SLG). Pete Crow-Armstrong is .286 with a .571 slugging in 8 PA. Dansby Swanson and Seiya Suzuki have both struggled against him (.200 and .111 AVG, respectively) in their career samples.<br><br>
+<b>Holmes vs. St. Louis:</b> The Cardinals' career samples against Holmes are thin. Alec Burleson is 2-for-6 (.333 AVG), Masyn Winn 2-for-3 (.667 AVG), and Jordan Walker 0-for-4 (.000 AVG). The structural fact that matters: six of St. Louis's nine projected starters are left-handed, and Holmes held left-handers to a .681 OPS in 376 plate appearances in 2025.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose --><b>The second pass through the order:</b> Watch the fourth inning. Liberatore's second-time-through mark was .871 OPS allowed in 2025 (252 PA). In 2026, across 202 batters faced, that number is .785. If the Cubs can maintain discipline into their second look, the order flip is where this game gets made. Hoerner -- who has never struck out against Liberatore in 9 career PA -- is the one to watch.<br><br>
+<b>Crooks behind the plate:</b> Today is only the third start with Liberatore for Jimmy Crooks (2G, 11.0 IP, 2.45 ERA together). Crooks has 13 caught-stealing attempts this season, below the minimum needed to publish a rate. The Cubs have three active base stealers above 80% success -- Crow-Armstrong (35 SB), Hoerner (29 SB), and Swanson (20 SB) -- who will test that gap.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: trend_watch_prose --><b>Cardinals series run [P28]:</b> St. Louis has won each of its last three series -- New York (AL), Colorado, and Philadelphia -- going 3-0-0 from August 3 through August 12. Their season-long series rate is 20-20-2 (.476); the current run sits 0.524 above that pace.<br><br>
+<b>Soriano's save issues [P19]:</b> George Soriano has blown 3 saves in his last 5 appearances as a setup man (appearances from August 2 through August 11). St. Louis's late-inning reliability has been under pressure in this stretch heading into Chicago.<br><br>
+<b>Pages context [P1]:</b> Pedro Pages is not in today's lineup. He posted a .740 OPS over 76 plate appearances through May 3 and a .441 OPS over 98 plate appearances since. Jimmy Crooks starts behind the plate today.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
