@@ -1,0 +1,120 @@
+<!-- 700 Clark Email Block -- STL vs CHC 2026-08-15 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (61-61)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Wrigley Field -- 1:20 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (72-51)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.64 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, August 15, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Boyd (L) -- 3.50 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- CHC 3, STL 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0<br>
+      CHC&nbsp;&nbsp;0 0 0 0 0 3 0 0 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Holmes held the Cardinals to one hit over 6.2 innings; Soriano entered with two inherited runners and surrendered Seiya Suzuki's three-run home run -- No. 21 -- in the bottom of the sixth to account for all three Chicago runs. St. Louis went scoreless on three hits in the series opener and now trails Chicago 1-0 in the three-game set.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b>WHAT WORKED</b><br>
+&bull; <b>Liberatore</b> struck out six in 5.1 innings and held Chicago to two hits through the fifth, keeping the Cardinals within striking distance into the late innings.<br>
+&bull; <b>Strzelecki</b> worked two scoreless innings, preventing additional damage after the decisive sixth.<br>
+<br>
+<b>WHAT DIDN'T</b><br>
+&bull; The Cardinals managed three hits total against Holmes and the Cubs' bullpen, going scoreless through nine innings with no margin for pitching error.<br>
+&bull; <b>Soriano</b> could not strand Liberatore's two inherited runners; Suzuki's three-run home run -- his 21st -- ended the scoring and handed Chicago the series lead.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b>EDGE</b> -- Boyd's 2026 second-time-through split (.806 OPS, 125 BF) is the Cardinals' most concrete scoring window. The three Cardinals right-handers -- Herrera, Walker, and Winn -- draw a Boyd who allows a .720 OPS to right-handed batters this season (244 BF), a materially softer matchup than the version the six left-handers will face (.595 OPS, 85 BF).<br><br>
+<b>THREAT</b> -- Six of nine projected Cardinals starters bat left-handed, and Boyd's 2026 platoon split against this hand is pronounced. The lineup construction means Boyd faces his strongest platoon advantage through the first pass; the Cardinals' path to scoring runs almost entirely through right-handed bats or the middle-inning window.<br><br>
+<b>WATCH</b> -- The fourth through sixth innings. Boyd's TTO2 window (.806 OPS, 125 BF) is the Cardinals' clearest opportunity; if St. Louis cannot capitalize during the second pass through the order, they are racing against a pitcher who has posted a .595 OPS against the hand that will represent two-thirds of their lineup all day.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<b>Cardinals vs. Boyd (L, 3.50)</b><br>
+Boyd's first-pass split is his sharpest in 2026 (.610 OPS, 126 BF), so the six left-handed Cardinals will face their steepest climb early. The right-handed trio is the leverage group: Jordan Walker is hitting .292/.385/.531 (.916 OPS) against left-handed pitching in 2026 (130 PA); Iván Herrera is at .254/.390/.410 (.800 OPS) against lefties this season (164 PA). Alec Burleson presents the starkest contrast -- he is hitting .200/.234/.297 (.531 OPS) against left-handers in 2026 (154 PA), making him Boyd's most favorable lineup matchup among the Cardinals' lineup spots that will see the most plate appearances.<br><br>
+<b>Cubs vs. McGreevy (R, 3.64)</b><br>
+McGreevy's primary 2025 vulnerability was left-handed batters (.911 OPS, 190 PA); in 2026 that number has improved to .742 OPS (328 BF), though the gap vs. right-handers (.580 OPS vs RHB in 2025, 210 PA; .697 OPS in 2026, 185 BF) has narrowed. The Cubs project three left-handed bats (Busch, Conforto, Crow-Armstrong) in the lineup pool. Pete Crow-Armstrong (.912 OPS, 546 PA) is the primary Cubs threat; in career BvP, Michael Busch is 3-for-8 against McGreevy with 2 home runs (1.250 SLG, 8 PA), and Ian Happ is 4-for-8 (9 PA, .500 AVG, .556 OBP). McGreevy's 2026 TTO3 split (.812 OPS, 102 BF) is his most vulnerable pass -- a reversal from the improvement-through-order pattern he showed in 2025 -- and the Cubs' patient lineup is built to exploit late-inning exposure.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<b>The TTO3 door closes fast.</b> If the Cardinals cannot score during Boyd's second-time-through window, they run into a pitcher who has posted a .631 OPS in the third pass (78 BF) -- a sharp recovery from the .806 TTO2 exposure. The middle-inning window is narrow.<br><br>
+<b>McGreevy-Crooks battery pairing.</b> McGreevy has a 9.35 ERA in 2 starts with Crooks behind the plate and a 4.24 ERA in 14 starts with Pages. The small-sample gap is extreme; watch for early command signs from McGreevy in this pairing.<br><br>
+<b>Cubs running game vs. Crooks.</b> Chicago's baserunners are active: Crow-Armstrong (35 SB, 81.4% success rate), Hoerner (29 SB, 82.9%), Swanson (20 SB, 87.0%). Crooks has 1 caught stealing in 13 attempts this season; his throwing rate is withheld (13 attempts, below the 20-attempt minimum for publication).<br><br>
+<b>Prospect note (carryover).</b> Joshua Baez is the Cardinals' No. 3 prospect. He was not in the projected lineup for yesterday's game; whether he factors into today's lineup remains unconfirmed as of this report.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P32] Since 2026-07-04, the Cardinals' 6-9 lineup spots have posted a 0.532 OPS -- worst-5 in MLB (rank 30 of 30) | window: since 2026-07-04 (6-9 lineup slots, 37 games) | stats: {'slot_range': '6-9', 'metric': 'OPS', 'value': 0.532, 'avg': 0.192, 'obp': 0.263, 'slg': 0.269, 'pa': 561, 'rank': 30, 'teams': 30, 'window_anchor': '2026-07-04', 'anchor_source': 'P1 change-point (team R/G)', 'window_games': 37, 'milestone_reason': ['games_remaining_milestone'], 'standings_context': {'wc_gb': '3.5', 'div_gb': '13.5', 'div_rank': '3'}}
+  [2] [P8] JJ Wetherholt on pace for 21 HR (milestone: 20) | window: through 122 team games | stats: {'stat': 'HR', 'current': 16, 'pace_162': 21, 'milestone': 20}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P8/neutral] JJ Wetherholt on pace for 102 runs (milestone: 100)
+    - [P7/positive] Jordan Walker's OPS jump: 0.584 (2025) -> 0.828 (2026), +0.244 -- p99+ of 16,975 season pairs in MLB history
+    - [P18/neutral] Cardinals pacing near the franchise best fielding percentage mark (0.989, 2019)
+    - [P8/neutral] Alec Burleson on pace for 25 HR (milestone: 20)
+    - [P1/negative] Nathan Church has slumped since 2026-07-04: 0.726 OPS before vs 0.489 after (116 PA)
+    - [P9/negative] Riley O'Brien's results are holding but the indicators aren't versus the rest of his season: K% 0.252 -> 0.220, BB% 0.057 -> 0.159, Strike% 0.632 -> 0.579 over his last 20 outings
+    - [P1/positive] Hunter Dobbins has sharpened over his last 3 starts: 1.55 ERA vs 5.95 before
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>The bottom of the order is broken.</b> Since 2026-07-04 -- the point where the Cardinals' run-scoring environment shifted -- the 6-9 lineup slots have posted a .532 OPS (.192 AVG / .263 OBP / .269 SLG) across 561 plate appearances over 37 games. That ranks last among all 30 MLB teams in the window. Today, those four lineup spots (Winn, Crooks, Gorman, Church) will be occupied by batters who face Boyd at his most dominant hand -- four left-handers who have not hit in this stretch -- which means the Cardinals are essentially counting on a five-man offense to carry today's game. The standings offer no slack: St. Louis is 3.5 games out of a wild-card spot.<br><br>
+<b>Wetherholt's power pace.</b> JJ Wetherholt has 16 home runs through 122 team games, a pace that projects to 21 home runs over a full season (milestone: 20). He is also on pace for 102 runs scored -- a 100-run season has historically served as the threshold for a leadoff hitter considered among the league's top offensive contributors. Both milestones are within reach; whether the Cardinals' struggling bottom third generates enough traffic to keep Wetherholt's run total climbing is the tension worth watching over the final 40 games.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
