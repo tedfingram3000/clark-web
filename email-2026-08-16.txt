@@ -1,0 +1,122 @@
+<!-- 700 Clark Email Block -- STL vs CHC 2026-08-16 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (62-61)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Wrigley Field -- 2:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC (72-52)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Dobbins (R) -- 3.40 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, August 16, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Cabrera (R) -- 5.10 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 8, CHC 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;3 0 0 1 0 3 0 1 0 -- 8<br>
+      CHC&nbsp;&nbsp;0 3 0 0 0 0 0 1 0 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Joshua Baez hit three home runs and drove in five in his Cardinals debut yesterday afternoon, and Michael McGreevy worked 6.0 innings without surrendering an earned run as STL evened this series at one game apiece, 8-4. Alec Burleson added his 20th home run and scored three times; Blaze Jordan connected for his second.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b>WHAT WORKED</b><br>
+&bull; Joshua Baez: 3-for-4, 3 HR, 5 RBI in his debut -- homers in the first, fourth, and sixth innings<br>
+&bull; Michael McGreevy: 6.0 IP, 5 H, 3 R (0 ER), 2 BB, 6 K -- held Chicago scoreless after the second inning<br>
+&bull; Alec Burleson: 1-for-3 (HR No. 20), 2 RBI, scored three times<br>
+&bull; Blaze Jordan: 1-for-4 (HR No. 2)<br>
+<br>
+<b>WHAT DIDN'T</b><br>
+&bull; Jordan Walker and JJ Wetherholt combined 0-for-8 at the top of the order<br>
+&bull; Michael Conforto hit a 3-run HR in the second inning, accounting for three of Chicago's four runs<br>
+&bull; Ryne Stanek allowed a solo run in the eighth
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b>EDGE</b> Pedro Pagés has posted a 31.5% CS rate on 54 attempts in 2026 -- a reliable arm behind the plate. Cabrera's 2026 home ERA has climbed to 5.71 in 41.0 IP, a significant departure from his 2025 home mark (2.50 in 79.1 IP). Cardinals have an opportunity when Cabrera's second-pass numbers (TTO2: .837 OPS, 124 BF in 2026) arrive in the fourth inning and beyond.<br><br>
+<b>THREAT</b> Pete Crow-Armstrong (35 SB, 81.4% success) and Nico Hoerner (29 SB, 82.9% success) are the Cubs' most productive baserunning weapons. Dobbins and Pages have never worked together (0 career IP shared), and fresh batteries carry inherent timing uncertainty that disciplined baserunners exploit from the first inning.<br><br>
+<b>WATCH</b> Dobbins' second pass through the Cubs' order. His 2025 TTO2 was .813 OPS (105 PA, vs .578 OPS in TTO1) -- all 2026 TTO cells are SSS (54/54/25 BF, below the 60-BF floor), so the 2025 pattern is the operative signal. If the Cubs fail to score early, the fourth inning and Dobbins' second look at the top of the order is the pivot point.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<b>Crow-Armstrong and Hoerner on the basepaths.</b> The Cubs' two primary stolen-base threats -- Crow-Armstrong (35 SB, 81.4% success) and Hoerner (29 SB, 82.9%) -- arrive against a Cardinals battery working together for the first time. Pages' 31.5% CS rate (54 attempts, 2026) is a solid arm, but a first-time pairing carries communication gaps that experienced baserunners probe directly.<br><br>
+<b>Burleson vs Cabrera.</b> Alec Burleson is 2-for-7 (.286 AVG, .714 SLG, 1 HR) in 8 career PA against Cabrera -- the largest Cardinals sample in the BvP table and the only home run. His 2026 line vs right-handed pitching stands at .977 OPS (359 PA). All BvP samples are under the 10-PA threshold; treat as directional.<br><br>
+<b>Walker vs Cabrera -- caution flag.</b> Jordan Walker is 0-for-5 with 3 strikeouts in 5 career PA against Cabrera -- the lowest line in the Cardinals BvP table. His 2026 vs RHP has rebounded to .798 OPS (373 PA), but the Cabrera-specific history warrants monitoring in a series finale.<br><br>
+<b>Dobbins vs the Cubs' RHB core.</b> Dobbins' 2026 split against right-handed batters is .854 OPS (82 BF, above the 60-BF floor). The Cubs send Suzuki, Bregman, Hoerner, and Amaya -- four right-handers -- into his most vulnerable platoon pocket. Per the operator notes (carryover): after Joshua Baez's three-homer debut yesterday afternoon, today is his second major league game, batting fifth.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<b>Baez's second game.</b> Per yesterday afternoon's operator notes (carryover), Joshua Baez delivered three home runs and five RBI in his Cardinals debut. He returns today batting fifth with a 2026 season line of SSS (4 career PA, all from yesterday's game). No pre-existing statistical framework applies to how a pitcher adjusts after a debut of this kind -- observe fresh.<br><br>
+<b>Dobbins and Pages as a first-time battery.</b> Hunter Dobbins' career battery history on record (Narvaez, Wong) does not include any current Cardinals catcher. Today is his first pairing with Pedro Pages (0 career IP together). The Cubs' baserunning tandem (Crow-Armstrong, Hoerner) will test this partnership from the first inning.<br><br>
+<b>Cabrera's TTO2 inflection.</b> Cabrera's 2026 TTO2 shows .837 OPS in 124 BF -- a sharp increase from TTO1 at .691 OPS (127 BF). When Cardinals batters reach their second look at Cabrera (fourth inning and beyond), that is the most analytically supported opportunity window in today's game.<br><br>
+<b>O'Brien in late leverage.</b> Riley O'Brien's surface ERA holds (3.08, 49.2 IP in 2026), but his underlying strikeout rate has declined (25.2% to 21.2%) and his walk rate has risen (5.7% to 15.3%) over his last 21 outings. If used in a high-leverage situation today, the indicators don't yet match the results.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Iván Herrera has slumped since 2026-06-23: 0.856 OPS before vs 0.587 after (197 PA) | window: since 2026-06-23 (197 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': '2026-06-23', 'before': 0.856, 'after': 0.587, 'before_pa': 347, 'after_pa': 197}
+  [2] [P8] Alec Burleson on pace for 113 RBI (milestone: 100) | window: through 123 team games | stats: {'stat': 'RBI', 'current': 86, 'pace_162': 113, 'milestone': 100}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P1/negative] Michael McGreevy has unraveled over his last 4 starts: 11.68 ERA vs 3.32 before
+    - [P1/negative] Nathan Church has slumped since 2026-07-04: 0.726 OPS before vs 0.489 after (116 PA)
+    - [P7/positive] Jordan Walker's OPS jump: 0.584 (2025) -> 0.821 (2026), +0.237 -- p95-p99 of 16,975 season pairs in MLB history
+    - [P18/neutral] Cardinals pacing near the franchise best fielding percentage mark (0.989, 2019)
+    - [P7/positive] Hunter Dobbins has sharpened over his last 3 starts: 1.55 ERA vs 5.95 before
+    - [P1/positive] Andre Pallante has sharpened over his last 4 starts: 1.13 ERA vs 4.30 before
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Ivan Herrera slump (since 2026-06-23).</b> Herrera has posted a .587 OPS in the 197 PA since June 23 -- down from .856 OPS in the 347 PA before that anchor date. The gap is .269 OPS points sustained over a meaningful sample and continues to weigh on his 2026 season line. He bats second today. Worth noting: Dobbins has sharpened over his last 3 starts (1.55 ERA vs 5.95 before) even as Herrera's slump continues -- the gap between the offense's best production and Herrera's current form is the key tension heading into this series finale.<br><br>
+<b>Alec Burleson RBI pace.</b> Burleson sits at 86 RBI through 123 team games, on a 162-game pace for 113. The milestone marker is 100 RBI -- 14 from that threshold. He added two RBI in yesterday's win (HR No. 20) and carries a .915 RISP OPS in 2026. His path to 100 requires roughly one RBI per game over the next two weeks.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
