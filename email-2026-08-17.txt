@@ -1,0 +1,92 @@
+<!-- 700 Clark Email Block -- STL vs CIN 2026-08-17 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (63-61)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 5 -- Great American Ball Park -- 5:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN (59-64)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD (L) -- -- ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, August 17, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Lowder (R) -- 5.15 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 11, CHC 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;2 1 0 6 0 0 0 2 0 -- 11<br>
+      CHC&nbsp;&nbsp;0 0 2 0 0 0 0 1 1 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->Burleson (3-for-5, HR, 4 RBI) and Walker (3-for-4, HR, 4 RBI) each went off in a 6-run fourth inning yesterday afternoon, handing the Cubs an 11-4 loss. Dobbins worked 5.0 innings (7 K, 2 ER); Gastelum added 2.0 scoreless frames with 3 K. St. Louis took 2 of 3 from Chicago and rides a two-game win streak into tonight's nightcap in Cincinnati.<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary --><b>WHAT WORKED:</b> Burleson and Walker were the whole offense -- 6 combined hits, 2 HR, 8 RBI. A 6-run fourth inning put the game away early. Dobbins struck out 7 over 5.0 innings and gave the bullpen a clean platform. Gastelum posted two scoreless frames to close it out.<br><br>
+<b>WHAT DIDN'T:</b> The bottom third of the order went cold. Baez (0-for-5, 3 K) struck out three times from the 5-hole. Church (0-for-4, 1 BB) and Winn (0-for-4, 1 BB) each drew one walk but combined for 0 hits across their four plate appearances.<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content --><b>EDGE:</b> Jordan Walker is in the middle of one of the most dramatic single-season turnarounds in MLB history. His OPS climbed from 0.584 in 2025 to 0.838 this year -- a +0.255 gap that ranks p99+ against 16,975 tracked season pairs. He has 24 HR, 88 RBI, and a .326 RISP average in 154 PA. He went 3-for-4 with a home run yesterday afternoon. Nightcap of today's split doubleheader.<br><br>
+<b>THREAT:</b> Rhett Lowder is a different pitcher at home. His 2026 ERA at Great American Ball Park is 3.06 (198 BF), against 7.23 on the road (225 BF). He controls right-handed bats effectively (.652 OPS, 153 BF) but gives left-handers considerably more room. Four of the Cardinals' nine projected starters bat left-handed -- Wetherholt, Burleson, Church, and Crooks -- all walking into Lowder's most exposed zone.<br><br>
+<b>WATCH:</b> St. Louis sends a TBD starter to the mound, and the relief arms behind him span the club's whole recent range -- Leahy at the encouraging end, McGreevy at the concerning one. Behind the plate, Jimmy Crooks draws a Cincinnati lineup that runs at will. The Watchlist below carries both records.<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose --><b>Burleson and the left-handed block vs. Lowder's handedness split.</b> Lowder has allowed a .266/.361/.476 line (.837 OPS) against left-handed batters in 270 BF this season. Burleson (.296/.353/.478 career vs. RHP in 419 PA) bats third. Wetherholt leads off. Church bats sixth. Crooks hits eighth. All four face Lowder's most exposed zone.<br><br>
+<b>Reds' running game vs. Crooks and the TBD starter.</b> McLain (18 SB, 90.0% in 2026) and Myers (18 SB, 78.3%) lead a Cincinnati lineup built on stolen-base volume. Crooks catches tonight with 13 attempts and 1 CS on the year -- below the 20-attempt floor for a publishable rate. The Cardinals' other regular catcher, Pages, holds a 31.5% CS rate in 54 attempts; that number is contextual only.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose --><b>Jimmy Crooks (C) and the Reds' running game.</b> Crooks enters with 13 attempts and 1 CS in 2026 -- below the 20-attempt floor for a publishable caught-stealing rate. McLain (18 SB, 2 CS, 90.0%) and Myers (18 SB, 5 CS, 78.3%) will look for opportunities. Crooks's 2026 season line at the plate: .184/.260/.333 (127 PA).<br><br>
+<b>Nathan Church (CF, 6th) -- extended slump.</b> Church's OPS since July 4 is 0.477 across 121 PA, down from 0.726 before that cutoff. He went 0-for-4 yesterday. He bats sixth tonight against a pitcher who has been markedly more vulnerable to left-handers this season -- potentially the most exploitable matchup on the card if Church can get on track.<br><br>
+<b>TBD Cardinals starter.</b> No starter announced for the nightcap. Available bullpen arms include O'Brien (3.08 ERA, 49.2 IP), Graceffo (3.26 ERA, 60.2 IP), and Leahy (3.38 ERA, 117.1 IP -- 1.47 ERA over his last 9 starts). McGreevy (3.48 season ERA, 132.0 IP) carries an 11.68 ERA over his last 4 starts. Availability depends in part on Game 1 usage.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: trend_watch_prose --><b>Jordan Walker -- OPS: 0.584 (2025) to 0.838 (2026), +0.255 delta</b><br>
+Walker's season-to-season OPS jump ranks p99+ against 16,975 tracked season pairs. The three larger single-season jumps in that dataset: Javy Lopez (2002-03, +0.394), Tip O'Neill (1886-87, +0.354), and Bryce Harper (2014-15, +0.341). Walker is hitting .284/.344/.495 across 512 PA with 24 HR, 88 RBI, and a .326 RISP average in 154 PA. He hit a home run yesterday afternoon and bats fourth tonight.<br><br>
+<b>Kyle Leahy -- ERA, Last 9 Starts: 1.47 (vs. 4.69 before, since 2026-06-23)</b><br>
+After 14 starts at a 4.69 ERA, Leahy has posted a 1.47 ERA over his last 9 starts. He is not pitching tonight, but his resurgence is the most encouraging shift in the Cardinals' rotation picture this summer -- relevant context with a TBD starter taking the mound for the nightcap.<br><br>
+<b>Michael McGreevy -- ERA, Last 4 Starts: 11.68 (vs. 3.32 before, since 2026-07-28)</b><br>
+McGreevy's season ERA (3.48, 132.0 IP) masks a sharp recent-form drop: 11.68 over his last 4 starts after posting 3.32 across the 20 before. He does not appear to be in tonight's pitching plans, but the divergence from his season line is one of the variables in the Cardinals' late-season rotation picture.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
