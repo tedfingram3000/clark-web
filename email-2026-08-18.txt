@@ -1,0 +1,98 @@
+<!-- 700 Clark Email Block -- STL vs CIN 2026-08-18 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (64-62)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 5 -- Great American Ball Park -- 5:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN (60-65)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.38 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, August 18, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Abbott (L) -- 4.13 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 2, CIN 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;2 0 0 0 0 0 0 0 0 -- 2<br>
+      CIN&nbsp;&nbsp;0 0 0 1 0 0 0 0 0 -- 1
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Alec Burleson lined a two-run double to right in the first inning, scoring Joshua Baez and Ivan Herrera to give St. Louis a 2-0 lead. Quinn Mathews struck out seven in four innings before yielding a solo home run to Dane Myers in the fourth. Five Cardinals relievers -- Gastelum, Graceffo, Soriano, Stanek, and O'Brien -- combined for five scoreless innings and eight strikeouts to close out the 2-1 win yesterday afternoon.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b>WHAT WORKED</b><br>
+&bull; Burleson's first-inning double produced 2 RBI on a line drive to right -- the Cardinals needed nothing more to win<br>
+&bull; Mathews generated 7 strikeouts in 4.0 innings, preventing the Reds from sustaining threats against the starter<br>
+&bull; Five Cardinals relievers -- Gastelum, Graceffo, Soriano, Stanek, and O'Brien -- covered 5.0 combined scoreless innings with 8 strikeouts and no walks<br>
+<br>
+<b>WHAT DIDN'T</b><br>
+&bull; Mathews issued 3 walks in 4.0 innings, creating unnecessary baserunner volume for a starter who lasted only four frames<br>
+&bull; Outside of Walker (2-for-4) and Burleson (2-for-4), only Winn, Jordan, and Pereira added single hits -- four starters were held hitless<br>
+&bull; The Cardinals scored in exactly one of nine innings; the offense did not add to the lead after the opening frame
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b>EDGE:</b> Andrew Abbott allows a .781 OPS the first time through the order in 2026 (225 batters faced) -- his highest mark of any pass. That drops to .662 the second time through (225 BF) and .697 the third (128 BF). The Cardinals' best window to score is concentrated in the early innings before Abbott settles in.<br><br>
+<b>THREAT:</b> Kyle Leahy's times-through-order numbers escalate sharply in 2026: .571 OPS the first pass (209 BF), .801 the second (197 BF), and 1.016 the third (92 BF). If the Reds see him a third time, the Cardinals will need the bullpen to protect a lead.<br><br>
+<b>WATCH:</b> Alec Burleson is the only left-handed bat in tonight's lineup. Abbott allows a .675 OPS against left-handers in 2026 (157 BF) versus .732 against right-handers (421 BF) -- making Burleson the Cardinals' primary platoon edge and the most likely disruptor in any high-leverage spot.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<b>Ivan Herrera vs. Andrew Abbott:</b> Herrera has posted a .500/.556/.500 line over 9 career plate appearances against Abbott -- the strongest individual edge in tonight's Cardinals lineup. The sample falls just below the 10-plate-appearance reliability threshold, but the consistency earns a close watch in his first at-bat.<br><br>
+<b>Alec Burleson (LHB) vs. Abbott:</b> Abbott allows a .675 OPS against left-handed batters in 2026 (157 BF) compared to .732 against right-handers (421 BF). Burleson is the lone left-handed bat in the lineup and the one Cardinal with a genuine platoon edge.<br><br>
+<b>Kyle Leahy vs. Reds right-handed bats:</b> The Reds send seven right-handed starters and two switch-hitters tonight. Leahy holds right-handed batters to a .605 OPS in 2026 (235 BF) while posting a .870 OPS against left-handers (263 BF). The lineup construction favors Leahy heavily during his first pass through the order.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<b>Abbott's first-pass vulnerability:</b> His times-through-order OPS allowed is .781 for the first pass in 2026 (225 BF) -- his most hittable phase. Track the Cardinals' first nine outs to see if they capitalize before Abbott settles into his rhythm for the second pass.<br><br>
+<b>Leahy's pitch count through 12 outs:</b> If Leahy reaches the mid-70s in pitches by the end of the fourth inning, the Reds will likely see him a third time -- where his 2026 OPS against is 1.016 (92 BF). Monitor when the Cardinals go to the bullpen relative to the order position.<br><br>
+<b>Pedro Pages' throwing arm:</b> Pages holds a 31.5% caught-stealing rate in 2026 (54 attempts), a real deterrent for any Reds baserunner. Matt McLain (18 steals in 20 attempts) and Dane Myers (18 steals in 23 attempts) are the most aggressive threats -- this matchup becomes pivotal if either reaches first in a running count.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
