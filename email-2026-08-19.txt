@@ -49,9 +49,11 @@
   <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
     <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-<!-- PHASE2_SLOT: bottom_line_content -->Matthew Liberatore takes the mound tonight against Chase Burns, who enters 14-2 with a 1.98 ERA at Great American Ball Park this season -- one of the most formidable individual pitching assignments the Cardinals have faced all year.<br><br>
-The Cardinals carry a combined three career plate appearances against Burns, which means this lineup is working without prior-encounter data from the first pitch.<br><br>
-Burns has held right-handed batters to a .189 average and .500 OPS in 2026, and seven of the nine Cardinals starters bat right-handed.<!-- /PHASE2_SLOT -->
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#8B3A3A;">Threat:</b> Matthew Liberatore takes the mound tonight against Chase Burns, who enters 14-2 with a 1.98 ERA at Great American Ball Park this season -- one of the most formidable individual pitching assignments the Cardinals have faced all year. Burns has held right-handed batters to a .189 average and .500 OPS in 2026, and seven of the nine Cardinals starters bat right-handed.<br><br>
+<b style="color:#2E7D32;">Edge:</b> The two left-handed bats, JJ Wetherholt and Alec Burleson, draw the more favorable historical split against Burns.<br><br>
+<b style="color:#B8860B;">Watch:</b> The Cardinals carry a combined three career plate appearances against Burns, which means this lineup is working without prior-encounter data from the first pitch.
+<!-- /PHASE2_SLOT -->
     </div>
   </div>
 </td></tr>
