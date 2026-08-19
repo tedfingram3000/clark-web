@@ -62,7 +62,12 @@
 <tr><td style="padding:16px 20px 0;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-<!-- PHASE2_SLOT: key_matchups_prose -->Burns' 2026 numbers against right-handed batters -- .189 average, .500 OPS across 189 batters faced -- put seven of tonight's nine Cardinals starters in the toughest matchup on paper. The two left-handed bats, JJ Wetherholt and Alec Burleson, project into the more favorable historical split against Burns (.845 OPS vs. left-handers in 2025), though Burns held left-handers to a .676 OPS in 2026 as well. Against Liberatore, JJ Bleday's .324 average and .500 slugging against left-handed pitching in 2025 (73 plate appearances) is the clearest individual advantage for Cincinnati tonight. Pedro Pages' 31.5% caught-stealing rate on 54 attempts is the Cardinals' best counter to Cincinnati's base stealers -- Matt McLain (18 steals, 90.0% success) and Dane Myers (18 steals, 78.3%) lead the Reds' running game.<!-- /PHASE2_SLOT -->
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<b>Burns vs. the right-handed core:</b> Burns' 2026 numbers against right-handed batters -- .189 average, .500 OPS across 189 batters faced -- put seven of tonight's nine Cardinals starters in the toughest matchup on paper.<br><br>
+<b>JJ Wetherholt and Alec Burleson (LHB) vs. Burns:</b> The two left-handed bats, JJ Wetherholt and Alec Burleson, project into the more favorable historical split against Burns (.845 OPS vs. left-handers in 2025), though Burns held left-handers to a .676 OPS in 2026 as well.<br><br>
+<b>JJ Bleday vs. Matthew Liberatore:</b> Against Liberatore, JJ Bleday's .324 average and .500 slugging against left-handed pitching in 2025 (73 plate appearances) is the clearest individual advantage for Cincinnati tonight.<br><br>
+<b>Pedro Pages vs. the Reds' running game:</b> Pedro Pages' 31.5% caught-stealing rate on 54 attempts is the Cardinals' best counter to Cincinnati's base stealers -- Matt McLain (18 steals, 90.0% success) and Dane Myers (18 steals, 78.3%) lead the Reds' running game.
+<!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
 
@@ -70,7 +75,12 @@
 <tr><td style="padding:16px 20px;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-<!-- PHASE2_SLOT: watchlist_prose -->Riley O'Brien is eight saves from the 40-save milestone with 35 games remaining -- his 41-save pace keeps that mark within reach through the final stretch. Andre Pallante needs three more wins to reach 15 on the season. Nathan Church's .481 OPS since July 4 (124 plate appearances) remains a live concern, a sharp drop from his .726 OPS before that date that has persisted across more than a month of action. Hunter Dobbins has posted a 2.06 ERA over his last four starts, reversing a difficult stretch and putting him back in consideration as rotation depth.<!-- /PHASE2_SLOT -->
+<!-- PHASE2_SLOT: watchlist_prose -->
+<b>Riley O'Brien's save count:</b> Riley O'Brien is eight saves from the 40-save milestone with 35 games remaining -- his 41-save pace keeps that mark within reach through the final stretch.<br><br>
+<b>Andre Pallante's win total:</b> Andre Pallante needs three more wins to reach 15 on the season.<br><br>
+<b>Nathan Church's slide:</b> Nathan Church's .481 OPS since July 4 (124 plate appearances) remains a live concern, a sharp drop from his .726 OPS before that date that has persisted across more than a month of action.<br><br>
+<b>Hunter Dobbins' rebound:</b> Hunter Dobbins has posted a 2.06 ERA over his last four starts, reversing a difficult stretch and putting him back in consideration as rotation depth.
+<!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
 
@@ -78,7 +88,12 @@
 <tr><td style="padding:16px 20px 0;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-<!-- PHASE2_SLOT: trend_watch_prose -->The Cardinals' bullpen has now worked 469.0 innings this season -- a pace of 598.3 full-year, which would break the franchise record of 584.3 set by the 2021 club. On defense, two related markers are tracking simultaneously: through 127 games, the Cardinals have committed 54 errors (a pace of 68.9, against the franchise low of 66 from 2019) and are posting a .988 fielding percentage (one tick below the franchise high of .989, also 2019). The bullpen's historic volume connects to the rotation's recent workload -- the starting rotation has posted a 0.2 quality-start rate over the last 15 games, down sharply from 0.384 before that stretch, which has put sustained pressure on the relief corps.<!-- /PHASE2_SLOT -->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>The bullpen is on a franchise-record innings pace.</b><br>
+The Cardinals' bullpen has now worked 469.0 innings this season -- a pace of 598.3 full-year, which would break the franchise record of 584.3 set by the 2021 club. The bullpen's historic volume connects to the rotation's recent workload -- the starting rotation has posted a 0.2 quality-start rate over the last 15 games, down sharply from 0.384 before that stretch, which has put sustained pressure on the relief corps.<br><br>
+<b>The defense is tracking two franchise marks at once.</b><br>
+On defense, two related markers are tracking simultaneously: through 127 games, the Cardinals have committed 54 errors (a pace of 68.9, against the franchise low of 66 from 2019) and are posting a .988 fielding percentage (one tick below the franchise high of .989, also 2019).
+<!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
 
