@@ -1,0 +1,83 @@
+<!-- 700 Clark Email Block -- STL vs CIN 2026-08-19 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (65-62)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 4 of 5 -- Great American Ball Park -- 5:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN (60-66)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.07 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, August 19, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Burns (R) -- 2.47 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 3, CIN 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 1 0 1 1 0 -- 3<br>
+      CIN&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->Kyle Leahy delivered five shutout innings with six strikeouts Tuesday, giving the Cardinals a 3-0 win at Great American Ball Park that put St. Louis up 2-1 in the series. Masyn Winn went 3-for-4 with a solo homer in the fifth and scored again in the seventh on Jose Fermin's RBI double. Joshua Báez added a sacrifice fly in the eighth to complete the scoring.<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->Leahy's command was the story — he handled a Cincinnati lineup that collected just two hits all night and never needed a high-leverage rescue from the bullpen. Winn's three-hit performance was the offensive centerpiece, with Fermin and Baez each delivering the situational production that has kept this lineup functional against quality pitching. Four relievers covered the final four innings, adding to a bullpen that has now worked 469.0 innings this season — on pace to pass the franchise record of 584.3 set by the 2021 club.<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->Matthew Liberatore takes the mound tonight against Chase Burns, who enters 14-2 with a 1.98 ERA at Great American Ball Park this season -- one of the most formidable individual pitching assignments the Cardinals have faced all year.<br><br>
+The Cardinals carry a combined three career plate appearances against Burns, which means this lineup is working without prior-encounter data from the first pitch.<br><br>
+Burns has held right-handed batters to a .189 average and .500 OPS in 2026, and seven of the nine Cardinals starters bat right-handed.<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->Burns' 2026 numbers against right-handed batters -- .189 average, .500 OPS across 189 batters faced -- put seven of tonight's nine Cardinals starters in the toughest matchup on paper. The two left-handed bats, JJ Wetherholt and Alec Burleson, project into the more favorable historical split against Burns (.845 OPS vs. left-handers in 2025), though Burns held left-handers to a .676 OPS in 2026 as well. Against Liberatore, JJ Bleday's .324 average and .500 slugging against left-handed pitching in 2025 (73 plate appearances) is the clearest individual advantage for Cincinnati tonight. Pedro Pages' 31.5% caught-stealing rate on 54 attempts is the Cardinals' best counter to Cincinnati's base stealers -- Matt McLain (18 steals, 90.0% success) and Dane Myers (18 steals, 78.3%) lead the Reds' running game.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->Riley O'Brien is eight saves from the 40-save milestone with 35 games remaining -- his 41-save pace keeps that mark within reach through the final stretch. Andre Pallante needs three more wins to reach 15 on the season. Nathan Church's .481 OPS since July 4 (124 plate appearances) remains a live concern, a sharp drop from his .726 OPS before that date that has persisted across more than a month of action. Hunter Dobbins has posted a 2.06 ERA over his last four starts, reversing a difficult stretch and putting him back in consideration as rotation depth.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: trend_watch_prose -->The Cardinals' bullpen has now worked 469.0 innings this season -- a pace of 598.3 full-year, which would break the franchise record of 584.3 set by the 2021 club. On defense, two related markers are tracking simultaneously: through 127 games, the Cardinals have committed 54 errors (a pace of 68.9, against the franchise low of 66 from 2019) and are posting a .988 fielding percentage (one tick below the franchise high of .989, also 2019). The bullpen's historic volume connects to the rotation's recent workload -- the starting rotation has posted a 0.2 quality-start rate over the last 15 games, down sharply from 0.384 before that stretch, which has put sustained pressure on the relief corps.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
