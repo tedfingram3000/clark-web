@@ -1,0 +1,124 @@
+<!-- 700 Clark Email Block -- STL vs CIN 2026-08-20 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (65-63)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 5 of 5 -- Great American Ball Park -- 11:40 AM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN (61-66)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.48 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, August 20, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Singer (R) -- 4.66 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- CIN 5, STL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 2 0 0 0 0 2 -- 4<br>
+      CIN&nbsp;&nbsp;0 0 0 0 0 3 0 2 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Matthew Liberatore struck out nine over six innings but surrendered Sal Stewart's three-run home run (No. 27) in the sixth, flipping a 2-0 Cardinals lead into a 3-2 deficit. Justin Bruihl allowed three hits and two earned runs in the eighth -- a Blaze Jordan error on a Matt McLain bunt scored Jose Trevino, and Dane Myers added an RBI single. Jordan Walker's two-run home run (No. 25) in the ninth brought the Cardinals within one, but Cincinnati held on, 5-4.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<span style="color:#2E7D32;font-weight:700;">WHAT WORKED</span><br>
+&bull; Liberatore was dominant through five: 6.0 IP, 4 H, 9 K -- the longest quality start of this road trip.<br>
+&bull; Luis Gastelum bridged cleanly: 1.0 IP, 0 ER, 2 K in the seventh.<br>
+&bull; Jordan Walker hit his 25th home run in the ninth -- a two-run shot that made it a one-run game.<br>
+&bull; Nathan Church drove in a run and Bryan Torres drove in a run in the fourth to stake St. Louis to a 2-0 lead.<br>
+<br>
+<span style="color:#8B3A3A;font-weight:700;">WHAT DIDN'T</span><br>
+&bull; Liberatore surrendered Sal Stewart's three-run home run (No. 27) in the sixth, erasing the Cardinals' two-run advantage entirely.<br>
+&bull; Justin Bruihl allowed three hits and two earned runs in the eighth; a Blaze Jordan error on a Matt McLain bunt scored Jose Trevino before Dane Myers added an RBI single.<br>
+&bull; Matt McLain went 3-for-3 and drove Cincinnati's late-inning rally from the bottom of the order.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#8B3A3A;">Threat:</b> Brady Singer pitches at home today, where he has logged a 3.62 ERA this season compared to 5.75 on the road.<br><br>
+<b style="color:#2E7D32;">Edge:</b> Singer's second pass through the batting order is this morning's central tension: in 2026, hitters have posted a .978 OPS against him the second time through the order -- 215 batters faced, a reliable sample -- against .684 in the first pass and .735 in the third. The Cardinals send five left-handed starters, and Singer's 2026 OPS against left-handed batters is .872 (360 batters faced). The window is real and well-documented. Michael McGreevy goes in the opposite direction -- road games have been no problem, with a 3.55 away ERA in 2026 -- and the Reds send six right-handed starters against a pitcher holding right-handers to a .685 OPS (196 batters faced) this year.<br><br>
+<b style="color:#B8860B;">Watch:</b> This series is tied 2-2. First pitch is 11:40 this morning. The Cardinals' second trip through Singer's order is the game within the game.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<b>Burleson and Winn vs. Singer:</b> Alec Burleson is batting .429 with a 1.143 SLG in 8 career plate appearances against Singer, including a home run. Masyn Winn has a .400 average in 6 career PA with a home run as well. Jordan Walker is 0-for-7 with four strikeouts -- the contrast within the same lineup is sharp.<br><br>
+<b>Singer's platoon exposure:</b> Five Cardinals starters bat left-handed. Singer's 2026 OPS against left-handed batters is .872 (360 batters faced). Against right-handers he's held opponents to .699 (197 batters faced). The Cardinals' lineup construction is a built-in advantage today.<br><br>
+<b>McGreevy vs. the right-handed Reds:</b> Six Cincinnati starters hit right-handed. McGreevy's 2026 OPS against right-handers is .685 (196 batters faced), well under his .745 against left-handers (342 batters faced). The Reds' right-dominant alignment plays directly into his strength.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<b>Singer's second pass:</b> His 2026 TTO2 OPS is .978 (215 batters faced), between a .684 first-pass and .735 third-pass mark. The Cardinals' at-bats in roughly the fourth and fifth innings are the tactical window.<br><br>
+<b>Crooks behind the plate:</b> Jimmy Crooks is catching today -- his third appearance alongside McGreevy by the 2025 pairing data (2G, 9.35 ERA together). Matt McLain stole 18 bases in 2025 at a 90.0% success rate; Crooks' caught-stealing rate is not published this season (14 attempts, under the 20-attempt minimum).<br><br>
+<b>Walker vs. Singer:</b> Jordan Walker is 0-for-7 with four strikeouts in his career against Singer. If Singer establishes his fastball early, Walker is the most at-risk bat in the lineup.<br><br>
+<b>McGreevy's contact approach:</b> He posted a 49.2% ground-ball rate in 2025 (307 batted balls in play). Against a Cincinnati lineup where every regular in the batted-ball table hits line drives above .550, keeping the ball on the ground is the path to efficiency. In 24 starts this season he has thrown 132.0 innings at a 3.48 ERA.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P6] Matthew Liberatore has set a new personal season best in strikeouts: 125, passing his 122 (2025) | window: season to date (128 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'strikeouts', 'current': 125, 'previous_best': 122, 'previous_best_year': 2025}
+  [2] [P6] Alec Burleson has set a new personal season best in runs: 72, passing his 71 (2024) | window: season to date (128 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'runs', 'current': 72, 'previous_best': 71, 'previous_best_year': 2024}
+  [3] [P1] Hunter Dobbins has sharpened over his last 4 starts: 2.06 ERA vs 5.95 before | window: last 4 starts (since 2026-07-22) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-07-22', 'before': 5.95, 'after': 2.06, 'before_starts': 3, 'after_starts': 4, 'window_unit': 'starts', 'role': 'SP', 'delta': 3.89}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P8/neutral] Andre Pallante on pace for 15 wins (milestone: 15)
+    - [P8/neutral] Riley O'Brien on pace for 40 saves (milestone: 40)
+    - [P1/negative] Nathan Church has slumped since 2026-07-04: 0.726 OPS before vs 0.486 after (127 PA)
+    - [P8/neutral] Jordan Walker on pace for 114 RBI (milestone: 100)
+    - [P8/neutral] Jordan Walker on pace for 32 HR (milestone: 30)
+    - [P1/positive] Andre Pallante has sharpened over his last 5 starts: 2.11 ERA vs 4.30 before
+    - [P7/positive] Jordan Walker's OPS jump: 0.584 (2025) -> 0.849 (2026), +0.266 -- p99+ of 16,975 season pairs in MLB history
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Matthew Liberatore</b> has set a new career season best in strikeouts at 125, clearing his previous mark of 122 set in 2025. That milestone landed 128 team games into the season -- and after last night's nine-strikeout performance, it may not hold for long.<br><br>
+<b>Alec Burleson</b> has scored 72 runs, a new personal season best, clearing the 71 he scored in 2024. Same 128-game window.<br><br>
+<b>Hunter Dobbins</b> has posted a 2.06 ERA across his last 4 starts (since July 22), against a 5.95 mark in his earlier outings this season -- a 3.89-point gap over that stretch.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
