@@ -1,0 +1,135 @@
+<!-- 700 Clark Email Block -- STL vs PHI 2026-08-21 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (66-63)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Citizens Bank Park -- 5:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PHI (70-58)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD (L) -- -- ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, August 21, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Luzardo (L) -- 3.23 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 10, CIN 9</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;1 0 3 0 0 0 0 0 6 -- 10<br>
+      CIN&nbsp;&nbsp;0 0 0 0 0 5 0 0 4 -- 9
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Jordan Walker's three-run home run (26) in the third inning gave St. Louis a 4-0 lead, but Cincinnati erased it with five in the sixth -- Matt McLain's grand slam (12) was the blow. Jose Fermin came off the bench and went 2-for-2 with two RBI in the Cardinals' six-run ninth. Riley O'Brien closed after George Soriano allowed four earned runs in 0.2 innings to make the final score 10-9.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b>WHAT WORKED</b><br>
+&bull; Walker's 26th homer -- a three-run shot in the third -- and a first-inning run-scoring groundout gave him four RBI and set the early tone<br>
+&bull; Jose Fermin delivered off the bench: 2-for-2, two RBI in the ninth, driving home two runners during the six-run rally<br>
+&bull; Peter Strzelecki threw two scoreless innings to bridge the bullpen from the seventh through the eighth<br>
+&bull; JJ Wetherholt reached base throughout and crossed the plate three times<br>
+<br>
+<b>WHAT DIDN'T</b><br>
+&bull; George Soriano surrendered four earned runs in 0.2 innings in the ninth, turning a six-run lead into a one-run finish<br>
+&bull; Ryne Stanek allowed two earned runs in 0.2 innings bridging the sixth and seventh after Michael McGreevy's departure<br>
+&bull; Blaze Jordan (0-for-4) and Jimmy Crooks (0-for-2) went a combined 0-for-6 from the lower third of the lineup
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#8B3A3A;">Threat:</b> The Cardinals open a three-game series in Philadelphia tonight against Jesus Luzardo (11-5, 3.23 ERA), a left-hander with a pronounced platoon edge against left-handed hitters. With five left-handed bats likely in tonight's lineup -- Wetherholt, Burleson, Church, Torres, and Crooks -- the four right-handed options carry the offensive weight: Ivan Herrera, Jordan Walker, Joshua Baez, and Blaze Jordan.<br><br>
+<b style="color:#2E7D32;">Edge:</b> Luzardo pitches at home tonight, and his home ERA this season runs well above his road mark -- the one split that cuts in the Cardinals' favor.<br><br>
+<b style="color:#B8860B;">Watch:</b> St. Louis is 2.5 games back in the wild card race with 33 games to play. The Cardinals' right-handed bats against Luzardo's second pass are the game within the game.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<b>Ivan Herrera vs. Luzardo (platoon edge):</b> Batting second, Herrera carries the Cardinals' best right-handed split against a left-handed starter. His 2025 line vs LHP: .330/.455/.660 across 124 PA. Career against Luzardo: 5 PA -- too small to weight. The platoon data is the relevant frame tonight.<br>
+<br>
+<b>Jordan Walker vs. Luzardo:</b> Walker's 2026 numbers against left-handed pitching -- .288 AVG, .918 OPS across 144 PA -- are the strongest current-year right-handed split in the projected lineup. Career vs Luzardo: 8 PA (.250/.250/.250, 0 BB, 2 K). The 2026 vs-LHP data leads.<br>
+<br>
+<b>The five left-handed bats:</b> Wetherholt, Burleson, Church, Torres, and Crooks all face Luzardo at a structural platoon disadvantage -- he has held left-handed hitters to a .392 OPS this season (155 BF). Burleson's 2025 vs-LHP sample (127 PA, .271/.310/.398) is the most reliable gauge for that group.<br>
+<br>
+<b>The second time through the order:</b> Luzardo's second-pass OPS this season is .831 across 225 batters faced -- a jump from his first-pass .413 OPS. The Cardinals' four right-handed bats getting second looks are where to direct attention as the game progresses.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<b>The second-pass window:</b> Luzardo's OPS climbs sharply his second time through the order. Look for Walker, Herrera, Baez, and Jordan to get their best cracks around the fourth or fifth inning when the lineup turns over.<br>
+<br>
+<b>Ivan Herrera early:</b> Batting second, Herrera faces Luzardo in fresh counts from the start. His 2025 record against left-handed pitching is the most favorable split in the projected order tonight.<br>
+<br>
+<b>Luzardo at home:</b> Luzardo carries a 4.63 ERA at Citizens Bank Park this season compared to 1.95 on the road. All game action tonight is on the home side of that ledger.<br>
+<br>
+<b>Nathan Church's assignment:</b> Church has posted a .490 OPS over his last 130 plate appearances since July 4. Against tonight's left-hander, Church's spot in the order represents one of the steeper climbs in tonight's lineup.<br>
+<br>
+<b>Soriano's role after yesterday afternoon:</b> After allowing four earned runs in 0.2 innings in Cincinnati, watch how manager Oliver Marmol pieces together the bullpen in close situations tonight -- specifically whether Soriano is available and who carries the middle innings.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Nathan Church has slumped since 2026-07-04: 0.726 OPS before vs 0.490 after (130 PA) | window: since 2026-07-04 (130 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': '2026-07-04', 'before': 0.726, 'after': 0.49, 'before_pa': 225, 'after_pa': 130, 'delta': 0.236}
+  [2] [P8] Riley O'Brien on pace for 41 saves (milestone: 40) | window: through 129 team games | stats: {'stat': 'saves', 'current': 33, 'pace_162': 41, 'milestone': 40, 'milestone_distance': 7, 'games_remaining': 33}
+  [3] [P8] Andre Pallante on pace for 15 wins (milestone: 15) | window: through 129 team games | stats: {'stat': 'wins', 'current': 12, 'pace_162': 15, 'milestone': 15, 'milestone_distance': 3, 'games_remaining': 33}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P8/neutral] Iván Herrera on pace for 100 runs (milestone: 100)
+    - [P8/neutral] Jordan Walker on pace for 118 RBI (milestone: 100)
+    - [P8/neutral] Jordan Walker on pace for 33 HR (milestone: 30)
+    - [P1/positive] Andre Pallante has sharpened over his last 5 starts: 2.11 ERA vs 4.30 before
+    - [P7/positive] Jordan Walker's OPS jump: 0.584 (2025) -> 0.854 (2026), +0.270 -- p99+ of 16,975 season pairs in MLB history
+    - [P30/negative] The Cardinals bullpen is pacing at 596.0 relief innings -- the franchise record is 584.3 (2021)
+    - [P1/negative] Pedro Pagés has slumped since 2026-05-03: 0.740 OPS before vs 0.450 after (108 PA)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Nathan Church's slump (since July 4):</b> Church has posted a .490 OPS over his last 130 plate appearances since July 4, down from .726 in the 225 PA before that date. His 2026 overall line is .235/.280/.355. Tonight he faces a left-hander who has held left-handed hitters to a .392 OPS this season -- the most structurally difficult matchup in the projected order.<br>
+<br>
+<b>Riley O'Brien's save pace:</b> O'Brien has 33 saves through 129 team games, on pace for 41 on the season. He needs seven more to reach 40. He carries a 2.94 ERA across 52 innings this season.<br>
+<br>
+<b>Andre Pallante's win pace:</b> Pallante has 12 wins with 33 team games remaining, on pace for 15. He needs three more to reach that milestone. His 2026 ERA is 3.57 across 136 innings. His last five starts have produced a 2.11 ERA compared to 4.30 before that stretch -- a sharpening trend with 33 games remaining.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table>
