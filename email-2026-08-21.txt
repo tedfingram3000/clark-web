@@ -76,11 +76,11 @@ Jordan Walker's three-run home run (26) in the third inning gave St. Louis a 4-0
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: key_matchups_prose -->
-<b>Ivan Herrera vs. Luzardo (platoon edge):</b> Batting second, Herrera carries the Cardinals' best right-handed split against a left-handed starter. His 2025 line vs LHP: .330/.455/.660 across 124 PA. Career against Luzardo: 5 PA -- too small to weight. The platoon data is the relevant frame tonight.<br>
+<b>Ivan Herrera vs. Luzardo (platoon edge):</b> Batting second, Herrera carries the Cardinals' best right-handed split against a left-handed starter. His 2025 line vs LHP: .330/.455/.660 across 124 PA. His 2026 OPS vs LHP is .797 across 178 PA. Career against Luzardo: 5 PA -- too small to weight. The platoon data is the relevant frame tonight.<br>
 <br>
 <b>Jordan Walker vs. Luzardo:</b> Walker's 2026 numbers against left-handed pitching -- .288 AVG, .918 OPS across 144 PA -- are the strongest current-year right-handed split in the projected lineup. Career vs Luzardo: 8 PA (.250/.250/.250, 0 BB, 2 K). The 2026 vs-LHP data leads.<br>
 <br>
-<b>The five left-handed bats:</b> Wetherholt, Burleson, Church, Torres, and Crooks all face Luzardo at a structural platoon disadvantage -- he has held left-handed hitters to a .392 OPS this season (155 BF). Burleson's 2025 vs-LHP sample (127 PA, .271/.310/.398) is the most reliable gauge for that group.<br>
+<b>The five left-handed bats:</b> Wetherholt, Burleson, Church, Torres, and Crooks all face Luzardo at a structural platoon disadvantage -- he has held left-handed hitters to a .392 OPS this season (155 BF). Burleson's 2026 vs-LHP numbers -- .209/.244/.304 across 168 PA -- have fallen well below his 2025 sample (127 PA, .271/.310/.398).<br>
 <br>
 <b>The second time through the order:</b> Luzardo's second-pass OPS this season is .831 across 225 batters faced -- a jump from his first-pass .413 OPS. The Cardinals' four right-handed bats getting second looks are where to direct attention as the game progresses.
 <!-- /PHASE2_SLOT -->
