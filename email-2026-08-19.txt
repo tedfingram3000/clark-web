@@ -65,7 +65,7 @@
 <!-- PHASE2_SLOT: key_matchups_prose -->
 <b>Burns vs. the right-handed core:</b> Burns' 2026 numbers against right-handed batters -- .189 average, .500 OPS across 189 batters faced -- put seven of tonight's nine Cardinals starters in the toughest matchup on paper.<br><br>
 <b>JJ Wetherholt and Alec Burleson (LHB) vs. Burns:</b> The two left-handed bats, JJ Wetherholt and Alec Burleson, project into the more favorable historical split against Burns (.845 OPS vs. left-handers in 2025), though Burns held left-handers to a .676 OPS in 2026 as well.<br><br>
-<b>JJ Bleday vs. Matthew Liberatore:</b> Against Liberatore, JJ Bleday's .324 average and .500 slugging against left-handed pitching in 2025 (73 plate appearances) is the clearest individual advantage for Cincinnati tonight.<br><br>
+<b>JJ Bleday vs. Matthew Liberatore:</b> Against Liberatore, JJ Bleday's .324 average and .500 slugging against left-handed pitching in 2025 (73 plate appearances) is the clearest individual advantage for Cincinnati tonight on 2025 form, though Bleday has hit .200 with a .696 OPS against left-handers in 2026 (98 plate appearances).<br><br>
 <b>Pedro Pages vs. the Reds' running game:</b> Pedro Pages' 31.5% caught-stealing rate on 54 attempts is the Cardinals' best counter to Cincinnati's base stealers -- Matt McLain (18 steals, 90.0% success) and Dane Myers (18 steals, 78.3%) lead the Reds' running game.
 <!-- /PHASE2_SLOT -->
   </div>
