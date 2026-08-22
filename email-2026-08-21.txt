@@ -18,6 +18,10 @@
   </table>
 </td></tr>
 
+<tr><td style="padding:12px 20px 0 20px;">
+  <table width="100%" cellpadding="0" cellspacing="0"><tr><td style="background:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;padding:10px 14px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:1.5;color:#2D3640"><b>Correction -- 2026-08-22.</b> This archived edition was corrected after publication. In Watchlist, a batter's 2025 record was cited inside a claim about that night's game; his current-season figures have been added. No other text was changed. The edition as originally published is preserved in this project's git history; the full record of archive corrections is kept in ARCHIVE-CORRECTIONS.md.</td></tr></table>
+</td></tr>
+
 <!-- YESTERDAY'S RESULT -->
 <tr><td style="padding:16px 20px 0;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 10, CIN 9</div>
