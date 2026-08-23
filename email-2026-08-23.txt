@@ -1,0 +1,92 @@
+<!-- 700 Clark Email Block -- STL vs PHI 2026-08-23 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (66-65)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Citizens Bank Park -- 12:35 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PHI (72-58)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.24 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, August 23, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sánchez (L) -- 2.51 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- PHI 12, STL 3</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 1 0 1 1 -- 3<br>
+      PHI&nbsp;&nbsp;3 0 4 0 0 4 0 1 0 -- 12
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Philadelphia rolled to a 12-3 win last night in Game 2 of 3 at Citizens Bank Park, with Andrew Painter holding St. Louis to 5 hits and 1 run over 7 innings while striking out 8. The Phillies scored 3 in the first and 4 in the third to build their lead, then Bryce Harper's 3-run homer (26) in the sixth and Kyle Schwarber's solo shot (38) in the eighth extended it further. JJ Wetherholt's solo homer (17) and a pair of hits from Nathan Church were the Cardinals' main offensive contributions.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+• JJ Wetherholt went 2-for-4 with a solo homer (17) in the eighth inning.<br>
+• Nathan Church was also 2-for-4 and scored a run.<br>
+• Alec Burleson's RBI single in the sixth plated a run, and Jose Fermin's groundout in the ninth scored Nathan Church for the Cardinals' third run.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+• Quinn Mathews allowed 10 hits and 7 earned runs in 5 innings, giving up 3-run and 4-run frames in the first and third.<br>
+• Ryan Fernandez was tagged for 4 earned runs -- including a home run -- in 2 innings of relief.<br>
+• Ivan Herrera, Jordan Walker, and Joshua Baez each went 0-for-4 at the plate.<br>
+• Andrew Painter held St. Louis to 5 hits and 1 run over 7 innings while striking out 8.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Ivan Herrera, Jordan Walker, Joshua Baez, Jose Fermin, and Blaze Jordan represent St. Louis's five right-handed bats against Cristopher Sanchez, who allows a .764 OPS to right-handers but .324 to left-handers in 2026. That gap makes the Cardinals' right-side construction the lineup's primary offensive engine this afternoon.<br><br><b style="color:#8B3A3A;">Threat:</b> Sanchez at Citizens Bank Park carries a 1.42 ERA in 2026, against 4.07 in road starts. Cardinals hitters face him at his most dominant address in today's series finale, where the home environment has made him a functionally different pitcher than the one they see elsewhere.<br><br><b style="color:#B8860B;">Watch:</b> Kyle Leahy carries a 3.61 road ERA in 2026 against a 2.91 mark at home. The venue gap narrows his margin for error before first pitch and compounds the Cardinals' structural disadvantage as they try to avoid a series sweep this afternoon.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Cristopher Sanchez.</b> Through the 2025 season, Sanchez allowed a 0.627 OPS to right-handed batters across 634 plate appearances and 0.479 to left-handers across 173 -- a structural gap that held through a full workload. The 2026 season runs in the same direction, establishing the Cardinals' right-handed contingent as the correct side to emphasize against him.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Kyle Leahy.</b> Leahy's 2026 mark against left-handed batters is .850 OPS; the 2025 baseline was 0.701. Schwarber, Harper, and Arraez -- Philadelphia's three left-handed hitters, batting first, third, and fourth -- are the segment Leahy faces earliest and most frequently, and they represent the side of the plate where his numbers are most exposed.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Ivan Herrera.</b> Three career plate appearances against Sanchez have produced a home run, a walk, and a 0.667 career OBP for Herrera -- the richest documented head-to-head edge any Cardinals hitter carries into this afternoon.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Kyle Leahy.</b> Leahy's 2026 mark against right-handed batters is .599 OPS -- consistent with the 0.589 he allowed them in 2025 -- and represents his more manageable platoon side. Turner, Bohm, Sosa, De La Cruz, Realmuto, and Hill make up Philadelphia's six right-handed hitters in today's lineup; limiting damage against the left-handed trio at the top of the order gives Leahy a steadier exchange as the lineup turns over.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Kyle Leahy.</b> If he extends into a third pass this afternoon, the conditional split turns sharp: in starts where Leahy reaches a third time through the order, opposing batters carry a .789 OPS against him in the second pass and surge to 1.016 in the third in 2026. Kyle Leahy has pitched into a third pass in 21 of 24 starts.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Cristopher Sanchez.</b> If the Cardinals generate traffic in the middle innings, the second pass is Sanchez's relative opening: batters post a .711 OPS against him in the second time through the order in 2026, up from .604 in the first, before settling back to .664 in the third. Cristopher Sanchez has pitched into a third pass in 26 of 26 starts.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Cristopher Sanchez.</b> If his home dominance holds this afternoon, the Cardinals face a pattern rooted in 2025: Sanchez posted a 1.75 ERA at Citizens Bank Park against a 2.85 ERA on the road that year, establishing the venue split as a recurring structural feature predating his 2026 run.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jordan Walker.</b> If Jordan Walker bats against Sanchez this afternoon, watch whether he can break through a career .125 average across 8 at-bats -- a stretch that includes 5 strikeouts and represents the deepest batter-vs.-pitcher hole among Cardinals right-handers with any history against Sanchez.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
