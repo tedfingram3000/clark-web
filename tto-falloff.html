@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>700 Clark -- Research -- The Pitchers Who Fall Off, and the Ones Who Don't</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box}
+body{margin:0;padding:20px 8px;font-family:'IBM Plex Sans',sans-serif;background:#FFFFFF;color:#2D3640}
+.ds{max-width:800px;margin:0 auto}
+.sh{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin:24px 0 12px 0;padding-bottom:5px;border-bottom:2px solid #0B1C33}
+.sh:first-child{margin-top:0}
+.h1{font-size:14px;font-weight:700;color:#0B1C33;margin:0 0 6px 0}
+.h2{font-size:13px;font-weight:700;color:#0B1C33;margin:16px 0 6px 0}
+.h3{font-size:11px;font-weight:700;color:#2D3640;margin:12px 0 4px 0}
+.n{font-size:10px;color:#707070;margin:0 0 12px 0}
+.pp{font-size:12px;color:#2D3640;line-height:1.5;margin:0 0 8px 0}
+.pp b{color:#0B1C33}
+.sm{font-size:10px;color:#B8860B;margin:0 0 12px 0}
+.gn{color:#2E7D32}
+.am{color:#B8860B}
+.rd{color:#8B3A3A}
+.ft{background:#0B1C33;padding:12px 16px;text-align:center;margin-top:20px;border-radius:4px}
+.ft p{color:#FFF;font-family:'IBM Plex Sans',sans-serif;font-size:11px;margin:0;letter-spacing:0.5px}
+.ft a{color:#FFF;text-decoration:underline;font-weight:bold}
+/* article-page additions (research pages only): title + dek scale */
+.at{font-size:18px;font-weight:700;color:#0B1C33;margin:0 0 4px 0;line-height:1.3}
+.dk{font-size:11px;color:#707070;margin:0 0 16px 0}
+/* chart (research pages only): house callout box + bar rows */
+.cb{background:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:12px 16px;margin:12px 0}
+.cbt{font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin:0 0 2px 0}
+.cbs{font-size:10px;color:#707070;margin:0 0 10px 0}
+.bl{font-size:10px;color:#2D3640;margin:6px 0 2px 0}
+.bar{color:#FFF;font-size:11px;font-weight:700;text-align:right;padding:4px 6px;border-radius:2px}
+.cbc{font-size:10px;color:#2D3640;line-height:1.5;margin:10px 0 0 0}
+/* sequel-page additions: methods code + tables */
+.code{font-family:"Courier New",Courier,monospace;font-size:10.5px;line-height:1.5;color:#2D3640;background:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:10px 12px;overflow-x:auto;margin:8px 0 12px 0}
+.mt{border-collapse:collapse;width:100%;margin:8px 0 12px 0;font-size:11px;color:#2D3640}
+.mt th{text-align:left;font-size:9px;letter-spacing:1px;text-transform:uppercase;color:#0B1C33;border-bottom:2px solid #0B1C33;padding:4px 6px}
+.mt td{border-bottom:1px solid #E0E0E0;padding:4px 6px}
+</style>
+</head>
+<body>
+<div class="ds">
+
+<p class="sh">700 CLARK &mdash; RESEARCH</p>
+<p class="at">The pitchers who fall off &mdash; and the ones who don&rsquo;t</p>
+<p class="dk">We rebuilt the times-through-the-order stat for all 3,928 starts in baseball &middot; 2026-08-24 &middot; numbers through 2026-08-23</p>
+
+<p class="pp">St. Louis starters give back 107 points of OPS the third time through the order, more than three times what the league gives back, and the stat most fans check can&rsquo;t see it. That is what came back when we rebuilt times-through-the-order numbers one plate appearance at a time, for every start in the majors this season &mdash; 3,928 starts across 1,964 games. The league-wide result is mostly good news for pitchers: measured fairly, the average third-time penalty is about 30 points of OPS, smaller than the raw splits make it look. The Cardinals are the exception. Matthew Liberatore&rsquo;s fall from his second time through to his third is the fifth-biggest in baseball, and his steady-looking season line hides all of it. Andre Pallante (now on the IL) is the counterweight: 23 third passes in 24 starts, and he holds up under the same test that catches Liberatore.</p>
+
+<p class="pp">If you take one thing to the group chat, take this: a starter&rsquo;s times-through-the-order split blends two different kinds of game &mdash; the days he earned a long outing and the days he got pulled early. His third-time line comes only from his good days, while his second-time line mixes both, so the split can make a collapsing pitcher look steady and an improving one look scary. The fair question is what a pitcher&rsquo;s third pass did compared to his own second pass in the same games. Ask it that way and the dreaded third-time collapse shrinks to 30 points league-wide, while a handful of real cliffs &mdash; one of them in St. Louis &mdash; stand out plainly.</p>
+
+<p class="pp">In the last piece we showed the blend using Cardinals starts alone. This one runs the whole league: who genuinely falls off, why the standard split misses them, and, at the end, the leaderboard we built and refused to publish.</p>
+
+<p class="pp"><b>Start with the thing everyone gets wrong.</b> A starter&rsquo;s second-pass number is an average of two different games. In the starts where he stayed in long enough to face the order a third time, hitters posted a .717 OPS against the league&rsquo;s second pass. In the starts where he was gone before that, they posted .956. Same pitchers, same pass, 239 points apart. That gap is no 2026 fluke &mdash; we measured it at .212 across all of last season too. Managers pull starters who are getting hit in the middle innings, so the second-pass line you see in a season split is a blend of the good days and the disasters, and the third-pass line only ever comes from the good days.</p>
+
+<div class="cb">
+  <p class="cbt">The Same Second Pass, in Two Kinds of Game</p>
+  <p class="cbs">OPS allowed on the 2nd time through, all 3,928 starts, 2026 through Aug 23. Starts split by whether the starter went on to face the order a 3rd time. Bar length is OPS.</p>
+  <p class="bl">Starts he survived &middot; reached a 3rd pass &middot; 29,543 PA</p>
+  <div class="bar" style="width:36%;background:#2E7D32">.717</div>
+  <p class="bl">Starts he was pulled from &middot; no 3rd pass &middot; 2,966 PA</p>
+  <div class="bar" style="width:48%;background:#8B3A3A">.956</div>
+  <p class="cbc">Gap .239. A season-long 2nd-pass number averages these two together.</p>
+</div>
+
+<p class="pp"><b>Now the part that surprised us.</b> Once you compare a starter&rsquo;s third pass to <i>his own second pass in the same games</i> &mdash; the only apples-to-apples version of this question &mdash; the league gives back 30 points of OPS. That&rsquo;s it. (The full-2025 figure, which we quoted in the first piece, was 49.) The raw progression everyone quotes (.697, .739, .747) tells a story of steady erosion; the fair test says the third pass costs about 30 points, and in games that were still close, 21. The typical starter&rsquo;s third time through is a much smaller problem than the standard split makes it look.</p>
+
+<div class="cb">
+  <p class="cbt">What the Season Split Shows, and What Happens Inside a Game</p>
+  <p class="cbs">OPS allowed, league 2026. Navy = the season split every site shows (every start). Amber = only the starts that reached a 3rd pass.</p>
+  <p class="bl">1st time through, season split &middot; 34,865 PA</p>
+  <div class="bar" style="width:35%;background:#0B1C33">.697</div>
+  <p class="bl">2nd time through, season split &middot; 32,509 PA</p>
+  <div class="bar" style="width:37%;background:#0B1C33">.739</div>
+  <p class="bl">3rd time on, season split &middot; 17,402 PA</p>
+  <div class="bar" style="width:37%;background:#0B1C33">.747</div>
+  <p class="bl">2nd pass, survival starts only &middot; 29,543 PA</p>
+  <div class="bar" style="width:36%;background:#B8860B">.717</div>
+  <p class="bl">3rd on, those same starts &middot; 17,402 PA</p>
+  <div class="bar" style="width:37%;background:#B8860B">.747</div>
+  <p class="cbc">Inside the same games the 3rd pass costs +.030, not the erosion the top three bars imply.</p>
+</div>
+
+<p class="pp">That small number survives the obvious objections. Split the season by how many pitches the starter had thrown, and the decline is still there in the range where second and third passes overlap &mdash; 67 points, if anything larger, though comparing two passes at the same pitch count quietly swaps one selection problem for another, so read that as survival rather than growth. Split it by score, and blowouts do inflate it: starters left in while losing badly gave back 116 points on the third pass, against at least 21 in games still close. Split it by how good the opposing lineup was, and nothing moves at all &mdash; 28, 30 and 32 points against weak, average and strong offenses. Pitch count, score and opponent each get their turn, and the decline outlives all three. The third-time-through penalty is real, it is small, and no control we could put on it made it go away.</p>
+
+<div class="cb">
+  <p class="cbt">Control 1: Does the Decline Just Track Pitch Count?</p>
+  <p class="cbs">Within-game change = 3rd-pass OPS minus 2nd-pass OPS, in the same starts. Bands = the starter&rsquo;s cumulative pitch count entering the plate appearance. Survival starts only.</p>
+  <p class="bl">0&ndash;24 pitches thrown (early innings)</p>
+  <p class="bl" style="color:#707070;font-style:italic">excluded: only 0 PA on the 3rd pass</p>
+  <p class="bl">25&ndash;49 pitches thrown</p>
+  <p class="bl" style="color:#707070;font-style:italic">excluded: only 18 PA on the 3rd pass</p>
+  <p class="bl">50&ndash;74 pitches, where the 2 passes overlap &middot; 2nd pass &middot; 14,735 PA</p>
+  <div class="bar" style="width:35%;background:#0B1C33">.691</div>
+  <p class="bl">50&ndash;74 pitches, where the 2 passes overlap &middot; 3rd on &middot; 6,538 PA &middot; change +.067</p>
+  <div class="bar" style="width:38%;background:#B8860B">.758</div>
+  <p class="bl">75&ndash;99 pitches &middot; 2nd pass &middot; 651 PA</p>
+  <div class="bar" style="width:30%;background:#0B1C33">.599</div>
+  <p class="bl">75&ndash;99 pitches &middot; 3rd on &middot; 10,642 PA &middot; change +.144</p>
+  <div class="bar" style="width:37%;background:#B8860B">.743</div>
+  <p class="bl">100+ pitches thrown (late innings)</p>
+  <p class="bl" style="color:#707070;font-style:italic">excluded: only 1 PA on the 2nd pass</p>
+  <p class="cbc">No. Holding the pitch count roughly constant makes the decline LARGER, not smaller. Reference: league within-game change +.030. Cells under 50 PA are not given a rate.</p>
+</div>
+
+<div class="cb">
+  <p class="cbt">Control 2: Is the Decline Just Garbage Time?</p>
+  <p class="cbs">Within-game change = 3rd-pass OPS minus 2nd-pass OPS, in the same starts. Bands = run differential entering the plate appearance, from the pitcher&rsquo;s side. Survival starts only.</p>
+  <p class="bl">Trailing by 4 or more, his team well behind &middot; 2nd pass &middot; 1,384 PA</p>
+  <div class="bar" style="width:34%;background:#0B1C33">.686</div>
+  <p class="bl">Trailing by 4 or more, his team well behind &middot; 3rd on &middot; 1,676 PA &middot; change +.116</p>
+  <div class="bar" style="width:40%;background:#B8860B">.802</div>
+  <p class="bl">Within 3 runs either way, a competitive game &middot; 2nd pass &middot; 25,105 PA</p>
+  <div class="bar" style="width:36%;background:#0B1C33">.728</div>
+  <p class="bl">Within 3 runs either way, a competitive game &middot; 3rd on &middot; 12,757 PA &middot; change +.021</p>
+  <div class="bar" style="width:37%;background:#B8860B">.749</div>
+  <p class="bl">Leading by 4 or more, his team well ahead &middot; 2nd pass &middot; 3,054 PA</p>
+  <div class="bar" style="width:32%;background:#0B1C33">.643</div>
+  <p class="bl">Leading by 4 or more, his team well ahead &middot; 3rd on &middot; 2,969 PA &middot; change +.065</p>
+  <div class="bar" style="width:35%;background:#B8860B">.709</div>
+  <p class="cbc">Partly. Blowouts inflate it; in close games the decline is about a third of the raw figure. Reference: league within-game change +.030.</p>
+</div>
+
+<div class="cb">
+  <p class="cbt">Control 3: Is the Decline Just Who He Faced?</p>
+  <p class="cbs">Within-game change = 3rd-pass OPS minus 2nd-pass OPS, in the same starts. Teams in thirds by their own OPS vs starters. Survival starts only.</p>
+  <p class="bl">vs the weakest third of offenses &middot; 2nd pass &middot; 9,931 PA</p>
+  <div class="bar" style="width:35%;background:#0B1C33">.691</div>
+  <p class="bl">vs the weakest third of offenses &middot; 3rd on &middot; 5,846 PA &middot; change +.028</p>
+  <div class="bar" style="width:36%;background:#B8860B">.719</div>
+  <p class="bl">vs the middle third &middot; 2nd pass &middot; 9,748 PA</p>
+  <div class="bar" style="width:36%;background:#0B1C33">.718</div>
+  <p class="bl">vs the middle third &middot; 3rd on &middot; 5,753 PA &middot; change +.030</p>
+  <div class="bar" style="width:37%;background:#B8860B">.748</div>
+  <p class="bl">vs the strongest third &middot; 2nd pass &middot; 9,864 PA</p>
+  <div class="bar" style="width:37%;background:#0B1C33">.744</div>
+  <p class="bl">vs the strongest third &middot; 3rd on &middot; 5,803 PA &middot; change +.032</p>
+  <div class="bar" style="width:39%;background:#B8860B">.776</div>
+  <p class="cbc">No. Strong lineups hit both passes harder, and the gap between the passes does not move. Reference: league within-game change +.030.</p>
+</div>
+
+<p class="pp"><b>A word about how long starters actually last,</b> because most people reading this believe they get pulled early now, and that belief sits right on top of these numbers. In 2026 starters have reached a third time through in 84 percent of starts. The median start is 23 batters faced &mdash; about two and a half turns. Whatever has happened to the length of a start, the third time through has not become rare.</p>
+
+<p class="pp">Two units are getting mixed together here. &ldquo;Going deep&rdquo; usually means innings, and this measures turns through the order, and they come apart: a pitcher who retires 18 in six clean innings never faces the order a third time, while one who labors through 27 in five does. There is also a harder question underneath, which we are looking at next rather than answering here. Managers pull starters partly because they believe in the third-time penalty, and everything we just measured comes from the starts they chose to extend. Hook earlier and the third passes that survive are the best days only, which would make the penalty look smaller than it is. That cuts against our own number, and we would rather say so than not.</p>
+
+<p class="pp"><b>How to read the small samples here.</b> Every number in this piece happened. What a small sample can&rsquo;t tell you on its own is whether a number is a pattern or a hot stretch &mdash; a starter&rsquo;s third-pass line rests on maybe a hundred plate appearances, and a hundred plate appearances of luck can look like a trend. So before we attach a word like &ldquo;collapses,&rdquo; we run a check you can picture as replaying the season: rebuild a pitcher&rsquo;s year two thousand times, each time drawing from the starts he actually made &mdash; some counted twice, some left out &mdash; and recompute the number in each replay. If it holds in at least 95 of every 100 replays, we call it a pattern. If it falls short, the number still appears, with its sample next to it; it just doesn&rsquo;t get the label. The ten pitchers named next all cleared the bar.</p>
+
+<p class="pp"><b>Which makes the exceptions worth naming.</b> Ten starters this season decline by so much more than the league that we can say it with confidence &mdash; in at least 95 of every 100 replayed seasons, their drop from the second pass to the third is still bigger than the league&rsquo;s. That is a statement about the size of their fall, not about where they end up: a couple of them are still better than average on the third pass, and falling further than anyone else to get there. The leaders are Cincinnati&rsquo;s Nick Lodolo, the Athletics&rsquo; Jacob Lopez, Seattle&rsquo;s Bryce Miller and Cleveland&rsquo;s Slade Cecconi. Then, fifth-worst in baseball, the Cardinals&rsquo; Matthew Liberatore. His second pass in survival starts is a very good .648. From the third pass on in those same games it is 1.091. Shota Imanaga, Tarik Skubal, Taj Bradley, Christian Scott and Dylan Cease round out the ten.</p>
+
+<div class="cb">
+  <p class="cbt">Ten Starters Who Really Do Fall Off</p>
+  <p class="cbs">Within-game change = 3rd-pass OPS minus 2nd-pass OPS, in the same starts. Bar length is the change. League change: +.030. Cardinals starter in red.</p>
+  <p class="bl">Nick Lodolo (CIN) &middot; 15 GS &middot; 70 PA on 3rd</p>
+  <div class="bar" style="width:71%;background:#0B1C33">+.711</div>
+  <p class="bl">Jacob Lopez (ATH) &middot; 18 GS &middot; 73 PA on 3rd</p>
+  <div class="bar" style="width:53%;background:#0B1C33">+.533</div>
+  <p class="bl">Bryce Miller (SEA) &middot; 16 GS &middot; 73 PA on 3rd</p>
+  <div class="bar" style="width:53%;background:#0B1C33">+.529</div>
+  <p class="bl">Slade Cecconi (CLE) &middot; 21 GS &middot; 94 PA on 3rd</p>
+  <div class="bar" style="width:52%;background:#0B1C33">+.524</div>
+  <p class="bl">Matthew Liberatore (STL) &middot; 25 GS &middot; 96 PA on 3rd</p>
+  <div class="bar" style="width:44%;background:#8B3A3A">+.443</div>
+  <p class="bl">Shota Imanaga (CHC) &middot; 26 GS &middot; 127 PA on 3rd</p>
+  <div class="bar" style="width:32%;background:#0B1C33">+.316</div>
+  <p class="bl">Tarik Skubal (DET/LAD) &middot; 20 GS &middot; 111 PA on 3rd</p>
+  <div class="bar" style="width:28%;background:#0B1C33">+.278</div>
+  <p class="bl">Taj Bradley (MIN) &middot; 25 GS &middot; 148 PA on 3rd</p>
+  <div class="bar" style="width:27%;background:#0B1C33">+.267</div>
+  <p class="bl">Christian Scott (NYM) &middot; 19 GS &middot; 56 PA on 3rd</p>
+  <div class="bar" style="width:24%;background:#0B1C33">+.238</div>
+  <p class="bl">Dylan Cease (TOR) &middot; 24 GS &middot; 145 PA on 3rd</p>
+  <div class="bar" style="width:23%;background:#0B1C33">+.229</div>
+  <p class="cbc">All ten stay worse than the league value in at least 95% of replayed seasons.</p>
+</div>
+
+<p class="pp"><b>And here is why the standard split can&rsquo;t find them.</b> Thirteen starters have three-way numbers that all look at or better than league average &mdash; the render every site shows you &mdash; and fail our survivorship screen anyway. Nine of the thirteen fail on the within-game step alone. Dylan Cease is the clearest. His line reads .489, .465, .693, against a league of .697, .739, .747 &mdash; every pass better than average, nothing on the card to flag. Now read the step instead of the levels. From the second time through to the third, hitters gain 229 points on him. The league gains 30.</p>
+
+<p class="pp">And unlike Liberatore, nothing here is blended: Cease reached a third pass in all 24 of his starts, so his season line and his survival-start line are the same numbers. The split is telling the truth. It just invites you to compare him to the league instead of to himself. Cam Schlittler, Chris Sale, Reid Detmers and Gavin Williams show smaller versions of the same shape &mdash; clean-looking lines, a bigger step inside them &mdash; though none of the four clears the replay bar, so we note the shape and stop there.</p>
+
+<div class="cb">
+  <p class="cbt">Dylan Cease: Every Pass Better Than League, and Still One of the Ten</p>
+  <p class="cbs">OPS allowed, 2026. He reached a 3rd pass in all 24 starts, so nothing here is blended. Navy = Cease. Amber = league average for the same pass.</p>
+  <p class="bl">1st time through &middot; Cease &middot; 218 PA</p>
+  <div class="bar" style="width:24%;background:#0B1C33">.489</div>
+  <p class="bl">1st time through &middot; league</p>
+  <div class="bar" style="width:35%;background:#B8860B">.697</div>
+  <p class="bl">2nd time through &middot; Cease &middot; 216 PA</p>
+  <div class="bar" style="width:23%;background:#0B1C33">.465</div>
+  <p class="bl">2nd time through &middot; league</p>
+  <div class="bar" style="width:37%;background:#B8860B">.739</div>
+  <p class="bl">3rd time on &middot; Cease &middot; 145 PA</p>
+  <div class="bar" style="width:35%;background:#0B1C33">.693</div>
+  <p class="bl">3rd time on &middot; league</p>
+  <div class="bar" style="width:37%;background:#B8860B">.747</div>
+  <p class="cbc">Read the step, not the levels: Cease +.229 from 2nd to 3rd, league +.030.</p>
+</div>
+
+<p class="pp">The mirror case is still Brady Singer, whose splits we picked apart last time. In the games he pitched into a third pass, hitters had him at .911 on the second pass and .714 from the third on &mdash; better late by 196 points of OPS. That figure lands just short of our bar (it holds in about 94 of every 100 replays; we ask for 95), so read it as a strong lean rather than a settled pattern. Either way his ugly aggregate second-pass number is the artifact rather than the third-pass one.</p>
+
+<p class="pp"><b>Why there&rsquo;s no list of the ten who hold up best.</b> We tried to build one &mdash; it is the piece this piece was supposed to be. A leaderboard of starters who run at or better than league average all three times through would be the natural flip side of the collapses above. It failed the replay test. Confidence at these sample sizes lives out at the extremes: the ten collapses are nameable because their falls clear the league by enormous margins. A &ldquo;good three times through&rdquo; screen is the opposite situation &mdash; by construction, its members sit right on the cut that defines it. In our drafted screen of nineteen, the median member kept his place in only 35 of 100 replayed seasons, and nobody kept it in even 80. Tightening the standard made it worse: eight members, and the most secure of them held on less than half the time. So when you see a leaderboard of TTO-proof starters somewhere else, ask how many of its names would survive a replayed season. Ours wouldn&rsquo;t, and we would rather give you no list than that one.</p>
+
+<p class="pp"><b>The staff, in detail.</b> St. Louis starters reach the third time through about as often as anyone &mdash; 115 of 132 starts, against a league rate of 84 percent. What happens next is the problem: the staff&rsquo;s second pass in survival starts is .692 and its third pass is .799, a slide of 107 points against the league&rsquo;s 30. Liberatore is most of that. Andre Pallante is the counterweight. He has reached a third pass in 23 of 24 starts, held hitters to .613 on the second pass in those games and .684 from the third on, and he holds up under the same replay test that catches Liberatore. Below, the same unblended view for every starter on the staff: the second pass the season split shows you, the two kinds of game it blends, and what the third pass actually did in the games that had one.</p>
+
+<div class="cb">
+  <p class="cbt">Leahy, unblended</p>
+  <p class="cbs">OPS against Kyle Leahy, 2026. Bar length is OPS.</p>
+  <p class="bl">Second pass, season split &middot; 212 PA</p>
+  <div class="bar" style="width:38%;background:#0B1C33">.768</div>
+  <p class="bl">Second pass, the 21 starts that reached a third &middot; 188 PA</p>
+  <div class="bar" style="width:39%;background:#2E7D32">.789</div>
+  <p class="bl">Second pass, the 4 starts that ended early &middot; 24 PA</p>
+  <div class="bar" style="width:29%;background:#8B3A3A">.583</div>
+  <p class="bl">Third pass on, those same 21 starts &middot; 92 PA</p>
+  <div class="bar" style="width:51%;background:#B8860B">1.017</div>
+  <p class="cbc">21 of 25 starts reached a third pass. Cells under 50 PA (24 PA) are counts, not stats &mdash; that the blend rides on tiny samples is the point.</p>
+</div>
+
+<div class="cb">
+  <p class="cbt">Liberatore, unblended</p>
+  <p class="cbs">OPS against Matthew Liberatore, 2026. Bar length is OPS.</p>
+  <p class="bl">Second pass, season split &middot; 220 PA</p>
+  <div class="bar" style="width:38%;background:#0B1C33">.757</div>
+  <p class="bl">Second pass, the 22 starts that reached a third &middot; 198 PA</p>
+  <div class="bar" style="width:32%;background:#2E7D32">.648</div>
+  <p class="bl">Second pass, the 3 starts that ended early &middot; 22 PA</p>
+  <div class="bar" style="width:87%;background:#8B3A3A">1.745</div>
+  <p class="bl">Third pass on, those same 22 starts &middot; 96 PA</p>
+  <div class="bar" style="width:55%;background:#B8860B">1.091</div>
+  <p class="cbc">22 of 25 starts reached a third pass. Cells under 50 PA (22 PA) are counts, not stats &mdash; that the blend rides on tiny samples is the point.</p>
+</div>
+
+<div class="cb">
+  <p class="cbt">McGreevy, unblended</p>
+  <p class="cbs">OPS against Michael McGreevy, 2026. Bar length is OPS.</p>
+  <p class="bl">Second pass, season split &middot; 222 PA</p>
+  <div class="bar" style="width:37%;background:#0B1C33">.741</div>
+  <p class="bl">Second pass, the 23 starts that reached a third &middot; 207 PA</p>
+  <div class="bar" style="width:35%;background:#2E7D32">.696</div>
+  <p class="bl">Second pass, the 2 starts that ended early &middot; 15 PA</p>
+  <div class="bar" style="width:69%;background:#8B3A3A">1.379</div>
+  <p class="bl">Third pass on, those same 23 starts &middot; 111 PA</p>
+  <div class="bar" style="width:38%;background:#B8860B">.770</div>
+  <p class="cbc">23 of 25 starts reached a third pass. Cells under 50 PA (15 PA) are counts, not stats &mdash; that the blend rides on tiny samples is the point.</p>
+</div>
+
+<div class="cb">
+  <p class="cbt">Pallante, unblended</p>
+  <p class="cbs">OPS against Andre Pallante, 2026. Bar length is OPS.</p>
+  <p class="bl">Second pass, season split &middot; 216 PA</p>
+  <div class="bar" style="width:31%;background:#0B1C33">.627</div>
+  <p class="bl">Second pass, the 23 starts that reached a third &middot; 207 PA</p>
+  <div class="bar" style="width:31%;background:#2E7D32">.613</div>
+  <p class="bl">Second pass, the 1 start that ended early &middot; 9 PA</p>
+  <div class="bar" style="width:47%;background:#8B3A3A">.944</div>
+  <p class="bl">Third pass on, those same 23 starts &middot; 132 PA</p>
+  <div class="bar" style="width:34%;background:#B8860B">.684</div>
+  <p class="cbc">23 of 24 starts reached a third pass. Cells under 50 PA (9 PA) are counts, not stats &mdash; that the blend rides on tiny samples is the point.</p>
+</div>
+
+<div class="cb">
+  <p class="cbt">May, unblended</p>
+  <p class="cbs">OPS against Dustin May, 2026. Bar length is OPS.</p>
+  <p class="bl">Second pass, season split &middot; 175 PA</p>
+  <div class="bar" style="width:34%;background:#0B1C33">.675</div>
+  <p class="bl">Second pass, the 16 starts that reached a third &middot; 144 PA</p>
+  <div class="bar" style="width:31%;background:#2E7D32">.620</div>
+  <p class="bl">Second pass, the 5 starts that ended early &middot; 31 PA</p>
+  <div class="bar" style="width:46%;background:#8B3A3A">.930</div>
+  <p class="bl">Third pass on, those same 16 starts &middot; 95 PA</p>
+  <div class="bar" style="width:33%;background:#B8860B">.652</div>
+  <p class="cbc">16 of 21 starts reached a third pass. Cells under 50 PA (31 PA) are counts, not stats &mdash; that the blend rides on tiny samples is the point. St. Louis starts only; his three for Milwaukee are not shown.</p>
+</div>
+
+<div class="cb">
+  <p class="cbt">Dobbins, unblended</p>
+  <p class="cbs">OPS against Hunter Dobbins, 2026. Bar length is OPS.</p>
+  <p class="bl">Second pass, season split &middot; 72 PA</p>
+  <div class="bar" style="width:38%;background:#0B1C33">.751</div>
+  <p class="bl">Second pass, the 8 starts that reached a third &middot; 72 PA</p>
+  <div class="bar" style="width:38%;background:#2E7D32">.751</div>
+  <p class="bl" style="color:#707070;font-style:italic">No early hooks &mdash; all 8 starts reached a third pass.</p>
+  <p class="bl">Third pass on, those same 8 starts &middot; 29 PA</p>
+  <div class="bar" style="width:28%;background:#B8860B">.553</div>
+  <p class="cbc">8 of 8 starts reached a third pass. Cells under 50 PA (29 PA) are counts, not stats &mdash; that the blend rides on tiny samples is the point.</p>
+</div>
+
+<div class="cb">
+  <p class="cbt">Mathews, unblended</p>
+  <p class="cbs">OPS against Quinn Mathews, 2026. Bar length is OPS.</p>
+  <p class="bl">Second pass, season split &middot; 26 PA</p>
+  <div class="bar" style="width:60%;background:#0B1C33">1.196</div>
+  <p class="bl">Second pass, the 2 starts that reached a third &middot; 18 PA</p>
+  <div class="bar" style="width:68%;background:#2E7D32">1.361</div>
+  <p class="bl">Second pass, the 1 start that ended early &middot; 8 PA</p>
+  <div class="bar" style="width:41%;background:#8B3A3A">.821</div>
+  <p class="bl">Third pass on, those same 2 starts &middot; 12 PA</p>
+  <div class="bar" style="width:9%;background:#B8860B">.174</div>
+  <p class="cbc">2 of 3 starts reached a third pass. Every cell here is under the 50-PA floor &mdash; counts, not stats; drawn for completeness, cited nowhere.</p>
+</div>
+
+<div class="cb">
+  <p class="cbt">Svanson, unblended</p>
+  <p class="cbs">OPS against Matt Svanson, 2026.</p>
+  <p class="cbc">One start, an opener (fewer than nine batters faced) &mdash; he never reached a second pass, so there is nothing to draw.</p>
+</div>
+
+<p class="pp"><b>What changes in 700 Clark.</b> Two things, both about restraint. First, when we quote a third-pass number we&rsquo;ll keep showing you how many starts produced it and how the second pass looked in those same games &mdash; the practice we started last month. Second, and new this week: every within-game difference we print carries its replay-test verdict. At the sample sizes a single season gives you, most of these numbers point somewhere the data can&rsquo;t confirm &mdash; so when we show one, we&rsquo;ll say whether it cleared the bar or came up short, right where the number appears. Liberatore&rsquo;s clears it; Singer&rsquo;s misses by a hair, and the piece says so in the same sentence. That&rsquo;s not a limitation of the stat &mdash; it&rsquo;s the size of the season.</p>
+
+<p class="sh">HOW WE MEASURED IT</p>
+
+<p class="pp">A companion to &ldquo;The pitchers who fall off &mdash; and the ones who don&rsquo;t.&rdquo; Everything the piece claims is derived here, from raw counting stats, with the arithmetic shown. If you want to check us, this is the page to check.</p>
+
+<p class="h2">What counts</p>
+
+<p class="pp"><b>Times through the order:</b> for a batter facing a starting pitcher, his number on any given plate appearance is how many times he has now completed a plate appearance against that starter in that game. Appearances against relievers don&rsquo;t advance the count.</p>
+
+<p class="pp"><b>A completed plate appearance</b> is one that ends with a batter outcome: a hit, an out made at bat, a strikeout, a walk, a hit batsman, a sacrifice fly or bunt, or catcher&rsquo;s interference. Plays that retire a runner while the batter stays at the plate are excluded &mdash; caught stealing, pickoffs, wild pitches, and the plays the data files label &ldquo;Runner Out.&rdquo; Across the 2026 season that exclusion covers 218 plays, against 84,776 completed plate appearances by starters.</p>
+
+<p class="pp"><b>A start</b> belongs to the pitcher who throws the first play of his team&rsquo;s defensive half. Starts facing fewer than nine batters are treated as openers; there were 176 league-wide.</p>
+
+<p class="pp"><b>A survival start</b> is one where the starter faced some batter for a third time. Third and fourth passes are pooled throughout, since fourth passes are rare &mdash; 349 plate appearances in the whole league.</p>
+
+<p class="h2">The formulas</p>
+
+<p class="pp">For any group of plate appearances, add up the counting stats, then:</p>
+
+<pre class="code">OBP = (hits + walks + hit-by-pitch) / (at-bats + walks + hit-by-pitch + sacrifice flies)
+SLG = total bases / at-bats
+OPS = OBP + SLG</pre>
+
+<p class="pp">Sacrifice bunts stay out of the on-base denominator, which is the standard convention.</p>
+
+<p class="pp">Three derived measures carry the piece:</p>
+
+<pre class="code">attainment      = starts reaching a third pass / starts with at least one completed PA
+
+conditional gap = OPS on the 2nd pass in starts he did NOT survive
+                  minus OPS on the 2nd pass in starts he did
+
+within-game     = OPS on the 3rd pass and later, minus OPS on the 2nd pass,
+change            both measured inside survival starts only</pre>
+
+<p class="pp">The last one is the piece&rsquo;s central statistic. Both of its terms come from the same games, which is what makes it a fair comparison.</p>
+
+<p class="pp"><b>One floor governs everything.</b> Any group under 50 plate appearances is reported as a count, never as a rate. A within-game change is withheld when either side falls under the floor, because the difference of two figures we won&rsquo;t quote is itself not quotable.</p>
+
+<p class="h2">Worked example: one start</p>
+
+<p class="pp">Matthew Liberatore, March 26 against Tampa Bay, 24 batters faced. Walking the plate appearances in order and counting each batter&rsquo;s meetings with him:</p>
+
+<table class="mt"><tr><th>Pass</th><th>PA</th><th>AB</th><th>H</th><th>TB</th><th>BB</th></tr><tr><td>1st time through</td><td>9</td><td>8</td><td>3</td><td>3</td><td>1</td></tr><tr><td>2nd time through</td><td>9</td><td>8</td><td>1</td><td>1</td><td>1</td></tr><tr><td>3rd time through</td><td>6</td><td>6</td><td>3</td><td>6</td><td>0</td></tr></table>
+
+<p class="pp">Nine plate appearances is one turn through a nine-man order. The 24th batter he faced was the sixth man seeing him a third time, so this start reached a third pass and joins the survival group. The damage that night landed on the third pass, but one start is an anecdote; the season totals below are the evidence.</p>
+
+<p class="h2">Worked example: a full season</p>
+
+<p class="pp">Liberatore made 25 starts and survived into a third pass in 22 of them. Pooling the plate appearances inside those 22:</p>
+
+<p class="pp"><b>Second pass</b> &mdash; 198 PA, 181 AB, 46 H, 64 TB, 9 BB, 3 HBP, 4 SF</p>
+
+<pre class="code">OBP = (46 + 9 + 3) / (181 + 9 + 3 + 4) = 58 / 197 = .294416
+SLG = 64 / 181                                     = .353591
+OPS                                                = .648008   -&gt;  .648</pre>
+
+<p class="pp"><b>Third pass and later, same 22 starts</b> &mdash; 96 PA, 79 AB, 28 H, 50 TB, 16 BB, 0 HBP, 1 SF</p>
+
+<pre class="code">OBP = (28 + 16 + 0) / (79 + 16 + 0 + 1) = 44 / 96 = .458333
+SLG = 50 / 79                                     = .632911
+OPS                                               = 1.091245  -&gt; 1.091
+
+within-game change = 1.091245 - .648008 = +.443237  -&gt; +.443</pre>
+
+<p class="pp">Both groups clear the 50-PA floor, so both are quotable and so is the difference.</p>
+
+<p class="pp">His season split says .757 on the second pass instead of .648. The gap is the three starts he didn&rsquo;t finish: 22 plate appearances from early hooks, averaged in with the 198 from the games he survived. Blending is what hides the size of the fall.</p>
+
+<p class="h2">The mirror case: when nothing is blended</p>
+
+<p class="pp">Dylan Cease is worth stating carefully, because it is easy to get backwards. He reached a third pass in all 24 of his starts. He has no early-hook plate appearances at all. So for him:</p>
+
+<pre class="code">season split, 2nd pass  = .4647 (225 PA)     2nd pass in survival starts = .4647 (225 PA)
+season split, 3rd on    = .6934 (143 PA)     3rd on in survival starts   = .6934 (143 PA)</pre>
+
+<p class="pp">The two views are the same numbers, necessarily. Presenting the conditional figures as though they uncovered something his season line concealed would be wrong, because there is nothing concealed.</p>
+
+<p class="pp">A different property of the same display is what catches him. His three passes read .489, .465 and .693 against a league of .697, .739 and .747 &mdash; every level better than average. The step between passes is the abnormal part:</p>
+
+<pre class="code">Cease       .6934 - .4647 = +.2287   -&gt;  229 points
+the league  .7474 - .7175 = +.0299   -&gt;   30 points</pre>
+
+<p class="pp">So the standard three-way split can fail a reader two ways. It can blend different kinds of game together, as it does with Liberatore, which conditioning fixes. Or it can be entirely accurate and still invite a comparison against the league rather than against the pitcher&rsquo;s own earlier innings, as it does with Cease, which only reading the step fixes.</p>
+
+<p class="h2">Worked example: the league</p>
+
+<p class="pp">All 3,928 starts, 3,285 of which reached a third pass.</p>
+
+<p class="pp"><b>Second pass, survival starts</b> &mdash; 29,543 PA, 26,586 AB, 6,563 H, 10,757 TB, 2,326 BB, 323 HBP, 208 SF</p>
+
+<pre class="code">OBP = (6563 + 2326 + 323) / (26586 + 2326 + 323 + 208) = 9212 / 29443 = .312876
+SLG = 10757 / 26586                                                    = .404611
+OPS                                                                    = .717487  -&gt; .717</pre>
+
+<p class="pp"><b>Second pass, starts he was pulled from</b> &mdash; 2,966 PA, 2,548 AB, 812 H, 1,408 TB, 340 BB, 43 HBP, 30 SF</p>
+
+<pre class="code">OBP = (812 + 340 + 43) / (2548 + 340 + 43 + 30) = 1195 / 2961 = .403580
+SLG = 1408 / 2548                                              = .552590
+OPS                                                            = .956170  -&gt; .956
+
+conditional gap = .956170 - .717487 = .238683   -&gt;  239 points</pre>
+
+<p class="pp"><b>Third pass and later, survival starts</b> &mdash; 17,402 PA, 15,614 AB, 3,968 H, 6,628 TB, 1,491 BB, 151 HBP, 116 SF</p>
+
+<pre class="code">OBP = (3968 + 1491 + 151) / (15614 + 1491 + 151 + 116) = 5610 / 17372 = .322933
+SLG = 6628 / 15614                                                     = .424491
+OPS                                                                    = .747424 -&gt; .747
+
+within-game change = .747424 - .717487 = +.029937   -&gt;  30 points</pre>
+
+<p class="pp">The two figures the piece contrasts come from the same 3,285 starts: 239 points of difference between kinds of game, and 30 points of decline within them.</p>
+
+<p class="h2">When a difference gets called real</p>
+
+<p class="pp">A within-game change is the difference of two rates built on roughly 100 to 200 plate appearances each, so it carries both of their sampling errors. Before printing one, we ask whether it can be told apart from the league&rsquo;s.</p>
+
+<p class="pp">The test resamples a pitcher&rsquo;s <b>starts</b>, with replacement, two thousand times. The start is the right unit because the manager&rsquo;s decision to pull him operates on whole starts; resampling individual plate appearances would destroy the within-game pattern being measured. Each resample produces a fresh within-game change, and we count which side of the league figure it lands on:</p>
+
+<pre class="code">for each of 2,000 resamples:
+    draw a season of starts, with replacement, the same size as his real one
+    compute the within-game change for that draw
+
+share above the league figure, share below it
+a difference is called REAL when the larger share reaches 95%; below that,
+the figure is printed with a caveat instead of a verdict</pre>
+
+<p class="pp">The test runs in both directions, since a pitcher who is clearly better late is as worth printing as one who collapses.</p>
+
+<table class="mt"><tr><th>Pitcher</th><th>within-game change</th><th>share</th><th>called real</th></tr><tr><td>Matthew Liberatore</td><td>+.443</td><td>99.9%</td><td>yes</td></tr><tr><td>Dylan Cease</td><td>+.229</td><td>98.7%</td><td>yes</td></tr><tr><td>Brady Singer</td><td>&minus;.196</td><td>93.8%</td><td>no, by .012</td></tr><tr><td>Robbie Ray</td><td>&minus;.000</td><td>59.6%</td><td>no</td></tr></table>
+
+<p class="pp">Singer is the instructive one. His improvement is very likely real, and it still falls short of the bar, so the piece prints his 196-point figure with the near-miss stated beside it rather than calling it a pattern. Of the 134 starters with enough work to qualify, 17 clear the bar and 117 fall short.</p>
+
+<p class="h2">The three controls</p>
+
+<p class="pp">Each control recomputes the same within-game change inside a subset of plate appearances. The 50-PA floor applies within every band, so thin bands report counts and no rate.</p>
+
+<table class="mt"><tr><th>Control</th><th>Band</th><th>2nd pass</th><th>3rd on</th><th>change</th></tr><tr><td>Pitches thrown entering the PA</td><td>50&ndash;74</td><td>.691 (14,735 PA)</td><td>.758 (6,538 PA)</td><td>+.067</td></tr><tr><td>Score, from the pitcher&rsquo;s side</td><td>behind by 4+</td><td>.686 (1,384)</td><td>.802 (1,676)</td><td>+.116</td></tr><tr><td>Score, from the pitcher&rsquo;s side</td><td>within 3 runs</td><td>.728 (25,105)</td><td>.749 (12,757)</td><td>+.021</td></tr><tr><td>Opponent, by their own OPS vs starters</td><td>weakest third</td><td>.691 (9,931)</td><td>.719 (5,846)</td><td>+.028</td></tr><tr><td>Opponent, by their own OPS vs starters</td><td>middle third</td><td>.718 (9,748)</td><td>.748 (5,753)</td><td>+.030</td></tr><tr><td>Opponent, by their own OPS vs starters</td><td>strongest third</td><td>.744 (9,864)</td><td>.776 (5,803)</td><td>+.032</td></tr></table>
+
+<p class="pp">Reading the pitch-count rows correctly matters, and it cuts against us. Holding the pitch count roughly fixed trades one selection problem for another: inside a band, a second-pass plate appearance tends to come from a laboring outing while a third-pass one comes from an efficient outing. The band shows that the decline persists under the control. It does not separate batter familiarity from fatigue, and no version of this design can, because the two move together by construction.</p>
+
+<p class="h2">What this does not settle</p>
+
+<p class="pp">The within-game change records what happened. It does not explain why, and familiarity, fatigue and pitch count cannot be pulled apart here.</p>
+
+<p class="pp">It also stops short of certifying anyone as good. A pass-or-fail screen at these sample sizes is unstable: on the same resampling test, the median member of a screen we drafted and rejected held its place in only 35% of replayed seasons. The piece names collapses, which sit far from any threshold, and ranks nobody as reliable.</p>
+
+<p class="pp">There is one bias we should name before anyone else does, because it runs through the central statistic. Managers pull starters partly because they believe in the third-time penalty, and the within-game change is computed only over the starts they chose to extend. Pull earlier and the third passes that still happen come from the best days only, which would make the decline look smaller than it is. So the figure partly reflects how a league uses its starters, not only how starters pitch. Two weak signals point that way &mdash; across the 30 teams, those who let starters go deeper show a slightly larger decline, and from 2025 to 2026 attainment and the decline fell together &mdash; but neither is close to strong enough to lean on, and untangling it needs a multi-season series we have not built yet. It is the next thing we are looking at.</p>
+
+<p class="pp">Year-over-year comparisons need two separate margins kept apart, and it is easy to quote the wrong one. We checked our 2026 data against an independent source for the 2025 season and the two agreed to about a thousandth, so a difference between seasons is not an artifact of which source we used. That is a statement about the <i>instrument</i>. The binding limit is the <i>sample</i>: resampling the league&rsquo;s within-game change puts its own standard error near thirteen thousandths, roughly twenty times coarser. The 2025-to-2026 move of nineteen thousandths is therefore under one and a half standard errors &mdash; a difference we can describe, not a change we can claim.</p>
+
+<p class="pp">And the season is partial: 1,964 games of roughly 2,430, weighted toward April.</p>
+
+<!-- FOOTER -->
+<div class="ft"><p>700 CLARK -- POWERED BY <a href="https://bases.chat">BASES.CHAT</a> | HISTORICAL DATA THROUGH 2025</p></div>
+
+</div>
+<!-- ARCHIVE-NAV:START -->
+<div style="max-width:800px;margin:8px auto 0;text-align:center;font-family:'IBM Plex Sans',sans-serif;font-size:11px;color:#2D3640"><a href="index.html" style="color:#0B1C33;text-decoration:underline;font-weight:bold">archive</a></div>
+<!-- ARCHIVE-NAV:END -->
+</body>
+</html>
