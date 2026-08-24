@@ -1,0 +1,63 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-08-24 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (66-66)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NEXT: BAL</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- PHI 6, STL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;1 0 0 1 1 0 1 0 0 -- 4<br>
+      PHI&nbsp;&nbsp;0 0 0 0 0 0 0 0 6 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Alec Burleson drove in 2 runs with a pair of run-scoring singles, and Jose Fermin hit his 6th home run, as St. Louis carried a 4-0 lead into the ninth yesterday afternoon. Riley O'Brien allowed 6 earned runs in 0.2 innings -- Edmundo Sosa's 3-run double and Kyle Schwarber's 2-run homer (No. 39) completed Philadelphia's series sweep.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Kyle Leahy: 4.0 IP, 0 ER, 4 K -- held Philadelphia scoreless through four innings.<br>
+- Cardinals bullpen (Gastelum, Bruihl, Stanek, Soriano): 4.0 IP, 0 ER combined in innings 5 through 8.<br>
+- Alec Burleson: 2-for-4, 2 RBI -- run-scoring singles in the first and fourth.<br><br>
+<b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Riley O'Brien: 0.2 IP, 5 H, 6 ER -- surrendered a 4-0 ninth-inning lead (Sosa 3-run double, Schwarber homer No. 39).<br>
+- Joshua Baez: 0-for-4, 2 K -- blanked in four at-bats.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+Cardinals off day. No scout report today. Next game: August 25 vs Baltimore Orioles at Busch Stadium, 6:45 PM CT (Game 1 of 3).<br><br>
+<b>Roster notes:</b> Andre Pallante (RHP) remains on the 15-day IL with right elbow inflammation (retroactive to August 18). Hunter Dobbins (RHP) was placed on the 15-day IL August 22 with right forearm tightness. Everson Pereira (RF) went on the 10-day IL August 23 with a left hand contusion. Ramon Urias was activated from the 60-day IL on August 23 and appeared yesterday afternoon.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
