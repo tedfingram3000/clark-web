@@ -1,3 +1,9 @@
+<!-- 700 Clark COMBINED email for 2026-08-24 Monday send (Ted's 08-23 ruling: ONE email).
+     Structure: off-day edition (verbatim from reports/clark-2026-08-24-email.html @ main)
+     + divider + TTO explainer body (verbatim from 700CLARK-tto-explainer-email-BODY-2026-08-24.html,
+     carrying Ted's 08-24 edits). Subject line = Ted's pick in Beehiiv; the piece title renders in-body
+     at the divider. -->
+
 <!-- 700 Clark Email Block -- STL vs OPP 2026-08-24 -->
 <!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
 
@@ -61,3 +67,123 @@ Cardinals off day. No scout report today. Next game: August 25 vs Baltimore Orio
 
 
 </table></div>
+
+<!-- ===== DIVIDER: off-day note -> research piece ===== -->
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<tr><td style="padding:8px 20px 0;">
+  <div style="border-top:2px solid #0B1C33;"></div>
+</td></tr>
+<tr><td style="padding:14px 20px 6px;text-align:center;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TODAY'S RESEARCH</div>
+  <div style="font-size:18px;color:#0B1C33;font-weight:700;font-family:Georgia,'Times New Roman',serif;padding-top:6px;">Three times through, once more with context</div>
+</td></tr>
+</table>
+<!-- ===== /DIVIDER ===== -->
+
+<!-- 700 Clark - TTO explainer BODY-ONLY variant for the platform push. Ted enters the headline separately. -->
+<!-- Headline (enter in platform): Three times through, once more with context -->
+<!-- Suggested subtitle/dek (optional): A new way we’ll read pitchers — starting with the stat we quote most -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff;">
+  <tr><td align="center" style="padding:0 12px;">
+    <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;">
+
+      <tr><td style="font-family:Georgia,'Times New Roman',serif;color:#0B1C33;font-size:16px;line-height:25px;padding:8px 0 0 0;">
+        Last week when I was reviewing the stats for the Cardinals-Reds game I paused when looking at the numbers for Reds starter Brady Singer. The results as he saw batters a second and third time in a game struck me as odd. Hitters had posted a .671 OPS against him the first time through the order, .987 the second time, and .714 the third. Read quickly, that says batters figure him out and then he figures them back. I've been meaning to have more intentionality on the "TTO" stats, so I decided to look a little deeper.
+      </td></tr>
+
+      <tr><td style="font-family:Georgia,'Times New Roman',serif;color:#0B1C33;font-size:16px;line-height:25px;padding:14px 0 0 0;">
+        Here&rsquo;s the problem. A pitcher&rsquo;s first- and second-pass numbers come from essentially every start he makes. His third-pass numbers come only from the games when his manager let him keep pitching, and of course managers mostly do that when the first two passes went well. The third time through isn&rsquo;t a random sample of the same pitcher. It&rsquo;s a highlight reel of his better days, graded on days he&rsquo;d already survived.
+      </td></tr>
+
+      <tr><td style="font-family:Georgia,'Times New Roman',serif;color:#0B1C33;font-size:16px;line-height:25px;padding:14px 0 0 0;">
+        Analysts call this survivorship bias, and the researchers who&rsquo;ve studied times through the order have all had to address it. Mitchel Lichtman, co-author of <i>The Book</i>, measured the decline at roughly ten points of wOBA per pass across every start from 2000 through 2012 &mdash; and had to adjust for the quality of the pitchers and hitters involved precisely because the raw splits wouldn&rsquo;t hold still. Russell Carleton at Baseball Prospectus found the decline tracks pitch count more than batter familiarity. Tired arms more than hitters solving a repertoire accounted for decline in his analysis. And in 2022, three academic statisticians (Ryan Brill, Sameer Deshpande, and Abraham Wyner) modeled every plate appearance and concluded that pitchers fade continuously through a game rather than falling off a cliff at any one pass. The three methods shared the conclusion that the fade through a game is real. The argument is over why it happens and how badly the naive splits measure it &mdash; and Singer&rsquo;s line is a great exhibit of the measurement problem.
+      </td></tr>
+
+      <tr><td style="font-family:Georgia,'Times New Roman',serif;color:#0B1C33;font-size:16px;line-height:25px;padding:14px 0 0 0;">
+        So 700 Clark rebuilt the stat from the play-by-play, one plate appearance at a time, for every Cardinals start this season &mdash; 132 games &mdash; plus Singer&rsquo;s 25 for Cincinnati.
+      </td></tr>
+
+      <tr><td style="font-family:Georgia,'Times New Roman',serif;color:#0B1C33;font-size:16px;line-height:25px;padding:14px 0 0 0;">
+        <b>How often does a third pass even happen?</b> Cardinals starters reached the third time through in 115 of 132 games, 87 percent. Andre Pallante (now on the IL) leads the staff at 23 of 24 starts. Singer, for all the noise in his splits, got there in 23 of 25. The hook almost never spares anyone a third pass.
+      </td></tr>
+
+      <tr><td style="font-family:Georgia,'Times New Roman',serif;color:#0B1C33;font-size:16px;line-height:25px;padding:14px 0 0 0;">
+        <b>What was the second pass like in the games that produced a third?</b> This is where the aggregate is misleading. As a staff, Cardinals starters have allowed a .692 OPS the second time through in games where they pitched on into a third pass, and a 1.081 OPS in the second pass in the games where a third never came (109 plate appearances). Same pitchers, same pass, 389 points apart. The second-pass number you see in a season split averages the days a starter earned a longer leash with the days he was gone early. Matthew Liberatore is the cleanest example. His season second-pass OPS is .757, but that&rsquo;s a .648 across his 22 starts that reached a third pass, blended with a 1.745 across the 22 second-pass plate appearances from his three starts that never got there. Singer is the extreme case: his .987 second pass is .911 in the games he survived and 1.901 across the 17 second-pass plate appearances in his two starts that ended early.
+      </td></tr>
+
+      <!-- ===== VISUAL: Singer's second pass, unblended ===== -->
+      <tr><td style="padding:20px 0 0 0;">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #2D3640;border-left:4px solid #0B1C33;">
+          <tr><td style="font-family:Helvetica,Arial,sans-serif;color:#0B1C33;font-size:14px;font-weight:bold;padding:14px 16px 2px 16px;">
+            LIBERATORE, UNBLENDED
+          </td></tr>
+          <tr><td style="font-family:Helvetica,Arial,sans-serif;color:#2D3640;font-size:12px;line-height:16px;padding:0 16px 12px 16px;">
+            OPS against Matthew Liberatore, 2026. Bar length is OPS.
+          </td></tr>
+
+          <tr><td style="font-family:Helvetica,Arial,sans-serif;color:#2D3640;font-size:12px;padding:0 16px 3px 16px;">
+            Second pass, season split &middot; 220 PA
+          </td></tr>
+          <tr><td style="padding:0 16px 10px 16px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+              <td width="38%" style="background-color:#0B1C33;font-family:Helvetica,Arial,sans-serif;color:#ffffff;font-size:13px;font-weight:bold;padding:5px 8px;" align="right">.757</td>
+              <td style="font-size:0;line-height:0;">&nbsp;</td>
+            </tr></table>
+          </td></tr>
+
+          <tr><td style="font-family:Helvetica,Arial,sans-serif;color:#2D3640;font-size:12px;padding:0 16px 3px 16px;">
+            Second pass, the 22 starts that reached a third &middot; 198 PA
+          </td></tr>
+          <tr><td style="padding:0 16px 10px 16px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+              <td width="32%" style="background-color:#2E7D32;font-family:Helvetica,Arial,sans-serif;color:#ffffff;font-size:13px;font-weight:bold;padding:5px 8px;" align="right">.648</td>
+              <td style="font-size:0;line-height:0;">&nbsp;</td>
+            </tr></table>
+          </td></tr>
+
+          <tr><td style="font-family:Helvetica,Arial,sans-serif;color:#2D3640;font-size:12px;padding:0 16px 3px 16px;">
+            Second pass, the 3 starts that ended early &middot; 22 PA
+          </td></tr>
+          <tr><td style="padding:0 16px 10px 16px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+              <td width="87%" style="background-color:#8B3A3A;font-family:Helvetica,Arial,sans-serif;color:#ffffff;font-size:13px;font-weight:bold;padding:5px 8px;" align="right">1.745</td>
+              <td style="font-size:0;line-height:0;">&nbsp;</td>
+            </tr></table>
+          </td></tr>
+
+          <tr><td style="font-family:Helvetica,Arial,sans-serif;color:#2D3640;font-size:12px;padding:0 16px 3px 16px;">
+            Third pass, those same 22 starts &middot; 96 PA
+          </td></tr>
+          <tr><td style="padding:0 16px 6px 16px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+              <td width="55%" style="background-color:#B8860B;font-family:Helvetica,Arial,sans-serif;color:#ffffff;font-size:13px;font-weight:bold;padding:5px 8px;" align="right">1.091</td>
+              <td style="font-size:0;line-height:0;">&nbsp;</td>
+            </tr></table>
+          </td></tr>
+
+          <tr><td style="font-family:Helvetica,Arial,sans-serif;color:#2D3640;font-size:12px;line-height:17px;padding:4px 16px 14px 16px;">
+            The season number blends two different pitchers: the one who earned third passes and the one who got pulled. 22 PA is a count, not a stat &mdash; which is the point. And the amber bar is the other thing the season split hides: in the very starts he entered so well, the third pass cost him 443 points.
+          </td></tr>
+        </table>
+      </td></tr>
+      <!-- ===== /VISUAL ===== -->
+
+      <tr><td style="font-family:Georgia,'Times New Roman',serif;color:#0B1C33;font-size:16px;line-height:25px;padding:20px 0 0 0;">
+        <b>Within the survival games, what actually happens on the third pass?</b> Compare each pitcher&rsquo;s third pass to his own second pass in the same games, and the staff gets about 107 points of OPS worse. Across the full 2025 season, league starters who earned a third pass gave back 49 points on it, a .707 second-pass OPS in those games rising to .756 across 21,685 third-pass plate appearances. This staff&rsquo;s slide is roughly two and a half times the league&rsquo;s most recent full-season number. The third pass itself is routine everywhere: 2025 starters reached one in 85 percent of starts.
+      </td></tr>
+
+      <tr><td style="font-family:Georgia,'Times New Roman',serif;color:#0B1C33;font-size:16px;line-height:25px;padding:14px 0 0 0;">
+        But the individuals split in opposite directions. Liberatore, so good the second time through in his survival starts, collapses by 443 points on the third pass; his steady-looking season splits hide the sharpest cliff on the staff. Singer is the mirror image: in the very games that produced his third-pass .714, hitters had just put up .911 the pass before. He&rsquo;s one of the few starters anywhere who improves the third time through &mdash; the one thing his raw splits accidentally got right.
+      </td></tr>
+
+      <tr><td style="font-family:Georgia,'Times New Roman',serif;color:#0B1C33;font-size:16px;line-height:25px;padding:14px 0 0 0;">
+        The same season split made Singer look scary and Liberatore look steady at exactly the passes where the opposite is true. The stat points backwards.
+      </td></tr>
+
+      <tr><td style="font-family:Georgia,'Times New Roman',serif;color:#0B1C33;font-size:16px;line-height:25px;padding:14px 0 24px 0;">
+        <b>What changes in 700 Clark.</b> Now when we cite times-through-the-order numbers you&rsquo;ll see them with their context attached: how many starts actually produced a third pass, and, where the plate appearance samples are large enough, how the second pass looked in those same games.
+      </td></tr>
+
+    </table>
+  </td></tr>
+</table>
