@@ -1,0 +1,77 @@
+<!-- 700 Clark Email Block -- STL vs BAL 2026-08-25 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (66-66)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BAL (63-68)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD (L) -- -- ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, August 25, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Bassitt (R) -- 5.08 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Bassitt's 2026 first-pass OPS against is 0.977, and his 2026 road ERA stands at 7.28 -- Busch Stadium is exactly the setting where he has struggled most this season. The Cardinals' best offensive window is the opening rotation; it is front-loaded, clearly defined, and does not stay open long.<br><br><b style="color:#8B3A3A;">Threat:</b> Bassitt has pitched into a third pass in 10 of 12 starts this season, and once he reaches it his 2026 OPS against falls to 0.639. A season ERA of 5.08 and WHIP of 1.62 describe a hittable starter, but both figures blend his early-inning exposure with a late-inning profile that offers far less room to score; if the first rotation passes quietly, the Cardinals face a considerably harder version of Bassitt for the remainder of the night.<br><br><b style="color:#B8860B;">Watch:</b> Bassitt has allowed 83 hits this season and carries a 2026 ground-ball rate of 52.1 percent -- a contact-heavy profile that rewards assertive swings rather than passive counts. Squandering at-bats in the opening rotation hands Bassitt the outs he needs to reach the innings where he has been most effective; the Cardinals score by attacking early, not by waiting him out.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Ramon Urias.</b> Urias carries the richest career BvP line against Bassitt on this roster: .500/.556/.875 across 9 plate appearances, including a home run. Because Bassitt grows more difficult as games deepen, first-rotation at-bats from Urias hold the highest individual ceiling in the Cardinals lineup tonight.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Alec Burleson.</b> Burleson has posted the most damaging career line against Bassitt in this lineup: .600/.600/1.400 in 5 plate appearances, including a home run. As a left-handed hitter, he carries a structural platoon edge against a pitcher whose exposure to left-handed bats is his sharpest current vulnerability.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Cardinals Left-Handed Bats.</b> Bassitt's steepest current exposure is against left-handed hitters: in 2026, lefties have posted a .333/.407/.524 line across 194 batters faced, a .931 OPS compared to .631 for right-handed hitters across 115 batters faced. The Cardinals' left-handed contingent tonight -- Burleson, Torres, Wetherholt, Crooks, and Church -- accounts for most of the batting order, giving the platoon edge repeated exposure.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Chris Bassitt.</b> The .931 OPS against left-handed hitters in 2026 is not a single-season aberration: in 2025, lefties posted a 0.813 OPS against Bassitt over 419 plate appearances, compared to 0.646 for right-handed hitters over 317, establishing the split as a durable feature of his profile.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Chris Bassitt.</b> Bassitt has pitched into a third pass in 10 of his 12 starts this season. If he works through St. Louis cleanly in the first two rotations, watch whether the Cardinals have already put runs on the board -- his third-pass stretch is where opposing bats have done the least damage in 2026, and the offensive window narrows sharply once he reaches it.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Chris Bassitt.</b> If his 2026 BB% (8.4) spikes early, watch Cardinals hitters extend counts and push his pitch count -- forcing a second trip through the batting order before he can settle into his sharper late-game form.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Pedro Pages.</b> If Baltimore reaches base, Henderson (10 SB, 66.7% success in 2026) and Cowser (8 SB, 72.7%) present a legitimate running threat. Pages has thrown out 31.5% of basestealing attempts this season -- watch whether that rate holds against the Orioles' most active baserunners.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Gunnar Henderson, Jackson Holliday.</b> If the Cardinals' left-handed starter is confirmed, watch whether platoon suppression materializes -- 2026 splits complicate the picture. Henderson has hit .222/.293/.419 in 184 PA against left-handers this season, compared to .224/.286/.318 in 210 PA in 2025, with the 2026 slugging notably higher. Holliday sits at .233/.333/.333 in 69 PA vs lefties in 2026, above his 2025 mark of .200/.263/.309 in 179 PA. The hand advantage the Cardinals' starter carries may be narrower than prior-year tracks alone would suggest.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P31] The Cardinals rotation is pacing at 845.3 starter innings -- the franchise fewest is 832.7 (2021) | window: season to date (132 team games) | stats: {'kind': 'rotation_record_pace', 'stat': 'starter innings', 'direction': 'fewest', 'unit': 'innings', 'current': 688.7, 'games': 132, 'starts': 132, 'pace_162': 845.3, 'franchise_record': 832.7, 'franchise_record_year': 2021, 'ip_per_start': 5.22, 'qs_rate': 0.356, 'league_comparator': 'modern_era_2015_2025_distribution', 'league_z_ip_per_start': -0.29, 'league_z_qs_rate': -0.38, 'franchise_opposite_record': 1180.7, 'franchise_opposite_record_year': 1968, 'mlb_record': 624.0, 'mlb_record_year': 2018, 'mlb_record_team': 'TBA'}
+  [2] [P1] Michael McGreevy has unraveled over his last 5 starts: 10.36 ERA vs 3.32 before | window: last 5 starts (since 2026-07-28) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-07-28', 'before': 3.32, 'after': 10.36, 'before_starts': 20, 'after_starts': 5, 'window_unit': 'starts', 'role': 'SP', 'delta': 7.04}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P31/negative] The rotation is at 0.2 quality-start rate over the last 15 games -- against 0.376 before that
+    - [P1/negative] Michael McGreevy has unraveled over his last 5 starts: 10.36 ERA vs 3.32 before
+    - [P4/positive] Since 2026-08-08, the Cardinals rank 3 of 30 in runs scored per game (5.19) -- best-5 territory
+    - [P6/positive] Matthew Liberatore has set a new personal season best in strikeouts: 125, passing his 122 (2025)
+    - [P21/negative] The Cardinals are underperforming their Pythagorean record by 0 wins (66-66 actual vs a 66-66 run-differential expectation, Bill James exponent 1.83) -- due for a correction
+    - [P1/negative] Since 2026-05-17, Cardinals win pct has declined: 0.6 before vs 0.448 after
+    - [P2/positive] Alec Burleson: hitting streak at 10 games
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b style="color:#8B3A3A;">The Cardinals rotation is pacing toward a franchise record in fewest starter innings.</b> Through 132 games, starters have logged 688.7 innings and are on pace for 845.3 on the year, which would edge past the franchise low of 832.7 set in 2021. The staff is averaging 5.22 innings per start with a 0.356 quality-start rate, and over the last 15 games the quality-start rate has retreated to 0.2, against 0.376 before that stretch.<br><br><b style="color:#8B3A3A;">Michael McGreevy has posted a 10.36 ERA over his last 5 starts, against a 3.32 mark across his 20 starts before 2026-07-28.</b> The 7.04-point spread flags a sharp reversal in his starting work.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
