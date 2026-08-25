@@ -149,7 +149,7 @@ body{margin:0;padding:20px 8px;font-family:'IBM Plex Sans',sans-serif;background
 
 <p class="pp">Two units are getting mixed together here. &ldquo;Going deep&rdquo; usually means innings, and this measures turns through the order, and they come apart: a pitcher who retires 18 in six clean innings never faces the order a third time, while one who labors through 27 in five does. There is also a harder question underneath, which we are looking at next rather than answering here. Managers pull starters partly because they believe in the third-time penalty, and everything we just measured comes from the starts they chose to extend. Hook earlier and the third passes that survive are the best days only, which would make the penalty look smaller than it is. That cuts against our own number, and we would rather say so than not.</p>
 
-<p class="pp"><b>How to read the small samples here.</b> We are using a single season of plate appearances. At scale that is significant. When it breaks down to a single pitcher and a handful of starts that end early the sample sizes get small. We will treat actual outcomes however small as the truth of what happened &mdash; we don&rsquo;t get do-overs. What a small sample can&rsquo;t tell you on its own is whether a number is a pattern or a hot stretch: a starter&rsquo;s third-pass line rests on maybe a hundred plate appearances. So every within-game change we print carries <b>confidence bounds</b> &mdash; the range the number could reasonably take given how many starts and plate appearances produced it. The league&rsquo;s 30-point figure, built on 3,285 surviving starts, carries bounds of 9 to 50 points. A single pitcher&rsquo;s, built on 20-odd starts, is typically about 150 points wide in each direction. When a pitcher&rsquo;s entire range sits on one side of the league&rsquo;s figure, the difference is statistically significant and we say so. When the range crosses the league line, the number still prints, with its sample next to it; it just doesn&rsquo;t get the label. The ten pitchers named next are all significant.</p>
+<p class="pp"><b>How to read the small samples here.</b> We are using a single season of plate appearances. At scale that is significant. When it breaks down to a single pitcher and a handful of starts that end early the sample sizes get small. We will treat actual outcomes however small as the truth of what happened &mdash; we don&rsquo;t get do-overs. What a small sample can&rsquo;t tell you on its own is whether a number is a pattern or a hot stretch. A starter&rsquo;s third-pass line rests on maybe a hundred plate appearances. So every within-game change we print carries <b>confidence bounds</b>: the range the number could reasonably be, given the starts that produced it. The bounds are plain arithmetic on his actual starts &mdash; no simulation, no model. (The math is on the methods page below.) The league&rsquo;s 30-point figure is built on 3,285 starts, so its bounds are tight: 9 to 51 points. One pitcher&rsquo;s figure is built on 20-odd starts, so his bounds are wide &mdash; often 150 points in each direction. When a pitcher&rsquo;s whole range sits on one side of the league figure, the difference is statistically significant, and we say so. When his range crosses the league line, the number still prints, with its sample next to it. It just doesn&rsquo;t get the label. The nine pitchers named next are all significant.</p>
 
 <div class="cb">
   <p class="cbt">Where 134 Starters&rsquo; Third-Pass Changes Land</p>
@@ -180,35 +180,33 @@ body{margin:0;padding:20px 8px;font-family:'IBM Plex Sans',sans-serif;background
     <text x="666" y="184" font-family="'IBM Plex Sans',sans-serif" font-size="10" fill="#2D3640" text-anchor="middle">+.8</text>
     <text x="360" y="202" font-family="'IBM Plex Sans',sans-serif" font-size="10" fill="#707070" text-anchor="middle">within-game change, 2nd pass to 3rd (points of OPS)</text>
   </svg>
-  <p class="cbc">Most starters sit in the middle, where their bounds cross the league line and no verdict is possible. Significance is a property of a pitcher&rsquo;s own bounds, not of where his point lands: Kyle Leahy&rsquo;s +.228 misses the label (bounds &minus;.116 to +.574) while Dylan Cease&rsquo;s +.229 earns it (bounds +.082 to +.385), because Cease&rsquo;s season is twice as consistent about it.</p>
+  <p class="cbc">Most starters sit in the middle, where their bounds cross the league line and no verdict is possible. Significance is a property of a pitcher&rsquo;s own bounds, not of where his point lands: Kyle Leahy&rsquo;s +.228 misses the label (bounds &minus;.127 to +.582) while Dylan Cease&rsquo;s +.229 earns it (bounds +.068 to +.390). Cease&rsquo;s season is steadier start to start, so his bounds are tighter.</p>
 </div>
 
-<p class="pp"><b>Which makes the exceptions worth naming.</b> Ten starters this season decline by so much more than the league that the entire range of their confidence bounds sits above the league&rsquo;s 30 points &mdash; their fall is statistically significant, not just large. That is a statement about the size of their fall, not about where they end up: a couple of them are still better than average on the third pass, and falling further than anyone else to get there. The leaders are Cincinnati&rsquo;s Nick Lodolo, the Athletics&rsquo; Jacob Lopez, Seattle&rsquo;s Bryce Miller and Cleveland&rsquo;s Slade Cecconi. Then, fifth-worst in baseball, the Cardinals&rsquo; Matthew Liberatore. His second pass in survival starts is a very good .648. From the third pass on in those same games it is 1.091. Shota Imanaga, Tarik Skubal, Taj Bradley, Christian Scott and Dylan Cease round out the ten.</p>
+<p class="pp"><b>Which makes the exceptions worth naming.</b> Nine starters this season decline by so much more than the league that their whole bounds range sits above the league&rsquo;s 30 points. Their fall is statistically significant, not just large. That is a statement about the size of their fall, not about where they end up: a couple of them are still better than average on the third pass, and falling further than anyone else to get there. The leaders are Cincinnati&rsquo;s Nick Lodolo, the Athletics&rsquo; Jacob Lopez, Seattle&rsquo;s Bryce Miller and Cleveland&rsquo;s Slade Cecconi. Then, fifth-worst in baseball, the Cardinals&rsquo; Matthew Liberatore. His second pass in survival starts is a very good .648. From the third pass on in those same games it is 1.091. Tarik Skubal, Taj Bradley, Christian Scott and Dylan Cease round out the nine. Some big falls miss the list: Shota Imanaga (+.316), Trey Yesavage (+.404) and Paul Skenes (+.266) all fell hard, but their seasons swing too much from start to start, so their bounds cross the league line. Their numbers print; the label waits.</p>
 
 <div class="cb">
-  <p class="cbt">Ten Starters Who Really Do Fall Off</p>
+  <p class="cbt">Nine Starters Who Really Do Fall Off</p>
   <p class="cbs">Within-game change = 3rd-pass OPS minus 2nd-pass OPS, in the same starts. Bar length is the change; confidence bounds after each name. League change: +.030. Cardinals starter in red.</p>
-  <p class="bl">Nick Lodolo (CIN) &middot; 15 GS &middot; 70 PA on 3rd &middot; bounds +.429 to +1.056</p>
+  <p class="bl">Nick Lodolo (CIN) &middot; 15 GS &middot; 70 PA on 3rd &middot; bounds +.390 to +1.032</p>
   <div class="bar" style="width:100%;background:#0B1C33">+.711</div>
-  <p class="bl">Jacob Lopez (ATH) &middot; 18 GS &middot; 73 PA on 3rd &middot; bounds +.227 to +.872</p>
+  <p class="bl">Jacob Lopez (ATH) &middot; 18 GS &middot; 73 PA on 3rd &middot; bounds +.204 to +.862</p>
   <div class="bar" style="width:75%;background:#0B1C33">+.533</div>
-  <p class="bl">Bryce Miller (SEA) &middot; 16 GS &middot; 73 PA on 3rd &middot; bounds +.226 to +.848</p>
+  <p class="bl">Bryce Miller (SEA) &middot; 16 GS &middot; 73 PA on 3rd &middot; bounds +.217 to +.841</p>
   <div class="bar" style="width:75%;background:#0B1C33">+.529</div>
-  <p class="bl">Slade Cecconi (CLE) &middot; 21 GS &middot; 94 PA on 3rd &middot; bounds +.166 to +.898</p>
+  <p class="bl">Slade Cecconi (CLE) &middot; 21 GS &middot; 94 PA on 3rd &middot; bounds +.153 to +.895</p>
   <div class="bar" style="width:73%;background:#0B1C33">+.524</div>
-  <p class="bl">Matthew Liberatore (STL) &middot; 25 GS &middot; 96 PA on 3rd &middot; bounds +.196 to +.674</p>
+  <p class="bl">Matthew Liberatore (STL) &middot; 25 GS &middot; 96 PA on 3rd &middot; bounds +.207 to +.680</p>
   <div class="bar" style="width:62%;background:#8B3A3A">+.443</div>
-  <p class="bl">Shota Imanaga (CHC) &middot; 26 GS &middot; 127 PA on 3rd &middot; bounds +.040 to +.638</p>
-  <div class="bar" style="width:45%;background:#0B1C33">+.316</div>
-  <p class="bl">Tarik Skubal (DET/LAD) &middot; 20 GS &middot; 111 PA on 3rd &middot; bounds +.059 to +.500</p>
+  <p class="bl">Tarik Skubal (DET/LAD) &middot; 20 GS &middot; 111 PA on 3rd &middot; bounds +.049 to +.508</p>
   <div class="bar" style="width:39%;background:#0B1C33">+.278</div>
-  <p class="bl">Taj Bradley (MIN) &middot; 25 GS &middot; 148 PA on 3rd &middot; bounds +.071 to +.469</p>
+  <p class="bl">Taj Bradley (MIN) &middot; 25 GS &middot; 148 PA on 3rd &middot; bounds +.069 to +.465</p>
   <div class="bar" style="width:38%;background:#0B1C33">+.267</div>
-  <p class="bl">Christian Scott (NYM) &middot; 19 GS &middot; 56 PA on 3rd &middot; bounds +.067 to +.433</p>
+  <p class="bl">Christian Scott (NYM) &middot; 19 GS &middot; 56 PA on 3rd &middot; bounds +.045 to +.432</p>
   <div class="bar" style="width:34%;background:#0B1C33">+.238</div>
-  <p class="bl">Dylan Cease (TOR) &middot; 24 GS &middot; 145 PA on 3rd &middot; bounds +.082 to +.385</p>
+  <p class="bl">Dylan Cease (TOR) &middot; 24 GS &middot; 145 PA on 3rd &middot; bounds +.068 to +.390</p>
   <div class="bar" style="width:32%;background:#0B1C33">+.229</div>
-  <p class="cbc">For all ten, even the low end of the bounds sits above the league&rsquo;s +.030.</p>
+  <p class="cbc">For all nine, even the low end of the bounds sits above the league&rsquo;s +.030.</p>
 </div>
 
 <p class="pp"><b>And here is why the standard split can&rsquo;t find them.</b> Thirteen starters have three-way numbers that all look at or better than league average and fail our survivorship screen anyway. Nine of the thirteen fail on the within-game step alone. Dylan Cease is the clearest. His line reads .489, .465, .693, against a league of .697, .739, .747 &mdash; every pass better than average, nothing on the card to flag. Now read the step instead of the levels. From the second time through to the third, hitters gain 229 points on him. The league gains 30.</p>
@@ -216,7 +214,7 @@ body{margin:0;padding:20px 8px;font-family:'IBM Plex Sans',sans-serif;background
 <p class="pp">And unlike Liberatore, nothing here is blended: Cease reached a third pass in all 24 of his starts, so his season line and his survival-start line are the same numbers. The split is telling the truth. It just invites you to compare him to the league instead of to himself. Cam Schlittler, Chris Sale, Reid Detmers and Gavin Williams show smaller versions of the same shape &mdash; clean-looking lines, a bigger step inside them &mdash; though none of the four&rsquo;s bounds clear the league line, so we note the shape and stop there.</p>
 
 <div class="cb">
-  <p class="cbt">Dylan Cease: Every Pass Better Than League, and Still One of the Ten</p>
+  <p class="cbt">Dylan Cease: Every Pass Better Than League, and Still One of the Nine</p>
   <p class="cbs">OPS allowed, 2026. He reached a 3rd pass in all 24 starts, so nothing here is blended. Navy = Cease. Amber = league average for the same pass.</p>
   <p class="bl">1st time through &middot; Cease &middot; 218 PA</p>
   <div class="bar" style="width:65%;background:#0B1C33">.489</div>
@@ -233,11 +231,11 @@ body{margin:0;padding:20px 8px;font-family:'IBM Plex Sans',sans-serif;background
   <p class="cbc">Read the step, not the levels: Cease +.229 from 2nd to 3rd, league +.030.</p>
 </div>
 
-<p class="pp">The mirror case is still Brady Singer, whose splits we picked apart last time. In the games he pitched into a third pass, hitters had him at .911 on the second pass and .714 from the third on &mdash; better late by 196 points of OPS. His bounds run from &minus;.436 to +.061, and that upper end just crosses the league line, so the improvement misses the significant label by a hair &mdash; read it as a strong lean rather than a settled pattern. Either way his ugly aggregate second-pass number is the artifact rather than the third-pass one.</p>
+<p class="pp">The mirror case is still Brady Singer, whose splits we picked apart last time. In the games he pitched into a third pass, hitters had him at .911 on the second pass and .714 from the third on &mdash; better late by 196 points of OPS. His bounds run from &minus;.448 to +.056, and that upper end just crosses the league line, so the improvement misses the significant label &mdash; read it as a strong lean rather than a settled pattern. Either way his ugly aggregate second-pass number is the artifact rather than the third-pass one.</p>
 
-<p class="pp"><b>Why there&rsquo;s no list of the ten who hold up best.</b> We tried to build one &mdash; it is the piece this piece was supposed to be. To be clear about what that list would have been: not the smallest pass-to-pass changes, but starters whose OPS allowed sits at or better than league average at each of the three levels. (Cease qualifies on those levels &mdash; and carries one of the ten biggest pass-to-pass falls. Levels and steps are different tests.) The list failed on its confidence bounds. A collapse can be named because its fall clears the league value by a wide margin. A &ldquo;good at all three levels&rdquo; screen puts its members right at the cut that defines it, where the bounds swallow the verdict: in our drafted screen of nineteen, the median member kept his place in only 35 of 100 season resamples, and nobody kept it in even 80. Tightening the standard made it worse. We would rather give you no list than one that unstable.</p>
+<p class="pp"><b>Why there&rsquo;s no list of the ten who hold up best.</b> We tried to build one &mdash; it is the piece this piece was supposed to be. To be clear about what that list would have been: not the smallest pass-to-pass changes, but starters whose OPS allowed sits at or better than league average at each of the three levels. (Cease qualifies on those levels &mdash; and carries one of the biggest pass-to-pass falls in baseball. Levels and steps are different tests.) The list failed on its confidence bounds. A collapse can be named because its fall clears the league value by a wide margin. A &ldquo;good at all three levels&rdquo; screen is the opposite case: by its own design, its members sit close to the cut that defines it, and their margins of error dwarf their edge over it. In our drafted screen of nineteen, the middle member&rsquo;s edge over the cut was about 90 points &mdash; and his margin of error was about 225, two and a half times his edge. A ranking built on that would be mostly noise. Tightening the standard made it worse. We would rather give you no list than that one.</p>
 
-<p class="pp"><b>The staff, in detail.</b> St. Louis starters reach the third time through about as often as anyone &mdash; 115 of 132 starts, against a league rate of 84 percent. What happens next is the problem: the staff&rsquo;s second pass in survival starts is .692 and its third pass is .799, a slide of 107 points against the league&rsquo;s 30. That slide is the truth of this season, and its bounds are wide &mdash; +.005 to +.215, a range that reaches down across the league line, so the staff-level figure misses the significant label. Liberatore is most of it, and his own fall clears the bar comfortably. Andre Pallante is the counterweight. He has reached a third pass in 23 of 24 starts, held hitters to .613 on the second pass in those games and .684 from the third on &mdash; a change of +.071 with bounds of &minus;.113 to +.256, indistinguishable from the league. Below, the same unblended view for every starter on the staff: the second pass the season split shows you, the two kinds of game it blends, and what the third pass actually did in the games that had one.</p>
+<p class="pp"><b>The staff, in detail.</b> St. Louis starters reach the third time through about as often as anyone &mdash; 115 of 132 starts, against a league rate of 84 percent. What happens next is the problem: the staff&rsquo;s second pass in survival starts is .692 and its third pass is .799, a slide of 107 points against the league&rsquo;s 30. That slide is the truth of this season, and its bounds are wide &mdash; +.001 to +.213, a range that reaches down across the league line, so the staff-level figure misses the significant label. Liberatore is most of it, and his own fall clears the bar comfortably. Andre Pallante is the counterweight. He has reached a third pass in 23 of 24 starts, held hitters to .613 on the second pass in those games and .684 from the third on &mdash; a change of +.071 with bounds of &minus;.116 to +.258, indistinguishable from the league. Below, the same unblended view for every starter on the staff: the second pass the season split shows you, the two kinds of game it blends, and what the third pass actually did in the games that had one.</p>
 
 <div class="cb">
   <p class="cbt">Leahy, unblended</p>
@@ -458,25 +456,26 @@ within-game change = .747424 - .717487 = +.029937   -&gt;  30 points</pre>
 
 <p class="h2">The confidence bounds, and when a difference gets called significant</p>
 
-<p class="pp">A within-game change is the difference of two rates built on roughly 100 to 200 plate appearances each, so it carries both of their sampling errors. Before printing one, we put bounds on it: the range the number could reasonably take given the season that produced it.</p>
+<p class="pp">A within-game change is the difference of two rates, each built on roughly 100 to 200 plate appearances, so it carries both of their sampling errors. Before printing one, we put bounds on it: the range the number could reasonably be, given the season that produced it.</p>
 
-<p class="pp">The bounds come from resampling a pitcher&rsquo;s <b>starts</b>, with replacement, two thousand times. The start is the right unit because the manager&rsquo;s decision to pull him operates on whole starts; resampling individual plate appearances would destroy the within-game pattern being measured. Each resample produces a fresh within-game change:</p>
+<p class="pp">The bounds come from the pitcher&rsquo;s own starts, with no simulation and no random numbers. We recompute his pooled within-game change once for each of his starts, each time leaving that one start out. How much those recomputations scatter tells us how much any single start swings his season figure. A standard formula &mdash; the jackknife &mdash; turns that scatter into a standard error. The <b>start</b> is the unit, not the plate appearance. A manager&rsquo;s hook decision operates on whole starts. And the plate appearances inside one start share the same night: the same opponent, the same stuff, the same score.</p>
 
-<pre class="code">for each of 2,000 resamples:
-    draw a season of starts, with replacement, the same size as his real one
-    compute the within-game change for that draw
+<pre class="code">for each of his n starts:
+    recompute the within-game change with that start left out
 
-bounds       = the middle 90% of those resampled values
-a change is  SIGNIFICANT when its entire bounds range sits on one side of
-             the league figure; otherwise it prints with its sample and no label</pre>
+SE     = the jackknife standard error of those n values
+bounds = change &plusmn; 1.645 &times; SE          (a 90% margin of error)
+
+a change is SIGNIFICANT when its entire bounds range sits on one side
+of the league figure; otherwise it prints with its sample and no label</pre>
 
 <p class="pp">The test runs in both directions, since a pitcher who is clearly better late is as worth printing as one who collapses.</p>
 
-<table class="mt"><tr><th>Pitcher</th><th>within-game change</th><th>bounds</th><th>significant</th></tr><tr><td>Matthew Liberatore</td><td>+.443</td><td>+.196 to +.674</td><td>yes</td></tr><tr><td>Dylan Cease</td><td>+.229</td><td>+.082 to +.385</td><td>yes</td></tr><tr><td>Brady Singer</td><td>&minus;.196</td><td>&minus;.436 to +.061</td><td>no &mdash; the upper end crosses the league line</td></tr><tr><td>Robbie Ray</td><td>&minus;.000</td><td>&minus;.198 to +.224</td><td>no</td></tr></table>
+<table class="mt"><tr><th>Pitcher</th><th>within-game change</th><th>bounds</th><th>significant</th></tr><tr><td>Matthew Liberatore</td><td>+.443</td><td>+.207 to +.680</td><td>yes</td></tr><tr><td>Dylan Cease</td><td>+.229</td><td>+.068 to +.390</td><td>yes</td></tr><tr><td>Shota Imanaga</td><td>+.316</td><td>+.014 to +.619</td><td>no &mdash; the lower end crosses the league line</td></tr><tr><td>Brady Singer</td><td>&minus;.196</td><td>&minus;.448 to +.056</td><td>no &mdash; the upper end crosses</td></tr><tr><td>Robbie Ray</td><td>&minus;.000</td><td>&minus;.209 to +.209</td><td>no</td></tr></table>
 
-<p class="pp">Singer is the instructive one. His improvement is large, and his upper bound still edges past the league line, so the piece prints his 196-point figure with that stated beside it rather than calling it significant. Of the 134 starters with enough work to qualify, nineteen are distinguishable from the league &mdash; the ten collapses named in the piece and nine starters whose third pass is significantly <i>better</i> &mdash; and 115 fall short.</p>
+<p class="pp">Imanaga and Singer are the instructive rows. Both changes are large. But both seasons swing hard from start to start, so both ranges touch the other side of the league line, and neither gets the label. Of the 134 starters with enough work to qualify, seventeen are distinguishable from the league: the nine collapses named in the piece, and eight starters whose third pass is significantly <i>better</i>. The other 117 fall short.</p>
 
-<p class="pp">The same construction applies to pooled groups. The league&rsquo;s own +.030, built on 3,285 surviving starts, carries bounds of +.009 to +.050. The Cardinals staff&rsquo;s +.107 carries bounds of +.005 to +.215 &mdash; wide, because even a staff&rsquo;s third-pass season is only a few hundred plate appearances &mdash; and that range crosses the league line, so the staff-level slide is reported without the significant label.</p>
+<p class="pp">The same construction applies to pooled groups. The league&rsquo;s own +.030 is built on 3,285 surviving starts, so its bounds are tight: +.009 to +.051. The Cardinals staff&rsquo;s +.107 carries bounds of +.001 to +.213. That range is wide because even a staff&rsquo;s third-pass season is only a few hundred plate appearances. It crosses the league line, so the staff-level slide is reported without the significant label.</p>
 
 <p class="h2">The three controls</p>
 
@@ -490,11 +489,11 @@ a change is  SIGNIFICANT when its entire bounds range sits on one side of
 
 <p class="pp">The within-game change records what happened. It does not explain why, and familiarity, fatigue and pitch count cannot be pulled apart here.</p>
 
-<p class="pp">It also stops short of certifying anyone as good. A pass-or-fail screen at these sample sizes is unstable: on the same resampling test, the median member of a screen we drafted and rejected held its place in only 35% of season resamples. The piece names collapses, which sit far from any threshold, and ranks nobody as reliable.</p>
+<p class="pp">It also stops short of certifying anyone as good. A pass-or-fail screen at these sample sizes is unstable: in the screen we drafted and rejected, the median member&rsquo;s margin of error was two and a half times his edge over the qualifying cut. The piece names collapses, which sit far from any threshold, and ranks nobody as reliable.</p>
 
 <p class="pp">There is one bias we should name before anyone else does, because it runs through the central statistic. Managers pull starters partly because they believe in the third-time penalty, and the within-game change is computed only over the starts they chose to extend. Pull earlier and the third passes that still happen come from the best days only, which would make the decline look smaller than it is. So the figure partly reflects how a league uses its starters, not only how starters pitch. Two weak signals point that way &mdash; across the 30 teams, those who let starters go deeper show a slightly larger decline, and from 2025 to 2026 attainment and the decline fell together &mdash; but neither is close to strong enough to lean on, and untangling it needs a multi-season series we have not built yet. It is the next thing we are looking at.</p>
 
-<p class="pp">Year-over-year comparisons need two separate margins kept apart, and it is easy to quote the wrong one. We checked our 2026 data against an independent source for the 2025 season and the two agreed to about a thousandth, so a difference between seasons is not an artifact of which source we used. That is a statement about the <i>instrument</i>. The binding limit is the <i>sample</i>: resampling the league&rsquo;s within-game change puts its own standard error near thirteen thousandths, roughly twenty times coarser. The 2025-to-2026 move of nineteen thousandths is therefore under one and a half standard errors &mdash; a difference we can describe, not a change we can claim.</p>
+<p class="pp">Year-over-year comparisons need two separate margins kept apart, and it is easy to quote the wrong one. We checked our 2026 data against an independent source for the 2025 season and the two agreed to about a thousandth, so a difference between seasons is not an artifact of which source we used. That is a statement about the <i>instrument</i>. The binding limit is the <i>sample</i>: the jackknife puts the league&rsquo;s own standard error near thirteen thousandths, roughly twenty times coarser. The 2025-to-2026 move of nineteen thousandths is therefore under one and a half standard errors &mdash; a difference we can describe, not a change we can claim.</p>
 
 <p class="pp">And the season is partial: 1,964 games of roughly 2,430, weighted toward April.</p>
 
