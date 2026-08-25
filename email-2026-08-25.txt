@@ -69,7 +69,7 @@
     - [P2/positive] Alec Burleson: hitting streak at 10 games
 -->
 <!-- PHASE2_SLOT: trend_watch_prose -->
-<b style="color:#8B3A3A;">The Cardinals rotation is pacing toward a franchise record in fewest starter innings.</b> Through 132 games, starters have logged 688.7 innings and are on pace for 845.3 on the year, which would edge past the franchise low of 832.7 set in 2021. The staff is averaging 5.22 innings per start with a 0.356 quality-start rate, and over the last 15 games the quality-start rate has retreated to 0.2, against 0.376 before that stretch.<br><br><b style="color:#8B3A3A;">Michael McGreevy has posted a 10.36 ERA over his last 5 starts, against a 3.32 mark across his 20 starts before 2026-07-28.</b> The 7.04-point spread flags a sharp reversal in his starting work.
+<b>The Cardinals rotation is pacing toward a franchise record in fewest starter innings.</b> Through 132 games, starters have logged 688.7 innings and are on pace for 845.3 on the year, which would edge past the franchise low of 832.7 set in 2021. The staff is averaging 5.22 innings per start with a 0.356 quality-start rate, and over the last 15 games the quality-start rate has retreated to 0.2, against 0.376 before that stretch.<br><br><b>Michael McGreevy has unraveled over his last 5 starts.</b> Since July 28, he has posted a 10.36 ERA, against a 3.32 mark across his 20 starts before that date. The 7.04-point spread flags a sharp reversal in his starting work.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
