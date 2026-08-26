@@ -1,0 +1,116 @@
+<!-- 700 Clark Email Block -- STL vs BAL 2026-08-26 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (66-67)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BAL (64-68)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.54 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, August 26, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Bradish (R) -- 3.70 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- BAL 13, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      BAL&nbsp;&nbsp;0 0 4 0 8 1 0 0 0 -- 13<br>
+      STL&nbsp;&nbsp;0 0 1 0 0 0 0 0 0 -- 1
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Baltimore rolled to a 13-1 win last night in the series opener, plating 4 in the third and 8 in the fifth to turn it into an early rout. Pete Alonso went 4-for-4 with a home run and 4 RBI to lead the Baltimore attack, while Nathan Church's 10th home run -- a solo shot in the third -- provided St. Louis's only run.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Nathan Church went 2-for-3 with a solo home run (his 10th) and scored St. Louis's only run.<br>
+- Matthew Liberatore struck out 7 Orioles batters across his 4.0 innings.<br>
+- Ryan Fernandez (2.0 IP, 1 H, 0 ER) and Pedro Pagés (1.0 IP, 1 H, 0 ER) each posted clean outings in relief.<br>
+
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Matthew Liberatore allowed 8 earned runs on 8 hits, including 2 home runs, in 4.0 innings.<br>
+- Peter Strzelecki allowed 4 runs on 4 hits in 0.1 innings.<br>
+- Nolan Gorman went 0-for-4 with 3 strikeouts at DH.<br>
+- Pete Alonso went 4-for-4 with a home run and 4 RBI, pacing Baltimore's 13-run attack.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> McGreevy's 2026 home-road split gives the Cardinals a structural advantage tonight: his home ERA sits at 3.41 against a road mark of 3.66, while Bradish arrives with a 3.91 away ERA -- nearly half a run above his 3.46 at Camden Yards. The ballpark arithmetic tilts toward St. Louis.<br><br><b style="color:#8B3A3A;">Threat:</b> Baltimore's left-handed core -- Holliday, Henderson, Basallo, and Beavers -- lands squarely on the most documented gap in McGreevy's profile. He has allowed a .742 OPS to left-handed bats in 2026; the 2025 historical record against left-handers reached .911. Four left-handed starters concentrated in that lineup means McGreevy faces that exposure before his pitch count allows any tactical adjustment.<br><br><b style="color:#B8860B;">Watch:</b> Bradish's 10.2 percent walk rate is the Cardinals' clearest entry point to free bases tonight. He has issued 60 walks in 2026, and in a tight series game with Baltimore leading 1-0, that traffic compounds the road disadvantage he carries to Busch Stadium.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Henderson vs. McGreevy.</b> Henderson bats left-handed against McGreevy from the third spot in Baltimore's order with a 2026 line of .219/.307/.382 across 404 PA against right-handed pitching, compared to his 2025 mark of .299/.379/.499 across 441 PA. The 2026 sample reflects a step back from his historical form in this split, but batting third in Baltimore's left-handed core, he carries the order's deepest run-producing leverage in this structural matchup.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Holliday vs. McGreevy.</b> Holliday leads off left-handed against McGreevy with a 2026 line of .229/.317/.363 across 209 PA against right-handed pitching, tracking below his 2025 baseline of .259/.334/.401 across 470 PA. Baltimore sequences left-handed bats first and third before McGreevy ever reaches a right-handed hitter in the order, making this split exposure a first-inning structural reality.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Burleson vs. Bradish.</b> Burleson bats third left-handed against Bradish, carrying a 2026 line of .327/.404/.572 across 384 PA against right-handed pitching, well ahead of his 2025 baseline of .296/.353/.478 across 419 PA. Bradish has allowed a .748 OPS to left-handed bats across 355 batters faced in 2026, compared to .688 across 73 PA in 2025 -- Burleson's elevated 2026 form in this split lands against the pitcher's most exposed matchup type.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Pages-McGreevy battery (2025).</b> In 14 games together in 2025, the Pages-McGreevy pairing logged a 4.24 ERA and .266 opponent average -- a shared-history reference that points to the split exposure McGreevy carries as a structural feature of his pitching profile, not one tonight's home setting resolves on its own.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Cardinals running game vs. Narvaez.</b> If the Cardinals put runners on against Bradish's elevated walk rate, watch for steal attempts against Carlos Narvaez: he has allowed 40 stolen bases this season with an 18.4 percent caught-stealing rate, the lowest among Baltimore catchers with enough attempts to qualify.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Bradish TTO2 spike.</b> If the Cardinals keep the game close through the first pass, watch for the second to open up: Bradish's OPS-against moves from 0.631 in the first time through the order to 0.794 in the second, measured in starts where he pitched into a third pass. He has reached a third pass in 24 of 25 starts.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Gunnar Henderson on the bases.</b> If Henderson reaches base, watch for a running attempt: he has 10 stolen bases in 2026 and posted an 85.7 percent success rate on 30 steals in 2025.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Michael McGreevy groundball rate at home.</b> If McGreevy keeps Baltimore from squaring the ball up -- his 52.2 GB% this season is an elite rate -- watch the Cardinals' infield execution: at Busch, in a series the Cardinals trail 1-0, a misplay on a soft grounder compounds the deficit.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P2] Alec Burleson: hitting streak at 11 games | window: last 11 games (2026-08-15..2026-08-25) | stats: {'streak_type': 'hitting streak', 'length': 11, 'threshold': 10}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.370 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.5)
+    - [P1/negative] Matthew Liberatore has unraveled over his last 23 starts: 6.81 ERA vs 3.50 before
+    - [P8/neutral] Jordan Walker on pace for 117 RBI (milestone: 100)
+    - [P8/neutral] Jordan Walker on pace for 33 HR (milestone: 30)
+    - [P1/negative] Nolan Gorman has slumped since 2026-05-19: 0.675 OPS before vs 0.339 after (63 PA)
+    - [P2/negative] Cardinals have lost 4 straight
+    - [P8/neutral] Jordan Walker on pace for 100 runs (milestone: 100)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Alec Burleson has hit safely in 11 straight games</b>, running the streak from August 15 through August 25 and clearing the 10-game threshold that marks it as a genuine outlier. The Cardinals have dropped 4 consecutive games across that same span, making Burleson's bat the clearest consistent offensive thread during a difficult stretch.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
