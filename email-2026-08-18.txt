@@ -76,7 +76,7 @@ Alec Burleson lined a two-run double to right in the first inning, scoring Joshu
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: key_matchups_prose -->
 <b>Ivan Herrera vs. Andrew Abbott:</b> Herrera has posted a .500/.556/.500 line over 9 career plate appearances against Abbott -- the strongest individual edge in tonight's Cardinals lineup. The sample falls just below the 10-plate-appearance reliability threshold, but the consistency earns a close watch in his first at-bat.<br><br>
-<b>Alec Burleson (LHB) vs. Abbott:</b> Abbott allows a .675 OPS against left-handed batters in 2026 (157 BF) compared to .732 against right-handers (421 BF). Burleson is the lone left-handed bat in the lineup and the one Cardinal with a genuine platoon edge.<br><br>
+<b>Alec Burleson (LHB) vs. Abbott:</b> Abbott allows a .675 OPS against left-handed batters in 2026 (157 BF) compared to .732 against right-handers (421 BF) -- left-handed bats are the side he has handled better. Burleson is the lone left-handed bat in the lineup, so he faces Abbott's stronger side; the platoon leverage in this lineup sits with its right-handed bats.<br><br>
 <b>Kyle Leahy vs. Reds right-handed bats:</b> The Reds send seven right-handed starters and two switch-hitters tonight. Leahy holds right-handed batters to a .605 OPS in 2026 (235 BF) while posting a .870 OPS against left-handers (263 BF). The lineup construction favors Leahy heavily during his first pass through the order.
 <!-- /PHASE2_SLOT -->
   </div>
