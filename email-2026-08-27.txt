@@ -1,0 +1,120 @@
+<!-- 700 Clark Email Block -- STL vs BAL 2026-08-27 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (66-68)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BAL (65-68)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD (L) -- -- ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, August 27, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Rogers (L) -- 4.14 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- BAL 8, STL 7</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      BAL&nbsp;&nbsp;5 2 0 0 0 0 0 0 1 -- 8<br>
+      STL&nbsp;&nbsp;0 1 0 0 6 0 0 0 0 -- 7
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Baltimore held on to win last night, 8-7, in game 2 of the three-game series at Busch Stadium. The Cardinals scored 6 runs in the fifth inning to tie the game after trailing 7-1, but a Christian Encarnacion-Strand RBI double in the ninth gave Baltimore the decisive run. Ivan Herrera went 3-for-4 and Bryan Torres was 3-for-3 to pace the St. Louis offense.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Bryan Torres was 3-for-3 with a stolen base and scored in the fifth-inning rally.<br>
+- Ivan Herrera went 3-for-4 with a walk and scored in the Cardinals' comeback frame.<br>
+- St. Louis scored 6 runs in the fifth inning to erase a 7-1 deficit and tie the game.<br>
+- Luis Gastelum struck out all 3 batters he faced in a scoreless inning of relief.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Michael McGreevy allowed 7 earned runs on 10 hits, including 2 home runs, across 5.0 innings.<br>
+- Leody Taveras's 3-run home run capped a 5-run Baltimore first inning and put St. Louis in an early hole.<br>
+- Riley O'Brien allowed the game-winning run in the ninth on 2 hits, ending the Cardinals' bid to complete the comeback.<br>
+- St. Louis went scoreless from the sixth inning on after tying the game in the fifth.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Rogers' 2026 splits against right-handed batters -- .275 average and .768 OPS allowed -- give Iván Herrera, Jordan Walker, and José Fermín the only structural offensive advantage in this afternoon's order. With the remaining six lineup spots batting left, St. Louis needs its three RHBs to carry the offensive weight.<br><br><b style="color:#8B3A3A;">Threat:</b> Six of the nine projected Cardinals starters bat left, running squarely into Rogers' most punishing 2026 split: a .178 average and .505 OPS allowed against left-handed batters. Wetherholt, Burleson, Church, Gorman, Torres, and Crooks face a left-hander who has been nearly untouchable against their side of the plate this season.<br><br><b style="color:#B8860B;">Watch:</b> St. Louis enters this afternoon's series finale riding a 5-game losing streak, with Baltimore already holding a 2-0 series lead and no confirmed starter posted for the Cardinals. The margin for error is effectively zero.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Ivan Herrera.</b> Herrera is 2-for-3 against Rogers in career plate appearances, posting a career .667/.667/.667 slash with no strikeouts in those 3 trips -- the sharpest individual contact line on the Cardinals roster against him heading into today's series finale.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Jordan Walker.</b> Walker's 2 career plate appearances against Rogers have both resulted in reaching base -- a hit and a walk -- producing a career 2.000 slugging percentage against him; the cleanup hitter has not been retired against Rogers in any matchup.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Trevor Rogers.</b> The left-handed hitter suppression is a multi-year pattern: in 2025, Rogers held left-handed batters to a .159 average and .427 OPS across 78 plate appearances, establishing that today's left-handed Cardinals starters face a historically rooted disadvantage rather than a single-season sample.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Trevor Rogers.</b> The right-handed bat vulnerability extends across seasons as well -- in 2025, Rogers allowed a .185 average and .519 OPS against right-handed hitters across 345 plate appearances, giving the Cardinals' right-handed bats multi-year standing as their primary offensive window today.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Trevor Rogers.</b> If Rogers works into a second pass through the Cardinals order, watch for elevated production -- his 2026 second-pass OPS allowed rises to 0.793 across 207 PA, compared to 0.556 in the first pass. Rogers has pitched into a third pass in 23 of 24 starts.</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Carlos Narváez.</b> If any Cardinal reaches base, watch for stolen base attempts -- Narváez's caught-stealing rate is 17.6% this season, the lowest published figure among Baltimore's catchers.</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Cardinals bullpen.</b> If the TBD Cardinals starter exits early, watch the bullpen workload -- St. Louis has already logged 496.3 relief innings this season, pacing toward a franchise record.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P8] Jordan Walker on pace for 117 RBI (milestone: 100) | window: through 134 team games | stats: {'stat': 'RBI', 'current': 97, 'pace_162': 117, 'milestone': 100, 'milestone_distance': 3, 'games_remaining': 28}
+  [2] [P8] Jordan Walker on pace for 33 HR (milestone: 30) | window: through 134 team games | stats: {'stat': 'HR', 'current': 27, 'pace_162': 33, 'milestone': 30, 'milestone_distance': 3, 'games_remaining': 28}
+  [3] [P8] Jordan Walker on pace for 100 runs (milestone: 100) | window: through 134 team games | stats: {'stat': 'runs', 'current': 83, 'pace_162': 100, 'milestone': 100, 'milestone_distance': 17, 'games_remaining': 28}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.370 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.5)
+    - [P1/negative] Nolan Gorman has slumped since 2026-05-20: 0.702 OPS before vs 0.306 after (62 PA)
+    - [P1/negative] Matthew Liberatore has unraveled over his last 23 starts: 6.81 ERA vs 3.50 before
+    - [P1/negative] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.807 after (490 PA)
+    - [P2/negative] Cardinals have lost 5 straight
+    - [P30/negative] The Cardinals bullpen is pacing at 600.0 relief innings -- the franchise record is 584.3 (2021)
+    - [P1/negative] Since 2026-05-17, Cardinals win pct has declined: 0.6 before vs 0.438 after
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Jordan Walker needs 3 more RBI to reach 100, pacing at 117 through 134 team games.</b> His 97 RBI keep the milestone squarely in reach over the final 28 games. His .807 OPS across 490 PA since April 14 trails the 1.136 he posted before that date, so the pace projection runs through a lower-output stretch rather than his early-season form.<br><br><b>Jordan Walker is 3 home runs away from 30, pacing at 33 through 134 team games.</b> His 27 home runs leave the 30-HR threshold reachable inside the final 28 games if his current production rate holds.<br><br><b>Jordan Walker's pace projects to exactly 100 runs through 134 team games -- the century-mark milestone itself -- with 17 more needed over the final 28 games.</b> His 83 runs scored put triple digits in play, though the gap to the milestone is wider in absolute terms than his RBI or home run tracking lines.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
