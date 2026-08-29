@@ -96,7 +96,7 @@ St. Louis took the series opener last night, 4-1, behind a strong start from Mat
     - [P7/positive] Jordan Walker's OPS jump: 0.584 (2025) -> 0.855 (2026), +0.272 -- p99+ of 16,975 season pairs in MLB history
 -->
 <!-- PHASE2_SLOT: trend_watch_prose -->
-<b>The Cardinals rotation has logged a quality-start rate of 0.133 over the last 15 games (Aug. 14-28) -- down sharply from 0.372 in the 121 games before that stretch.</b> Seven different starters took the ball across those 15 turns, producing just 2 quality starts and averaging 4.89 innings per outing (73.3 IP total). The collapse lands well outside modern-era norms, a signal that this is not ordinary variance. The bullpen workload context sits in the background: the rotation's shortened outings are pushing a relief corps already logging historic innings volume even higher.
+<b>The Cardinals rotation has logged a quality-start rate of 13.3% over the last 15 games (Aug. 14-28) -- down sharply from 37.2% in the 121 games before that stretch.</b> Seven different starters took the ball across those 15 turns, producing just 2 quality starts and averaging 4.89 innings per outing (73.3 IP total). The collapse lands well outside modern-era norms, a signal that this is not ordinary variance. The bullpen workload context sits in the background: the rotation's shortened outings are pushing a relief corps already logging historic innings volume even higher.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
