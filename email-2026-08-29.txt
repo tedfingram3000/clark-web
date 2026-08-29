@@ -1,0 +1,104 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-08-29 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (68-68)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (65-71)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.13 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, August 29, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Bachar (R) -- 3.70 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 4, PIT 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PIT&nbsp;&nbsp;0 0 0 0 1 0 0 0 0 -- 1<br>
+      STL&nbsp;&nbsp;0 0 2 1 0 0 0 1 0 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+St. Louis took the series opener last night, 4-1, behind a strong start from Mathews and a two-run homer by Crooks in the third. Walker went 3-for-4 and scored twice, while Crooks drove in 2. The Cardinals lead the series 1-0 heading into today's afternoon game.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>- Crooks delivered the game's biggest blow, a two-run homer in the third that put St. Louis ahead to stay, finishing 1-for-3 with 2 RBI.<br>- Mathews was sharp over 5.2 innings, allowing 1 run on 5 hits with 7 strikeouts.<br>- Walker carried the offense, going 3-for-4 with 2 runs scored, including on the Crooks homer and a sac fly by Church in the fourth.<br>- Fernandez tossed 2.0 scoreless innings of relief, adding 2 strikeouts on 0 hits allowed.<br><br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>- The top two spots in the order were silent: Wetherholt went 0-for-4 with 2 strikeouts and Ivan Herrera went 0-for-4.<br>- Burleson added another 0-for-4 from the three hole, with a strikeout.<br>- An eighth-inning run scored on a throwing error by Pittsburgh's Gonzalez rather than a Cardinals hit, underscoring a lineup that generated only 9 hits on the night.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Leahy takes the mound at Busch Stadium with a 2.91 home ERA and a .597 OPS allowed against right-handed batters in 2026 -- a meaningful early-inning cushion against a Pittsburgh lineup built predominantly right. With a 53.3 GB% generating soft contact and a 2026 K% of 21.7, he profiles as a groundball-first arm who limits damage through two turns of the order. The Cardinals hold the structural advantage as long as Leahy is in the game.<br><br><b style="color:#8B3A3A;">Threat:</b> Bachar comes in as a road pitcher whose away ERA sits at 4.99 this season, and his .739 OPS allowed away from home reflects a more hittable version than his overall line suggests. The threat is real, though: a 25.0 K% gives him the arsenal to strand rallies and keep the Cardinals offense from stringing together innings. He has held right-handed batters to a .566 OPS in 2026, which bears watching against a Cardinals lineup that skews right itself.<br><br><b style="color:#B8860B;">Watch:</b> The Cardinals bullpen is pacing at a franchise-record 602.3 relief innings this season -- well beyond the prior record pace of 584.3 and the 505.7 mark from the season before that. Every early Leahy exit lands on a relief corps already stretched thin. Leahy reached a third pass in 21 of his 25 starts, but when that third pass arrives, it arrives expensive. The leash decision tonight is not abstract; it lands in the context of a bullpen operating at historically unprecedented volume.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Leahy TTO3 meltdown threshold.</b> Leahy has pitched into a third pass in 21 of his 25 starts this season. In the starts where he reaches a third time through, batters post a .789 OPS against him in the second pass -- and the numbers climb sharply from there, with a within-game delta of 0.229 that ranks in the 82.9th percentile for degradation rate. St. Louis's ability to limit his exposure past two turns is the central decision of this afternoon's game.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Leahy vs. LHB vulnerability.</b> Five Cardinals left-handed bats -- Wetherholt, Burleson, Church, Gorman, and Crooks -- face the sharpest crack in Leahy's armor. 2026 to date: Leahy has allowed a .306/.379/.460 line against left-handed batters across 278 batters faced, a .839 OPS that stands well above his right-handed-batter mark. His 2025 vs-LHB figure (.701 OPS, 163 PA) understates the current exposure -- the 2026 sample at 278 BF now carries the heavier weight.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Bachar vs. Cardinals LHB.</b> Lake Bachar enters Busch Stadium carrying a pronounced split disadvantage. 2026 to date: Bachar has allowed a .701 OPS against left-handed batters across 169 BF, with his 2025 mark (.604 OPS, 142 PA) running lower -- the larger current sample points in a less favorable direction for Pittsburgh. Against right-handed batters his 2026 OPS allowed drops to .566 across 131 BF (.758 in 2025 across 154 PA). St. Louis's five lineup LHBs -- Wetherholt, Burleson, Church, Gorman, and Crooks -- represent the Cardinals' primary avenue against him today.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Bryan Reynolds career vs. Leahy.</b> Reynolds bats third for Pittsburgh today at DH and enters 0-for-4 with three strikeouts in his career against Leahy -- the most significant batter-versus-pitcher liability in the Pittsburgh lineup. Reynolds is a switch hitter who posted a .241/.312/.390 line against right-handed pitching across 487 PA in 2025; that track record underscores how much a 0-for-4 career sample costs the Pirates' most dangerous bat in a short series game.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Kyle Leahy.</b> Leahy has pitched into a third pass in 21 of his 25 starts this afternoon. If he approaches the 60-to-75-batter window, watch whether the Cardinals pull him before Pittsburgh cycles through a third time -- his third-pass .614 SLG (92 batters faced) is the sharpest late-game exposure in this matchup.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Oneil Cruz.</b> If Cruz reaches base, watch whether he tests Jimmy Crooks. Cruz has posted an 84.6% stolen-base success rate across 22 steals in 2026, and Crooks has thrown out just 1 of 15 would-be stealers in 2026 -- nearly every Cruz on-base event becomes a running situation.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Lake Bachar.</b> Bachar carries a 4.99 ERA in road starts this season against a 2.16 mark at home. If the Cardinals string two or more baserunners together in an inning, watch whether that road-context pattern compounds into a multi-run sequence.</div><div style="border-left:3px solid #2E7D32;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jordan Walker.</b> Walker is the lineup's highest-upside right-handed threat -- the trend section carries his 2026 OPS figures. Bachar has allowed a .758 OPS to right-handed batters historically (154 PA, 2025). If Walker sees a fastball count early, he is the batter most likely to punish it.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P31] The rotation is at 0.133 quality-start rate over the last 15 games -- against 0.372 before that | window: last 15 games (2026-08-14..2026-08-28) | stats: {'kind': 'rotation_window_shorter', 'stat': 'quality-start rate', 'window_games': 15, 'window_starts': 15, 'window_rate': 0.133, 'baseline_games': 121, 'baseline_starts': 121, 'baseline_rate': 0.372, 'ratio': 0.359, 'threshold': 1.75, 'window_start_ip': 73.3, 'window_ip_per_start': 4.89, 'window_quality_starts': 2, 'window_qs_rate': 0.133, 'window_starters': 7, 'baseline_excludes_window': True, 'league_comparator': 'modern_era_2015_2025_distribution', 'league_z': -2.67}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.370 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.5)
+    - [P1/negative] Matthew Liberatore has unraveled over his last 23 starts: 6.81 ERA vs 3.50 before
+    - [P1/negative] Nolan Gorman has slumped since 2026-05-20: 0.702 OPS before vs 0.353 after (67 PA)
+    - [P1/negative] Iván Herrera has slumped since 2026-06-23: 0.856 OPS before vs 0.590 after (256 PA)
+    - [P30/negative] The Cardinals bullpen is pacing at 602.3 relief innings -- the franchise record is 584.3 (2021)
+    - [P31/negative] The Cardinals rotation is pacing at 841.3 starter innings -- the franchise fewest is 832.7 (2021)
+    - [P7/positive] Jordan Walker's OPS jump: 0.584 (2025) -> 0.855 (2026), +0.272 -- p99+ of 16,975 season pairs in MLB history
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>The Cardinals rotation has logged a quality-start rate of 0.133 over the last 15 games (Aug. 14-28) -- down sharply from 0.372 in the 121 games before that stretch.</b> Seven different starters took the ball across those 15 turns, producing just 2 quality starts and averaging 4.89 innings per outing (73.3 IP total). The collapse lands well outside modern-era norms, a signal that this is not ordinary variance. The bullpen workload context sits in the background: St. Louis is pacing at 602.3 relief innings against a franchise record of 584.3 set in 2021 -- the rotation's shortened outings are pushing that total higher by the day.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
