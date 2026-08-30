@@ -1,0 +1,113 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-08-30 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (68-69)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (66-71)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.44 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, August 30, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Ashcraft (R) -- 3.59 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- PIT 6, STL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PIT&nbsp;&nbsp;1 0 0 1 3 0 0 0 1 -- 6<br>
+      STL&nbsp;&nbsp;0 0 1 0 0 1 0 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Pittsburgh took game 2 of this three-game set yesterday afternoon, 6-2, behind a three-run homer from Rafael Flores Jr. in the fifth that broke the game open. Joshua Baez hit a solo shot in the third for St. Louis, and a Jordan Walker run on an error in the sixth accounted for the Cardinals' other tally, but the offense managed just one hit through the first two at-bats of most starters. Pittsburgh sends the Cardinals to the series finale having taken the middle game.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Joshua Baez went 1-for-4 with a solo home run (his 5th) in the third, the Cardinals' lone extra-base hit.<br>
+- Cade Winquest threw 2 scoreless innings -- 0 hits, 2 strikeouts -- keeping the deficit from expanding in the seventh and eighth.<br>
+- Jimmy Crooks reached base in 2 at-bats, going 1-for-2 to give St. Louis a presence on base in the middle of the order.<br>
+- A sixth-inning Oneil Cruz fielding error allowed Jordan Walker to score, manufacturing a run from a non-hit situation.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Brycen Mautz allowed 4 earned runs on 5 hits in 3 innings, including a 3-run homer to Rafael Flores Jr. that put Pittsburgh up 5-1 in the fifth.<br>
+- Seven of nine Cardinals starters went hitless; the lineup combined for just 2 hits and 2 runs across 9 innings.<br>
+- Brandon Lowe led off the game with a home run against Kyle Leahy, spotting Pittsburgh an early lead the Cardinals never erased.<br>
+- Ryan Fernandez allowed a run in the ninth on 2 hits and a walk, extending the final margin to 6-2.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Braxton Ashcraft arrives at Busch Stadium with a 3.59 ERA and a 1.07 WHIP, and his times-through-order profile is the story of the afternoon -- his third-pass OPS-against sits at 0.629 across all 26 starts, and he has pitched into a third pass in every one of them, a 1.0 rate that makes him a legitimate deep-game threat every time he takes the ball.<br><br><b style="color:#8B3A3A;">Threat:</b> Matthew Liberatore carries a 5.44 ERA and a 1.47 WHIP into today's rubber game, but the deeper problem is structural: his TTO3 OPS-against explodes to 1.126, and the within-game delta of 0.446 between his best and worst pass lands in the 99.75th percentile of simulated samples -- a collapse of that magnitude is nearly without precedent. He has pitched into a third pass in 23 of 26 starts, meaning the Cardinals are likely to face that cliff today.<br><br><b style="color:#B8860B;">Watch:</b> In the starts where Liberatore goes on to face a third pass, his second-pass OPS-against actually compresses to 0.680 -- his most controlled stretch of any start. The question is whether Oli Marmol reads that relative calm as a green light and lets Liberatore go back out, or pulls him before Pittsburgh's lineup arrives for TTO3. At Busch Stadium this season Liberatore carries a 5.97 home ERA with a .858 OPS-against, so the environment offers no cushion. The manager who blinks first on his starter is likely to decide the series.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Bryan Reynolds vs. Liberatore (career BvP).</b> Reynolds has seen Liberatore 12 career times and done real damage: a .333 average, one home run, and a .667 slugging mark across those 12 plate appearances. As a switch-hitter batting left against the southpaw today, Reynolds enters with the deepest proven sample against Liberatore in Pittsburgh's lineup -- and the numbers say he has solved him.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Oneil Cruz vs. Liberatore (career BvP).</b> The career numbers cut the other way for Cruz: .091 average and .182 slugging in 13 plate appearances against Liberatore, with a .231 OBP that reflects the two walks that have kept his on-base from bottoming out entirely. Cruz bats left, so today's matchup is arm-side neutral -- Liberatore offers no platoon edge, and yet Cruz has managed just one hit in 11 at-bats against him. The career track record is a genuine vulnerability for one of Pittsburgh's most dangerous threats.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">PIT left-handed hitters vs. Ashcraft.</b> Ashcraft allows more damage to left-handed bats than right-handed ones this year: .240/.299/.427 against lefties versus .217/.250/.332 against righties across 355 and 268 batters faced, respectively. Pittsburgh sends Spencer Horwitz, Brandon Lowe, Oneil Cruz, and Jacob Gonzalez -- all left-handed -- through the first five spots of the order, meaning the bulk of Ashcraft's work today comes from his less favorable side. The gap is real, though Ashcraft's third-pass numbers show he has pitched into that situation across all 26 of his starts this year.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Liberatore's home splits vs. his road line.</b> Liberatore has been measurably worse at Busch Stadium than away from it in 2026: a 5.97 home ERA against a 4.93 road ERA, with opponents slashing .308/.362/.496 at home. Today he takes the mound on his own field, where those numbers have been consistently worse -- an additional layer of pressure on a starter whose third-pass exposure is already the central concern of this rubber game.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Matthew Liberatore.</b> If Liberatore faces Pittsburgh's lineup a third time, the decision point arrives fast: across 100 BF in TTO3 this season, opponents are hitting .378/.480/.646. He has pitched into a third pass in 23 of 26 starts, so the Cardinals' pen will likely be needed -- the question is whether Marmol moves early enough to matter.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Oneil Cruz / Jimmy Crooks.</b> If Cruz reaches base, watch for an immediate running attempt. Cruz has 22 stolen bases at an 84.6% success rate in 2026. Crooks has thrown out 2 of 16 would-be base stealers this season -- below the 20-attempt threshold for a published rate -- and Pittsburgh's fifth-place hitter knows it.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Nolan Gorman.</b> Gorman has posted a .338 OPS across 70 plate appearances since May 20 -- a drop of .364 points from his earlier .702 mark. Watch whether the Cardinals drop him further in the order or find a pinch-hit matchup against Ashcraft's vulnerability against left-handed bats -- Ashcraft's 2026 OPS-against vs. LHB is .726 across 355 BF.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Rafael Flores Jr.</b> Rafael Flores Jr. is the projected Pittsburgh catcher today. If he stays in the game, the Cardinals' running game has a clear window: Flores' caught-stealing rate is 13.6% on 22 attempts in 2026, a sharp contrast to Henry Davis's 47.2%.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Nolan Gorman has slumped since 2026-05-20: 0.702 OPS before vs 0.338 after (70 PA) | window: since 2026-05-20 (70 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': '2026-05-20', 'before': 0.702, 'after': 0.338, 'before_pa': 174, 'after_pa': 70, 'delta': 0.364}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.370 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.5)
+    - [P1/negative] Matthew Liberatore has unraveled over his last 23 starts: 6.81 ERA vs 3.50 before
+    - [P1/negative] Pedro Pagés has slumped since 2026-04-28: 0.762 OPS before vs 0.471 after (134 PA)
+    - [P2/negative] Cardinals have gone 9 games with no quality start
+    - [P1/negative] Iván Herrera has slumped since 2026-06-23: 0.856 OPS before vs 0.585 after (260 PA)
+    - [P1/negative] Since 2026-05-17, Cardinals win pct has declined: 0.6 before vs 0.446 after
+    - [P30/negative] The Cardinals bullpen is pacing at 605.0 relief innings -- the franchise record is 584.3 (2021)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Nolan Gorman's bat has gone cold in a way the numbers can no longer ignore.</b> Since May 20, Gorman has posted a .338 OPS across 70 plate appearances, a drop of .364 points from his .702 OPS in the 174 PA before that date. The slide covers the better part of three months and has compressed what was a serviceable offensive profile into one of the weakest marks in the everyday lineup.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
