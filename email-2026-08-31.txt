@@ -1,0 +1,85 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-08-31 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (68-70)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NEXT: LAD</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- PIT 5, STL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      PIT&nbsp;&nbsp;0 2 1 0 1 0 1 0 0 -- 5<br>
+      STL&nbsp;&nbsp;0 0 0 0 2 0 2 0 0 -- 4
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Matthew Liberatore struck out 9 batters but surrendered 2 home runs -- Esmerlyn Valdez's 2-run shot in the second and Jared Triolo's solo blast in the fifth -- as Pittsburgh built a 4-0 lead. Ivan Herrera drove in 2 (RBI single in the fifth, RBI double in the seventh) and Thomas Saggese went 3-for-4 with 2 runs scored, but the Cardinals fell 5-4, dropping the series 2-of-3.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Thomas Saggese: 3-for-4, 2 runs scored -- the Cardinals' most productive bat yesterday afternoon.<br>
+- Ivan Herrera: 2-for-5, 2 RBI (RBI single in the fifth, RBI double in the seventh).<br>
+- Matthew Liberatore: 9 strikeouts in 5.2 innings pitched.<br>
+- Gordon Graceffo: 2 scoreless innings, 3 strikeouts in relief.<br><br>
+<b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Liberatore allowed 2 home runs (Valdez 2-run in the second, Triolo solo in the fifth) and surrendered 4 runs in 5.2 IP.<br>
+- Ramon Urias committed an error at 3B in the third, gifting Pittsburgh an unearned run.<br>
+- Jordan Walker went 0-for-4 with 2 strikeouts; Nolan Gorman went 0-for-4.<br>
+- Luis Gastelum allowed 1 earned run in the seventh, extending Pittsburgh's lead to 5-2 before the Cardinals' rally.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+Cardinals off day. No scout report today. Next game: September 1 vs Los Angeles Dodgers at UNIQLO Field at Dodger Stadium (9:10 PM CT, Game 1 of 3).<br><br>Injury update (August 30): St. Louis Cardinals placed 2B JJ Wetherholt on the 10-day injured list -- right wrist tendinitis -- and recalled 3B Cesar Prieto from Memphis. Wetherholt joins five others currently sidelined: Andre Pallante (right elbow inflammation, 15-day IL), Hunter Dobbins (right forearm tightness, 15-day IL), Everson Pereira (left hand contusion, 10-day IL), Peter Strzelecki (right forearm extensor inflammation, 15-day IL), and Blaze Jordan (left ankle sprain, 10-day IL).
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P28] The Cardinals have won just 0 of their last 3 series (3 losses) -- 22 of 48 on the season | window: last 3 series (2026-08-21..2026-08-30) | stats: {'window_series': 3, 'window_won': 0, 'window_lost': 3, 'window_split': 0, 'window_win_rate': 0.0, 'season_series': 48, 'season_won': 22, 'season_lost': 24, 'season_split': 2, 'season_win_rate': 0.458, 'delta_vs_season': -0.458}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.370 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.5)
+    - [P9/positive] Matthew Liberatore's ugly recent ERA hides improving stuff indicators versus the rest of his season: K% 0.220 -> 0.348, BB% 0.086 -> 0.045, Strike% 0.640 -> 0.626
+    - [P2/negative] Cardinals have gone 10 games with no quality start
+    - [P1/negative] Matthew Liberatore has unraveled over his last 24 starts: 6.73 ERA vs 3.50 before
+    - [P9/negative] Luis Gastelum's results are holding but the indicators aren't versus the rest of his season: K% 0.222 -> 0.333, BB% 0.056 -> 0.083, Strike% 0.688 -> 0.637 over his last 18 outings
+    - [P1/negative] Pedro Pagés has slumped since 2026-04-28: 0.762 OPS before vs 0.471 after (134 PA)
+    - [P30/negative] The Cardinals bullpen is pacing at 604.7 relief innings -- the franchise record is 584.3 (2021)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Three straight series losses -- and the Cardinals are below .500 in series play for 2026.</b> From August 21 through August 30, St. Louis dropped all three series it played -- 0 won, 3 lost, 0 split -- leaving the season series ledger at 22 won, 24 lost, 2 split across 48 series (.458 series-win rate). No quality start in the last 10 games has driven the slide; the bullpen has covered the ground and is now pacing at 604.7 relief innings against the franchise record of 584.3 from 2021. One tension in the rotation worth noting: Matthew Liberatore's strikeout rate has climbed to 34.8% over his recent sample against 22.0% over the rest of his season -- the stuff indicators haven't matched the results yet.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
