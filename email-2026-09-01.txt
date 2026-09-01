@@ -1,0 +1,77 @@
+<!-- 700 Clark Email Block -- STL vs LAD 2026-09-01 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (68-70)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- UNIQLO Field at Dodger Stadium -- 9:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">LAD (82-55)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.86 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, September 1, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Lauer (L) -- 4.78 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> McGreevy arrives at Dodger Stadium with a 3.66 away ERA in 2026 and a 51.8% ground-ball rate that runs counter to everything Lauer puts in the air. The Cardinals' right-hander has posted a 3.86 ERA overall this season, and his ability to keep the ball on the ground gives him a structural advantage against a Dodger lineup that generates plenty of fly balls -- the kind Lauer's 35.0% ground-ball rate tends to encourage rather than suppress.<br><br><b style="color:#8B3A3A;">Threat:</b> Lauer carries a 4.78 ERA and has surrendered 24 home runs in just 105.1 innings in 2026, a home-run rate that magnifies when he is on the road: his away ERA sits at 5.24. A 35.0% ground-ball rate leaves too many balls in the air for a Cardinals roster that is majority right-handed, the hand against which Lauer is more vulnerable. Freeman and Tucker represent the left-handed middle of the Dodger order, and while the matchup favors McGreevy against those two, Lauer's fly-ball tendencies mean any damage tonight is likely to travel far.<br><br><b style="color:#B8860B;">Watch:</b> Ivan Herrera and Jordan Walker are the Cardinals' right-handed middle-of-the-order threats who carry the most weight against a left-handed starter. Herrera has posted a .592 OPS over his recent stretch and Walker a .802 OPS entering this series -- both are in extended slumps, and their ability to square up Lauer against the platoon advantage will determine whether St. Louis capitalizes on the handedness edge the matchup offers.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">McGreevy vs. Dodger LHBs.</b> McGreevy's 2026 split against left-handed batters sits at .263/.316/.439 (.755 OPS) across 370 batters faced -- his weaker side by a meaningful margin compared to his .700 OPS against right-handers. Six Dodger left-handed bats cycle through that exposure all night. Freeman is hitting .318 with an .891 OPS against right-handers across 386 PA in 2026. Tucker's 2026 mark against them is thinner: a .219 average and a .662 OPS over 371 PA. Freeman is the centerpiece threat against a right-hander with a soft split against left-handed batters.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Lauer vs. Cardinals RHBs.</b> Lauer's 2026 split against right-handed batters is .241/.295/.460 (.755 OPS) over 342 batters faced -- better than the .852 OPS left-handers have posted against him, but seven Cardinals right-handers give St. Louis the volume to pressure that line. Ivan Herrera posted a .330 average against left-handed pitching over 124 PA in 2025, making him the Cardinals' most dangerous platoon bat in the matchup. The park works against St. Louis, though: the game is at Dodger Stadium, and Lauer's 2026 home ERA is 4.29 against 5.24 on the road. Tonight he pitches his better side, which narrows the Cardinals' window.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Jordan Walker vs. Lauer (career BvP).</b> Walker has 1 hit in 2 career at-bats against Lauer, and that hit was a home run -- the only Cardinals batter with a power result in this BvP sample. The sample is too small to weight heavily, but in a lineup without many established BvP advantages against Lauer, Walker is the one name with a hard result on record.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Kyle Tucker vs. McGreevy (career BvP).</b> Tucker is 3-for-8 (.375) in career plate appearances against McGreevy with zero strikeouts -- the Dodgers' most dangerous BvP entry against tonight's Cardinals starter. Tucker has not struck out in any of those 8 trips, which puts additional pressure on McGreevy to execute because Tucker is making contact against him consistently in a small but clean sample.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- McGreevy TTO3 exposure.</b> McGreevy has pitched into a third pass in 24 of 26 starts this season. If he reaches that stretch tonight, the Dodgers' lefty-heavy lineup faces a 2026 third-pass mark of .763 OPS-against across 121 batters faced -- nearly identical to his second-pass figure (.763), meaning the order does not get easier as the night wears on.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Lauer first-inning danger.</b> If the Cardinals attack early, watch Lauer's first-pass numbers: he has posted a .906 OPS-against in TTO1 this season across 153 batters faced, driven by a .562 slugging mark and 10 home runs surrendered in that stretch alone. He settles considerably in the second pass (.708), so St. Louis's best window is the opening lineup turn.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Kyle Tucker stolen base threat.</b> If Tucker reaches base, watch the running game: he is 9-for-9 stealing in 2026, a perfect mark, while Cardinals catcher Pages has thrown out 30.9% of baserunners this season on 55 attempts -- a workable rate but one that has not slowed aggressive runners.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Cardinals 6-9 lineup production.</b> If the Cardinals trail late, watch whether the bottom of the order can generate a comeback: those slots have posted a .624 OPS since May 2, last in MLB. Against a left-hander the Cardinals cannot easily stack matchups around, the bottom third of the batting order is where the margin disappears.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P32] Since 2026-05-02, the Cardinals' 6-9 lineup spots have posted a 0.624 OPS -- worst-5 in MLB (rank 30 of 30) | window: since 2026-05-02 (6-9 lineup slots, 106 games) | stats: {'slot_range': '6-9', 'metric': 'OPS', 'value': 0.624, 'avg': 0.222, 'obp': 0.284, 'slg': 0.34, 'pa': 1661, 'rank': 30, 'teams': 30, 'window_anchor': '2026-05-02', 'anchor_source': 'P1 change-point (team R/G)', 'window_games': 106, 'milestone_reason': ['month_start'], 'games_remaining': 24, 'standings_context': {'wc_gb': '5.0', 'div_gb': '17.0', 'div_rank': '3', 'wc_rank': '6'}}
+  [2] [P9] Matthew Liberatore's ugly recent ERA hides improving stuff indicators versus the rest of his season: K% 0.220 -> 0.348, BB% 0.086 -> 0.045, Strike% 0.640 -> 0.626 | window: last 4 outings (89 BF) vs the rest of the season (500 BF) | stats: {'kind': 'hidden_improvement', 'surface': 'ERA', 'era_window': 6.86, 'era_baseline': 5.15, 'k_pct_window': 0.348, 'k_pct_baseline': 0.22, 'bb_pct_window': 0.045, 'bb_pct_baseline': 0.086, 'strike_pct_window': 0.626, 'strike_pct_baseline': 0.64, 'window_bf': 89, 'baseline_bf': 500}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P16/positive] Over the last 21 days the Cardinals rank 2 of 30 in errors per game (0.21)
+    - [P1/negative] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.802 after (506 PA)
+    - [P1/negative] Matthew Liberatore has unraveled over his last 24 starts: 6.73 ERA vs 3.50 before
+    - [P9/negative] Luis Gastelum's results are holding but the indicators aren't versus the rest of his season: K% 0.222 -> 0.333, BB% 0.056 -> 0.083, Strike% 0.688 -> 0.637 over his last 18 outings
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.370 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.5)
+    - [P1/negative] Pedro Pagés has slumped since 2026-04-28: 0.762 OPS before vs 0.471 after (134 PA)
+    - [P1/negative] Iván Herrera has slumped since 2026-06-23: 0.856 OPS before vs 0.592 after (265 PA)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>The Cardinals' 6-9 lineup slots have been the least productive in baseball since May 2.</b> They have posted a .624 OPS across 1,661 plate appearances over 106 games in that stretch — dead last (30th of 30 teams) in MLB. The .222 average, .284 on-base percentage, and .340 slugging behind those numbers form a combination that has drained run support through a stretch that now covers 24 games remaining in the season.<br><br><b>Matthew Liberatore's recent ERA is misleading, because his underlying numbers are moving the right way.</b> Over his last 4 starts (89 batters faced), Liberatore's K% has risen to 34.8% from a 22.0% baseline across the rest of his season (500 BF), while his BB% has dropped to 4.5% from 8.6%. His strike rate moved from 64.0% to 62.6% over the same split -- a slight dip, but the swing-and-miss and walk suppression gains are real. The surface ERA of 6.86 over those 4 starts has drawn attention for the wrong reasons.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
