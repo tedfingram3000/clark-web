@@ -1,0 +1,96 @@
+<!-- 700 Clark Email Block -- STL vs LAD 2026-09-02 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (69-70)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- UNIQLO Field at Dodger Stadium -- 9:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">LAD (82-56)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD (L) -- -- ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, September 2, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Yamamoto (R) -- 2.56 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 13, LAD 8</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 2 5 2 1 0 1 2 0 -- 13<br>
+      LAD&nbsp;&nbsp;0 0 3 0 1 0 1 0 3 -- 8
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals scored 13 runs last night in the series opener at Dodger Stadium, beating the Dodgers 13-8. Thomas Saggese went 2-for-3 with two home runs and 3 RBI, Jordan Walker added 3-for-5 with a homer and 2 RBI, and Mookie Betts drove in 4 runs for Los Angeles with two doubles.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Thomas Saggese homered twice (2-for-3, 3 RBI) and Jordan Walker went 3-for-5 with a homer and 2 RBI to anchor the Cardinals offense.<br>
+- The Cardinals sent eight batters to the plate in a five-run third inning, with Leo Bernal's 2-RBI single and Nathan Church's RBI single doing the damage.<br>
+- Jose Fermin scored twice and drove in a run; Iván Herrera reached base three times (2-for-4, walk) and scored twice.<br>
+- Michael McGreevy held Los Angeles to 4 runs through 5 innings, allowing the offense to build a lead that held despite a shaky bullpen finish.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Alec Burleson went 0-for-5 with a strikeout, the lone Cardinal starter without a hit.<br>
+- The Cardinals bullpen allowed 4 runs over the final four innings, including a 3-run ninth that turned a comfortable margin into a 5-run game at the finish.<br>
+- Justin Bruihl allowed 1 earned run in just one-third of an inning, and Cade Winquest gave up 3 runs (1 earned) on 2 hits in the ninth.<br>
+- Mookie Betts went 2-for-3 with four RBI on two doubles, keeping Los Angeles within striking distance through the middle innings.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Yoshinobu Yamamoto holds the decisive advantage tonight. Working with a 2.56 ERA and 0.89 WHIP across 158.0 innings, he counters a Cardinals bullpen game with a 52.8% ground-ball rate that plays directly into an offense prone to weak contact. St. Louis sends no confirmed starter to the mound; Yamamoto sends one of the best in the league. The pitching matchup is not a contest -- it is a test of how long the Cardinals bullpen can hold. <br><br><b style="color:#8B3A3A;">Threat:</b> The Cardinals bullpen has already logged 519.0 innings in 139 games and is now being asked to carry a full game. The rotation has produced a quality start in just 6.7% of its last 15 outings, against a 37.1% rate prior -- a collapse that has pushed the relief staff toward a franchise-record pace of 605.0 innings. Pitching a full bullpen game against a Dodgers lineup that loads up on left-handed bats is the wrong assignment at the wrong moment in the season. <br><br><b style="color:#B8860B;">Watch:</b> Alec Burleson and Jose Fermin are the two left-handed bats in a lineup that is otherwise right-handed against Yamamoto. Yamamoto's 2026 vs-LHB OPS sits at .533, his weaker platoon side compared to .573 vs right-handers -- Burleson in particular carries 2025 numbers vs right-handed pitching of .296/.353/.478 across 419 PA. Fermin's 2025 vs-RHP line in 59 PA reads .280/.379/.420. Against a pitcher this sharp, those two spots represent the lineup's clearest, if narrow, path to early damage.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Yamamoto vs. LHB Cardinals.</b> Yoshinobu Yamamoto has held left-handed bats to .174/.236/.249 across 331 PA through 2025, his sharpest platoon side. Alec Burleson, batting fourth against him tonight, has answered right-handed pitching at .319/.395/.554 over 400 PA in 2026 -- his 2025 anchor vs. the same hand ran a .353 OBP across 419 PA. Nathan Church, batting ninth, shows a 2026 line of .245/.285/.379 over 305 PA vs. right-handers, well above his 2025 footing of .114/.216/.182 across 51 PA -- a meaningful step forward even as Yamamoto's 2025 marks against lefties leave the Cardinals' two left-handed lineup spots at a structural disadvantage.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Yamamoto vs. RHB Cardinals.</b> Six of nine Cardinals bats are right-handed, squaring against what the 2026 numbers identify as Yamamoto's softer platoon side: a .573 OPS allowed vs. right-handed batters over 286 BF, compared to a .591 OPS mark across 353 PA in 2025. Jordan Walker, batting third, has posted a .286/.332/.490 line vs. right-handed pitching over 419 PA in 2026. Ivan Herrera is 0-for-5 (career) against Yamamoto with two strikeouts, an 0.000 OBP across those five at-bats.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Cardinals bullpen vs. LAD left-handed core.</b> Three confirmed left-handed bats -- Shohei Ohtani (batting first), Freddie Freeman (batting second), and Kyle Tucker (batting sixth) -- will face an ad-hoc Cardinals relief corps built around right-handed arms. Ohtani has hit right-handed pitching at .279/.344/.554 across 244 PA in 2025. Freeman's 2026 line vs. right-handers reads .317/.393/.494 over 389 PA; his 2025 mark against left-handed pitching across 175 PA was .285/.349/.506 -- a different matchup, and his current vs.-RHP figure is the relevant one tonight. Tucker's 2026 line vs. right-handers reads .217/.319/.337 over 376 PA, with his 2025 anchor at .269/.365/.461 across 193 PA.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Yamamoto times-through-order exposure.</b> Yoshinobu Yamamoto has reached a third pass in 24 of 24 starts. His first-pass OPS sits at .541 across 218 BF in 2026. A bullpen opener who limits Yamamoto's early workload does not guarantee a shortened outing -- Yamamoto has been available for a third time through in every start -- but the Watchlist details how his per-pass figures shift as the lineup turns over a third time.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Cardinals opener handedness decision.</b> If St. Louis opens with a left-handed reliever, watch whether the Dodgers immediately counter by shifting right-handed bats into the lineup -- LAD carries 4 right-handed and 2 switch hitters in tonight's roster mix, giving Roberts flexibility to load the platoon advantage against a southpaw opener from the first inning.</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Yoshinobu Yamamoto pitch count vs. third time through.</b> Yamamoto has pitched into a third pass in all 24 of his 24 starts, making third-pass exposure a near certainty tonight. His conditional third-pass figure across 174 PA carries a 0.611 OPS allowed -- above his second-pass mark of 0.516 OPS (215 PA). If he is laboring past 80 pitches through five innings, watch whether LAD pulls him before St. Louis can work the softer pass.</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Will Smith caught-stealing risk.</b> If Cardinals runners reach base, Will Smith's arm is the trigger: 5 caught stealings on 30 attempts in 2026 -- a 16.7% CS rate -- is the weakest mark on the Dodgers catching staff. With St. Louis coming off a 13-run offensive explosion in Game 1, the running game is a live weapon if the Cardinals get traffic on the bases.</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jordan Walker bounce-back watch.</b> Walker's 2026 line vs. left-handed pitching -- .295/.380/.547 across 158 PA -- shows a pronounced platoon edge over his 2025 mark vs. right-handers (.200/.263/.291, 289 PA). Batting third in a bullpen game, watch whether Walker exploits any southpaw who surfaces on either side of the ledger once the Cardinals' own opener gives way.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
