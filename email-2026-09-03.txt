@@ -1,0 +1,113 @@
+<!-- 700 Clark Email Block -- STL vs LAD 2026-09-03 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (70-70)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- UNIQLO Field at Dodger Stadium -- 9:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">LAD (82-57)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Mathews (L) -- 5.03 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, September 3, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Skubal (L) -- 2.84 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 8, LAD 6</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 2 2 1 0 3 -- 8<br>
+      LAD&nbsp;&nbsp;3 0 0 0 0 2 0 0 0 1 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals rallied from a 3-0 first-inning deficit to beat the Dodgers 8-6 last night in 10 innings, taking Game 2 of the series. Thomas Saggese went 2-for-4 with a homer and 3 RBI, Nathan Church scored twice, and Joshua Baez delivered a two-run double in the 10th to put the Cardinals ahead for good. Gordon Graceffo bridged the middle innings with 3 scoreless frames and 6 strikeouts out of the bullpen.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Thomas Saggese homered in the 6th (2 RBI) and singled home the go-ahead run in the 10th, finishing 2-for-4 with 3 RBI<br>
+- Joshua Baez went 2-for-2 with a two-run double in the 10th that broke the game open<br>
+- Gordon Graceffo delivered 3 scoreless innings with 6 strikeouts, steadying the game after a rocky start<br>
+- Leo Bernal homered in the 7th to tie the game at 6, going 1-for-4 with 2 RBI<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Brycen Mautz allowed 3 runs on 2 hits and 3 walks in 1 inning, including a 3-run homer by Freddie Freeman<br>
+- George Soriano surrendered 2 runs on 3 hits and a homer in the 6th, allowing the Dodgers to answer the Cardinals' tying rally<br>
+- Cardinals starters Bryan Torres, Ivan Herrera, Alec Burleson, and Nolan Gorman combined to go 0-for-14 with 5 strikeouts
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> The Cardinals carry a live multi-hit streak from Thomas Saggese into the series finale, and Ivan Herrera owns a career line against Tarik Skubal that gives St. Louis a credible threat at the top of the order the moment Skubal reaches a third time through -- a window he has entered in every start this season. The structural advantage belongs to whichever Cardinals hitters are due up when that third pass arrives.<br><br><b style="color:#8B3A3A;">Threat:</b> Quinn Mathews has been sharply worse on the road than at home in 2026, and Alec Burleson -- who ranks 28th of 159 NL hitters with at least 200 plate appearances in OPS (.815; league average .732) on the season -- has cooled over his last several weeks, softening the cleanup threat at a moment when St. Louis needs run support from its most dangerous bat.<br><br><b style="color:#B8860B;">Watch:</b> Jordan Walker and Nolan Gorman anchor the heart of the order against a left-hander whose platoon splits run in opposite directions for each of them. Walker ranks 14th of 159 NL hitters with at least 200 plate appearances in OPS (.848; league average .732) and sits on Skubal's less-favorable side; Gorman ranks 153rd of 159 NL hitters with at least 200 plate appearances in OPS (.578; league average .732) and faces the split where Skubal has been toughest -- the Cardinals' ability to string a third-pass inning together runs through how these two perform.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Skubal's third-pass exposure vs. Cardinals order.</b> Tarik Skubal has pitched into a third pass in all 21 of his 21 starts this season. In those starts, hitters post a .757 OPS against him in the third pass versus .503 in the second pass of those same starts -- a gap of .254 OPS. Ivan Herrera is 2-for-3 against Skubal in his career, and Jordan Walker's 2026 line vs. left-handed pitching reads .920 OPS across 159 plate appearances, his stronger platoon side.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Mathews second-pass collapse.</b> Quinn Mathews has pitched into a third pass in 3 of his 4 starts this season. In his 3 starts where he reached a third pass, hitters posted a 1.181 OPS against him in the second pass (27 PA) -- the window when Shohei Ohtani and Freddie Freeman cycle back through. Ohtani's 2025 line vs. left-handed pitching: .279/.344/.554 across 244 PA. Freeman's 2026 line vs. left-handed pitching reads .280/.348/.411 across 187 PA. Kyle Tucker is stronger against left-handed pitching this season: .734 OPS across 159 PA, compared with .656 OPS against right-handed pitching.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Skubal vs. STL left-handed bats (his weaker platoon side).</b> Tarik Skubal is stronger against right-handed batters this season: .549 OPS allowed compared with .758 OPS allowed against left-handed batters. St. Louis carries four left-handed hitters tonight -- Torres, Burleson, Gorman, and Church -- landing on Skubal's weaker split. Alec Burleson's 2026 line vs. left-handed pitching is .552 OPS across 184 PA; his 2025 mark against left-handed pitching across 127 PA was .271/.310/.398.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Mathews away splits vs. LAD's home lineup.</b> Quinn Mathews's 2026 home/away sample is too small to reach a directional conclusion this season (23 batters faced at home, 66 on the road; floor 60). His road ERA this season is 6.43 with a .800 OPS-against across 66 batters faced. Mookie Betts's 2026 line vs. left-handed pitching reads .663 OPS across 137 PA; his 2025 mark against left-handed pitching was .261/.326/.424 across 187 PA. Teoscar Hernandez is stronger against left-handed pitching this season: .822 OPS across 115 PA; his 2025 mark was .250/.286/.467 across 126 PA.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Skubal third-pass window.</b> Skubal has pitched into a third pass in all 21 of his 21 starts this season. When that window opens, the bottom of the Cardinals order -- Fermin, Church, Thomas Saggese -- becomes the group to watch for extended at-bats and lineup turnover in a series-clinching spot.</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Kyle Tucker stolen base vs. Ivan Herrera.</b> If Tucker reaches base, his running game is a live weapon: he is 10-for-10 on stolen base attempts in 2026 (100.0%), while Herrera has thrown out 30.9% of runners. That gap is a green-light situation that can manufacture runs without a hit.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P2] Thomas Saggese: multi-hit streak at 3 games | window: last 3 games (2026-08-30..2026-09-02) | stats: {'streak_type': 'multi-hit streak', 'length': 3, 'threshold': 3}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P1/negative] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.811 after (516 PA)
+    - [P1/negative] Michael McGreevy has unraveled over his last 7 starts: 10.23 ERA vs 3.32 before
+    - [P1/negative] Pedro Pagés has slumped since 2026-04-28: 0.762 OPS before vs 0.471 after (134 PA)
+    - [P17/neutral] An unusually 6-4-3-light infield: 0.357 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.6)
+    - [P2/negative] Cardinals have gone 12 games with no quality start
+    - [P1/negative] Alec Burleson has slumped since 2026-08-17: 0.848 OPS before vs 0.549 after (67 PA)
+    - [P1/positive] Victor Scott II has surged since 2026-05-04: 0.424 OPS before vs 0.654 after (86 PA)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Thomas Saggese has hit safely in each of the last three games, recording multiple hits in all three.</b> The streak is now in its third consecutive game, a pattern notable enough to watch tonight.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
