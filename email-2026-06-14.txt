@@ -18,6 +18,10 @@
   </table>
 </td></tr>
 
+<tr><td style="padding:12px 20px 0 20px;">
+  <table width="100%" cellpadding="0" cellspacing="0"><tr><td style="background:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;padding:10px 14px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:1.5;color:#2D3640"><b>Correction -- 2026-09-04.</b> This archived edition was corrected after publication. In Key Matchups, the Herrera-vs-Bradley entry called Bradley's right-handed split the more permissive one while the figures printed in the same sentence make it his tighter side; the sentence now states the direction those figures show. No numbers were changed. The edition as sent on 2026-06-14 is unchanged in subscribers' inboxes and preserved in this project's git history; the full record of archive corrections is kept in ARCHIVE-CORRECTIONS.md.</td></tr></table>
+</td></tr>
+
 <!-- YESTERDAY'S RESULT -->
 <tr><td style="padding:16px 20px 0;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 9, MIN 6</div>
@@ -78,7 +82,7 @@ The Cardinals dug out of a 4-run hole with a five-run seventh. Iván Herrera wen
   <b style="color:#0B1C33;">Alec Burleson vs Bradley.</b> Burleson is 2-for-3 in the career BvP sample (small but encouraging). His 2025 vs RHP is .296/.353/.478 with 15 HR -- one of the Cardinals' steadiest LHB profiles. He walks into a Bradley start where 12 of 19 HR have been hit by LHB and the home ERA sits at 5.25.
 </div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;">
-  <b style="color:#0B1C33;">Iván Herrera vs Bradley.</b> Herrera is the live RHB in the heart of the order, coming off a 2-HR, 3-RBI game. His 2025 vs RHP line is .268/.343/.399 with 10 HR, and Bradley vs RHB (.249/.314/.375) is the slightly more permissive of his two splits. A hot bat lining up with the easier handedness side.
+  <b style="color:#0B1C33;">Iván Herrera vs Bradley.</b> Herrera is the live RHB in the heart of the order, coming off a 2-HR, 3-RBI game. His 2025 vs RHP line is .268/.343/.399 with 10 HR, and Bradley vs RHB (.249/.314/.375) is the tighter of his two splits -- his left-handed side is the softer one. A hot bat lining up against the harder handedness side.
 </div>
 <!-- /PHASE2_SLOT -->
 </td></tr>
