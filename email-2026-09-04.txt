@@ -1,0 +1,99 @@
+<!-- 700 Clark Email Block -- STL vs COL 2026-09-04 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (70-71)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Coors Field -- 7:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">COL (54-86)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.57 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, September 4, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Feltner (R) -- 5.84 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- LAD 3, STL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;1 0 1 0 0 0 0 0 0 -- 2<br>
+      LAD&nbsp;&nbsp;0 0 0 0 1 0 0 0 2 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+The Dodgers edged the Cardinals 3-2 last night, taking the series finale despite St. Louis holding a 2-0 lead through three innings. Iván Herrera went 2-for-5 and scored twice, while Jordan Walker and Leo Bernal each added 2-for-4 efforts, but the offense stalled after the third. Teoscar Hernández delivered the decisive blow in the ninth, a two-run double that scored Tommy Edman and Mookie Betts to complete the LAD comeback. St. Louis still won the series 2-of-3.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Quinn Mathews held LAD to 1 run on 4 hits over 5.0 innings, with 4 strikeouts.<br>
+- The Cardinals collected 10 hits against Tarik Skubal and the LAD bullpen combined.<br>
+- Joshua Baez and Ramon Urias each drove in a run, putting St. Louis ahead 2-0 through three.<br>
+- Cade Winquest and Ryne Stanek each threw a scoreless inning in relief.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Riley O'Brien allowed 2 runs on 2 hits and 1 walk in 0.1 innings, surrendering the lead in the ninth.<br>
+- George Soriano issued 3 walks in 1.0 inning, loading the bases before O'Brien entered.<br>
+- Alec Burleson went 0-for-2 with 2 strikeouts off the bench.<br>
+- The Cardinals stranded baserunners and scored no runs after the third inning.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> St. Louis opens at Coors Field against Ryan Feltner, who ranks 103rd of 106 NL pitchers in ERA -- a home ERA of 6.26 and a road OPS-against of .873 in 2026 frame a pitcher the altitude punishes rather than shelters. The Cardinals' right-heavy lineup steps into an offensive environment built for contact and carry, and Feltner's above-league walk rate gives St. Louis extra baserunners without requiring hard contact. <br><br><b style="color:#8B3A3A;">Threat:</b> Jake McCarthy's 83.9% stolen-base success rate (26 of 31 steals this season) meets a catcher in Pedro Pages whose 30.9% caught-stealing rate ranks well below league average, putting the Cardinals' most critical defensive liability on display in a ballpark built for manufacturing runs before outs are recorded. <br><br><b style="color:#B8860B;">Watch:</b> Jordan Walker ranks 13th of 161 National League qualifiers in OPS (.851) and profiles as the Cardinals' most dangerous bat against a right-hander struggling at home. Nathan Church, the lineup's lone left-handed hitter, faces a pitcher who has been harder on left-handed batters than right-handed batters in 2026 -- the one Cardinal whose handedness works in his individual favor tonight.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Feltner vs. STL right-handed core.</b> Ryan Feltner's 2026 platoon splits show .871 OPS allowed against left-handed batters and .857 against right-handed batters -- a gap of 14 points -- so St. Louis' seven right-handed bats carry no platoon edge facing him. The right-handed group does face a pitcher who has allowed a .528 slugging percentage and 19 home runs across 213 right-handed batters faced this season. Jordan Walker (.827 OPS vs. RHP across 424 PA in 2026) and Ivan Herrera (.707 OPS vs. RHP across 427 PA) represent the lineup's volume threats against right-handed pitching; Joshua Baez has 34 PA vs. RHP in 2026 -- too small a sample to report split rates reliably.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Pallante vs. COL lefty majority.</b> Andre Pallante is stronger against right-handed batters this season: .618 OPS allowed across 259 batters faced, compared with .709 OPS allowed against left-handed batters across 305 batters faced. Colorado's lineup carries six left-handed hitters and three switch-hitters, placing the bulk of the order on Pallante's weaker side. Jake McCarthy, TJ Rumfield and Mickey Moniak all hit right-handed pitching as their stronger platoon side, and all three land against Pallante at his less suppressive split -- Moniak, whose numbers against right-handers lead the three, is the bat most likely to make that mismatch count.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Feltner third-pass danger.</b> Ryan Feltner has pitched into a third pass in 17 of 20 starts this season, and the third pass is his weakest. The first three hitters in the St. Louis order -- Jose Fermin, Ivan Herrera and Jordan Walker -- are the group most likely to see him a third time, and those third-pass numbers come only from the starts he was left in.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Andre Pallante.</b> If Pallante generates his 2026 ground-ball rate (61.6%, against the league's 47.0%), watch for Coors to do less damage than usual -- his sinker-heavy approach is the one pitcher profile that keeps the ball on the carpet where the altitude cannot amplify it.</div>
+
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Ryan Feltner / Ivan Herrera.</b> If Feltner's 2026 walk rate (9.9%, above the league's 8.9%) holds tonight, watch whether Ivan Herrera -- whose 2026 BB% of 11.0% ranks 42nd of 161 NL hitters with at least 200 plate appearances -- turns those free passes into traffic for Jordan Walker behind him: with Feltner's third pass his weakest, a walk-heavy first two trips through the order is what drags a third look forward while he is still in the game.</div>
+
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jake McCarthy / Pedro Pages.</b> If Jake McCarthy reaches base, watch whether Pedro Pages can keep him at first: a runner who goes first-to-third at Coors manufactures runs before the Cardinals ever record an out, and every extra base McCarthy takes is one the lineup behind him does not have to earn.</div>
+
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Andre Pallante / Mickey Moniak / Adael Amador.</b> If Pallante's sinker keeps the ball down, watch Mickey Moniak and Adael Amador -- Colorado's two fly-ball-leaning bats, at 35.8% and 37.8% fly balls in 2025 -- for the first sign he is losing it: the night Coors hurts Pallante is the night those two get the ball in the air.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
