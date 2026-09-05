@@ -1,0 +1,113 @@
+<!-- 700 Clark Email Block -- STL vs COL 2026-09-05 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (71-71)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Coors Field -- 7:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">COL (54-87)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.41 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, September 5, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Adams (R) -- 3.00 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 7, COL 6</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 2 0 0 2 0 0 0 3 -- 7<br>
+      COL&nbsp;&nbsp;1 0 0 0 0 4 1 0 0 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Ivan Herrera's three-run homer in the ninth capped a 7-6 Cardinals win over Colorado last night, opening the series at Coors Field. Herrera went 2-for-5 with a homer and 3 RBI; Thomas Saggese and Nolan Gorman each drove in a run in a two-run second. St. Louis overcame a 6-4 deficit entering the ninth, with the bullpen allowing five runs across the sixth and seventh innings before the offense answered.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Ivan Herrera's three-run homer in the ninth -- his 15th -- scored Saggese and Jose Fermin to put St. Louis ahead for good.<br>
+- The Cardinals posted a two-run second on RBI singles from Gorman (scoring Bernal) and a Saggese double (scoring Baez) off Ryan Feltner.<br>
+- Andre Pallante held Colorado to 1 run on 2 hits over 5 innings, keeping the Cardinals in position to win.<br>
+- Riley O'Brien and Cade Winquest combined for 2.2 scoreless innings to bridge the deficit and set up the ninth.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Hancel Rincon allowed 3 runs (including a home run) on 3 hits in just one-third of an inning in the sixth, turning a 4-2 lead into a 5-4 deficit.<br>
+- Justin Bruihl followed with 2 more runs allowed on 3 hits (including another homer) in one inning, extending Colorado's lead to 6-4.<br>
+- The top of the order misfired early: Bryan Torres and Jose Fermin each went 0-for-2, limiting the Cardinals' opportunities in the first innings before the offense broke through in the ninth.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> St. Louis sends four left-handed bats -- Bryan Torres, Alec Burleson, Nolan Gorman, and Nathan Church -- against Mason Adams, whose 2026 splits show .691 OPS allowed against left-handed batters and .956 against right-handed batters across just 19 batters faced per side, samples too small to compare reliably. The raw gap favors the Cardinal lefties, but Burleson (.932 OPS vs RHP this season) and Church (.669 OPS vs RHP this season) carry the cleaner platoon match; Adams's 2026 walk rate of 13.2% makes extended counts the Cardinals' clearest path on-base regardless of handedness. <br><br><b style="color:#8B3A3A;">Threat:</b> Hunter Goodman connects as the Rockies' most dangerous bat against tonight's Cardinal starter: career BvP against Liberatore of 1 HR in 2 AB, and a 2025 OPS of .555 against left-handed pitching across 140 plate appearances -- a figure that understates what Goodman can do in a single at-bat with a man on base. <br><br><b style="color:#B8860B;">Watch:</b> Jordan Walker and Alec Burleson enter tonight in documented OPS slumps -- Walker at .811 over the recent tracking window, Burleson at .471 -- yet Adams's 2026 walk rate of 13.2% sets up the at-bats both need. Walker's 2026 RISP line of 1.008 OPS across 178 plate appearances and Burleson's .922 OPS with runners in scoring position across 180 plate appearances mean the Cardinals' run-manufacturing leverage concentrates in those two spots if the lineup can work counts and reach base early.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Matthew Liberatore TTO3 Cliff.</b> Matthew Liberatore has pitched into a third pass in 24 of 27 starts. In those 24 starts, hitters posted a .665 OPS in the second pass (216 PA) and 1.124 OPS in the third pass (108 PA) -- a within-game swing the bootstrap confirms sits above the league norm in every simulated replication. The third-pass sample carries 108 batters faced; the second-pass figure is drawn from those same starts, making the gap a clean within-game read rather than a sample-mix artifact.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Matthew Liberatore Home/Away -- Coors as Road.</b> Liberatore's 2026 road ERA is 4.93, compared with 5.87 at home, and his road OPS-against is .766 against .868 at home -- he has been stronger away from Busch Stadium. Tonight's road assignment is Coors Field, which erases a share of that road-context advantage.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Matthew Liberatore vs. Colorado's Left-Heavy Lineup.</b> Liberatore's 2026 OPS-against is .861 across 147 left-handed batters faced and .807 across 442 right-handed batters faced -- right-handed hitters are his stronger side. Colorado's lineup sends five left-handed bats at him: Jake McCarthy, Mickey Moniak, TJ Rumfield, Troy Johnston, and Zac Veen. Three of those five carry RISP numbers worth noting: Rumfield at .938 OPS with runners in scoring position across 145 PA, Johnston at .878 across 111 PA, and McCarthy at .896 across 130 PA. Rumfield and Johnston also post their stronger 2026 lines against right-handed pitching -- .862 and .818 OPS, respectively -- so the left-on-left matchup does not defang them the way a same-hand edge would suggest.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Matthew Liberatore.</b> Liberatore has pitched into a third pass in 24 of 27 starts. If he reaches the lineup a third time tonight, the in-game trigger is immediate: his third-pass OPS allowed climbs to 1.124 against a .665 mark in the second pass of those same starts -- a within-game delta confirmed above the league norm in every bootstrap replication. Watch whether Oliver Marmol pulls him at the first sign of third-pass trouble or lets the Rockies' lineup cycle through.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jake McCarthy.</b> If McCarthy reaches base, watch the running game against Leo Bernal, who has allowed 2 stolen bases against 0 caught stealings in his 3 games behind the plate this season -- a sample too small to rate. McCarthy has stolen 27 bases at an 84.4% success rate (27 for 32) in 2026, well above the 72.0% break-even threshold.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Nolan Gorman.</b> If Adams continues walking batters at his 2026 rate, Gorman's 2026 walk rate of 10.2% -- above the 8.9% league average -- makes him a candidate to reach base without putting the ball in play. The trigger: does a free pass to Gorman, who strikes out in 32.8% of plate appearances, translate to a manufactured threat, or does the lineup strand him?</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Hunter Goodman.</b> If the Cardinals test the running game, Goodman has allowed 64 stolen bases against 13 caught stealings (16.9% CS rate) across 77 attempts this season. Watch whether St. Louis baserunners target him early in counts when Liberatore is working from the stretch.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P17] An unusually 6-4-3-light infield: 0.351 of keystone double plays start at short vs the 0.552 norm across 763 modern team-seasons (z = -2.7) | window: through 142 games (57 keystone-family DPs) | stats: {'kind': 'sequence_mix_outlier', 'dp_643': 20, 'dp_463': 37, 'share_643': 0.351, 'z_score': -2.72, 'era_mean': 0.5522, 'era_sd': 0.0741, 'era': '2000-2025', 'n_team_seasons': 763, 'coverage': '1903-2025 (regular); fielder identity sparse pre-war (RSAGG-33 honest-gap note)'}
+  [2] [P1] Andre Pallante has sharpened over his last 6 starts: 2.05 ERA vs 4.30 before | window: last 6 starts (since 2026-07-25) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-07-25', 'before': 4.3, 'after': 2.05, 'before_starts': 19, 'after_starts': 6, 'window_unit': 'starts', 'role': 'SP', 'delta': 2.25}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P2/negative] Cardinals have gone 14 games with no quality start
+    - [P4/positive] Since 2026-08-15, the Cardinals rank 3 of 30 in runs scored per game (5.55) -- best-5 territory
+    - [P4/positive] Since 2026-08-15, the Cardinals rank 28 of 30 in runs allowed per game (5.75) -- best-5 territory
+    - [P1/negative] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.811 after (525 PA)
+    - [P1/negative] Alec Burleson has slumped since 2026-08-19: 0.846 OPS before vs 0.471 after (61 PA)
+    - [P9/negative] Andre Pallante's results are holding but the indicators aren't versus the rest of his season: K% 0.173 -> 0.136, BB% 0.069 -> 0.125, Strike% 0.629 -> 0.575 over his last 4 outings
+    - [P16/positive] Over the last 21 days the Cardinals rank 4 of 30 in errors per game (0.3)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>A structural shift in the Cardinals' infield: double plays turn through second base at a rare rate.</b> Through 142 games, 37 of the club's 57 keystone-family double plays have started at second (4-6-3), against only 20 starting at short (6-4-3) -- a 0.351 share of 6-4-3s against a 0.552 norm across 763 modern team-seasons (z = -2.7). The gap is structural, not a recent run; it reflects who fields ground balls and how the infield is positioned across a full season's worth of opportunities.<br><br><b>Rebound in view: Andre Pallante sharpens over his last 6 starts.</b> His ERA has improved to 2.05 from 4.30 across his previous 19. The turnaround in results is real, but the underlying indicators over his last 4 outings pull the other direction: strikeout rate has dropped from 0.173 to 0.136, walk rate has climbed from 0.069 to 0.125, and strike percentage has fallen from 0.629 to 0.575. The ERA line is holding; the process behind it is worth watching.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
