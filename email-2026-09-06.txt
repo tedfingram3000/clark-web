@@ -1,0 +1,115 @@
+<!-- 700 Clark Email Block -- STL vs COL 2026-09-06 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (71-72)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Coors Field -- 2:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">COL (55-87)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.13 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, September 6, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Gordon (R) -- 5.18 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- COL 10, STL 7</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 1 0 0 2 2 0 0 2 -- 7<br>
+      COL&nbsp;&nbsp;0 0 0 0 6 0 4 0 0 -- 10
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Colorado scored 6 runs in the fifth inning and 4 more in the seventh to erase a 3-0 Cardinals lead, handing St. Louis a 10-7 loss last night at Coors Field. Ivan Herrera went 2-for-5 with a home run and 3 RBI, and Joshua Baez added a 2-for-4 line with a homer and 1 RBI, but the Cardinals could not recover from Matthew Liberatore's fifth-inning collapse. St. Louis falls to 71-72 heading into the series finale this afternoon.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Ivan Herrera's two-run homer in the fifth scored Nathan Church and gave St. Louis a 3-0 lead, and he added an RBI single in the ninth to finish 2-for-5 with 3 RBI.<br>
+- Joshua Baez homered in the second to open the scoring and drove in another run via sacrifice fly in the sixth, going 2-for-4 with 2 runs scored.<br>
+- Brycen Mautz worked 2.0 innings of scoreless relief, allowing 3 hits but no earned runs.<br>
+- Thomas Saggese reached base three times (2-for-2 with a walk), scored a run, drove in one, and stole a base.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Matthew Liberatore surrendered 5 runs in 4.1 innings, unable to get out of the fifth as Colorado's 6-run inning turned a 3-0 Cardinals lead into a 3-6 deficit -- a wild pitch contributed to one of those runs scoring.<br>
+- Hancel Rincon allowed 4 earned runs on 2 hits in 1.0 inning during the seventh, extending Colorado's lead to 10-5.<br>
+- Jordan Walker went 0-for-5 with 3 strikeouts and was charged with a throwing error in the fifth that allowed a runner to advance.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Tanner Gordon at Coors Field is the Cardinals' opening. Gordon is stronger on the road than at home this season, and he is stronger against right-handed batters (.835 OPS allowed) than left-handed batters (.884), so the four lefties St. Louis starts -- Torres, Burleson, Gorman, and Church -- all land on his weaker side in his weaker park. Kyle Leahy, 3.13 ERA and 24th of 108 NL pitchers with at least 60 innings, gives the Cardinals the steadier arm in the rubber game.<br><br><b style="color:#8B3A3A;">Threat:</b> Hunter Goodman, batting third and catching, is the bat most likely to beat Leahy. His 36 home runs rank 4th of 163 NL hitters with at least 200 plate appearances, his .530 slugging percentage ranks 3rd, and his 2026 OPS against right-handed pitching stands at .842 across 340 plate appearances. He has gone 0-for-3 with three strikeouts in 3 career plate appearances against Leahy -- a sample too small to carry weight in either direction.<br><br><b style="color:#B8860B;">Watch:</b> Ivan Herrera, 2-for-5 with a home run and 3 RBI last night, carries a three-game multi-hit streak into the finale, hitting second, one spot ahead of Alec Burleson, whose OPS has dropped to .451 over 61 plate appearances since August 20 despite a season mark that ranks 33rd of 163 NL hitters (.804). Jordan Walker, 0-for-5 with three strikeouts and a throwing error yesterday, hits fourth and meets Gordon on the side Gordon handles better; Walker is stronger against left-handed pitching this season.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Kyle Leahy's third-pass cliff.</b> Leahy has pitched into a third pass in 21 of 26 starts this season. When he does, the lineup sees a 1.016 OPS allowed -- up from .580 on the first pass and .765 on the second. Colorado's lineup can plan on facing him a third time, and that is when his numbers say the damage gets done.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Tanner Gordon at home.</b> Gordon's 2026 home ERA is 7.26 -- 183rd of 185 NL pitchers with at least 20 innings pitched at home -- compared with 2.68 on the road, where he ranks 33rd of 173. He is stronger on the road this season (.717 OPS allowed vs. .978 at home), and tonight he pitches at Coors Field, his home park, squarely on his weaker side.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Kyle Leahy vs. the Colorado lineup.</b> Leahy is stronger against right-handed batters this season (.595 OPS allowed, compared with .847 against left-handed batters). Colorado's lineup carries three left-handed hitters (McCarthy, Rumfield, Johnston), four right-handed hitters, and two switch-hitters. The three left-handed bats land on his weaker side. Two of them have hit right-handed pitching well this season: McCarthy at a .789 OPS vs RHP and Johnston at .816, both above the .731 NL average. The four right-handed bats face his stronger side.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Tanner Gordon vs. the St. Louis lineup.</b> Gordon is stronger against right-handed batters this season. The four left-handed hitters St. Louis starts -- Torres, Burleson, Gorman, and Church -- all land on his weaker side. The edge is only as good as the bats carrying it: Burleson has hit right-handed pitching at a .924 OPS this season (though he has faded badly since late August), but Torres (.763), Church (.671), and Gorman (.601) have not, so the platoon advantage runs through the No. 3 spot more than the bottom of the order.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Kyle Leahy.</b> If Leahy reaches a third pass through Colorado's order, watch for Oliver Marmol to move quickly to the bullpen. The third pass is where Leahy's 2026 numbers turn against him, and those numbers come only from the starts he was left in long enough to face the lineup a third time; the trigger to watch is McCarthy leading off against him for the third time.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jake McCarthy.</b> If Jake McCarthy reaches base, watch for a steal attempt. McCarthy has gone 29-for-34 this season (85.3% success rate), above the 72.0% break-even threshold. Cardinals catcher Leo Bernal has allowed 6 stolen bases in 6 attempts with no caught stealings across 4 games -- a sample too small to yield a reliable caught-stealing rate (minimum 20 attempts).</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Tanner Gordon.</b> Gordon has pitched into a third pass in 6 of 8 starts this season, but the damage against him has come early: his 2026 first-pass OPS-against is .956 across 72 batters faced, his weakest stretch of any start, and his second pass (.948 across 71 batters faced) runs nearly as high. Watch Torres, Herrera, and Burleson in the first two innings -- the top of the order gets Gordon in the passes where he has been most hittable, and Torres and Burleson meet him from the left side, where he has allowed more.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P31] The rotation is at 0.0 quality-start rate over the last 15 games -- against 0.367 before that | window: last 15 games (2026-08-20..2026-09-05) | stats: {'kind': 'rotation_window_shorter', 'stat': 'quality-start rate', 'window_games': 15, 'window_starts': 15, 'window_rate': 0.0, 'baseline_games': 128, 'baseline_starts': 128, 'baseline_rate': 0.367, 'ratio': 0.0, 'threshold': 1.75, 'window_start_ip': 65.0, 'window_ip_per_start': 4.33, 'window_quality_starts': 0, 'window_qs_rate': 0.0, 'window_starters': 8, 'baseline_excludes_window': True, 'league_comparator': 'modern_era_2015_2025_distribution', 'league_z': -4.04}
+  [2] [P2] Cardinals have gone 15 games with no quality start | window: last 15 games (2026-08-20..2026-09-05) | stats: {'streak_type': 'zero-streak: no quality start', 'length': 15, 'threshold': 8}
+  [3] [P4] Since 2026-08-15, the Cardinals rank 3 of 30 in runs scored per game (5.62) -- best-5 territory | window: since 2026-08-15 (21 games) | stats: {'metric': 'runs scored per game', 'value': 5.62, 'rank': 3, 'teams': 30, 'window_anchor': '2026-08-15', 'anchor_source': 'P1 change-point (team R/G)', 'window_games': 21, 'standings_context': {'wc_gb': '4.0', 'div_gb': '17.0', 'div_rank': '3', 'wc_rank': '6'}}
+      window: since 2026-08-15 · 21 games · level 5.62
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P4/positive] Since 2026-08-15, the Cardinals rank 28 of 30 in runs allowed per game (5.95) -- best-5 territory
+    - [P31/negative] The Cardinals rotation is pacing at 833.0 starter innings -- the franchise fewest is 832.7 (2021)
+    - [P1/negative] Alec Burleson has slumped since 2026-08-20: 0.844 OPS before vs 0.451 after (61 PA)
+    - [P2/positive] Iván Herrera: multi-hit streak at 3 games
+    - [P1/negative] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.804 after (530 PA)
+    - [P20/positive] Over the window the Cardinals rank 28 of 30 in runners left on base per game (6.3)
+    - [P1/negative] Michael McGreevy has unraveled over his last 7 starts: 10.23 ERA vs 3.32 before
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>The Cardinals rotation has gone 15 straight games without a quality start, August 20 through September 5.</b> Its quality-start rate over that stretch is 0.0, against a .367 mark across the prior 128 games. Eight different starters have taken the ball in those 15 outings, averaging 4.33 innings per start. The offense is pulling in the opposite direction: <b>since August 15, St. Louis ranks 3rd of 30 teams in runs scored per game at 5.62 across 21 games</b> -- though the pitching side of that same window tells a different story, with the Cardinals allowing 5.95 runs per game, 28th of 30 teams over the same span.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
