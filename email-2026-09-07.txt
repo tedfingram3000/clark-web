@@ -106,7 +106,7 @@ The Cardinals took the series finale from Colorado yesterday afternoon, 10-8, sc
     - [P9/negative] Andre Pallante's results are holding but the indicators aren't versus the rest of his season: K% 0.173 -> 0.136, BB% 0.069 -> 0.125, Strike% 0.629 -> 0.575 over his last 4 outings
 -->
 <!-- PHASE2_SLOT: trend_watch_prose -->
-<b>Ivan Herrera has recorded multiple hits in each of his last 4 games.</b> The multi-hit run keeps him in the lineup conversation heading into tonight, and the pace-for-100-runs context (89 runs scored through 144 team games) adds a counting-stat dimension to watch as the season winds down.<br><br><b>Nolan Gorman's bat has gone quiet since the third week of May.</b> His OPS has fallen from 0.702 across 174 PA before that point to 0.370 across 91 PA since. The gap of 0.332 OPS points over a 91-PA window is the kind of sustained pullback that warrants a production check before tonight's at-bats.
+<b>Ivan Herrera has recorded multiple hits in each of his last 4 games.</b> The multi-hit run keeps him in the lineup conversation heading into tonight, and the pace-for-100-runs context (89 runs scored through 144 team games) adds a counting-stat dimension to watch as the season winds down.<br><br><b>Nolan Gorman's bat has gone quiet since the third week of May.</b> His OPS has fallen from 0.702 across 174 PA before that point to 0.370 across 91 PA since. A fall that large across 91 plate appearances is a real slump, not a cold week, and tonight's at-bats are the next look at whether it continues.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
