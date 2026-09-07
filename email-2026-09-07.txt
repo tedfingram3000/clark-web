@@ -49,7 +49,7 @@ The Cardinals took the series finale from Colorado yesterday afternoon, 10-8, sc
 - Thomas Saggese scored twice and went 2-for-4; Nathan Church knocked in a run with an RBI single in the second.<br>
 <br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
 - Kyle Leahy allowed 5 earned runs on 6 hits in 2.2 innings, including a Mickey Moniak three-run homer in the third that pushed Colorado to a 5-1 lead.<br>
-- The bullpen gave back five runs after the Cardinals had built a 10-5 cushion -- Luis Gastelum allowed a homer in the eighth, and Ryne Stanek was charged with two runs in the ninth as Colorado pulled to 10-8.<br>
+- The bullpen gave back three runs after the Cardinals had built a 10-5 cushion -- Luis Gastelum allowed a homer in the eighth, and Ryne Stanek was charged with two runs in the ninth as Colorado pulled to 10-8.<br>
 - Jordan Walker went 0-for-4 with two strikeouts, the only regular starter who failed to reach base via a hit.
 <!-- /PHASE2_SLOT -->
     </div>
@@ -106,7 +106,7 @@ The Cardinals took the series finale from Colorado yesterday afternoon, 10-8, sc
     - [P9/negative] Andre Pallante's results are holding but the indicators aren't versus the rest of his season: K% 0.173 -> 0.136, BB% 0.069 -> 0.125, Strike% 0.629 -> 0.575 over his last 4 outings
 -->
 <!-- PHASE2_SLOT: trend_watch_prose -->
-<b>Ivan Herrera has recorded multiple hits in each of his last 4 games, extending a streak past the 3-game threshold.</b> The multi-hit run keeps him in the lineup conversation heading into tonight, and the pace-for-100-runs context (89 runs scored through 144 team games) adds a counting-stat dimension to watch as the season winds down.<br><br><b>Nolan Gorman's bat has gone quiet since the third week of May.</b> His OPS has fallen from 0.702 across 174 PA before that point to 0.370 across 91 PA since. The gap of 0.332 OPS points over a 91-PA window is the kind of sustained pullback that warrants a production check before tonight's at-bats.
+<b>Ivan Herrera has recorded multiple hits in each of his last 4 games.</b> The multi-hit run keeps him in the lineup conversation heading into tonight, and the pace-for-100-runs context (89 runs scored through 144 team games) adds a counting-stat dimension to watch as the season winds down.<br><br><b>Nolan Gorman's bat has gone quiet since the third week of May.</b> His OPS has fallen from 0.702 across 174 PA before that point to 0.370 across 91 PA since. The gap of 0.332 OPS points over a 91-PA window is the kind of sustained pullback that warrants a production check before tonight's at-bats.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
