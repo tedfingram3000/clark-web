@@ -1,0 +1,114 @@
+<!-- 700 Clark Email Block -- STL vs SF 2026-09-07 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (72-72)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Oracle Park -- 7:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SF (59-85)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.97 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, September 7, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Webb (R) -- 4.21 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 10, COL 8</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 1 0 0 6 0 0 3 0 -- 10<br>
+      COL&nbsp;&nbsp;2 0 3 0 0 0 0 1 2 -- 8
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals took the series finale from Colorado yesterday afternoon, 10-8, scoring six runs in the fifth inning to turn a 1-5 deficit into a 7-5 lead. Ivan Herrera went 3-for-5 with 2 RBI, Alec Burleson added 3-for-5 with an RBI, and Nolan Gorman's two-run homer in the fifth capped the rally. St. Louis won 2-of-3 from Colorado.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- The fifth-inning rally: six runs scored to erase a four-run Colorado lead, with Leo Bernal's two-RBI single and Joshua Baez's RBI single setting the table before Nolan Gorman's two-run homer finished the frame.<br>
+- Ivan Herrera drove in 2 and scored twice on a 3-for-5 afternoon, and Alec Burleson matched that hit total with 3-for-5 and an RBI.<br>
+- Cooper Hjerpe threw 4.0 scoreless innings with 6 strikeouts and no hits allowed in relief, stabilizing the game after a rocky start.<br>
+- Thomas Saggese scored twice and went 2-for-4; Nathan Church knocked in a run with an RBI single in the second.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Kyle Leahy allowed 5 earned runs on 6 hits in 2.2 innings, including a Mickey Moniak three-run homer in the third that pushed Colorado to a 5-1 lead.<br>
+- The bullpen gave back five runs after the Cardinals had built a 10-5 cushion -- Luis Gastelum allowed a homer in the eighth, and Ryne Stanek was charged with two runs in the ninth as Colorado pulled to 10-8.<br>
+- Jordan Walker went 0-for-4 with two strikeouts, the only regular starter who failed to reach base via a hit.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Logan Webb is stronger against right-handed batters this season (.612 OPS allowed, compared with .672 against left-handed batters), but the Cardinals send four left-handed hitters tonight -- Torres, Burleson, Gorman, and Church -- landing squarely on Webb's less-favorable side.<br><br><b style="color:#8B3A3A;">Threat:</b> Rafael Devers is the Giant most dangerous to Michael McGreevy tonight. His 2026 line against right-handers is 1.009 OPS over 404 plate appearances, 3rd of 217 NL batters with at least 60 plate appearances vs right-handed pitching, after he hit .258/.395/.514 against right-handed pitching over 489 plate appearances last season.<br><br><b style="color:#B8860B;">Watch:</b> Ivan Herrera bats second for St. Louis and faces Webb having hit .268/.343/.399 against right-handed pitching over 328 plate appearances last season. His 2026 line vs right-handers stands at .732 OPS across 440 plate appearances -- a matchup to track as the Cardinals work to cycle through Webb's lineup passes.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Webb's third-pass cliff.</b> Logan Webb has pitched into a third pass in 23 of 25 starts this season. In those starts, hitters posted a .424 OPS against him over 170 batters faced in the third pass -- down sharply from the .678 OPS they posted against him in the second pass of those same starts (207 plate appearances). Once Webb reaches a third pass, hitters have done little with it; the Cardinals' path to offense runs through the second pass, before that drop, and the gap between those two figures is this game's central structural fact.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">McGreevy weakens through the game.</b> Michael McGreevy has pitched into a third pass in 25 of 27 starts this season. His third-pass OPS-against is .780 over 125 batters faced, his weakest pass -- above his first-pass mark of .674 across 243 batters faced. His third-pass numbers come only from the starts he was left in that long. The Giants' best late leverage comes after the lineup has seen him twice.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Rafael Devers vs. McGreevy (career BvP).</b> Rafael Devers is 3-for-5 with 2 home runs off McGreevy in 6 career plate appearances -- a .600 average, .667 OBP, and 1.800 SLG. Six plate appearances carry no predictive weight, but two home runs in five at-bats is a power concentration the Cardinals cannot ignore against tonight's starter.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Alec Burleson and Nolan Gorman vs. Webb (career BvP).</b> The Cardinals' 3-4 hitters split sharply in nine career plate appearances each against Webb. Alec Burleson is 4-for-9 with a home run -- .444 OBP and .778 SLG across those 9 PA. Nolan Gorman is 0-for-9 with 6 strikeouts in 9 career PA, with a .000 average. Nine plate appearances against any pitcher is too small a sample to carry directional weight on its own, but Gorman's strikeout concentration against Webb's profile -- Webb's 2026 K% is 19.2% -- is a pairing worth watching.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Logan Webb's third-pass arrival.</b> If Webb is still in the game when the Cardinals' order comes around a third time, that is not the opening it might look like: in the starts he was left in that long, hitters have done far less against him in the third pass than in the second. Webb is also stronger at home this season (.581 OPS allowed) than on the road (.729), and tonight he pitches at Oracle Park. Watch whether Oliver Marmol gets his left-handed bats their looks early, while Webb is still working through the order a second time, rather than counting on a third pass.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Michael McGreevy's strikeout rate as a stress signal.</b> Michael McGreevy ranks 94th of 110 NL pitchers with at least 60 innings in K% (16.8%; league average 22.2%). His strikeout rate is among the lowest in the NL pool, and with a left-heavy Giants lineup -- eight left-handed hitters -- longer at-bats are a realistic path to trouble. He reaches a third pass in nearly every start, and that third pass has been his weakest. If his ability to get quick outs erodes in the middle innings, watch whether the Giants start extending counts and pushing him toward his weaker late-game exposure.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jordan Walker vs. Webb (same-hand matchup).</b> Jordan Walker, batting fourth and right-handed, sits on Webb's stronger platoon side. Last season Walker hit .200/.263/.291 against right-handed pitching across 289 plate appearances. This season he has moved to .806 OPS against right-handers over 439 plate appearances. If Webb commands his pitch mix effectively to right-handed bats, watch whether Walker can put a productive at-bat together despite the platoon disadvantage -- his 2026 RISP line (.994 OPS across 182 plate appearances) makes him the Cardinals' most consequential bat when runners are on.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Drew Cavanaugh and Cardinals baserunning.</b> If the Cardinals get on base against Webb, Drew Cavanaugh has caught 9 of 41 steal attempts this season, a 22.0% caught-stealing rate. Watch whether St. Louis tests Cavanaugh's arm in situations where an extra base would move a runner into scoring position, in a game between two closely matched starters.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P2] Iván Herrera: multi-hit streak at 4 games | window: last 4 games (2026-09-03..2026-09-06) | stats: {'streak_type': 'multi-hit streak', 'length': 4, 'threshold': 3}
+  [2] [P1] Nolan Gorman has slumped since 2026-05-20: 0.702 OPS before vs 0.370 after (91 PA) | window: since 2026-05-20 (91 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': '2026-05-20', 'before': 0.702, 'after': 0.37, 'before_pa': 174, 'after_pa': 91, 'delta': 0.332}
+      window: since 2026-05-20 · 91 PA · level 0.37
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P8/neutral] Iván Herrera on pace for 100 runs (milestone: 100)
+    - [P1/negative] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.798 after (535 PA)
+    - [P1/negative] Michael McGreevy has unraveled over his last 7 starts: 10.23 ERA vs 3.32 before
+    - [P1/negative] Pedro Pagés has slumped since 2026-04-28: 0.762 OPS before vs 0.479 after (136 PA)
+    - [P1/negative] Alec Burleson has slumped since 2026-08-21: 0.843 OPS before vs 0.512 after (61 PA)
+    - [P1/positive] Victor Scott II has surged since 2026-05-04: 0.424 OPS before vs 0.647 after (87 PA)
+    - [P9/negative] Andre Pallante's results are holding but the indicators aren't versus the rest of his season: K% 0.173 -> 0.136, BB% 0.069 -> 0.125, Strike% 0.629 -> 0.575 over his last 4 outings
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Ivan Herrera has recorded multiple hits in each of his last 4 games, extending a streak past the 3-game threshold.</b> The multi-hit run keeps him in the lineup conversation heading into tonight, and the pace-for-100-runs context (89 runs scored through 144 team games) adds a counting-stat dimension to watch as the season winds down.<br><br><b>Nolan Gorman's bat has gone quiet since the third week of May.</b> His OPS has fallen from 0.702 across 174 PA before that point to 0.370 across 91 PA since. The gap of 0.332 OPS points over a 91-PA window is the kind of sustained pullback that warrants a production check before tonight's at-bats.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
