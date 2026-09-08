@@ -1,0 +1,113 @@
+<!-- 700 Clark Email Block -- STL vs SF 2026-09-08 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (72-73)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Oracle Park -- 8:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SF (60-85)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Mathews (L) -- 4.38 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, September 8, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Roupp (R) -- 4.17 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- SF 5, STL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 1 1 0 1 1 0 -- 4<br>
+      SF&nbsp;&nbsp;&nbsp;1 0 1 0 1 0 0 0 0 1 1 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+San Francisco beat St. Louis 5-4 in 11 innings last night to open the series at Oracle Park. Michael McGreevy held the Giants to 3 runs over 6.2 innings, and Alec Burleson hit his 22nd home run to spark the Cardinals' comeback from a 3-0 deficit, but Shay Whitcomb's walk-off single in the 11th handed St. Louis a series-opening loss. Thomas Saggese went 2-for-5 and Bryce Eldridge drove in 3 for San Francisco.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Michael McGreevy gave the Cardinals 6.2 innings, allowing 3 runs on 6 hits with 4 strikeouts, keeping the bullpen workload manageable through eight.<br>
+- Alec Burleson's 22nd home run in the 6th started the Cardinals' comeback from a 3-0 hole, and Leo Bernal's RBI single in the 10th gave St. Louis a 4-3 lead.<br>
+- Justin Bruihl was spotless in relief, working 1.1 innings with 1 strikeout and no baserunners allowed.<br>
+- St. Louis scored in four of the final six innings (6th, 7th, 9th, 10th), demonstrating late-game persistence through extra innings.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- The Cardinals went scoreless through the first five innings against Logan Webb, who struck out 8 over 6.0 innings while limiting St. Louis to 3 hits.<br>
+- The bullpen could not hold the lead in the 10th or 11th: Riley O'Brien allowed Turner Hill to score the tying run in the 10th, and George Soriano gave up Shay Whitcomb's walk-off single in the 11th.<br>
+- St. Louis collected 9 hits but left runners stranded repeatedly, with four regulars finishing 1-for-5 and the team managing just 4 runs on those 9 hits over 11 innings.<br>
+- Nolan Gorman was 0-for-4 with a walk, and three Cardinals starters finished with 2 strikeouts each (Burleson, Walker, Baez).
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Landen Roupp's 2026 walk rate of 11.1% runs above the league average of 8.9%, giving a patient Cardinals lineup a consistent path to first base -- and the best chance to work deep into the game toward his weakest late-game pass. <br><br><b style="color:#8B3A3A;">Threat:</b> Bryce Eldridge, who drove in 3 runs last night, is the Giant best built to beat Quinn Mathews. Eldridge is stronger against left-handed pitching this season: .866 OPS across 124 plate appearances, compared with .784 OPS against right-handed pitching, and he ranks 27th of 150 NL batters with at least 60 plate appearances vs left-handed pitching in OPS. <br><br><b style="color:#B8860B;">Watch:</b> Alec Burleson bats third and left-handed against right-hander Roupp, on Roupp's stronger side tonight. His 2026 line against right-handed pitching reads .316/.389/.548, a .937 OPS across 422 plate appearances, up from .296/.353/.478 across 419 plate appearances last season.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Roupp platoon vs. STL lefties.</b> Landen Roupp is stronger against left-handed batters this season: .640 OPS allowed across 370 batters faced, compared with .677 OPS allowed against right-handed batters across 244 batters faced. All four of St. Louis's left-handed bats -- Bryan Torres, Alec Burleson, Nolan Gorman, and Nathan Church -- land on his stronger split tonight.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Roupp at Oracle Park.</b> Roupp is stronger at home this season: .607 OPS allowed across 274 batters faced, compared with .694 OPS allowed on the road across 340 batters faced. Tonight at Oracle Park, the Cardinals face his home-field version, which has been the sharper of the two.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Mathews profile vs. SF lineup.</b> Quinn Mathews carries a 4.38 ERA and 1.58 WHIP across 24.2 innings in five starts this season. His 2026 walk rate is above the league average: 10.7% compared with 8.9% league-wide. His sample against left-handed batters is only 20 batters faced this season -- too small to carry split rates reliably.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Roupp third-pass vulnerability.</b> Roupp has pitched into a third pass in 25 of 27 starts this season. His third pass is his weakest this season: batters have posted .746 OPS against him across 128 third-pass plate appearances in those starts, after .605 OPS allowed in the first pass and .657 in the second.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Quinn Mathews second-pass decision point.</b> If Mathews enters the second time through San Francisco's order, batters have posted .993 OPS against him across 44 second-pass plate appearances this season -- and Mathews has pitched into a third pass in 4 of 5 starts this season; in those 4 starts, the second pass went .500 OBP and .531 SLG against him, the subset where he was sharp enough to continue. Watch whether Oliver Marmol lets the inning play out or goes early to the bullpen when the top of San Francisco's order comes around again.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Riley O'Brien in a save situation.</b> If O'Brien enters with a lead in a late inning, his 2025 inherited-runner strand rate of 70% across 10 runners in 8 entries gives context on his record holding leads with men already on. The trend section details a recent blown-save pattern worth tracking alongside that figure.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Roupp ground-ball / Ivan Herrera double-play risk.</b> If the Cardinals put runners on early against Landen Roupp, watch for ground-ball double plays: Roupp's 57.2% ground-ball rate ranks 13th of 110 NL pitchers with at least 60 innings, above the league's 47.0%, and Ivan Herrera -- batting second with a 52.6% ground-ball rate across 285 balls in play in 2025 -- is the Cardinals' highest-risk early-order sequence-killer.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Nolan Gorman vs. Roupp.</b> If Nolan Gorman bats against Roupp with runners on, watch for a pivotal sequence: his 2026 line vs. right-handed pitching reads .188/.272/.332 across 228 plate appearances, down from .201/.294/.349 across 309 plate appearances last season. A 2026 strikeout rate of 32.2% against the league's 22.1% adds another layer to the at-bat.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P19] Riley O'Brien has blown 2 saves in his last 5 appearances | window: last 5 appearances (2026-08-27..2026-09-07) | stats: {'kind': 'reliever_blown_saves', 'blown': 2, 'appearances': 5, 'threshold': 2, 'window_unit': 'appearances', 'role': 'CL'}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P6/positive] Alec Burleson has set a new personal season best in HR: 22, passing his 21 (2024)
+    - [P1/negative] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.797 after (540 PA)
+    - [P1/negative] Michael McGreevy has unraveled over his last 8 starts: 9.29 ERA vs 3.32 before
+    - [P9/negative] Andre Pallante's results are holding but the indicators aren't versus the rest of his season: K% 0.173 -> 0.136, BB% 0.069 -> 0.125, Strike% 0.629 -> 0.575 over his last 4 outings
+    - [P30/negative] The Cardinals bullpen is pacing at 613.3 relief innings -- the franchise record is 584.3 (2021)
+    - [P31/negative] The rotation is at 0.067 quality-start rate over the last 15 games -- against 0.362 before that
+    - [P7/positive] Jordan Walker's OPS jump: 0.584 (2025) -> 0.837 (2026), +0.254 -- p99+ of 16,975 season pairs in MLB history
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Riley O'Brien's hold on the closer's job is under direct scrutiny.</b> He has blown 2 saves in his last 5 appearances. The Cardinals' bullpen has already logged 549.0 relief innings through 145 team games -- pacing at 613.3 innings over a full 162, above the franchise record of 584.3 set in 2021 -- so the workload context behind each blown save compounds the concern.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
