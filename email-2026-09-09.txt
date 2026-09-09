@@ -1,0 +1,105 @@
+<!-- 700 Clark Email Block -- STL vs SF 2026-09-09 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (72-74)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Oracle Park -- 2:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SF (61-85)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.51 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, September 9, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tidwell (R) -- 4.43 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- SF 2, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 0 1 -- 1<br>
+      SF&nbsp;&nbsp;&nbsp;1 1 0 0 0 0 0 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+San Francisco took Game 2 of the series last night, 2-1, handing St. Louis a tough loss on back-to-back home runs by Bryce Eldridge (innings 1) and Christian Koss (inning 2) off Quinn Mathews. The Cardinals managed only 5 hits against Landen Roupp and three relievers, with Bryan Torres driving in the lone St. Louis run on a ninth-inning single that scored Nathan Church.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>• Quinn Mathews logged 6.0 innings, limiting San Francisco to 5 hits and 2 runs while striking out 4.<br>• Gordon Graceffo was sharp in relief -- 2.0 innings, 1 hit, 0 runs, 2 strikeouts.<br>• Alec Burleson worked 3 walks against 1 at-bat, reaching base at a high clip in the middle of the order.<br>• Victor Scott II stole a base as a pinch runner, keeping the Cardinals active on the bases late.<br><br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>• Bryce Eldridge and Christian Koss each homered off Mathews in the first two innings -- both Cardinals runs allowed were via the long ball.<br>• The lineup went 5-for-29 overall; Jordan Walker (0-for-4), Masyn Winn (0-for-4), and Leo Bernal (0-for-3) were a combined 0-for-11.<br>• Landen Roupp held St. Louis to 2 hits over 6.0 scoreless innings, issuing 4 walks without allowing a run.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> St. Louis sends four left-handed bats -- Bryan Torres, Alec Burleson, Nolan Gorman, and Nathan Church -- directly into Blade Tidwell's .867 OPS-against side, his weaker split against left-handed batters this season compared with .444 against right-handed batters. The lineup construction is a structural advantage: the Cardinals' four lefties land on the side of Tidwell where batters have done their most damage in 2026.<br><br><b style="color:#8B3A3A;">Threat:</b> Rafael Devers has homered once against Andre Pallante in 12 career plate appearances and bats left-handed into a pitcher who allows a .701 OPS against left-handed batters this season -- Pallante's weaker split compared with .622 against right-handed batters. Devers is the Giants bat with the clearest path to damage tonight.<br><br><b style="color:#B8860B;">Watch:</b> Thomas Saggese bats seventh as a right-handed hitter, placing him on Tidwell's .444 OPS-against side -- Tidwell's stronger split. His numbers are owned by the Trend Watch section, but his platoon spot works against him tonight.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Tidwell vs. Cardinals left-handed bats.</b> Blade Tidwell is stronger against right-handed batters this season -- his .867 OPS allowed against left-handed batters across 99 batters faced is his weaker side. Four Cardinals lefties cycle through the lineup into that split: Bryan Torres leads off, Alec Burleson bats third, Nolan Gorman sixth, and Nathan Church ninth. Burleson is the most dangerous of the group against right-handed pitching -- 2026 vs. RHP: .943 OPS across 426 plate appearances (7th of 217 NL batters with at least 60 plate appearances vs. right-handed pitching). Church and Gorman also carry their 2026 vs.-RHP figures into this matchup: Church at .674 OPS across 325 plate appearances, Gorman at .598 across 230. Torres's 2026 vs.-RHP sample of 133 plate appearances reads .753 OPS.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Pallante vs. Giants right-handed bats.</b> Andre Pallante is stronger against right-handed batters this season: .622 OPS allowed vs. .701 against left-handed batters. San Francisco sends five right-handed bats -- Jonah Cox, Osleivis Basabe, Andrew Knizner, Shay Whitcomb, and Christian Koss -- into that favorable split. Devers is left-handed and faces Pallante's weaker side, but the five right-handers give Pallante the platoon edge for the bulk of the order. Among those five, Basabe's 2026 vs.-RHP sample of 73 plate appearances clears the floor at .763 OPS (62nd of 217 NL batters with at least 60 PA vs. right-handed pitching); Koss's 119-PA line reads .528 OPS (202nd of 217). Cox, Whitcomb, and Knizner each fall below the 60-PA floor vs. right-handed pitching in 2026.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Rafael Devers career vs. Pallante.</b> Rafael Devers has faced Pallante 12 times in his career, going 2-for-10 with a home run, a walk, and three strikeouts (.200 avg / .333 obp / .500 slg). Devers bats left-handed into Pallante's weaker platoon side this season (.701 OPS allowed vs. left-handed batters), and his 2026 line vs. right-handed pitching stands at 1.020 OPS across 409 plate appearances -- 2nd of 217 NL batters with at least 60 plate appearances vs. right-handed pitching. The career BvP history is too small to carry predictive weight, but the season-level split sets the context.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Tidwell's times-through-order cliff.</b> Blade Tidwell has pitched into the third pass in all 6 starts. Batters post a .844 OPS against him on the first pass (54 batters faced), drop sharply to .632 on the second (54 BF), then fall further to .458 on the third (21 BF) -- his third-pass numbers come only from the starts he was left in. The Cardinals' best chance to exploit that first-pass vulnerability sits with the left-handed portion of the lineup, which also attacks Tidwell's weaker platoon side.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Alec Burleson vs. Tidwell's walk rate.</b> If Burleson works counts early, Tidwell's 2026 walk rate of 10.2% -- above the league average of 8.9% -- makes free passes a real outcome. Burleson's 2025 K-rate was 14.5% and his BB-rate was 7.2%, so he makes contact and stays patient; the combination of a disciplined hitter against a pitcher who issues walks at above-average frequency is worth tracking from the first at-bat.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Andre Pallante's command indicators.</b> Pallante's 2026 ERA sits at 3.51, 38th of 111 NL pitchers with at least 60 innings -- above average by this season's cutoff of 3.59. If he loses command early today, the Trend Watch section's K% and BB% tracking over his last four outings provides the context for whether tonight looks like a continuation of that recent pattern or a reversion to his season-long line.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jordan Walker vs. Tidwell's right-handed split.</b> Walker bats right-handed into Tidwell's stronger side this season -- .444 OPS allowed against right-handed batters, 11th of 227 NL pitchers with at least 60 batters faced vs. right-handed batters. Walker is stronger against left-handed pitching this season (.915 OPS vs. .797 OPS against right-handed pitching across 448 PA), so today's matchup puts him on the less favorable side. If he reaches, watch whether he can do damage despite the split disadvantage.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Grant McCray baserunning vs. Leo Bernal.</b> If McCray reaches base, the stolen base read is straightforward: McCray is 5-for-5 on steal attempts in 2026, while Bernal has 0 caught stealings in 7 attempts this season -- his rate is not publishable at that sample. McCray's 2026 baserunning sample of 5 attempts is too small to rate reliably, but the directional read from the catcher side alone warrants attention anytime he gets on.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Thomas Saggese has surged since 2026-05-10: 0.415 OPS before vs 1.239 after (60 PA) | window: since 2026-05-10 (60 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': '2026-05-10', 'before': 0.415, 'after': 1.239, 'before_pa': 61, 'after_pa': 60, 'delta': 0.824}
+      window: since 2026-05-10 · 60 PA · level 1.239 · league 0.731
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P1/negative] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.791 after (544 PA)
+    - [P1/positive] Quinn Mathews has sharpened over his last 3 starts: 2.13 ERA vs 6.15 before
+    - [P1/negative] Michael McGreevy has unraveled over his last 8 starts: 9.29 ERA vs 3.32 before
+    - [P1/negative] Pedro Pagés has slumped since 2026-04-28: 0.762 OPS before vs 0.479 after (136 PA)
+    - [P1/positive] Victor Scott II has surged since 2026-05-04: 0.424 OPS before vs 0.647 after (87 PA)
+    - [P9/negative] Andre Pallante's results are holding but the indicators aren't versus the rest of his season: K% 0.173 -> 0.136, BB% 0.069 -> 0.125, Strike% 0.629 -> 0.575 over his last 4 outings
+    - [P1/negative] Matthew Liberatore has unraveled over his last 3 starts: 11.05 ERA vs 5.97 before
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Thomas Saggese has turned his season around since May 10, posting a 1.239 OPS across 60 plate appearances after a .415 OPS mark in his first 61 PA.</b> The swing of 0.824 OPS points is the sharpest positive inflection among Cardinals hitters this morning, and his current 1.239 OPS sits well above the league average of 0.731.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
