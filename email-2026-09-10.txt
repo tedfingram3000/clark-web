@@ -1,0 +1,63 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-09-10 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (72-75)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NEXT: CWS</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- SF 7, STL 6</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 1 3 0 1 1 0 0 0 -- 6<br>
+      SF&nbsp;&nbsp;&nbsp;1 0 0 0 0 0 0 6 0 -- 7
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+Andre Pallante held the Giants to 1 run over 5.0 innings, and Leo Bernal's three-run homer (his second of the season) in the 3rd gave St. Louis a 4-1 lead. The Cardinals held a 6-1 advantage through seven innings before San Francisco scored 6 in the eighth -- Bryce Eldridge, Jonah Cox, Jung Hoo Lee, and Shay Whitcomb each drove in runs -- completing a 3-game sweep at Oracle Park.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Andre Pallante: 5.0 IP, 1 ER, 4 K -- limited the Giants to 1 run through his outing.<br>
+- Leo Bernal: three-run homer (his second of the season) in the 3rd put St. Louis ahead 4-1.<br>
+- Justin Bruihl: 1.0 IP, 0 runs, 3 K after Pallante.<br>
+- St. Louis held a 6-1 lead heading into the eighth inning.<br><br>
+<b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Cade Winquest (0.2 IP, 4 ER) and George Soriano (0.1 IP, 2 ER) could not hold the eighth -- San Francisco scored 6 in the frame, turning a 6-1 Cardinals advantage into a 7-6 loss.<br>
+- St. Louis went scoreless in the 7th, 8th, and 9th innings after leading 6-1 heading into the eighth.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+Cardinals off day. No scout report today. Next game: September 11 vs Chicago White Sox at Busch Stadium, 7:15 PM CT.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
