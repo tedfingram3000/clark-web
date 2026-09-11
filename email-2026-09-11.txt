@@ -1,0 +1,56 @@
+<!-- 700 Clark Email Block -- STL vs CWS 2026-09-11 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (72-75)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 7:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CWS (75-71)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.57 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, September 11, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Kay (L) -- 4.47 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Anthony Kay is stronger against left-handed batters this season -- .511 OPS allowed versus .868 OPS allowed against right-handed batters -- and the Cardinals send a lineup with eight right-handed hitters to face his vulnerable side tonight at Busch Stadium. Kay pitches away from home, where he allows a .828 OPS compared with .726 at home, adding a second layer of exposure for Chicago.<br><br><b style="color:#8B3A3A;">Threat:</b> Brenton Doyle has a home run in 5 career plate appearances against Matthew Liberatore, and he runs at 80.0% success on the bases in 2026 (12 for 15). Miguel Vargas amplifies that threat with 17 stolen bases this season. The two form the baserunning and power combination most likely to put Chicago ahead before St. Louis can exploit its late-inning advantage against Kay.<br><br><b style="color:#B8860B;">Watch:</b> Jordan Walker is the right-handed bat best positioned to punish Kay's weaker side. Walker has hit .294/.377/.538 (.915 OPS) against left-handed pitching this season across 162 PA, 14th of 150 NL batters with at least 60 PA vs left-handers against a league average of .738. Ivan Herrera is the second name to watch: his 2026 line against lefties is .253/.404/.383 (.787 OPS) across 203 PA, 56th of 150, and that, not his .330/.455/.660 line from 2025 (124 PA), is the current read. Nolan Gorman bats left-handed, so he faces Kay's stronger side, and his 44 PA against lefties this season are too few to read.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Kay vs Cardinals RHBs.</b> Right-handed hitters have reached a .868 OPS against Anthony Kay this season across 465 batters faced, against a .699 league average for NL pitchers facing right-handers, and the Cardinals send eight right-handed bats into that split tonight.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Liberatore Home Disadvantage.</b> Matthew Liberatore is stronger on the road this season: .753 OPS allowed away compared with .868 OPS allowed at home. Tonight at Busch Stadium, he works from his weaker side, where his 2026 home ERA stands at 5.87 against 5.27 on the road.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">BvP: CWS hitters vs Liberatore.</b> Three Chicago hitters carry career plate appearances against Matthew Liberatore. Brenton Doyle has a home run across 5 career PA -- a sample too small to report rates reliably, but the only head-to-head signal on file. Randal Grichuk also has a home run in 3 career PA. Edgar Quero is 2-for-3 (.667 avg) in 3 career PA. Grichuk is the sharpest threat in that trio this season: his 2026 line vs left-handed pitching reads .982 OPS across 151 PA, up from .703 last season across 183 PA.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Matthew Liberatore.</b> If Liberatore reaches the third pass through the Chicago White Sox order, watch whether Oliver Marmol pulls him. Liberatore has pitched into a third pass in 25 of 28 starts this season, and his 2026 third-pass OPS-against stands at 1.129 -- his worst pass by a wide margin versus .721 on the first. The conditional figures (drawn from those 25 starts he was left in for a third time) confirm the gap is genuine signal, not survivor noise: hitters posted a .681 OPS against him in the second pass of those same starts, then jumped to 1.129 in the third. The hook call is tonight's central lever.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Miguel Vargas.</b> If Vargas reaches base, watch him run. His 2026 stolen-base success sits at 89.5% (17 for 19), and Pedro Pages has thrown out 30.9% of attempted base stealers this season -- a deterrent, but Vargas's efficiency makes him a threat regardless. Vargas is also stronger against left-handed pitching this season (.963 OPS vs. .784 against right-handers), so his at-bats against Liberatore carry added weight beyond the basepaths.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
