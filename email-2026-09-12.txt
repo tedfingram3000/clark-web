@@ -1,0 +1,115 @@
+<!-- 700 Clark Email Block -- STL vs CWS 2026-09-12 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (73-75)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CWS (75-72)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.41 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, September 12, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Newcomb (L) -- 2.71 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 7, CWS 3</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CWS&nbsp;&nbsp;1 0 1 0 0 0 0 1 0 -- 3<br>
+      STL&nbsp;&nbsp;1 1 1 0 3 0 1 0 0 -- 7
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->
+St. Louis beat Chicago last night 7-3 to take Game 1 of this three-game set at Busch Stadium, collecting 13 hits. Joshua Baez went 3-for-4 with 2 RBI and Leo Bernal went 3-for-4 with 2 RBI, with the Cardinals breaking the game open on a 3-run fifth inning. Chase Meidroth hit two home runs (Nos. 13 and 14) for all three Chicago runs.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Joshua Baez went 3-for-4 with 2 RBI, driving in runs in the third and fifth innings and scoring twice.<br>
+- Leo Bernal went 3-for-4 with 2 RBI, singling home runs in both the seventh and the fifth to extend the lead.<br>
+- Alec Burleson went 2-for-4 with 2 RBI, including a second-inning double that opened the scoring and a fifth-inning single.<br>
+- The Cardinals sent out five relievers after Matthew Liberatore exited, and Gordon Graceffo, Luis Gastelum, Ryne Stanek, and Riley O'Brien combined to allow no earned runs over 3.2 innings.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Matthew Liberatore allowed 2 earned runs on 6 hits and 3 walks in 4.1 innings, surrendering both of Chase Meidroth's home runs.<br>
+- Justin Bruihl gave up 1 earned run on 1 hit and 1 walk in his inning, the one blemish in the relief corps.<br>
+- Ivan Herrera and Masyn Winn combined to go 0-for-8 at the plate, with Winn's only RBI coming on a groundout.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> The Cardinals send two left-handed bats -- Alec Burleson batting fourth and Nathan Church ninth -- against Sean Newcomb, whose .615 OPS allowed against left-handed batters this season is his slightly weaker side compared to .590 against right-handers. The gap is narrow, so neither left-handed bat enters with a pronounced edge, and the right-handed majority of the order meets Newcomb on his stronger side.<br><br><b style="color:#8B3A3A;">Threat:</b> Colson Montgomery, the lone left-handed bat in the Chicago White Sox order hitting cleanup, faces Kyle Leahy's weaker platoon side: Leahy allows .864 OPS against left-handed batters this season, compared to .593 against right-handers. Montgomery is stronger against left-handed pitching this season (.811 OPS, compared with .675 against right-handers), so his at-bats in the cleanup spot represent the clearest structural disadvantage for St. Louis tonight.<br><br><b style="color:#B8860B;">Watch:</b> Nathan Church carries a 10-game hitting streak into tonight, batting ninth. If he extends it, the bottom of the order keeps pressure on Newcomb after the top has turned over.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Leahy third-pass exposure.</b> Kyle Leahy has pitched into a third pass in 21 of 27 starts this season. His 2026 first-pass OPS allowed sits at .587; by the third pass, that figure rises to 1.016 -- a structural cliff that arrives reliably when the lineup turns over a third time. The CWS lineup is 6-of-9 right-handed or switch, which lands on Leahy's stronger platoon side, but that advantage is contingent on Oliver Marmol keeping him short enough to avoid the third turn. If the game runs deep and Leahy works into a third pass, that cliff is the Cardinals' largest structural risk tonight.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Newcomb vs. Cardinals right-handed order.</b> Sean Newcomb's stronger side this season is against right-handed batters. Six of the nine Cardinals bats are right-handed -- Jordan Walker (.799 OPS vs. RHP across 451 PA), Ivan Herrera (.721 OPS vs. RHP across 455 PA), and Jose Fermin among them -- so the bulk of the St. Louis order enters on his stronger side without a platoon edge. Fermin faces the sharpest split disadvantage: .747 OPS against left-handers versus .577 against righties, a difference carried across samples of 153 and 186 PA.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Leahy home advantage vs. CWS right-handed order.</b> Kyle Leahy carries a 2.91 ERA at Busch Stadium this season, 54th of 185 NL pitchers with at least 20 innings pitched at home, against a 3.94 ERA on the road (88th of 178). The home setting pairs with a CWS lineup that is 6-of-9 right-handed -- Leahy's stronger platoon side. Miguel Vargas (.778 OPS vs. RHP across 453 PA) and Brenton Doyle (.509 OPS vs. RHP across 107 PA) are the named right-handed bats tonight; Doyle's 2026 line against right-handed pitching is the weaker of the two, and he has struck out in 32.8% of his 186 plate appearances this season.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Newcomb opener role -- no TTO2/TTO3 data.</b> Sean Newcomb has been used as an opener in 3 of his 4 starts this season and has reached a second pass in no starts, leaving Cardinals batters without any second-or-third-time-through exposure to plan against. The per-pass sample from those 4 starts -- 29 batters faced in TTO1 alone -- is too small to report split rates reliably. The structural question for St. Louis is how much damage they can do early, before the Chicago bullpen takes over.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Kyle Leahy.</b> If Kyle Leahy is sent out for a third pass tonight, the bullpen decision becomes the sharpest inflection point of the game; his third-pass numbers are the night's primary structural risk. Watch whether Oliver Marmol pulls him before that turn arrives.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Nathan Church.</b> If Nathan Church reaches base tonight, watch whether he extends his 10-game hitting streak.</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Colson Montgomery.</b> If Colson Montgomery reaches the plate late in the game with Kyle Leahy still on the mound, watch whether Oliver Marmol pulls him -- Montgomery is the one left-handed bat in the order, and a late plate appearance against Leahy is the matchup the Threat above describes.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P2] Nathan Church: hitting streak at 10 games | window: last 10 games (2026-09-01..2026-09-11) | stats: {'streak_type': 'hitting streak', 'length': 10, 'threshold': 10}
+  [2] [P8] Iván Herrera on pace for 100 runs (milestone: 100) | window: through 148 team games | stats: {'stat': 'runs', 'current': 91, 'pace_162': 100, 'milestone': 100, 'milestone_distance': 9, 'games_remaining': 14}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P30/negative] The Cardinals bullpen is pacing at 611.7 relief innings -- the franchise record is 584.3 (2021)
+    - [P1/negative] Jordan Walker has slumped since 2026-04-14: 1.136 OPS before vs 0.793 after (549 PA)
+    - [P1/negative] Since 2026-05-17, Cardinals win pct has declined: 0.6 before vs 0.447 after
+    - [P1/positive] Quinn Mathews has sharpened over his last 3 starts: 2.13 ERA vs 6.15 before
+    - [P30/negative] The bullpen has worked 17.0 back-to-back relief days over the last 15 games -- 1.13 per game against 0.65 before that
+    - [P1/negative] Michael McGreevy has unraveled over his last 8 starts: 9.29 ERA vs 3.32 before
+    - [P1/negative] Pedro Pagés has slumped since 2026-04-28: 0.762 OPS before vs 0.479 after (136 PA)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Nathan Church brings a 10-game hitting streak into tonight.</b> The run began on September 1 and has carried through last night's win.<br><br><b>Ivan Herrera is 9 runs away from 100 on the season, sitting at 91 through 148 team games and pacing at 100 over a full 162.</b> With 14 games remaining, he needs roughly one run every game and a half.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
