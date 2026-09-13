@@ -1,0 +1,99 @@
+<!-- 700 Clark Email Block -- STL vs CWS 2026-09-13 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (73-76)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CWS (76-72)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.92 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, September 13, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">TBD (R) -- -- ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- CWS 6, STL 5</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CWS&nbsp;&nbsp;0 0 0 1 3 0 0 0 2 -- 6<br>
+      STL&nbsp;&nbsp;0 3 0 1 0 0 0 1 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: report_card_recap -->Leo Bernal's solo home run in the 8th gave St. Louis a 5-4 lead last night, but Riley O'Brien surrendered Randal Grichuk's 2-run walk-off homer in the 9th and the Cardinals lost 6-5. Nathan Church went 3-for-4 with an RBI and Masyn Winn drove in 2 on a 2nd-inning double, but Cooper Hjerpe coughed up a bases-loaded walk in the top of the 4th -- then could not record an out in the 5th -- allowing 4 earned runs on 4 walks in 1.0 IP and turning a 4-0 lead into a 4-4 game.<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: retrospective_commentary --><b>WHAT WORKED</b><br>
+&bull; Nathan Church: 3-for-4, 1 RBI (13th double in the 4th inning)<br>
+&bull; Masyn Winn: 2-for-4, 2 RBI on his 20th double of the season (2nd inning)<br>
+&bull; Leo Bernal: 8th-inning solo HR (his 3rd) to break the 4-4 tie<br>
+&bull; Kyle Leahy: 3.0 IP, 0 ER, 4 K as the opener<br>
+<br>
+<b>WHAT DIDN'T</b><br>
+&bull; Top of the order went hitless in their at-bats: Fermin (0-for-2), Herrera (0-for-3), Burleson (0-for-4), Baez (0-for-4)<br>
+&bull; Cooper Hjerpe: 4 ER, 4 BB in 1.0 IP; surrendered the 4-0 lead across the 4th and 5th innings<br>
+&bull; Riley O'Brien: 2-run walk-off HR allowed to Randal Grichuk in the 9th<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content --><b style="color:#2E7D32;">EDGE:</b> With Chicago's starter unannounced and treated as a right-hander, the three left-handed bats in the Cardinals' order -- Burleson, Gorman and Church -- all hit with the platoon advantage, and Alec Burleson is the one with the numbers to make it count: a .940 OPS against right-handed pitching in 433 plate appearances this season, the strongest platoon number in the Cardinals' lineup.<br><br>
+<b style="color:#8B3A3A;">THREAT:</b> Chicago will send 6 left-handed starters to the plate this afternoon, and that is McGreevy's weaker side: a .751 OPS allowed to left-handed batters across 397 batters faced in 2026, after a .911 OPS across 190 left-handed batters in 2025. His counter is contact management -- a 51.0% ground-ball rate and a 6.6% walk rate -- against a lineup that strikes out often; Colson Montgomery and Kyle Teel are the strikeout-prone names on that side.<br><br>
+<b style="color:#B8860B;">WATCH:</b> Riley O'Brien surrendered last night's walk-off, the latest blown lead in a rough two weeks for the bullpen. If McGreevy builds a lead this afternoon, how it's held -- and who holds it -- is the game's secondary tension point.<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->The primary read is McGreevy's platoon exposure against a lineup stacked with 6 left-handed starters. Right-handed batters are the side he handles: a .694 OPS allowed across 238 batters faced in 2026, and a .580 OPS across 210 right-handed batters in 2025. The left-handed side has run worse in both seasons, and that is where most of today's lineup lives.<br><br>
+<b>McGreevy vs. Kyle Teel (L, batting 2nd):</b> Teel's 2026 line against right-handed pitching is .210/.310/.435 (.745 OPS) in 71 plate appearances, above the 60 PA floor, with a 37.6% strikeout rate this season. Last season he hit .290/.388/.448 in 245 plate appearances vs. RHP -- a patient, contact-first profile the 2026 sample has not yet matched.<br><br>
+<b>McGreevy vs. Colson Montgomery (L, batting 8th):</b> Montgomery hit 17 home runs against right-handed pitching in 201 plate appearances in 2025 (.567 SLG). His 2026 OPS vs. RHP is .675 in 411 plate appearances with a 34.7% strikeout rate -- the power-vs-strikeout trade that defines his matchup with a groundball pitcher.<br><br>
+<b>Alec Burleson (L) vs. the TBD RHP:</b> Burleson's slash line against right-handed pitching this season is .317/.395/.545, and his 22 home runs and 106 RBI make him the Cardinals' primary run-production threat in a right-handed matchup.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose --><b>The bullpen save situation:</b> Riley O'Brien has blown 3 saves in his last 5 appearances, and last night's walk-off to Grichuk is the freshest example. If St. Louis leads in the 8th, watch which relievers get the call -- and whether O'Brien is one of them.<br><br>
+<b>McGreevy's recent form vs. his season number:</b> McGreevy has posted a 9.29 ERA over his last 8 starts since July 28, against a 3.32 ERA before that stretch. The 3.92 full-season ERA masks a significant recent shift. Watch whether the first time through the order signals which McGreevy shows up this afternoon.<br><br>
+<b>Miguel Vargas on the bases:</b> Vargas has stolen 18 bases in 20 attempts in 2026 (90.0% success rate). With Leo Bernal -- recalled September 1 -- behind the plate, Chicago will likely look to test the battery early.<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>The Cardinals bullpen has blown 6 saves over the last 15 games, pushing the season total to 30 across 149 games.</b> That window rate of 40% compares with a season rate of roughly 20%, a sharp spike at a difficult moment -- the club sits 7.5 games back in the wild-card race.<br><br><b>Andre Pallante has turned his season around since late July.</b> He has posted a 2.02 ERA over his last 7 starts (since July 25), down from 4.30 in his previous 19; the league ERA for starters this season is 3.93, and his window figure sits well below it. His role throughout this stretch has been as a starter.<br><br><b>Jordan Walker's slump has now run five months.</b> He is hitting .791 OPS since April 14 over 550 plate appearances, down from 1.136 in the 66 PA before that date. The league average OPS is 0.731 this season; Walker's current mark exceeds that figure, but the gap from his early-season pace across 550 PA is a sustained decline worth watching.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
