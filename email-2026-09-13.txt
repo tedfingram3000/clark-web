@@ -48,7 +48,7 @@
 <b>WHAT DIDN'T</b><br>
 &bull; Top of the order went hitless in their at-bats: Fermin (0-for-2), Herrera (0-for-3), Burleson (0-for-4), Baez (0-for-4)<br>
 &bull; Cooper Hjerpe: 4 ER, 4 BB in 1.0 IP; surrendered the 4-0 lead across the 4th and 5th innings<br>
-&bull; Riley O'Brien: 2-run walk-off HR allowed to Randal Grichuk in the 9th<!-- /PHASE2_SLOT -->
+&bull; Riley O'Brien: 2-run HR allowed to Randal Grichuk in the 9th<!-- /PHASE2_SLOT -->
     </div>
   </div>
 </td></tr>
