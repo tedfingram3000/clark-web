@@ -29,7 +29,7 @@
   </div>
   <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
     <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-<!-- PHASE2_SLOT: report_card_recap -->Leo Bernal's solo home run in the 8th gave St. Louis a 5-4 lead last night, but Riley O'Brien surrendered Randal Grichuk's 2-run go-ahead homer in the top of the 9th, and the Cardinals could not answer in the bottom half, losing 6-5. Nathan Church went 3-for-4 with an RBI and Masyn Winn drove in 2 on a 2nd-inning double, but Cooper Hjerpe coughed up a bases-loaded walk in the top of the 4th -- then could not record an out in the 5th -- allowing 4 earned runs on 4 walks in 1.0 IP and turning a 4-0 lead into a 4-4 game.<!-- /PHASE2_SLOT -->
+<!-- PHASE2_SLOT: report_card_recap -->Leo Bernal's solo home run in the 8th gave St. Louis a 5-4 lead last night, but Riley O'Brien surrendered Randal Grichuk's 2-run go-ahead homer in the top of the 9th, and the Cardinals could not answer in the bottom half, losing 6-5. Nathan Church went 3-for-4 with an RBI and Masyn Winn drove in 2 on a 2nd-inning double, but Cooper Hjerpe coughed up a bases-loaded walk in the top of the 4th that cut a 3-0 lead to 3-1, then could not record an out in the 5th -- 4 earned runs on 4 walks in 1.0 IP -- and a 4-1 lead became a 4-4 game.<!-- /PHASE2_SLOT -->
     </div>
   </div>
 </td></tr>
@@ -47,7 +47,7 @@
 <br>
 <b>WHAT DIDN'T</b><br>
 &bull; Top of the order went hitless in their at-bats: Fermin (0-for-2), Herrera (0-for-3), Burleson (0-for-4), Baez (0-for-4)<br>
-&bull; Cooper Hjerpe: 4 ER, 4 BB in 1.0 IP; surrendered the 4-0 lead across the 4th and 5th innings<br>
+&bull; Cooper Hjerpe: 4 ER, 4 BB in 1.0 IP; surrendered the lead across the 4th and 5th innings: 3-0 became 3-1, then 4-1 became 4-4<br>
 &bull; Riley O'Brien: 2-run go-ahead HR allowed to Randal Grichuk in the top of the 9th<!-- /PHASE2_SLOT -->
     </div>
   </div>
