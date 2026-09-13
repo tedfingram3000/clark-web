@@ -29,7 +29,7 @@
   </div>
   <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
     <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-<!-- PHASE2_SLOT: report_card_recap -->Leo Bernal's solo home run in the 8th gave St. Louis a 5-4 lead last night, but Riley O'Brien surrendered Randal Grichuk's 2-run walk-off homer in the 9th and the Cardinals lost 6-5. Nathan Church went 3-for-4 with an RBI and Masyn Winn drove in 2 on a 2nd-inning double, but Cooper Hjerpe coughed up a bases-loaded walk in the top of the 4th -- then could not record an out in the 5th -- allowing 4 earned runs on 4 walks in 1.0 IP and turning a 4-0 lead into a 4-4 game.<!-- /PHASE2_SLOT -->
+<!-- PHASE2_SLOT: report_card_recap -->Leo Bernal's solo home run in the 8th gave St. Louis a 5-4 lead last night, but Riley O'Brien surrendered Randal Grichuk's 2-run go-ahead homer in the top of the 9th, and the Cardinals could not answer in the bottom half, losing 6-5. Nathan Church went 3-for-4 with an RBI and Masyn Winn drove in 2 on a 2nd-inning double, but Cooper Hjerpe coughed up a bases-loaded walk in the top of the 4th -- then could not record an out in the 5th -- allowing 4 earned runs on 4 walks in 1.0 IP and turning a 4-0 lead into a 4-4 game.<!-- /PHASE2_SLOT -->
     </div>
   </div>
 </td></tr>
@@ -48,7 +48,7 @@
 <b>WHAT DIDN'T</b><br>
 &bull; Top of the order went hitless in their at-bats: Fermin (0-for-2), Herrera (0-for-3), Burleson (0-for-4), Baez (0-for-4)<br>
 &bull; Cooper Hjerpe: 4 ER, 4 BB in 1.0 IP; surrendered the 4-0 lead across the 4th and 5th innings<br>
-&bull; Riley O'Brien: 2-run HR allowed to Randal Grichuk in the 9th<!-- /PHASE2_SLOT -->
+&bull; Riley O'Brien: 2-run go-ahead HR allowed to Randal Grichuk in the top of the 9th<!-- /PHASE2_SLOT -->
     </div>
   </div>
 </td></tr>
@@ -60,7 +60,7 @@
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: bottom_line_content --><b style="color:#2E7D32;">EDGE:</b> With Chicago's starter unannounced and treated as a right-hander, the three left-handed bats in the Cardinals' order -- Burleson, Gorman and Church -- all hit with the platoon advantage, and Alec Burleson is the one with the numbers to make it count: a .940 OPS against right-handed pitching in 433 plate appearances this season, the strongest platoon number in the Cardinals' lineup.<br><br>
 <b style="color:#8B3A3A;">THREAT:</b> Chicago will send 6 left-handed starters to the plate this afternoon, and that is McGreevy's weaker side: a .751 OPS allowed to left-handed batters across 397 batters faced in 2026, after a .911 OPS across 190 left-handed batters in 2025. His counter is contact management -- a 51.0% ground-ball rate and a 6.6% walk rate -- against a lineup that strikes out often; Colson Montgomery and Kyle Teel are the strikeout-prone names on that side.<br><br>
-<b style="color:#B8860B;">WATCH:</b> Riley O'Brien surrendered last night's walk-off, the latest blown lead in a rough two weeks for the bullpen. If McGreevy builds a lead this afternoon, how it's held -- and who holds it -- is the game's secondary tension point.<!-- /PHASE2_SLOT -->
+<b style="color:#B8860B;">WATCH:</b> Riley O'Brien surrendered last night's go-ahead homer in the 9th, the latest blown lead in a rough two weeks for the bullpen. If McGreevy builds a lead this afternoon, how it's held -- and who holds it -- is the game's secondary tension point.<!-- /PHASE2_SLOT -->
     </div>
   </div>
 </td></tr>
@@ -80,7 +80,7 @@
 <tr><td style="padding:16px 20px;">
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-<!-- PHASE2_SLOT: watchlist_prose --><b>The bullpen save situation:</b> Riley O'Brien has blown 3 saves in his last 5 appearances, and last night's walk-off to Grichuk is the freshest example. If St. Louis leads in the 8th, watch which relievers get the call -- and whether O'Brien is one of them.<br><br>
+<!-- PHASE2_SLOT: watchlist_prose --><b>The bullpen save situation:</b> Riley O'Brien has blown 3 saves in his last 5 appearances, and last night's 9th-inning homer by Grichuk is the freshest example. If St. Louis leads in the 8th, watch which relievers get the call -- and whether O'Brien is one of them.<br><br>
 <b>McGreevy's recent form vs. his season number:</b> McGreevy has posted a 9.29 ERA over his last 8 starts since July 28, against a 3.32 ERA before that stretch. The 3.92 full-season ERA masks a significant recent shift. Watch whether the first time through the order signals which McGreevy shows up this afternoon.<br><br>
 <b>Miguel Vargas on the bases:</b> Vargas has stolen 18 bases in 20 attempts in 2026 (90.0% success rate). With Leo Bernal -- recalled September 1 -- behind the plate, Chicago will likely look to test the battery early.<!-- /PHASE2_SLOT -->
   </div>
