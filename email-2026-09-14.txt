@@ -1,0 +1,109 @@
+<!-- 700 Clark Email Block -- STL vs SF 2026-09-14 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (74-76)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SF (62-88)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Mathews (L) -- 4.11 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Monday, September 14, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Roupp (R) -- 4.00 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 3, CWS 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      CWS&nbsp;&nbsp;0 1 0 0 0 0 0 0 0 -- 1<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 3 0 0 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score or a walk-off yourself)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-1 (top 2nd) -> 3-1 (bottom 6th)
+  FINAL: Cardinals 3, CWS 1 (won)
+  WALK-OFF: yes
+  TEAM LINE: Cardinals 4-for-29, 0 BB
+  SCORING INNINGS: Cardinals 1, CWS 1
+  Nathan Church: 2-for-3, 0 BB
+  TIME OF DAY: yesterday afternoon
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals won yesterday afternoon, 3-1 over the White Sox, completing a 2-of-3 series. Alec Burleson's sixth-inning double drove in all three St. Louis runs, with Nathan Church (2-for-3) and Masyn Winn each scoring ahead of him. The Cardinals finished 4-for-29 at the plate but stranded little -- their one scoring inning was enough.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score or a walk-off yourself)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-1 (top 2nd) -> 3-1 (bottom 6th)
+  FINAL: Cardinals 3, CWS 1 (won)
+  WALK-OFF: yes
+  TEAM LINE: Cardinals 4-for-29, 0 BB
+  SCORING INNINGS: Cardinals 1, CWS 1
+  Nathan Church: 2-for-3, 0 BB
+  TIME OF DAY: yesterday afternoon
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+&bull; Alec Burleson went 1-for-3 with a walk-off double that scored three runs in the sixth, accounting for all of St. Louis's offense.<br>
+&bull; Nathan Church went 2-for-3 and scored, providing the Cardinals' most productive bat in a low-hit game.<br>
+&bull; Michael McGreevy held CWS to 1 run over 6.0 innings, allowing 3 hits and striking out 6; Gordon Graceffo followed with 2.0 scoreless innings and 3 strikeouts.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+&bull; The Cardinals went 4-for-29 with 0 walks, an extremely thin offensive output -- eight of nine starters were held hitless or reached only once.<br>
+&bull; Jordan Walker, Leo Bernal, and Bryan Torres combined 0-for-9 with 6 strikeouts and no walks in the top third of the order.<br>
+&bull; George Soriano walked two batters in a 1.0-inning save situation, adding unnecessary baserunners in the ninth despite allowing no runs.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Landen Roupp is stronger against left-handed batters this season (.636 OPS allowed, compared with .657 OPS allowed against right-handed batters), giving the Cardinals' four right-handed starters a marginal split edge. Jordan Walker (2-for-2 career vs. Roupp), Alec Burleson (1-for-2), and Masyn Winn (2-for-3) each carry prior success against him, and Burleson's .935 OPS against right-handed pitching this season ranks 6th of 221 NL batters with at least 60 plate appearances vs. right-handed pitching.<br><br><b style="color:#8B3A3A;">Threat:</b> Roupp arrives at Busch Stadium on his road profile: a .694 OPS allowed and 4.28 ERA away from home this season, compared with 3.69 at home. The gap is real -- he is a harder out at Oracle Park -- but tonight the Cardinals see the road version, and his 11.3% walk rate this season means free runners are in play if the lineup stays patient.<br><br><b style="color:#B8860B;">Watch:</b> Roupp has pitched into a third pass in 26 of 28 starts, so the bottom of the Cardinals' order -- Gorman, Saggese, Church, and Winn -- will almost certainly get their TTO3 window. Watch whether Oliver Marmol lets that group cash in before pulling the hook.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Quinn Mathews.</b> Quinn Mathews's second pass is his weakest this season. His first-pass OPS-against is .736 across 55 batters faced; the third-pass sample in the 5 starts he has reached a third time through totals 29 batters faced -- too small to report split rates reliably. He has pitched into a third pass in 5 of 6 starts this season. San Francisco's lineup carries eight left-handed hitters tonight, all of them positioned to reach that second-pass window before the bullpen takes over.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Landen Roupp.</b> Landen Roupp's third pass is his weakest this season. His first-pass OPS-against is .601 across 252 batters faced; the survivorship-conditioned second-pass figure is .639 OPS against across 234 plate appearances. Roupp has made 28 starts this season and pitches deep enough in most of them for the lineup to cycle through a third time, giving Nolan Gorman (.596 OPS vs. right-handed pitching across 236 plate appearances this season) and Thomas Saggese (.642 OPS vs. right-handed pitching across 90 plate appearances) a likely late look.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Jordan Walker.</b> Jordan Walker has 2 hits in 2 career at-bats against Landen Roupp, with a 1.500 career SLG in that 2-plate-appearance sample -- too small to draw a trend, but a clean prior contact fact. Walker's 2026 OPS against right-handed pitching is .795 across 453 plate appearances.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Quinn Mathews home/away.</b> Mathews carries a 1.59 ERA and .542 OPS-against at home this season across 23 batters faced, and a 4.68 ERA and .765 OPS-against on the road across 114 batters faced. The home sample of 23 batters faced is too small to draw a reliable comparison -- no home/away edge applies -- but tonight's start at Busch Stadium falls on the home side of those figures.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Quinn Mathews TTO2 window.</b> If the Giants' lineup reaches its second pass against Mathews, watch for a surge. Quinn Mathews has pitched into a third pass in 5 of 6 starts this season. In those starts, his second-pass OPS-against rises to .908 -- his sharpest vulnerability of the game. Oliver Marmol's hook timing becomes the pivot: San Francisco's window to do damage is the second pass, before the lineup collapses to a .399 OPS against him in the third.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Drew Cavanaugh arm.</b> If Cardinals baserunners reach against Landen Roupp, watch how aggressively Oliver Marmol's club tests Drew Cavanaugh behind the plate. Cavanaugh has thrown out 9 of 46 steal attempts in 2026 -- a 19.6% caught-stealing rate, against Pedro Pages's 30.9% on the Cardinals' side. The gap is real and the Cardinals are the running club in this matchup.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Quinn Mathews walk rate.</b> If Mathews falls behind batters early, watch his walk rate: at 10.2% this season it is above the league's 8.9%. A Giants lineup heavy with left-handed bats and a patient Cavanaugh (10.9% BB rate) could push pitch counts and end Mathews's outing before his favorable third-pass window even opens for St. Louis.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Landen Roupp ground-ball rate vs. Cardinals contact.</b> If Cardinals hitters put balls in play on the ground, watch whether Roupp converts them. His 2026 ground-ball rate is 58.0% -- 12th of 117 NL pitchers with at least 60 innings -- and Alec Burleson's 2025 batted-ball profile shows a 42.0% ground-ball rate, meaning Burleson's tendency to lift the ball runs against Roupp's primary strength.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
