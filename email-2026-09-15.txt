@@ -1,0 +1,134 @@
+<!-- 700 Clark Email Block -- STL vs SF 2026-09-15 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (75-76)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:45 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SF (62-89)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.45 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, September 15, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tidwell (R) -- 4.82 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 2, SF 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      SF&nbsp;&nbsp;&nbsp;0 0 0 0 0 1 0 0 0 -- 1<br>
+      STL&nbsp;&nbsp;0 0 0 0 2 0 0 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score or a walk-off yourself)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 2-0 (bottom 5th) -> 2-1 (top 6th)
+  FINAL: Cardinals 2, SF 1 (won)
+  WALK-OFF: no
+  TEAM LINE: Cardinals 8-for-30, 4 BB
+  SCORING INNINGS: Cardinals 1, SF 1
+  Thomas Saggese: 2-for-4, 0 BB
+  Alec Burleson: 2-for-3, 1 BB
+  Leo Bernal: 3-for-4, 0 BB
+  TIME OF DAY: last night
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals took the series opener last night, 2-1, scoring twice in the bottom of the fifth on RBI singles from Alec Burleson and Leo Bernal before holding off a San Francisco run in the sixth. Quinn Mathews went 6.2 innings, allowing 1 run on 4 hits with 8 strikeouts. Leo Bernal led the offense going 3-for-4 with an RBI.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score or a walk-off yourself)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 2-0 (bottom 5th) -> 2-1 (top 6th)
+  FINAL: Cardinals 2, SF 1 (won)
+  WALK-OFF: no
+  TEAM LINE: Cardinals 8-for-30, 4 BB
+  SCORING INNINGS: Cardinals 1, SF 1
+  Thomas Saggese: 2-for-4, 0 BB
+  Alec Burleson: 2-for-3, 1 BB
+  Leo Bernal: 3-for-4, 0 BB
+  TIME OF DAY: last night
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Quinn Mathews pitched 6.2 innings, giving up 1 run on 4 hits while striking out 8.<br>
+- Leo Bernal went 3-for-4 with an RBI, adding the second run of the fifth inning with a single.<br>
+- Alec Burleson went 2-for-3 with a walk and an RBI, opening the fifth-inning scoring with a single.<br>
+- Thomas Saggese went 2-for-4 and scored the first run of the game.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- The Cardinals went 8-for-30 as a team, stranding multiple baserunners against San Francisco's pitching staff.
+- Four Cardinals starters -- Joshua Baez, Nolan Gorman, Masyn Winn, and Nathan Church -- combined for 0-for-12 at the plate.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Three left-handed Cardinals bats fall on Blade Tidwell's exposed side tonight: Alec Burleson batting third, Nolan Gorman batting seventh, and Nathan Church batting ninth all face a pitcher who has allowed a .898 OPS against left-handed batters in 2026. The lineup carries three left-handed hitters, five right-handed, and one switch-hitter. <br><br><b style="color:#8B3A3A;">Threat:</b> Bryce Eldridge, batting second from the left side, is the Giants bat most likely to beat St. Louis tonight. Eldridge's .815 OPS ranks 30th of 167 NL hitters with at least 200 plate appearances (league average .732), he draws walks at a 12.8% clip (league average 9.1%), and he lands on the side where Andre Pallante has allowed the most damage this season -- left-handed batters. <br><br><b style="color:#B8860B;">Watch:</b> Burleson and Gorman are the Cardinals' left-handed hitters positioned in the middle and lower order; their plate appearance count against Tidwell determines how fully the platoon opportunity converts.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Tidwell vs. Cardinals LHB.</b> Blade Tidwell's 2026 OPS allowed against left-handed batters stands at .898 across 111 batters faced -- .414 OBP and .484 SLG -- and the Cardinals send three left-handed starters directly into that exposure: Alec Burleson (3rd), Nolan Gorman (7th), and Nathan Church (9th). Burleson is the sharpest of the three against right-handed pitching this season, posting a .936 OPS over 438 plate appearances vs. RHP, 6th of 223 NL batters with at least 60 plate appearances vs. right-handed pitching. Church is stronger against right-handed pitching this season as well: .688 OPS vs. RHP compared with .606 vs. LHP across cleared samples on both sides.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Tidwell vs. Cardinals RHB.</b> Against right-handed batters, Tidwell holds a .221 OBP and .250 SLG -- .471 OPS -- over 86 batters faced in 2026. Five Cardinals right-handed bats sit on that side: Thomas Saggese, Ivan Herrera, Jordan Walker, Joshua Baez, and Masyn Winn. Walker is stronger against left-handed pitching this season (.908 OPS vs. LHP, 15th of 154 NL batters with at least 60 plate appearances vs. left-handed pitching, compared with .794 vs. RHP), so he faces Tidwell from his weaker split. Winn is stronger against left-handed pitching this season as well (.739 OPS vs. LHP compared with .597 vs. RHP over 375 plate appearances), placing him on Tidwell's stronger side tonight.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Pallante vs. Giants lineup (platoon + home split).</b> Andre Pallante allows a .696 OPS against left-handed batters this season across 333 batters faced, compared with .623 against right-handed batters (269 BF) -- the Giants' four left-handed starters (Bryce Eldridge, Turner Hill, Scott Bandura, Grant McCray) land on his softer side. Pallante's 2026 home ERA is 4.02 across 340 batters faced at Busch Stadium; his road ERA is 2.76 across 262 batters faced away. Eldridge is the Giants' most capable left-handed bat against right-handed pitching this season: .866 OPS vs. LHP (24th of 154 NL batters with at least 60 plate appearances vs. left-handed pitching) and .791 vs. RHP, so he faces Pallante from his weaker platoon side. Hill carries a cleared 2026 sample vs. RHP only (.642 OPS, 164th of 223 NL batters with at least 60 plate appearances vs. right-handed pitching).</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Tidwell first-pass vs. Cardinals.</b> Blade Tidwell's first pass through the order is his weakest phase this season: .823 OPS allowed across 63 batters faced in the first time through, dropping to .677 on the second pass. Tidwell has pitched into a third pass in 7 of 7 starts. The Cardinals' earliest plate appearances -- before Tidwell settles in -- represent their most accessible window against him tonight.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Alec Burleson vs. Tidwell LHB split.</b> Burleson bats third and is the left-handed bat most likely to see Tidwell multiple times. If he reaches in the first pass, watch whether he gets a second look -- Tidwell's second pass through the order is his sharpest zone this season. He has reached a third pass in every one of his 2026 starts, but his third-pass sample of 24 batters faced is too small to carry a reliable rate.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Blade Tidwell first-pass left-handed at-bats.</b> If Burleson, Gorman, and Church do damage in the first pass, watch whether manager Tony Vitello pulls Tidwell early -- his platoon vulnerability against left-handed batters compounds as the order repeats.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Masyn Winn and the Cardinals RHB vs. Tidwell.</b> If the Cardinals' right-handed bats -- facing Tidwell's .175 AVG-against side -- cannot produce baserunners, the left-handed bats bear the full offensive burden. Watch Masyn Winn batting eighth: reaching base turns the lineup back to the top, cycling the left-handed bats into Tidwell's exposed zone again.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Giants LHB vs. Pallante at home.</b> Andre Pallante's ERA at Busch Stadium runs more than a run above his road mark this season. If any of the four Giants left-handed bats reach base early, watch his pitch count -- a short outing at Busch Stadium is the scenario where his home/road gap matters most tonight.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Quinn Mathews has sharpened over his last 4 starts: 1.93 ERA vs 6.15 before | window: last 4 starts (since 2026-08-28) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': '2026-08-28', 'before': 6.15, 'after': 1.93, 'before_starts': 3, 'after_starts': 4, 'window_unit': 'starts', 'role': 'SP', 'delta': 4.22}
+      window: since 2026-08-28 · 4 starts · level 1.93 · league 3.92
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P19/negative] The bullpen has blown 6 saves in the last 15 games -- 30 all season
+    - [P1/positive] Thomas Saggese has surged since 2026-05-29: 0.410 OPS before vs 1.187 after (66 PA)
+    - [P1/negative] Nolan Gorman has slumped since 2026-05-20: 0.702 OPS before vs 0.378 after (111 PA)
+    - [P1/negative] Pedro Pagés has slumped since 2026-04-28: 0.762 OPS before vs 0.479 after (136 PA)
+    - [P30/negative] The Cardinals bullpen is pacing at 611.7 relief innings -- the franchise record is 584.3 (2021)
+    - [P7/positive] Jordan Walker's OPS jump: 0.584 (2025) -> 0.827 (2026), +0.244 -- p99+ of 16,975 season pairs in MLB history
+    - [P30/negative] The bullpen has worked 18.0 back-to-back relief days over the last 15 games -- 1.2 per game against 0.67 before that
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Quinn Mathews has sharpened over his last four starts.</b> He has posted a 1.93 ERA across those 4 starts, down from 6.15 in the 3 starts before that. The league average ERA sits at 3.92 this season, and Mathews has held well below that mark through the entire stretch. The Cardinals' bullpen carries its own tension behind him -- 6 blown saves over the last 15 games (30 on the season) -- but the rotation's recent anchor is giving the club a chance to stay in games.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
