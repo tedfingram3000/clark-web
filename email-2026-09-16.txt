@@ -1,0 +1,135 @@
+<!-- 700 Clark Email Block -- STL vs SF 2026-09-16 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (75-77)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 12:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SF (63-89)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.53 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, September 16, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Molina (R) -- 5.24 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- SF 10, STL 3</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      SF&nbsp;&nbsp;&nbsp;3 0 4 1 0 0 0 1 1 -- 10<br>
+      STL&nbsp;&nbsp;1 0 1 0 0 0 0 1 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-3 (top 1st) -> 1-3 (bottom 1st) -> 1-7 (top 3rd) -> 2-7 (bottom 3rd) -> 2-8 (top 4th) -> 2-9 (top 8th) -> 3-9 (bottom 8th) -> 3-10 (top 9th)
+  FINAL: Cardinals 3, SF 10 (lost)
+  WALK-OFF: no
+  TEAM LINE: Cardinals 5-for-31, 2 BB
+  SCORING INNINGS: Cardinals 3, SF 5
+  TIME OF DAY: last night
+  PLAY 1: top 1st -- Bryce Eldridge homers (17) on a fly ball to right center field, Drew Gilbert scores; 0-2 after
+  PLAY 2: top 1st -- Turner Hill singles on a ground ball to right fielder Jordan Walker, Jonah Cox scores; 0-3 after
+  PLAY 3: bottom 1st -- Alec Burleson homers (23) on a line drive to right center field, (runner unresolved); 1-3 after
+  PLAY 4: top 3rd -- Turner Hill grounds out, shortstop Masyn Winn to first baseman Alec Burleson, Jonah Cox scores; 1-4 after
+  PLAY 5: top 3rd -- Grant McCray singles on a ground ball to center fielder Nathan Church, Jung Hoo Lee scores; 1-5 after
+  PLAY 6: top 3rd -- Christian Koss singles on a ground ball to right fielder Jordan Walker, Drew Cavanaugh and Grant McCray score; 1-7 after
+  PLAY 7: bottom 3rd -- Iván Herrera out on a sacrifice fly to left fielder Turner Hill, Masyn Winn scores; 2-7 after
+  PLAY 8: top 4th -- Osleivis Basabe doubles (3) on a line drive to right fielder Jordan Walker, Bryce Eldridge scores; 2-8 after
+  PLAY 9: top 8th -- Bryce Eldridge doubles (23) on a sharp line drive to right fielder Jordan Walker, Brett Harris scores; 2-9 after
+  PLAY 10: bottom 8th -- Nolan Gorman singles on a ground ball to right fielder Scott Bandura, José Fermín scores; 3-9 after
+  PLAY 11: top 9th -- Turner Hill homers (1) on a fly ball to right center field, (runner unresolved); 3-10 after
+  FIRST RUN: Bryce Eldridge (top 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: top 1st
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+San Francisco handed St. Louis a 10-3 loss last night in game 2 of 3, building a 3-0 lead in the first inning on a Bryce Eldridge two-run homer and a Turner Hill RBI single before the Cardinals ever batted. Alec Burleson answered with his 23rd home run in the bottom of the first, but the Giants broke the game open with a four-run third. The Cardinals went 5-for-31 with 2 walks on the night.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-3 (top 1st) -> 1-3 (bottom 1st) -> 1-7 (top 3rd) -> 2-7 (bottom 3rd) -> 2-8 (top 4th) -> 2-9 (top 8th) -> 3-9 (bottom 8th) -> 3-10 (top 9th)
+  FINAL: Cardinals 3, SF 10 (lost)
+  WALK-OFF: no
+  TEAM LINE: Cardinals 5-for-31, 2 BB
+  SCORING INNINGS: Cardinals 3, SF 5
+  TIME OF DAY: last night
+  PLAY 1: top 1st -- Bryce Eldridge homers (17) on a fly ball to right center field, Drew Gilbert scores; 0-2 after
+  PLAY 2: top 1st -- Turner Hill singles on a ground ball to right fielder Jordan Walker, Jonah Cox scores; 0-3 after
+  PLAY 3: bottom 1st -- Alec Burleson homers (23) on a line drive to right center field, (runner unresolved); 1-3 after
+  PLAY 4: top 3rd -- Turner Hill grounds out, shortstop Masyn Winn to first baseman Alec Burleson, Jonah Cox scores; 1-4 after
+  PLAY 5: top 3rd -- Grant McCray singles on a ground ball to center fielder Nathan Church, Jung Hoo Lee scores; 1-5 after
+  PLAY 6: top 3rd -- Christian Koss singles on a ground ball to right fielder Jordan Walker, Drew Cavanaugh and Grant McCray score; 1-7 after
+  PLAY 7: bottom 3rd -- Iván Herrera out on a sacrifice fly to left fielder Turner Hill, Masyn Winn scores; 2-7 after
+  PLAY 8: top 4th -- Osleivis Basabe doubles (3) on a line drive to right fielder Jordan Walker, Bryce Eldridge scores; 2-8 after
+  PLAY 9: top 8th -- Bryce Eldridge doubles (23) on a sharp line drive to right fielder Jordan Walker, Brett Harris scores; 2-9 after
+  PLAY 10: bottom 8th -- Nolan Gorman singles on a ground ball to right fielder Scott Bandura, José Fermín scores; 3-9 after
+  PLAY 11: top 9th -- Turner Hill homers (1) on a fly ball to right center field, (runner unresolved); 3-10 after
+  FIRST RUN: Bryce Eldridge (top 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: top 1st
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br> Alec Burleson homered (23) on a line drive in the first inning, giving the Cardinals their only immediate response to the early deficit.<br> Masyn Winn scored on Ivan Herrera's sacrifice fly in the third, and Jose Fermin scored on a Nolan Gorman single in the eighth -- the Cardinals scored in three different innings.<br> Brycen Mautz struck out 4 over 2.1 innings of relief, and Cade Winquest added 5 strikeouts in 1.2 innings.<br><br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br> The Cardinals went 5-for-31 at the plate, with the offense unable to mount a sustained threat against a deficit that reached 7 runs by the third inning.<br> Andre Pallante allowed 8 runs on 8 hits over 5.0 innings, including a Bryce Eldridge home run in the first that put San Francisco up 2-0 before the Cardinals batted.<br> San Francisco scored in 5 innings to the Cardinals' 3, and Turner Hill's ninth-inning homer closed the scoring at 10-3.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Alec Burleson enters this series finale as the Cardinals' sharpest offensive weapon against Anthony Molina. Burleson ranks 6th of 226 NL batters with at least 60 plate appearances vs right-handed pitching in OPS (.943; league average .702) -- the best mark in St. Louis' lineup against a right-handed starter tonight.<br><br><b style="color:#8B3A3A;">Threat:</b> Bryce Eldridge is the Giants' primary danger. He ranks 16th of 168 NL hitters with at least 200 plate appearances in OBP (.363; league average .324) and 24th of 155 NL batters with at least 60 plate appearances vs left-handed pitching in OPS vs LHP (.875; league average .737) -- a left-handed bat well-suited to the matchup against Matthew Liberatore. The series is tied 1-1, with last night's 10-3 San Francisco win sending this three-game set to a deciding game at Busch Stadium.<br><br><b style="color:#B8860B;">Watch:</b> Jordan Walker, who ranks 11th of 168 NL hitters with at least 200 plate appearances in HR (28; league average 13.9), is the Cardinals' power threat to track as the lineup turns over against Molina.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Liberatore TTO3 cliff.</b> Matthew Liberatore has pitched into a third pass in 26 of 29 starts this season. In those starts, hitters post a 1.125 OPS against him on the third pass (111 PA) compared with .700 OPS on the second pass of those same starts -- a within-game delta the digest marks citable. His home ERA sits at 5.77 (160th of 188 NL pitchers with at least 20 innings pitched at home), and the Giants send six left-handed bats into that context.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Burleson vs. Molina RHP.</b> Alec Burleson draws a right-hander whose 2026 platoon samples fall below the publishable floor -- 51 batters faced vs left-handed hitters, 43 vs right-handed hitters, both under the 60-BF minimum. Last season Anthony Molina was stronger against right-handed batters: .829 OPS allowed, compared with 1.254 OPS allowed against left-handed batters (250th of 250 2025 NL pitchers with at least 60 batters faced vs left-handed batters).</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Liberatore vs. Giants left-heavy order.</b> Six of the Giants' nine lineup spots bat left-handed. Matthew Liberatore's 2026 split shows .832 OPS-against vs left-handed batters (156 BF), 174th of 223 NL pitchers with at least 60 batters faced vs left-handed batters, against .822 OPS-against vs right-handed batters (472 BF), 199th of 236 -- the two sides sit near each other and the relations carry no directional edge between them this season.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Eldridge on-base threat vs. Liberatore.</b> Bryce Eldridge bats left-handed, landing on Liberatore's side where the 2026 OPS-against reads .832 over 156 BF. Eldridge is stronger against left-handed pitching this season (.875 OPS vs LHP, 24th of 155 NL batters with at least 60 plate appearances vs left-handed pitching), so the same-side matchup does not suppress him, and his 12.9% walk rate adds to his on-base profile.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Matthew Liberatore.</b> Liberatore has pitched into a third pass in 26 of 29 starts. If he reaches the lineup a third time today, watch whether Oliver Marmol moves quickly -- the hook question is live from the first batter of that pass.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Drew Cavanaugh.</b> If the Cardinals run -- Masyn Winn and Bryan Torres sit at the top of the order -- watch Cavanaugh's arm. His 2026 caught-stealing rate is 19.6% on 46 attempts.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jordan Walker.</b> Walker ranks 23rd of 168 NL hitters with at least 200 plate appearances in SLG (.484). If he reaches Molina a second time, watch for a power opportunity -- Molina's 2026 splits fall below the floor for a platoon read.</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Anthony Molina.</b> Molina's 2026 ERA at home is 8.68 over 9.1 innings, against 2.77 on the road over 13.0 innings. If he labors early at Busch Stadium, watch for a short outing that opens the Giants' bullpen before St. Louis cycles through a second time.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
