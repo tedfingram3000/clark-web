@@ -1,0 +1,135 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-09-17 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (75-78)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NEXT: WSH</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- SF 6, STL 5</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      SF&nbsp;&nbsp;&nbsp;0 0 1 0 0 0 2 1 0 2 -- 6<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 0 2 0 2 1 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-1 (top 3rd) -> 0-3 (top 7th) -> 2-3 (bottom 7th) -> 2-4 (top 8th) -> 4-4 (bottom 9th) -> 4-6 (top 10th) -> 5-6 (bottom 10th)
+  FINAL: Cardinals 5, SF 6 (lost)
+  WALK-OFF: no
+  TEAM LINE: Cardinals 5-for-35, 7 BB
+  SCORING INNINGS: Cardinals 3, SF 4
+  Jordan Walker: 0-for-3, 2 BB
+  Nolan Gorman: 0-for-3, 2 BB
+  Nathan Church: 2-for-5, 0 BB
+  TIME OF DAY: yesterday afternoon
+  PLAY 1: top 3rd -- Brett Harris grounds into a double play, first baseman Alec Burleson to shortstop Thomas Saggese, Jonah Cox scores; 0-0 after
+  PLAY 2: top 7th -- Jonah Cox singles on a line drive to right fielder Jordan Walker, Andrew Knizner and Christian Koss score; 0-2 after
+  PLAY 3: bottom 7th -- Nathan Church reaches on a throwing error by shortstop Christian Koss, Jordan Walker scores; 0-3 after
+  PLAY 4: top 8th -- Andrew Knizner singles on a ground ball to left fielder Joshua Báez, Shay Whitcomb scores; 2-4 after
+  PLAY 5: bottom 9th -- José Fermín out on a sacrifice fly to center fielder Jonah Cox, Nolan Gorman scores; 3-4 after
+  PLAY 6: bottom 9th -- Leo Bernal singles on a sharp line drive to right fielder Scott Bandura, Thomas Saggese scores; 4-4 after
+  PLAY 7: top 10th -- Drew Gilbert homers (10) on a fly ball to center field, Grant McCray scores; 4-6 after
+  PLAY 8: bottom 10th -- Thomas Saggese out on a sacrifice fly to center fielder Drew Gilbert, Alec Burleson scores; 5-6 after
+  FIRST RUN: Jonah Cox (top 7th)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: Leo Bernal (bottom 9th, 4-4)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: top 10th
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals lost to San Francisco 5-6 in ten innings yesterday afternoon, dropping the series 2-of-3. Nathan Church went 2-for-5 to pace the offense, while Drew Gilbert's two-run homer in the top of the tenth put SF ahead for good. Leo Bernal tied it 4-4 with a ninth-inning single before Gilbert's blast ended any comeback hopes.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-1 (top 3rd) -> 0-3 (top 7th) -> 2-3 (bottom 7th) -> 2-4 (top 8th) -> 4-4 (bottom 9th) -> 4-6 (top 10th) -> 5-6 (bottom 10th)
+  FINAL: Cardinals 5, SF 6 (lost)
+  WALK-OFF: no
+  TEAM LINE: Cardinals 5-for-35, 7 BB
+  SCORING INNINGS: Cardinals 3, SF 4
+  Jordan Walker: 0-for-3, 2 BB
+  Nolan Gorman: 0-for-3, 2 BB
+  Nathan Church: 2-for-5, 0 BB
+  TIME OF DAY: yesterday afternoon
+  PLAY 1: top 3rd -- Brett Harris grounds into a double play, first baseman Alec Burleson to shortstop Thomas Saggese, Jonah Cox scores; 0-0 after
+  PLAY 2: top 7th -- Jonah Cox singles on a line drive to right fielder Jordan Walker, Andrew Knizner and Christian Koss score; 0-2 after
+  PLAY 3: bottom 7th -- Nathan Church reaches on a throwing error by shortstop Christian Koss, Jordan Walker scores; 0-3 after
+  PLAY 4: top 8th -- Andrew Knizner singles on a ground ball to left fielder Joshua Báez, Shay Whitcomb scores; 2-4 after
+  PLAY 5: bottom 9th -- José Fermín out on a sacrifice fly to center fielder Jonah Cox, Nolan Gorman scores; 3-4 after
+  PLAY 6: bottom 9th -- Leo Bernal singles on a sharp line drive to right fielder Scott Bandura, Thomas Saggese scores; 4-4 after
+  PLAY 7: top 10th -- Drew Gilbert homers (10) on a fly ball to center field, Grant McCray scores; 4-6 after
+  PLAY 8: bottom 10th -- Thomas Saggese out on a sacrifice fly to center fielder Drew Gilbert, Alec Burleson scores; 5-6 after
+  FIRST RUN: Jonah Cox (top 7th)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: Leo Bernal (bottom 9th, 4-4)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: top 10th
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Matthew Liberatore held SF to 1 run over 6.0 innings, allowing 6 hits and striking out 2.<br>
+- The Cardinals rallied from 0-3 down to tie the game 4-4 in the ninth on Leo Bernal's RBI single.<br>
+- Nathan Church went 2-for-5, the lone Cardinals starter with a multi-hit game.<br>
+- Jordan Walker drew 2 walks and scored a run despite going 0-for-3 at the plate.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- The Cardinals went 5-for-35 as a team, leaving SF's pitching staff in control for most of the afternoon.<br>
+- Drew Gilbert's two-run homer in the top of the tenth proved the decisive blow, putting SF up 4-6.<br>
+- A throwing error by Christian Koss in the seventh led to a Cardinals run that still left them trailing 0-3 after the inning.<br>
+- Jordan Walker and Nolan Gorman each went 0-for-3 with 2 walks, combining for zero hits in six at-bats.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+Cardinals off today. No scout report for September 17. Next game: September 18 vs the Washington Nationals at Busch Stadium, 7:15 PM CT (Game 1 of 3).<br><br>Roster update (September 16): JJ Wetherholt was activated from the 10-day injured list. Peter Strzelecki was activated from the 15-day injured list and designated for assignment the same day. Ramon Urias was designated for assignment.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Thomas Saggese has surged since May 29: 0.410 OPS before vs 1.101 after (75 PA) | window: since May 29 (75 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': 'May 29', 'before': 0.41, 'after': 1.101, 'before_pa': 74, 'after_pa': 75, 'delta': 0.691}
+      window: since May 29 · 75 PA · level 1.101
+      bold lead (copy verbatim as your opening <b>...</b>, figures follow in the body): Thomas Saggese has surged since May 29.
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P19/negative] Riley O'Brien has blown 2 saves in his last 5 appearances
+    - [P19/negative] The bullpen has blown 6 saves in the last 15 games -- 30 all season
+    - [P16/negative] Over the last 21 days the Cardinals rank 27 of 30 in errors per game (0.68)
+    - [P1/negative] Matthew Liberatore has unraveled over his last 27 starts: 6.58 ERA vs 3.50 before
+    - [P1/negative] Nolan Gorman has slumped since May 20: 0.702 OPS before vs 0.393 after (117 PA)
+    - [P1/negative] Pedro Pagés has slumped since April 28: 0.762 OPS before vs 0.472 after (140 PA)
+    - [P16/negative] Cardinals defense has slipped: errors per game 0.68 over the last 21 days vs 0.44 season baseline
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Thomas Saggese has surged since May 29.</b> In 75 plate appearances since that date, his OPS stands at 1.101 -- compared to 0.410 across his first 74 PA of the season. The split is as clean a dividing line as you will find on this roster: one date in late May, two different hitters.<br><br>Some tensions sit alongside that number. The Cardinals have blown 6 saves in the last 15 games and 30 all season, and the team ranks 27 of 30 in errors per game over the last 21 days (0.68). Matthew Liberatore carries a 6.58 ERA over his last 27 starts (since April 13), against a 3.50 mark in the 3 starts before that stretch.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
