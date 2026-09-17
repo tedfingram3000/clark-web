@@ -49,7 +49,7 @@
   LAST LEAD CHANGE: top 10th
 -->
 <!-- PHASE2_SLOT: report_card_recap -->
-The Cardinals lost to San Francisco 5-6 in ten innings yesterday afternoon, dropping the series 2-of-3. Nathan Church went 2-for-5 to pace the offense, while Drew Gilbert's two-run homer in the top of the tenth put SF ahead for good. Leo Bernal tied it 4-4 with a ninth-inning single before Gilbert's blast ended any comeback hopes.
+The Cardinals lost 6-5 to San Francisco in 10 innings yesterday afternoon, dropping the series 2-of-3. Nathan Church went 2-for-5 to pace the offense, while Drew Gilbert's two-run homer in the top of the tenth put SF ahead for good. Leo Bernal tied it 4-4 with a ninth-inning single before Gilbert's blast ended any comeback hopes.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
@@ -87,13 +87,13 @@ The Cardinals lost to San Francisco 5-6 in ten innings yesterday afternoon, drop
 <!-- PHASE2_SLOT: retrospective_commentary -->
 <b style="color:#2E7D32;">WHAT WORKED</b><br>
 - Matthew Liberatore held SF to 1 run over 6.0 innings, allowing 6 hits and striking out 2.<br>
-- The Cardinals rallied from 0-3 down to tie the game 4-4 in the ninth on Leo Bernal's RBI single.<br>
+- The Cardinals rallied from three runs down to tie the game 4-4 in the ninth on Leo Bernal's RBI single.<br>
 - Nathan Church went 2-for-5, the lone Cardinals starter with a multi-hit game.<br>
 - Jordan Walker drew 2 walks and scored a run despite going 0-for-3 at the plate.<br>
 <br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
 - The Cardinals went 5-for-35 as a team, leaving SF's pitching staff in control for most of the afternoon.<br>
-- Drew Gilbert's two-run homer in the top of the tenth proved the decisive blow, putting SF up 4-6.<br>
-- A throwing error by Christian Koss in the seventh led to a Cardinals run that still left them trailing 0-3 after the inning.<br>
+- Drew Gilbert's two-run homer in the top of the tenth proved the decisive blow, putting SF up 6-4.<br>
+- The seventh inning got away: Jonah Cox's two-run single, with a Jordan Walker throwing error on the same play, pushed SF's lead to 3-0.<br>
 - Jordan Walker and Nolan Gorman each went 0-for-3 with 2 walks, combining for zero hits in six at-bats.
 <!-- /PHASE2_SLOT -->
     </div>
@@ -127,7 +127,7 @@ Cardinals off today. No scout report for September 17. Next game: September 18 v
     - [P16/negative] Cardinals defense has slipped: errors per game 0.68 over the last 21 days vs 0.44 season baseline
 -->
 <!-- PHASE2_SLOT: trend_watch_prose -->
-<b>Thomas Saggese has surged since May 29.</b> In 75 plate appearances since that date, his OPS stands at 1.101 -- compared to 0.410 across his first 74 PA of the season. The split is as clean a dividing line as you will find on this roster: one date in late May, two different hitters.<br><br>Some tensions sit alongside that number. The Cardinals have blown 6 saves in the last 15 games and 30 all season, and the team ranks 27 of 30 in errors per game over the last 21 days (0.68). Matthew Liberatore carries a 6.58 ERA over his last 27 starts (since April 13), against a 3.50 mark in the 3 starts before that stretch.
+<b>Thomas Saggese has surged since May 29.</b> In 75 plate appearances since that date, his OPS stands at 1.101 -- compared to 0.410 across his first 74 PA of the season. The split is as clean a dividing line as you will find on this roster: one date in late May, two different hitters.<br><br>Elsewhere the news is worse. The Cardinals have blown 6 saves in the last 15 games and 30 all season, and they have made 0.68 errors per game over the last 21 days, the 4th-most in the majors. Matthew Liberatore carries a 6.58 ERA over his last 27 starts (since April 13), against a 3.50 mark in the 3 starts before that stretch.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
