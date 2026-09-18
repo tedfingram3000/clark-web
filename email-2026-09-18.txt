@@ -69,7 +69,7 @@
     - [P1/negative] Matthew Liberatore has unraveled over his last 27 starts: 6.58 ERA vs 3.50 before
 -->
 <!-- PHASE2_SLOT: trend_watch_prose -->
-<b>The Cardinals are giving away bases.</b> Over the last 21 days they have made the 3rd-most errors per game in the majors, 0.72 against a 0.44 season baseline -- and over those same 18 games, stolen bases allowed have climbed to 1.11 per game against a 0.72 season baseline. Both trends point to a defense that has slipped as September has worn on.<br><br><b>Riley O'Brien has blown 2 saves in his last 5 appearances (September 7 through September 16).</b> The broader bullpen has blown 6 saves over the last 15 games -- 30 on the season -- and the pen has logged 17 back-to-back relief days over that same 15-game stretch, 1.13 per game against 0.67 before that window.
+<b>The Cardinals are giving away bases.</b> Over the last 21 days they have made the 3rd-most errors per game in the majors, 0.72 against a 0.44 season baseline -- and over those same 18 games, stolen bases allowed have climbed to 1.11 per game against a 0.72 season baseline. Both trends point to a defense that has slipped as September has worn on.<br><br><b>Riley O'Brien has blown 2 saves in his last 5 appearances (September 7 through September 16).</b> The broader bullpen has blown 6 saves over the last 15 games -- 30 on the season -- and the pen has logged 17 back-to-back relief days over that same 15-game stretch.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
