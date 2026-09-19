@@ -1,0 +1,139 @@
+<!-- 700 Clark Email Block -- STL vs WSH 2026-09-19 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (75-79)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- Busch Stadium -- 6:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WSH (72-82)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.83 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, September 19, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Alvarez (L) -- 3.35 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- WSH 9, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      WSH&nbsp;&nbsp;3 0 4 1 0 1 0 0 0 -- 9<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 1 0 -- 1
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-3 (top 1st) -> 0-7 (top 3rd) -> 0-8 (top 4th) -> 0-9 (top 6th) -> 1-9 (bottom 8th)
+  FINAL: Cardinals 1, WSH 9 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): WSH 9, STL 1
+  WALK-OFF: no
+  BIGGEST DEFICIT: 9 runs (first reached in the top 6th)
+  BIGGEST LEAD: none (the Cardinals never led)
+  TEAM LINE: Cardinals 7-for-33, 1 BB
+  SCORING INNINGS: Cardinals 1, WSH 4
+  Leo Bernal: 3-for-4, 0 BB
+  TIME OF DAY: last night
+  PLAY 1: top 1st -- CJ Abrams singles on a line drive to right fielder Jordan Walker, Daylen Lile scores
+  PLAY 2: top 1st -- Brady House grounds out, shortstop Masyn Winn to first baseman Alec Burleson, CJ Abrams scores; 0-3 after
+  PLAY 3: top 3rd -- Dylan Crews homers (12) on a fly ball to right field, Daylen Lile scores; 0-5 after
+  PLAY 4: top 3rd -- Yohandy Morales doubles (4) on a line drive to left fielder Bryan Torres, Brady House and Jorbit Vivas score; 0-7 after
+  PLAY 5: top 4th -- Daylen Lile out on a sacrifice fly to left fielder Bryan Torres, Jacob Young scores; 0-8 after
+  PLAY 6: top 6th -- James Wood doubles (30) on a ground ball to right fielder Jordan Walker, Jacob Young scores; 0-9 after
+  PLAY 7: bottom 8th -- Iván Herrera grounds out, third baseman Brady House to first baseman Yohandy Morales, Nathan Church scores; 1-9 after
+  FIRST RUN: CJ Abrams (top 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: top 1st
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals dropped the series opener to Washington last night, 9-1, never leading and falling behind by as many as 9 runs. Kyle Leahy allowed 7 runs in 3.0 innings as the Nationals scored in four separate innings. Leo Bernal went 3-for-4 to account for the Cardinals' brightest individual line in a 7-for-33 offensive night.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-3 (top 1st) -> 0-7 (top 3rd) -> 0-8 (top 4th) -> 0-9 (top 6th) -> 1-9 (bottom 8th)
+  FINAL: Cardinals 1, WSH 9 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): WSH 9, STL 1
+  WALK-OFF: no
+  BIGGEST DEFICIT: 9 runs (first reached in the top 6th)
+  BIGGEST LEAD: none (the Cardinals never led)
+  TEAM LINE: Cardinals 7-for-33, 1 BB
+  SCORING INNINGS: Cardinals 1, WSH 4
+  Leo Bernal: 3-for-4, 0 BB
+  TIME OF DAY: last night
+  PLAY 1: top 1st -- CJ Abrams singles on a line drive to right fielder Jordan Walker, Daylen Lile scores
+  PLAY 2: top 1st -- Brady House grounds out, shortstop Masyn Winn to first baseman Alec Burleson, CJ Abrams scores; 0-3 after
+  PLAY 3: top 3rd -- Dylan Crews homers (12) on a fly ball to right field, Daylen Lile scores; 0-5 after
+  PLAY 4: top 3rd -- Yohandy Morales doubles (4) on a line drive to left fielder Bryan Torres, Brady House and Jorbit Vivas score; 0-7 after
+  PLAY 5: top 4th -- Daylen Lile out on a sacrifice fly to left fielder Bryan Torres, Jacob Young scores; 0-8 after
+  PLAY 6: top 6th -- James Wood doubles (30) on a ground ball to right fielder Jordan Walker, Jacob Young scores; 0-9 after
+  PLAY 7: bottom 8th -- Iván Herrera grounds out, third baseman Brady House to first baseman Yohandy Morales, Nathan Church scores; 1-9 after
+  FIRST RUN: CJ Abrams (top 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: top 1st
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Leo Bernal was 3-for-4, the one Cardinals bat that made consistent contact in a 7-for-33 team effort.<br>
+- Cade Winquest threw 2.0 shutout innings, allowing no hits, no runs, and striking out 2.<br>
+- Nathan Church scored the Cardinals' lone run in the 8th, driven in by Ivan Herrera's groundout.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Kyle Leahy was charged with 7 runs on 5 hits and 3 walks in 3.0 innings, allowing Washington to score in the 1st, 3rd, and 4th.
+- Dylan Crews homered (12) and Yohandy Morales doubled (4) to plate two each in the 3rd, putting Washington up 9-1 before the Cardinals scored.
+- The Cardinals went 7-for-33 with just 1 walk against Washington pitching; Cade Cavalli threw 5 shutout innings with 6 strikeouts.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Jordan Walker ranks 16th of 157 NL batters with at least 60 plate appearances vs left-handed pitching in OPS (.908; league average .737), giving St. Louis its clearest platoon lever against Andrew Alvarez tonight. Walker bats right-handed, and Alvarez is stronger against right-handed batters this season -- .626 OPS allowed, compared with .683 against left-handed batters -- so the edge is Walker's season-long production against left-handed pitching, not a platoon advantage. <br><br><b style="color:#8B3A3A;">Threat:</b> James Wood ranks 5th of 227 NL batters with at least 60 plate appearances vs right-handed pitching in OPS (.956; league average .702), and he lines up against Michael McGreevy's weaker side: McGreevy allows .755 OPS to left-handed batters compared with .675 OPS to right-handed batters. Wood bats left and faces a right-handed starter, placing him squarely on McGreevy's softer split. <br><br><b style="color:#B8860B;">Watch:</b> Alec Burleson ranks 16th of 169 NL hitters with at least 200 plate appearances in AVG (.283; league average .248) and bats left-handed into Alvarez's weaker side; watch whether he generates contact against a pitcher who posts a 56.9% ground-ball rate, 16th of 128 NL pitchers with at least 60 innings.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">James Wood.</b> Wood bats left-handed into McGreevy's weaker platoon side, and he ranks 3rd of 169 NL hitters with at least 200 plate appearances in OPS (.911; league average .732).</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Jordan Walker.</b> Walker bats right-handed into Alvarez's stronger split, which is where the Cardinals' highest-leverage bat against a southpaw has to do its work tonight. That leverage carries contact risk: Walker's 2026 strikeout rate is 25.6%, against a league average of 22.1%.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Michael McGreevy third pass.</b> McGreevy has pitched into a third pass in 27 of 29 starts, and his times-through-order line shows the progression: .681 OPS allowed in the first pass, .738 in the second, .785 in the third -- his third-pass numbers come only from the starts he was left in that long.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">CJ Abrams.</b> Abrams bats left-handed into McGreevy's weaker platoon side and ranks 8th of 169 NL hitters with at least 200 plate appearances in HR (30; league average 14.1), with a .895 OPS vs right-handed pitching (14th of 227 NL batters with at least 60 plate appearances vs right-handed pitching).</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Michael McGreevy.</b> If McGreevy is inducing early contact, watch whether Busch Stadium's infield converts those ground balls into outs -- his 2026 ground-ball rate of 51.7% is the mechanism that keeps his third-pass exposure manageable.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Andrew Alvarez.</b> If Alvarez falls behind hitters early -- his 2026 walk rate of 11.0% sits above the league average of 8.9% -- watch Ivan Herrera, batting second, to apply pressure: Herrera ranks 24th of 169 NL hitters with at least 200 plate appearances in OBP (.355; league average .324).</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Andrew Alvarez.</b> If the Cardinals reach Alvarez a second time through the order, watch the middle of the lineup: his OPS-against rises from .561 on the first pass to .653 on the second pass, his weakest in the sequence. Alvarez has pitched into a third pass in 12 of 15 starts.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- CJ Abrams.</b> If Abrams reaches base, watch whether Oliver Marmol runs Leo Bernal at catcher. Abrams has stolen 30 bags at an 83.3% success rate in 2026. Bernal has allowed 14 steals in 17 attempts this season -- fewer than the 20 attempts needed to publish a caught-stealing rate.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
