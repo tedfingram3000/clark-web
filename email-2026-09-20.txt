@@ -1,0 +1,155 @@
+<!-- 700 Clark Email Block -- STL vs WSH 2026-09-20 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (75-80)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- Busch Stadium -- 1:15 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WSH (73-82)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Mathews (L) -- 3.62 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, September 20, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Irvin (R) -- 5.51 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- WSH 8, STL 5</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      WSH&nbsp;&nbsp;2 0 0 0 0 1 0 0 0 1 4 -- 8<br>
+      STL&nbsp;&nbsp;0 0 0 0 0 0 2 0 1 1 1 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-2 (top 1st) -> 0-3 (top 6th) -> 2-3 (bottom 7th) -> 3-3 (bottom 9th) -> 3-4 (top 10th) -> 4-4 (bottom 10th) -> 4-8 (top 11th) -> 5-8 (bottom 11th)
+  FINAL: Cardinals 5, WSH 8 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): WSH 8, STL 5 (11 innings)
+  WALK-OFF: no
+  BIGGEST DEFICIT: 4 runs (first reached in the top 11th)
+  BIGGEST LEAD: none (the Cardinals never led)
+  TEAM LINE: Cardinals 14-for-46, 2 BB
+  SCORING INNINGS: Cardinals 4, WSH 4
+  José Fermín: 3-for-5, 1 BB
+  Iván Herrera: 3-for-5, 0 BB
+  Nathan Church: 2-for-5, 0 BB
+  Pedro Pagés: 2-for-4, 0 BB
+  TIME OF DAY: last night
+  PLAY 1: top 1st -- Daylen Lile homers (22) on a fly ball to center field, James Wood scores; 0-2 after
+  PLAY 2: top 6th -- Nasim Nuñez singles on a ground ball to shortstop Masyn Winn, deflected by pitcher Luis Gastelum, Jorbit Vivas scores; 0-3 after
+  PLAY 3: bottom 7th -- Pedro Pagés singles on a ground ball to pitcher Richard Lovelady, Masyn Winn scores
+  PLAY 4: bottom 7th -- José Fermín singles on a line drive to center fielder Dylan Crews, Pedro Pagés scores; 2-3 after
+  PLAY 5: bottom 9th -- Pedro Pagés singles on a ground ball to left fielder Daylen Lile, Nathan Church scores; 3-3 after
+  PLAY 6: top 10th -- Jorbit Vivas singles on a ground ball to left fielder José Fermín, José Tena scores; 3-4 after
+  PLAY 7: bottom 10th -- Masyn Winn singles on a ground ball to right fielder Dylan Crews, Leo Bernal scores; 4-4 after
+  PLAY 8: top 11th -- Jacob Young reaches on catcher interference by Leo Bernal, Yohandy Morales scores; 4-5 after
+  PLAY 9: top 11th -- José Tena doubles (13) on a line drive to left fielder José Fermín, Harry Ford and Nasim Nuñez score; 4-7 after
+  PLAY 10: top 11th -- Dylan Crews out on a sacrifice fly to right fielder Jordan Walker, Jacob Young scores; 4-8 after
+  PLAY 11: bottom 11th -- JJ Wetherholt singles on a sharp ground ball to center fielder Jacob Young, Nathan Church scores; 5-8 after
+  FIRST RUN: Daylen Lile (top 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: Masyn Winn (bottom 10th, 4-4)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: top 11th
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+Washington took the second game of the series last night, 8-5 in 11 innings, as a four-run top of the 11th broke a 4-4 tie. José Fermín and Iván Herrera each went 3-for-5 to lead the offense, and Pedro Pagés added 2-for-4 with an RBI single that tied it in the ninth.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-2 (top 1st) -> 0-3 (top 6th) -> 2-3 (bottom 7th) -> 3-3 (bottom 9th) -> 3-4 (top 10th) -> 4-4 (bottom 10th) -> 4-8 (top 11th) -> 5-8 (bottom 11th)
+  FINAL: Cardinals 5, WSH 8 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): WSH 8, STL 5 (11 innings)
+  WALK-OFF: no
+  BIGGEST DEFICIT: 4 runs (first reached in the top 11th)
+  BIGGEST LEAD: none (the Cardinals never led)
+  TEAM LINE: Cardinals 14-for-46, 2 BB
+  SCORING INNINGS: Cardinals 4, WSH 4
+  José Fermín: 3-for-5, 1 BB
+  Iván Herrera: 3-for-5, 0 BB
+  Nathan Church: 2-for-5, 0 BB
+  Pedro Pagés: 2-for-4, 0 BB
+  TIME OF DAY: last night
+  PLAY 1: top 1st -- Daylen Lile homers (22) on a fly ball to center field, James Wood scores; 0-2 after
+  PLAY 2: top 6th -- Nasim Nuñez singles on a ground ball to shortstop Masyn Winn, deflected by pitcher Luis Gastelum, Jorbit Vivas scores; 0-3 after
+  PLAY 3: bottom 7th -- Pedro Pagés singles on a ground ball to pitcher Richard Lovelady, Masyn Winn scores
+  PLAY 4: bottom 7th -- José Fermín singles on a line drive to center fielder Dylan Crews, Pedro Pagés scores; 2-3 after
+  PLAY 5: bottom 9th -- Pedro Pagés singles on a ground ball to left fielder Daylen Lile, Nathan Church scores; 3-3 after
+  PLAY 6: top 10th -- Jorbit Vivas singles on a ground ball to left fielder José Fermín, José Tena scores; 3-4 after
+  PLAY 7: bottom 10th -- Masyn Winn singles on a ground ball to right fielder Dylan Crews, Leo Bernal scores; 4-4 after
+  PLAY 8: top 11th -- Jacob Young reaches on catcher interference by Leo Bernal, Yohandy Morales scores; 4-5 after
+  PLAY 9: top 11th -- José Tena doubles (13) on a line drive to left fielder José Fermín, Harry Ford and Nasim Nuñez score; 4-7 after
+  PLAY 10: top 11th -- Dylan Crews out on a sacrifice fly to right fielder Jordan Walker, Jacob Young scores; 4-8 after
+  PLAY 11: bottom 11th -- JJ Wetherholt singles on a sharp ground ball to center fielder Jacob Young, Nathan Church scores; 5-8 after
+  FIRST RUN: Daylen Lile (top 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: Masyn Winn (bottom 10th, 4-4)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: top 11th
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- José Fermín went 3-for-5 with an RBI single in the seventh that cut the deficit to 3-2.<br>
+- Iván Herrera went 3-for-5, part of a 14-hit Cardinals effort on the night.<br>
+- Pedro Pagés went 2-for-4, including the ninth-inning single that scored Nathan Church to tie it 3-3 and force extras.<br>
+- Masyn Winn's single in the bottom of the 10th scored Leo Bernal to tie it 4-4 and extend the game to the 11th.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Daylen Lile's two-run homer in the first put St. Louis in a 2-0 hole before they batted, a deficit they chased all night.<br>
+- Leo Bernal was charged with catcher interference in the top of the 11th that opened the door for Washington's decisive four-run rally.<br>
+- Gordon Graceffo allowed four runs in the 11th -- including José Tena's two-run double -- turning a tied game into an 8-4 deficit.<br>
+- Jordan Walker went 0-for-6 with four strikeouts, leaving runs on the table in a game decided by three.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Jordan Walker ranks 12th of 169 NL hitters with at least 200 plate appearances in HR (28; league average 14.1), the lineup's clearest power threat against a right-hander who ranks 114th of 128 NL pitchers in ERA. Walker's 2026 line against right-handed pitching reads .780 OPS across 470 plate appearances, up sharply from last season. The Cardinals need to avoid a sweep at home after dropping the first two games of this series to Washington.<br><br><b style="color:#8B3A3A;">Threat:</b> James Wood ranks 3rd of 169 NL hitters with at least 200 plate appearances in OPS (.909; league average .732). He is stronger against right-handed pitching this season: .955 OPS against right-handers, compared with .825 OPS against left-handers. Quinn Mathews is a left-hander starting at home, which sends Wood to his stronger side.<br><br><b style="color:#B8860B;">Watch:</b> Ivan Herrera ranks 23rd of 169 NL hitters with at least 200 plate appearances in OBP (.358; league average .324). Batting second, he is the lineup's table-setter -- if he reaches base early against Irvin, he puts Walker in position to do damage.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Jake Irvin vs. the Cardinal right-handed bats.</b> Jake Irvin ranks 114th of 128 NL pitchers with at least 60 innings in ERA (5.51; league average 3.93), and St. Louis sends six right-handed batters at him this afternoon. His weaker side this season is against right-handed batters: .824 OPS allowed across 170 batters faced, compared with .730 OPS allowed against left-handed batters across 256 batters faced. Jordan Walker (.780 OPS vs. right-handed pitching across 470 PA, 55th of 227 NL batters with at least 60 plate appearances vs. right-handed pitching) and Masyn Winn (.596 OPS vs. right-handed pitching across 382 PA, 182nd of 227) represent opposite ends of that right-handed group against Irvin. Thomas Saggese carries .617 OPS vs. right-handed pitching across 109 PA (174th of 227 NL batters with at least 60 plate appearances vs. right-handed pitching).</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Quinn Mathews -- second pass.</b> Quinn Mathews's second pass is his weakest stretch this season: .836 OPS allowed across 54 PA in starts where he reached a third pass -- his survivorship-conditioned second-pass figure. Mathews has pitched into a third pass in 6 of 7 starts. Washington batters seeing him a second time enter his most vulnerable window of the game.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Jake Irvin -- third pass.</b> Jake Irvin has pitched into a third pass in 14 of 19 starts. In those starts, hitters produced .597 OPS against him on the third pass (65 PA) -- well below the .870 OPS they posted in the second pass of those same starts (126 PA). If the Cardinals line gets deep enough into Irvin to force a third pass, that window is historically his sharpest.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Quinn Mathews home split.</b> Mathews has held hitters to a .510 OPS allowed and a 1.46 ERA at Busch Stadium this season across 48 batters faced -- his home/away split shows .510 allowed at home against .765 on the road, with the home/away sample too small to grade by the floor (48 batters faced at home; floor 60). If his recent sharpness carries into today, the home context is the favorable side of that gap.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Nasim Nuñez and CJ Abrams baserunning.</b> If either reaches base, the running game is live: Nasim Nuñez is 46-for-56 on steal attempts this season (82.1% success), and CJ Abrams is 32-for-38 (84.2%). Pedro Pagés has thrown out 31.7% of steal attempts in 2026 (19 CS in 60 attempts), the context for any green light Washington's manager chooses to give.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Keibert Ruiz contact rate.</b> Ruiz ranks 8th of 169 NL hitters with at least 200 plate appearances in K% (10.6%; league average 21.8%) -- if he bats with runners on, Mathews will need to get him out on contact rather than a strikeout.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
