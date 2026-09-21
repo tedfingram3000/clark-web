@@ -1,0 +1,112 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-09-21 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (76-80)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">NEXT: PIT</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 5, WSH 3</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      WSH&nbsp;&nbsp;0 1 0 0 0 2 0 0 0 -- 3<br>
+      STL&nbsp;&nbsp;1 0 1 0 0 0 0 3 0 -- 5
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 1-0 (bottom 1st) -> 1-1 (top 2nd) -> 2-1 (bottom 3rd) -> 2-3 (top 6th) -> 5-3 (bottom 8th)
+  FINAL: Cardinals 5, WSH 3 (won)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): STL 5, WSH 3
+  WALK-OFF: no
+  BIGGEST DEFICIT: 1 run (first reached in the top 6th)
+  BIGGEST LEAD: 2 runs (first reached in the bottom 8th)
+  TEAM LINE: Cardinals 6-for-31, 2 BB
+  SCORING INNINGS: Cardinals 3, WSH 2
+  Iván Herrera: 2-for-4, 0 BB
+  José Fermín: 2-for-3, 0 BB
+  TIME OF DAY: yesterday afternoon
+  PLAY 1: bottom 1st -- Iván Herrera homers (17) on a fly ball to left field, (runner unresolved); 1-0 after
+  PLAY 2: top 2nd -- Jacob Young out on a sacrifice fly to center fielder Nathan Church, Daylen Lile scores; 1-1 after
+  PLAY 3: bottom 3rd -- JJ Wetherholt singles on a line drive to right fielder Dylan Crews, José Fermín scores; 2-1 after
+  PLAY 4: top 6th -- CJ Abrams homers (31) on a fly ball to right field, Brady House scores; 2-3 after
+  PLAY 5: bottom 8th -- Iván Herrera homers (18) on a fly ball to left center field, (runner unresolved); 3-3 after
+  PLAY 6: bottom 8th -- Leo Bernal homers (4) on a fly ball to center field, Jordan Walker scores; 5-3 after
+  FIRST RUN: Iván Herrera (bottom 1st)
+  GO-AHEAD RBI: Leo Bernal (bottom 8th, 5-3)
+  TYING RUN: Iván Herrera (bottom 8th, 3-3)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 8th
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals won STL 5, WSH 3 yesterday afternoon, though Washington claimed the three-game series 2-of-3. Ivan Herrera went 2-for-4 with two home runs and Leo Bernal put St. Louis ahead for good with his fourth home run of the season in the eighth inning.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 1-0 (bottom 1st) -> 1-1 (top 2nd) -> 2-1 (bottom 3rd) -> 2-3 (top 6th) -> 5-3 (bottom 8th)
+  FINAL: Cardinals 5, WSH 3 (won)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): STL 5, WSH 3
+  WALK-OFF: no
+  BIGGEST DEFICIT: 1 run (first reached in the top 6th)
+  BIGGEST LEAD: 2 runs (first reached in the bottom 8th)
+  TEAM LINE: Cardinals 6-for-31, 2 BB
+  SCORING INNINGS: Cardinals 3, WSH 2
+  Iván Herrera: 2-for-4, 0 BB
+  José Fermín: 2-for-3, 0 BB
+  TIME OF DAY: yesterday afternoon
+  PLAY 1: bottom 1st -- Iván Herrera homers (17) on a fly ball to left field, (runner unresolved); 1-0 after
+  PLAY 2: top 2nd -- Jacob Young out on a sacrifice fly to center fielder Nathan Church, Daylen Lile scores; 1-1 after
+  PLAY 3: bottom 3rd -- JJ Wetherholt singles on a line drive to right fielder Dylan Crews, José Fermín scores; 2-1 after
+  PLAY 4: top 6th -- CJ Abrams homers (31) on a fly ball to right field, Brady House scores; 2-3 after
+  PLAY 5: bottom 8th -- Iván Herrera homers (18) on a fly ball to left center field, (runner unresolved); 3-3 after
+  PLAY 6: bottom 8th -- Leo Bernal homers (4) on a fly ball to center field, Jordan Walker scores; 5-3 after
+  FIRST RUN: Iván Herrera (bottom 1st)
+  GO-AHEAD RBI: Leo Bernal (bottom 8th, 5-3)
+  TYING RUN: Iván Herrera (bottom 8th, 3-3)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 8th
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+• Ivan Herrera went 2-for-4 with two home runs -- his 17th in the first inning and his 18th in the eighth, which tied the game.<br>
+• Leo Bernal hit his fourth home run of the season in the eighth inning, driving in Jordan Walker for the go-ahead run.<br>
+• Quinn Mathews started and pitched 7 innings, allowing 3 runs.<br>
+• Jose Fermin went 2-for-3 and scored in the third inning on JJ Wetherholt's RBI single.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+• Cardinals batters went 6-for-31 with 2 walks as a team.<br>
+• CJ Abrams hit his 31st home run of the season in the sixth inning, scoring Brady House and putting Washington ahead.<br>
+• Washington won the series 2-of-3.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+Cardinals off day. No scout report today. Next game: September 22 vs Pittsburgh at PNC Park, 5:40 PM CT.<br><br>Roster notes: Joshua Baez was placed on the 10-day injured list September 18 with a left oblique strain. Cesar Prieto was recalled from Memphis the same day. Ramon Urias and Peter Strzelecki were designated for assignment September 16. JJ Wetherholt returned from the 10-day IL September 16 and played yesterday afternoon.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
