@@ -1,0 +1,77 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-09-22 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (76-80)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- PNC Park -- 5:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (79-77)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.70 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Tuesday, September 22, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Jones (R) -- 4.17 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Alec Burleson ranks 6th of 228 NL batters with at least 60 plate appearances vs right-handed pitching in OPS (.934; league average .702), and Jones throws right-handed. The Cardinals send seven left-handed bats at Jones tonight -- Burleson's .934 OPS against right-handers is the sharpest weapon in that group facing a pitcher whose first pass holds hitters to a .535 OPS against. <br><br><b style="color:#8B3A3A;">Threat:</b> Brandon Lowe ranks 8th of 228 NL batters with at least 60 plate appearances vs right-handed pitching in OPS (.916; league average .702), and Andre Pallante throws right-handed. Lowe bats left-handed, the side Pallante has handled less well this season, and he faces him at home tonight -- his .916 OPS against right-handers makes him the Pirates' most dangerous bat against Pallante. <br><br><b style="color:#B8860B;">Watch:</b> Jordan Walker ranks 12th of 171 NL hitters with at least 200 plate appearances in home runs (28; league average 14.1) -- watch his at-bats early, when Jones is at his most difficult and the Cardinals need to survive the first pass to reach the second.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Jared Jones TTO cliff: first pass vs second pass.</b> Jones's second-pass OPS-against is .824 -- against .535 on the first pass -- and the survival-adjusted second-pass figure from the 15 starts he reached a third time through reads .893 OPS-against across 135 PA. He has pitched into a third pass in 15 of 19 starts. The Cardinals send seven left-handed bats at a right-hander who allows .708 OPS against left-handed batters this season (112th of 229 NL pitchers with at least 60 batters faced vs left-handed batters; league average .715) -- the lineup's edge depends on surviving his first-pass gauntlet to collect a second look.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Andre Pallante.</b> Pallante's first pass is his weakest this season: .733 OPS-against, after .626 on the second. His conditional second-pass figure from the 25 of 27 starts he reached a third time through is .631 OPS-against across 225 PA. His ground-ball rate of 63.4% ranks 4th of 129 NL pitchers with at least 60 innings (league average 48.6%), and tonight's road start carries a 2.76 ERA (31st of 184 NL pitchers with at least 20 innings pitched on the road; league average 4.05) -- his home ERA of 4.41 (124th of 195; league average 3.89) stays behind in St. Louis.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Bryan Reynolds.</b> Reynolds has 2 home runs in 23 career plate appearances against Pallante (.174 AVG, .174 OBP, .522 SLG) -- the highest-volume Pirates threat in the career record tonight. His 2026 line against right-handed pitching reads .773 OPS across 445 PA (59th of 228 NL batters with at least 60 plate appearances vs right-handed pitching; league average .702), and he carries a .868 OPS with runners in scoring position across 160 PA this season, above the .745 league average with RISP. Pallante is stronger against right-handed batters this season (.639 OPS allowed vs .703 against left-handed batters); Reynolds is a switch-hitter who bats left-handed against a right-hander, so he lands on Pallante's weaker side tonight.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Pallante road vs home split.</b> Pallante is stronger on the road this season: .612 OPS allowed across 262 batters faced away, compared with .720 OPS allowed across 367 batters faced at home. Tonight's start at PNC Park puts him on his stronger side of that split.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Henry Davis vs. Pallante -- if Davis bats with runners on.</b> Henry Davis has 4 career plate appearances against Andre Pallante, a sample too small to compare directionally, but the power event is on record: 1 home run in those 4 PA. If Davis reaches a plate appearance with runners on base tonight, that career home run is the count to watch.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Oneil Cruz baserunning -- if he reaches base.</b> If Oneil Cruz reaches base, watch for a stolen-base attempt: Cruz has succeeded on 80.0% of his attempts this season (28 for 35), and the Cardinals' catchers have thrown out 31.7% (Pedro Pagés, 19 of 60) and 19.0% (Leo Bernal, 4 of 21) of would-be base stealers in 2026.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jared Jones third-pass availability -- if Cardinals reach him a second time.</b> Jones has pitched into a third pass in 15 of 19 starts this season. If the Cardinals reach him a second time through the order, watch whether Don Kelly pulls him before the lineup turns over again -- the second-pass signal is the trigger.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Iván Herrera -- Trend Watch winner, new personal best.</b> Herrera has set a new personal season best in RBI this season. If he drives in a run tonight, watch that count extend. He ranks 23rd of 171 NL hitters with at least 200 plate appearances in OBP (.358; league average .323).</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P6] Iván Herrera has set a new personal season best in RBI: 68, passing his 66 (2025) | window: season to date (156 team games) | stats: {'kind': 'personal_best_exceeded', 'stat': 'RBI', 'current': 68, 'previous_best': 66, 'previous_best_year': 2025}
+  [2] [P19] The bullpen has blown 5 saves in the last 15 games -- 30 all season | window: last 15 games | stats: {'kind': 'bullpen_blown_saves', 'window_blown': 5, 'window_games': 15, 'season_blown': 30, 'season_games': 156, 'window_rate': 0.333, 'season_rate': 0.192, 'standings_context': {'wc_gb': '10.0', 'div_gb': '22.0', 'div_rank': '4', 'wc_rank': '7'}}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P1/positive] Quinn Mathews has sharpened over his last 5 starts: 2.32 ERA vs 6.15 before
+    - [P1/negative] Matthew Liberatore has unraveled over his last 27 starts: 6.58 ERA vs 3.50 before
+    - [P1/negative] Nolan Gorman has slumped since May 20: 0.702 OPS before vs 0.390 after (118 PA)
+    - [P20/negative] Over the window the Cardinals rank 3 of 30 in runners left on base per game (7.4)
+    - [P1/negative] Pedro Pagés has slumped since April 28: 0.762 OPS before vs 0.487 after (144 PA)
+    - [P1/negative] Alec Burleson has slumped since August 25: 0.843 OPS before vs 0.642 after (98 PA)
+    - [P30/negative] The Cardinals bullpen is pacing at 615.7 relief innings -- the franchise record is 584.3 (2021)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Iván Herrera has set a new career RBI high this season, reaching 68 -- topping his previous best of 66 set in 2025.</b> Season to date across 156 team games, Herrera has surpassed every prior full-season mark he has posted.<br><br><b>The Cardinals bullpen has blown 5 saves in the last 15 games, pushing the season total to 30 blown saves across 156 games.</b> The last-15-games rate (5 in 15) runs well ahead of the full-season rate (30 in 156), and the club sits 22.0 games back in the division and 10.0 back in the wild card with the season winding down.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
