@@ -1,0 +1,153 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-09-23 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (76-81)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- PNC Park -- 5:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (80-77)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Liberatore (L) -- 5.36 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Wednesday, September 23, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Bachar (R) -- 3.56 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- PIT 2, STL 0</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 0 0 -- 0<br>
+      PIT&nbsp;&nbsp;0 0 0 0 0 1 1 0 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-1 (bottom 6th) -> 0-2 (bottom 7th)
+  FINAL: Cardinals 0, PIT 2 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): PIT 2, STL 0
+  WALK-OFF: no
+  BIGGEST DEFICIT: 2 runs (first reached in the bottom 7th)
+  BIGGEST LEAD: none (the Cardinals never led)
+  TEAM LINE: Cardinals 1-for-28, 2 BB
+  SCORING INNINGS: Cardinals 0, PIT 2
+  TIME OF DAY: last night
+  PLAY 1: bottom 6th -- Ryan O'Hearn singles on a ground ball to left fielder Bryan Torres, Oneil Cruz scores; 0-1 after
+  PLAY 2: bottom 7th -- Konnor Griffin steals (23) 2nd base, Spencer Horwitz scores; 0-2 after
+  FIRST RUN: Ryan O'Hearn (bottom 6th)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 6th
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+Pittsburgh beat St. Louis last night, PIT 2, STL 0, in the opener of a three-game series. The Cardinals managed 1 hit in 28 at-bats. Ryan O'Hearn singled home Oneil Cruz in the sixth, and a wild pitch by Cade Winquest allowed Spencer Horwitz to score in the seventh. Nathan Church had the Cardinals' only hit.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-1 (bottom 6th) -> 0-2 (bottom 7th)
+  FINAL: Cardinals 0, PIT 2 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): PIT 2, STL 0
+  WALK-OFF: no
+  BIGGEST DEFICIT: 2 runs (first reached in the bottom 7th)
+  BIGGEST LEAD: none (the Cardinals never led)
+  TEAM LINE: Cardinals 1-for-28, 2 BB
+  SCORING INNINGS: Cardinals 0, PIT 2
+  TIME OF DAY: last night
+  PLAY 1: bottom 6th -- Ryan O'Hearn singles on a ground ball to left fielder Bryan Torres, Oneil Cruz scores; 0-1 after
+  PLAY 2: bottom 7th -- Konnor Griffin steals (23) 2nd base, Spencer Horwitz scores; 0-2 after
+  FIRST RUN: Ryan O'Hearn (bottom 6th)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 6th
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Andre Pallante held Pittsburgh to 1 run on 3 hits over 6.0 innings, keeping the Cardinals in reach through the middle frames.<br>
+- Cade Winquest struck out 2 over 1.1 scoreless innings of relief, though an inherited runner scored on his wild pitch.<br>
+- Thomas Saggese and Masyn Winn each drew a walk, accounting for both Cardinals baserunners alongside Church's hit.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- The Cardinals went 1-for-28 as a team, stranding every baserunner and scoring zero runs all night.<br>
+- Jared Jones struck out 9 Cardinals batters across 7.0 scoreless innings, allowing only Church's lone hit.<br>
+- Justin Bruihl allowed a run in 0.2 innings, and a wild pitch from Cade Winquest scored the second Pittsburgh run in the seventh.<br>
+- The Cardinals never led -- Pittsburgh scored in the sixth and seventh to go up 2 runs, a deficit St. Louis never answered.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Alec Burleson enters tonight hitting .928 OPS against right-handed pitching this season, 6th of 229 NL batters with at least 60 plate appearances against right-handers -- a figure well clear of the league average of .701. He bats third and faces Lake Bachar, a right-hander, which is the matchup Burleson handles best. The series is already tilted: Pittsburgh leads 1-0 after last night's shutout, and St. Louis needs early offense before Bachar leaves the game.<br><br><b style="color:#8B3A3A;">Threat:</b> Oneil Cruz ranks 14th of 171 NL hitters with at least 200 plate appearances in OPS (.852; league average .730), and he hits fourth for Pittsburgh tonight against Matthew Liberatore. Career, Cruz carries a .091 average in 13 plate appearances against Liberatore -- a sample too small to carry predictive weight -- so his season-level production is the real risk, not the BvP line. He walks at an 11.2% clip and strikes out at 33.4%.<br><br><b style="color:#B8860B;">Watch:</b> Matthew Liberatore is the hinge. His third-pass OPS allowed this season stands at 1.099, against a .731 first-pass mark -- and he reaches that third pass in 27 of 30 starts. Whether Pittsburgh gets to that stage, and whether Oliver Marmol pulls him before it arrives, is the defining decision of the night.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Liberatore's third-pass collapse.</b> Matthew Liberatore has pitched into a third pass in 27 of 30 starts this season. In those starts, hitters post a 1.099 OPS against him on the third pass, compared with .709 OPS in the second pass of those same starts -- a .390 gap. His third-pass figures come only from the starts he was left in. Pittsburgh will almost certainly see that third pass tonight.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Bachar's home/away split.</b> Lake Bachar is stronger at home this season: .541 OPS allowed at PNC Park, compared with .736 OPS allowed on the road. His home ERA is 2.27 (40th of 195 NL pitchers with at least 20 innings pitched at home; league average 3.88), and he has never reached a third pass through the order in 11 starts this season -- St. Louis must score against him early.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Bryan Reynolds career BvP vs. Liberatore.</b> Reynolds is 4-for-12 with a home run against Matthew Liberatore in career plate appearances, posting a .333 average and .667 slugging. The sample sits below the floor for a graded split but is the deepest any Pittsburgh batter carries against tonight's starter. Reynolds also hits better with runners in scoring position than his overall line: .868 OPS with RISP across 160 plate appearances this season, compared with .790 overall.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Pittsburgh's left-heavy lineup vs. Liberatore's platoon split.</b> Pittsburgh sends five left-handed hitters and two switch-hitters tonight. Matthew Liberatore is stronger against left-handed batters this season -- .810 OPS allowed versus .824 OPS allowed against right-handed batters -- but the margin is narrow (14 points) and his .810 figure against left-handers ranks 173rd of 230 NL pitchers with at least 60 batters faced vs. left-handed batters (league average .714).</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Liberatore's leash.</b> If Matthew Liberatore reaches a third pass of the Pittsburgh order, watch for Oliver Marmol to act -- he has pulled Liberatore before a third pass in only 3 of 30 starts this season.</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Oneil Cruz vs. Liberatore late.</b> If Oneil Cruz reaches a third-pass plate appearance against Liberatore, watch for damage. Cruz's career line against Liberatore is 1-for-11 across 13 plate appearances -- too small to compare -- but his 2026 line vs. left-handed pitching is .849 OPS across 134 PA. The season production is what carries weight here, not the BvP sample.</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Rafael Flores Jr. catching tonight.</b> If Rafael Flores Jr. is behind the plate, watch the running game late. Flores has caught 16.7% of would-be base stealers this season (6 caught stealing in 36 attempts), and Oneil Cruz has stolen 28 bases at an 80.0% success rate (28 for 35). That combination -- a catcher at 16.7% and a baserunner at 80.0% efficiency -- sets up a late-inning baserunning threat for Pittsburgh.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Alec Burleson first-pass window.</b> If Alec Burleson reaches base in his first at-bat against Lake Bachar, the Cardinals need to convert -- across 11 starts this season, Bachar has faced only 4 batters a second time through the order and has never reached a third pass, so the first trip may be St. Louis's only look at him.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P1] Quinn Mathews has sharpened over his last 5 starts: 2.32 ERA vs 6.15 before | window: last 5 starts (since August 28) | stats: {'metric': 'ERA (per-start, outs-weighted grid)', 'anchor_date': 'August 28', 'before': 6.15, 'after': 2.32, 'before_starts': 3, 'after_starts': 5, 'window_unit': 'starts', 'role': 'SP', 'delta': 3.83}
+      window: since August 28 · 5 starts · level 2.32 · league 3.91
+      bold lead (copy verbatim as your opening <b>...</b>, figures follow in the body): Quinn Mathews has sharpened over his last five starts.
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P1/negative] Matthew Liberatore has unraveled over his last 27 starts: 6.58 ERA vs 3.50 before
+    - [P1/negative] Nolan Gorman has slumped since May 20: 0.702 OPS before vs 0.390 after (118 PA)
+    - [P1/negative] Bryan Torres has slumped since August 1: 0.766 OPS before vs 0.539 after (94 PA)
+    - [P1/negative] Alec Burleson has slumped since August 28: 0.840 OPS before vs 0.610 after (90 PA)
+    - [P1/negative] JJ Wetherholt has slumped since August 10: 0.739 OPS before vs 0.523 after (95 PA)
+    - [P1/negative] Pedro Pagés has slumped since April 28: 0.762 OPS before vs 0.487 after (144 PA)
+    - [P30/negative] The Cardinals bullpen is pacing at 614.0 relief innings -- the franchise record is 584.3 (2021)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Quinn Mathews has sharpened over his last five starts.</b> Since August 28, Mathews has posted a 2.32 ERA across five starts, down from a 6.15 ERA in his three starts before that stretch. The league ERA sits at 3.91 this season; Mathews is running well clear of it over this five-start window.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
