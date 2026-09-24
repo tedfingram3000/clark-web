@@ -1,0 +1,161 @@
+<!-- 700 Clark Email Block -- STL vs PIT 2026-09-24 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (77-81)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- PNC Park -- 11:35 AM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT (80-78)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Leahy (R) -- 3.65 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Thursday, September 24, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Skenes (R) -- 3.91 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- STL 5, PIT 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 3 2 0 0 0 0 0 -- 5<br>
+      PIT&nbsp;&nbsp;0 1 0 0 0 0 0 0 0 -- 1
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #2E7D32;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-1 (bottom 2nd) -> 3-1 (top 3rd) -> 5-1 (top 4th)
+  FINAL: Cardinals 5, PIT 1 (won)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): STL 5, PIT 1
+  WALK-OFF: no
+  BIGGEST DEFICIT: 1 run (first reached in the bottom 2nd)
+  BIGGEST LEAD: 4 runs (first reached in the top 4th)
+  TEAM LINE: Cardinals 10-for-34, 4 BB
+  SCORING INNINGS: Cardinals 2, PIT 1
+  JJ Wetherholt: 3-for-4, 1 BB
+  José Fermín: 2-for-4, 0 BB
+  TIME OF DAY: last night
+  PLAY 1: bottom 2nd -- Brandon Lowe homers (34) on a fly ball to right center field, (runner unresolved); 0-1 after
+  PLAY 2: top 3rd -- Alec Burleson singles on a line drive to center fielder Jake Mangum, JJ Wetherholt scores
+  PLAY 3: top 3rd -- Leo Bernal singles on a ground ball to right fielder Ronny Simon, Alec Burleson scores; 3-1 after
+  PLAY 4: top 4th -- Masyn Winn doubles (21) on a fly ball to center fielder Jake Mangum, José Fermín scores; 4-1 after
+  PLAY 5: top 4th -- JJ Wetherholt singles on a ground ball to right fielder Ronny Simon, Masyn Winn scores; 5-1 after
+  FIRST RUN: Brandon Lowe (bottom 2nd)
+  GO-AHEAD RBI: Leo Bernal (top 3rd, 3-1)
+  TYING RUN: Alec Burleson (top 3rd)
+  INSURANCE RUNS: 2 (Masyn Winn, JJ Wetherholt)
+  LAST LEAD CHANGE: top 3rd
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals beat Pittsburgh 5-1 last night, taking game two of three in Pittsburgh. Matthew Liberatore held the Pirates to one run over 5.2 innings, JJ Wetherholt went 3-for-4 with a run and an RBI, and José Fermín added 2-for-4 as St. Louis scored in two innings to Pittsburgh's one.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-1 (bottom 2nd) -> 3-1 (top 3rd) -> 5-1 (top 4th)
+  FINAL: Cardinals 5, PIT 1 (won)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): STL 5, PIT 1
+  WALK-OFF: no
+  BIGGEST DEFICIT: 1 run (first reached in the bottom 2nd)
+  BIGGEST LEAD: 4 runs (first reached in the top 4th)
+  TEAM LINE: Cardinals 10-for-34, 4 BB
+  SCORING INNINGS: Cardinals 2, PIT 1
+  JJ Wetherholt: 3-for-4, 1 BB
+  José Fermín: 2-for-4, 0 BB
+  TIME OF DAY: last night
+  PLAY 1: bottom 2nd -- Brandon Lowe homers (34) on a fly ball to right center field, (runner unresolved); 0-1 after
+  PLAY 2: top 3rd -- Alec Burleson singles on a line drive to center fielder Jake Mangum, JJ Wetherholt scores
+  PLAY 3: top 3rd -- Leo Bernal singles on a ground ball to right fielder Ronny Simon, Alec Burleson scores; 3-1 after
+  PLAY 4: top 4th -- Masyn Winn doubles (21) on a fly ball to center fielder Jake Mangum, José Fermín scores; 4-1 after
+  PLAY 5: top 4th -- JJ Wetherholt singles on a ground ball to right fielder Ronny Simon, Masyn Winn scores; 5-1 after
+  FIRST RUN: Brandon Lowe (bottom 2nd)
+  GO-AHEAD RBI: Leo Bernal (top 3rd, 3-1)
+  TYING RUN: Alec Burleson (top 3rd)
+  INSURANCE RUNS: 2 (Masyn Winn, JJ Wetherholt)
+  LAST LEAD CHANGE: top 3rd
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- JJ Wetherholt went 3-for-4 with a walk, driving in a run and scoring another as the Cardinals' offense built a 4-run lead through four innings<br>
+- Leo Bernal's single in the top of the 3rd scored Alec Burleson to make it 3-1 in a three-run third<br>
+- Matthew Liberatore allowed just one run on six hits over 5.2 innings, striking out six with no walks<br>
+- Luis Gastelum, Ryne Stanek, and George Soriano combined for 3.1 scoreless innings to close it out<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- Brandon Lowe's solo home run (34) in the bottom of the 2nd gave Pittsburgh the first run and left St. Louis chasing for a full inning<br>
+- The Cardinals went 10-for-34 as a team -- a .294 average -- but scored in only two innings<br>
+- Nathan Church went 0-for-4 from the eighth spot and did not score or drive in a run
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Alec Burleson enters this afternoon as the lineup's clearest matchup advantage: his .918 OPS against right-handed pitching this season ranks 6th of 230 NL batters with at least 60 plate appearances vs right-handed pitching (league average .700), and he faces Paul Skenes -- his stronger side. <br><br><b style="color:#8B3A3A;">Threat:</b> Brandon Lowe sits on the opposite side of that ledger against Kyle Leahy. Lowe's .906 OPS against right-handed pitching this season ranks 8th of 230 NL batters with at least 60 plate appearances vs right-handed pitching (league average .700), and he faces a right-hander today -- his stronger side (he posts .658 against left-handers). <br><br><b style="color:#B8860B;">Watch:</b> Jordan Walker carries 28 home runs on the season -- 14th of 171 NL hitters with at least 200 plate appearances -- but faces Skenes on his weaker platoon side today, and he is 1-for-6 against Skenes in his career with 4 strikeouts. Whether his power carries through that combination is the question to track.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Alec Burleson vs. Paul Skenes.</b> Paul Skenes is stronger against right-handed batters this season: .663 OPS allowed, compared with .683 OPS allowed against left-handed batters. The gap is narrow, and Alec Burleson steps in as a left-handed bat against the side Skenes holds less firmly. Career vs. Skenes, Burleson is 6-for-17 (.353 avg, .389 OBP, .412 SLG) across 18 plate appearances.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Kyle Leahy's third-pass escalation.</b> Kyle Leahy's third pass is his weakest this season: 1.016 OPS allowed, after .575 on the first and .827 on the second. He has pitched into a third pass in 21 of 29 starts.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Brandon Lowe and Ryan O'Hearn vs. Leahy.</b> Kyle Leahy is stronger against right-handed batters this season: .618 OPS allowed, compared with .850 OPS allowed against left-handed batters. Pittsburgh's two left-handed starters face Leahy's sharply weaker side. Ryan O'Hearn ranks 24th of 230 NL batters with at least 60 plate appearances vs right-handed pitching in OPS vs RHP (.852; league average .700). Both bat against their stronger platoon half today.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Paul Skenes's third-pass escalation.</b> Paul Skenes's third pass is his weakest this season: .810 OPS allowed, after .666 on the first and .605 on the second. He has pitched into a third pass in 29 of 31 starts, making late-game at-bats the Cardinals' clearest path to offense.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Kyle Leahy.</b> If Leahy reaches the Pittsburgh order a third time today, watch whether Oliver Marmol pulls him first -- Marmol has done so in 8 of his 29 starts.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Alec Burleson.</b> If Burleson squares up early against Skenes -- he is 6-for-17 career against him -- watch whether his season-long production against right-handed pitching shows up early.</div>
+<div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Rafael Flores Jr.</b> If Cardinals baserunners reach against Skenes, watch Rafael Flores Jr. behind the plate -- he has thrown out 17.9% of attempted base-stealers (7 CS in 39 attempts) this season, compared with Henry Davis's 45.9% rate on the same roster.</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- José Fermín.</b> If José Fermín continues his active 3-game multi-hit streak, watch whether he can sustain contact against Skenes -- Fermín faces him on the tougher side of his platoon split (.611 OPS vs right-handed pitching, .766 vs left-handed this season, 202 and 160 PA respectively), and his strikeout rate of 13.0% -- 13th of 171 NL hitters with at least 200 plate appearances -- gives him a contact floor to work from.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P2] José Fermín: multi-hit streak at 3 games | window: last 3 games (September 19..last night) | stats: {'streak_type': 'multi-hit streak', 'length': 3, 'threshold': 3}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P1/negative] Alec Burleson has slumped since August 28: 0.840 OPS before vs 0.599 after (95 PA)
+    - [P1/negative] Nolan Gorman has slumped since May 20: 0.702 OPS before vs 0.404 after (122 PA)
+    - [P1/negative] Bryan Torres has slumped since August 1: 0.766 OPS before vs 0.539 after (94 PA)
+    - [P1/negative] Pedro Pagés has slumped since April 28: 0.762 OPS before vs 0.487 after (144 PA)
+    - [P1/negative] Since May 17, Cardinals win pct has declined: 0.6 before vs 0.442 after
+    - [P30/negative] The Cardinals bullpen is pacing at 613.3 relief innings -- the franchise record is 584.3 (2021)
+    - [P1/positive] Thomas Saggese has surged since May 29: 0.410 OPS before vs 0.940 after (91 PA)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>José Fermín has hit safely in each of his last 3 games, recording multiple hits in all three.</b> The streak runs from September 19 through last night.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
