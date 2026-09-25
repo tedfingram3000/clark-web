@@ -1,0 +1,154 @@
+<!-- 700 Clark Email Block -- STL vs MIL 2026-09-25 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (77-82)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 1 of 3 -- American Family Field -- 6:40 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIL (100-59)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">McGreevy (R) -- 3.84 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Friday, September 25, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Gasser (L) -- 4.01 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- PIT 2, STL 1</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;1 0 0 0 0 0 0 0 0 -- 1<br>
+      PIT&nbsp;&nbsp;1 0 0 0 0 0 0 1 0 -- 2
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 1-0 (top 1st) -> 1-1 (bottom 1st) -> 1-2 (bottom 8th)
+  FINAL: Cardinals 1, PIT 2 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): PIT 2, STL 1
+  WALK-OFF: no
+  BIGGEST DEFICIT: 1 run (first reached in the bottom 8th)
+  BIGGEST LEAD: 1 run (first reached in the top 1st)
+  TEAM LINE: Cardinals 5-for-31, 2 BB
+  SCORING INNINGS: Cardinals 1, PIT 2
+  JJ Wetherholt: 2-for-4, 0 BB
+  TIME OF DAY: yesterday afternoon
+  PLAY 1: top 1st -- Alec Burleson homers (24) on a fly ball to right center field, (runner unresolved); 1-0 after
+  PLAY 2: bottom 1st -- Brandon Lowe singles on a line drive to left fielder Bryan Torres, Oneil Cruz scores; 1-1 after
+  PLAY 3: bottom 8th -- Spencer Horwitz out on a sacrifice fly to center fielder Nathan Church, Ronny Simon scores; 1-2 after
+  FIRST RUN: Alec Burleson (top 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 8th
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+Pittsburgh took the series finale yesterday afternoon, 2-1, and with it the three-game series, two games to one. Alec Burleson gave St. Louis the early lead with his 24th home run in the first inning, but the Cardinals managed just 5 hits in 31 at-bats. Brandon Lowe's first-inning single tied it, and Spencer Horwitz's eighth-inning sacrifice fly decided it.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 1-0 (top 1st) -> 1-1 (bottom 1st) -> 1-2 (bottom 8th)
+  FINAL: Cardinals 1, PIT 2 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): PIT 2, STL 1
+  WALK-OFF: no
+  BIGGEST DEFICIT: 1 run (first reached in the bottom 8th)
+  BIGGEST LEAD: 1 run (first reached in the top 1st)
+  TEAM LINE: Cardinals 5-for-31, 2 BB
+  SCORING INNINGS: Cardinals 1, PIT 2
+  JJ Wetherholt: 2-for-4, 0 BB
+  TIME OF DAY: yesterday afternoon
+  PLAY 1: top 1st -- Alec Burleson homers (24) on a fly ball to right center field, (runner unresolved); 1-0 after
+  PLAY 2: bottom 1st -- Brandon Lowe singles on a line drive to left fielder Bryan Torres, Oneil Cruz scores; 1-1 after
+  PLAY 3: bottom 8th -- Spencer Horwitz out on a sacrifice fly to center fielder Nathan Church, Ronny Simon scores; 1-2 after
+  FIRST RUN: Alec Burleson (top 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 8th
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Alec Burleson homered (24) in the first inning to put St. Louis ahead 1-0.<br>
+- JJ Wetherholt went 2-for-4, accounting for two of the team's five hits.<br>
+- Cooper Hjerpe threw 3.1 innings of scoreless relief, allowing 3 hits with 3 strikeouts.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- The offense went 5-for-31 with 2 walks -- one run on 31 at-bats against a Pittsburgh staff led by Paul Skenes (6.1 IP, 8 K).<br>
+- Ryne Stanek walked two in the eighth, and Ronny Simon scored the unearned go-ahead run on Spencer Horwitz's sacrifice fly to make it 2-1 Pittsburgh.<br>
+- Five Cardinals starters were held hitless; Leo Bernal struck out three times in four at-bats.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Jordan Walker is stronger against left-handed pitching this season: .885 OPS, compared with .767 against right-handers. Walker ranks 20th of 163 NL batters with at least 60 plate appearances vs left-handed pitching in OPS (.885; league average .727), and he draws that matchup tonight against Robert Gasser. <br><br><b style="color:#8B3A3A;">Threat:</b> Jake Bauers leads the NL in OBP this season at .393 (league average .323) and ranks 6th in OPS (.884; league average .728). He faces a right-hander tonight, his weaker side (.927 OPS against left-handers), yet his .868 OPS against right-handed pitching still ranks 18th of 230 NL batters in that split. <br><br><b style="color:#B8860B;">Watch:</b> Alec Burleson enters tonight ranked 32nd of 172 NL hitters in OPS (.807; league average .728), but his 2026 line against left-handed pitching is .554 OPS -- 151st of 163 NL batters in that split -- compared with .924 against right-handers. He faces Gasser tonight.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Gasser vs Cardinals right-handed bats.</b> Robert Gasser is stronger against left-handed batters this season: .574 OPS allowed, compared with .782 OPS allowed against right-handed batters. Jordan Walker, Iván Herrera, Masyn Winn, and Thomas Saggese -- all right-handed -- enter on that weaker side. Walker leads the group. Herrera ranks 42nd of 163 NL batters with at least 60 plate appearances vs left-handed pitching in OPS (.820), and Winn 86th of 163 (.715; league average .727). Saggese's 2026 sample against left-handed pitching is 51 plate appearances, below the floor for a split grade; last season he ranked 131st of 181 2025 NL batters with at least 60 plate appearances vs left-handed pitching in OPS (vs LHP) (.627; league average .702). His 2026 vs-right-handers mark is .592 OPS across 118 plate appearances (188th of 230 NL batters with at least 60 plate appearances vs right-handed pitching).</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">McGreevy vs Brewers left-handed bats.</b> Michael McGreevy allowed a .759 OPS to left-handed batters this season, compared with .669 to right-handed batters -- 143rd of 231 NL pitchers with at least 60 batters faced vs left-handed batters (league average .714). The Brewers carry seven left-handed hitters. Brice Turang ranks 12th of 230 NL batters with at least 60 plate appearances vs right-handed pitching in OPS (vs RHP) (.896; league average .701). Christian Yelich ranks 102nd of 230 (.726), Garrett Mitchell 44th (.800). Jake Bauers bats left-handed, so he also lands on McGreevy's weaker side, though his own stronger split is against left-handers (.927 OPS vs LHP, 11th of 163). David Hamilton ranks 162nd of 230 vs right-handed pitching (.646). Bo Naylor's 2026 vs-right-handers mark is .449 OPS across 84 plate appearances (225th of 230).</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">McGreevy third-time-through exposure.</b> Michael McGreevy has pitched into a third pass in 28 of 30 starts. His third-pass OPS allowed this season is .778, rising from .691 in the first pass and .732 in the second. Those third-pass figures come only from the 28 starts he was left in long enough to face the lineup a third time.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Gasser at home vs on the road.</b> Robert Gasser is stronger at home this season: .689 OPS allowed, compared with .746 on the road. He pitches tonight at American Family Field, where he has posted a 3.62 ERA (84th of 195 NL pitchers with at least 20 innings pitched at home; league average 3.89), versus 4.36 ERA on the road (118th of 188 NL pitchers with at least 20 innings pitched on the road; league average 4.04).</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jordan Walker.</b> If Walker sees elevated fastballs early in counts against Robert Gasser, watch whether he elevates: he ranks 15th of 172 NL hitters with at least 200 plate appearances in HR (28; league average 14.2), and tonight he bats on his stronger side.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Alec Burleson.</b> If Burleson is moved or managed around in the lineup tonight, that is a sign the Cardinals are responding to his 2026 struggles against left-handed pitching, with a left-hander on the mound.</div><div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Michael McGreevy.</b> If McGreevy reaches his third time through the Brewers' order, watch his pitch count and Oliver Marmol's hook: the third pass drives a higher OPS against him than the first or second, with Milwaukee's left-heavy lineup -- his weaker platoon side -- adding to that exposure.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- David Hamilton / Jackson Chourio / Brice Turang.</b> If any of the three reach base early, watch whether they test the Cardinals' catcher: Hamilton has stolen 30 bases in 36 attempts (83.3%) this season, Chourio 23 in 28 (82.1%), and Turang 19 in 24 (79.2%), forming a baserunning threat that could generate extra-base situations against McGreevy.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P14] Pete Alonso (Baltimore Orioles) has matched the ENTIRE Cardinals team since September 7: 8 home runs to 8 | window: since September 7 (15 games) | stats: {'stat': 'home runs', 'player': 'Pete Alonso', 'player_team': 'Baltimore Orioles', 'player_total': 8, 'stl_team_total': 8, 'window_anchor': 'September 7', 'anchor_source': 'P1 change-point (team R/G)', 'window_games': 15}
+  [2] [P1] Thomas Saggese has surged since May 29: 0.410 OPS before vs 0.911 after (95 PA) | window: since May 29 (95 PA) | stats: {'metric': 'OPS (PA-weighted)', 'anchor_date': 'May 29', 'before': 0.41, 'after': 0.911, 'before_pa': 74, 'after_pa': 95, 'delta': 0.501}
+      window: since May 29 · 95 PA · level 0.911 · league 0.728
+      bold lead (copy verbatim as your opening <b>...</b>, figures follow in the body): Thomas Saggese has surged since May 29.
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P28/negative] The Cardinals have won just 0 of their last 3 series (3 losses) -- 25 of 55 on the season
+    - [P1/negative] Bryan Torres has slumped since August 1: 0.766 OPS before vs 0.533 after (97 PA)
+    - [P1/negative] Nolan Gorman has slumped since May 20: 0.702 OPS before vs 0.404 after (122 PA)
+    - [P1/negative] Alec Burleson has slumped since August 28: 0.840 OPS before vs 0.625 after (99 PA)
+    - [P1/negative] Pedro Pagés has slumped since April 28: 0.762 OPS before vs 0.487 after (144 PA)
+    - [P30/negative] The Cardinals bullpen is pacing at 615.7 relief innings -- the franchise record is 584.3 (2021)
+    - [P1/negative] Michael McGreevy has unraveled over his last 10 starts: 8.03 ERA vs 3.32 before
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>Pete Alonso (Baltimore Orioles) has matched the entire Cardinals team in home runs since September 7:</b> 8 to 8 across 15 games. The Cardinals have hit 8 home runs as a club over that stretch -- the same total one Orioles bat has produced.<br><br><b>Thomas Saggese has surged since May 29.</b> His OPS over the 95 plate appearances since that date stands at 0.911, up from 0.410 across the 74 plate appearances before it -- a 0.501 swing. The 0.911 figure clears the league average of 0.728 since May 29.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
