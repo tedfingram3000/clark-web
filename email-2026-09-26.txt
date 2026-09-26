@@ -57,7 +57,7 @@
   LAST LEAD CHANGE: bottom 8th
 -->
 <!-- PHASE2_SLOT: report_card_recap -->
-The Cardinals fell to the Brewers last night, MIL 8, STL 4, dropping the series opener. Milwaukee scored in four separate innings and held St. Louis to 6 hits in 33 at-bats; Iván Herrera (home run, 19) and a seventh-inning pair from Jordan Walker (29) and Alec Burleson (25) accounted for all four Cardinals runs, but Brice Turang went 3-for-5 with 3 RBI to pace the Brewers.
+The Cardinals fell to the Brewers 8-4 last night, dropping the series opener. Milwaukee scored in four separate innings and held St. Louis to 6 hits in 33 at-bats; Iván Herrera (home run, 19) and a seventh-inning pair from Jordan Walker (29) and Alec Burleson (25) accounted for all four Cardinals runs, but Brice Turang went 3-for-5 with 3 RBI to pace the Brewers.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
@@ -104,7 +104,7 @@ The Cardinals fell to the Brewers last night, MIL 8, STL 4, dropping the series 
 <br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
 - The Cardinals went 6-for-33 with 1 walk; five of nine starters finished hitless.<br>
 - Michael McGreevy allowed 9 hits and 4 runs in 4.2 innings before exiting.<br>
-- Justin Bruihl faced 1 batter in the eighth and allowed 1 hit and 3 runs (1 earned) without recording an out, turning a tied game into a four-run deficit.
+- Justin Bruihl allowed 3 runs (1 earned) on 1 hit in the eighth without recording an out, as a 4-4 tie became an 8-4 deficit.
 - Brice Turang went 3-for-5 with 3 RBI, driving in the first run on a first-inning double and adding two more with an eighth-inning single that broke the game open.
 <!-- /PHASE2_SLOT -->
     </div>
@@ -117,7 +117,7 @@ The Cardinals fell to the Brewers last night, MIL 8, STL 4, dropping the series 
     <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
     <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: bottom_line_content -->
-<b style="color:#2E7D32;">Edge:</b> Jordan Walker is the Cardinals' clearest power threat tonight, ranking 13th of 172 NL hitters with at least 200 plate appearances in HR (29). He faces Dustin May on his weaker side this season: .775 OPS against right-handed pitching, compared with .874 OPS against left-handed pitching.<br><br><b style="color:#8B3A3A;">Threat:</b> Jake Bauers ranks 2nd of 172 NL hitters with at least 200 plate appearances in OBP (.391). He faces Quinn Mathews on his stronger side this season: .927 OPS against left-handed pitching, compared with .863 OPS against right-handed pitching.<br><br><b style="color:#B8860B;">Watch:</b> Leo Bernal went 2-for-4 last night and brings a strong split against right-handed pitching into tonight's lineup -- if he sees consistent at-bats against May, he is the Cardinals' name to watch.
+<b style="color:#2E7D32;">Edge:</b> Jordan Walker is the Cardinals' clearest power threat tonight, ranking 13th of 172 NL hitters with at least 200 plate appearances in HR (29). He faces Dustin May on his weaker side this season: .775 OPS against right-handed pitching, compared with .874 OPS against left-handed pitching.<br><br><b style="color:#8B3A3A;">Threat:</b> Jake Bauers ranks 2nd of 172 NL hitters with at least 200 plate appearances in OBP (.391). He faces Quinn Mathews on his stronger side this season: .927 OPS against left-handed pitching, compared with .863 OPS against right-handed pitching.<br><br><b style="color:#B8860B;">Watch:</b> Leo Bernal went 2-for-4 last night and brings a strong split against right-handed pitching (.854 OPS across 68 plate appearances, 22nd of 232 NL batters) into tonight's lineup -- if he sees consistent at-bats against May, he is the Cardinals' name to watch.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
@@ -138,9 +138,9 @@ The Cardinals fell to the Brewers last night, MIL 8, STL 4, dropping the series 
   <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
   <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <!-- PHASE2_SLOT: watchlist_prose -->
-<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jake Bauers.</b> If Bauers reaches base against Quinn Mathews, watch his walk rate as the primary mechanism -- he draws a walk more often than the league average: 16.3% against 8.9% this season, and he ranks 4th of 172 NL hitters with at least 200 plate appearances in BB% (16.3%; league average 9.0%). His threat level against left-handed pitching is covered in the sections above.</div>
-<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Mathews second pass.</b> If the Brewers' lineup reaches Mathews a second time, watch for the divergence in outcomes by hitter. Mathews has pitched into a third pass in 7 of his 8 starts; in the starts where he reached a third pass, his second-pass sample of 63 PA produced a .790 OPS against. Brice Turang (.598 OPS vs left-handed pitching this season, 198 PA) and Jake Bauers (his threat level against Mathews is covered in the sections above) represent opposite ends of the exposure spectrum among the left-handed bats in tonight's Milwaukee lineup.</div>
-<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jordan Walker.</b> If Walker reaches hitter's counts against Dustin May, watch whether he can lift the ball -- his 2025 ground-ball rate was 48.9% against a 47.0% league average, and he faces May on the side where May holds a platoon advantage tonight. Walker's power figures are covered in the sections above.</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jake Bauers.</b> If Bauers reaches base against Quinn Mathews, watch his walk rate as the primary mechanism -- he ranks 4th of 172 NL hitters with at least 200 plate appearances in BB% (16.3%; league average 9.0%).</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Mathews second pass.</b> If the Brewers' lineup reaches Mathews a second time, watch for the divergence in outcomes by hitter. Mathews has pitched into a third pass in 7 of his 8 starts; in the starts where he reached a third pass, his second-pass sample of 63 PA produced a .790 OPS against. Brice Turang (.598 OPS vs left-handed pitching this season, 198 PA) and Jake Bauers represent opposite ends of the exposure spectrum among the left-handed bats in tonight's Milwaukee lineup.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jordan Walker.</b> If Walker reaches hitter's counts against Dustin May, watch whether he can lift the ball -- his 2026 ground-out share is 49.3% against a 47.3% league average (48.9% ground-ball rate in 2025), and he faces May on the side where May holds a platoon advantage tonight.</div>
 <div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Iván Herrera.</b> If Herrera sees multiple plate appearances against May, watch his on-base ability as the counter to May's platoon edge -- Herrera ranks 25th of 172 NL hitters with at least 200 plate appearances in OBP (.355; league average .322), though he faces May tonight on his weaker side: .701 OPS against right-handed pitching across 492 plate appearances this season, compared with .835 OPS against left-handed pitching.</div>
 <!-- /PHASE2_SLOT -->
   </div>
