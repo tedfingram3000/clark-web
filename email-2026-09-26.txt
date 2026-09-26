@@ -1,0 +1,150 @@
+<!-- 700 Clark Email Block -- STL vs MIL 2026-09-26 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (77-83)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 2 of 3 -- American Family Field -- 6:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIL (101-59)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Mathews (L) -- 3.65 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Saturday, September 26, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">May (R) -- 4.67 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- MIL 8, STL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 1 0 0 3 0 0 -- 4<br>
+      MIL&nbsp;&nbsp;1 0 0 1 2 0 0 4 0 -- 8
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-1 (bottom 1st) -> 1-1 (top 4th) -> 1-2 (bottom 4th) -> 1-4 (bottom 5th) -> 4-4 (top 7th) -> 4-8 (bottom 8th)
+  FINAL: Cardinals 4, MIL 8 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): MIL 8, STL 4
+  WALK-OFF: no
+  BIGGEST DEFICIT: 4 runs (first reached in the bottom 8th)
+  BIGGEST LEAD: none (the Cardinals never led)
+  TEAM LINE: Cardinals 6-for-33, 1 BB
+  SCORING INNINGS: Cardinals 2, MIL 4
+  Leo Bernal: 2-for-4, 0 BB
+  TIME OF DAY: last night
+  PLAY 1: bottom 1st -- Brice Turang doubles (36) on a sharp line drive to left fielder José Fermín, Garrett Mitchell scores; 0-1 after
+  PLAY 2: top 4th -- Iván Herrera homers (19) on a fly ball to left center field, (runner unresolved); 1-1 after
+  PLAY 3: bottom 4th -- Luis Lara grounds into a force out, shortstop Masyn Winn to second baseman JJ Wetherholt, Christian Yelich scores; 1-2 after
+  PLAY 4: bottom 5th -- Jake Bauers singles on a ground ball to center fielder Victor Scott II, Brice Turang scores; 1-3 after
+  PLAY 5: bottom 5th -- Jackson Chourio walks, Jake Bauers scores; 1-4 after
+  PLAY 6: top 7th -- Jordan Walker homers (29) on a fly ball to center field, (runner unresolved); 2-4 after
+  PLAY 7: top 7th -- Alec Burleson homers (25) on a fly ball to right field, Leo Bernal scores; 4-4 after
+  PLAY 8: bottom 8th -- Brice Turang singles on a ground ball to left fielder Victor Scott II, Jackson Chourio and David Hamilton score; 4-6 after
+  PLAY 9: bottom 8th -- William Contreras singles on a ground ball to left fielder Victor Scott II, Garrett Mitchell scores; 4-7 after
+  PLAY 10: bottom 8th -- Jake Bauers out on a sacrifice fly to left fielder Victor Scott II, Brice Turang scores; 4-8 after
+  FIRST RUN: Brice Turang (bottom 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: Alec Burleson (top 7th, 4-4)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 8th
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+The Cardinals fell to the Brewers last night, MIL 8, STL 4, dropping the series opener. Milwaukee scored in four separate innings and held St. Louis to 6 hits in 33 at-bats; Iván Herrera (home run, 19) and a seventh-inning pair from Jordan Walker (29) and Alec Burleson (25) accounted for all four Cardinals runs, but Brice Turang went 3-for-5 with 3 RBI to pace the Brewers.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-1 (bottom 1st) -> 1-1 (top 4th) -> 1-2 (bottom 4th) -> 1-4 (bottom 5th) -> 4-4 (top 7th) -> 4-8 (bottom 8th)
+  FINAL: Cardinals 4, MIL 8 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): MIL 8, STL 4
+  WALK-OFF: no
+  BIGGEST DEFICIT: 4 runs (first reached in the bottom 8th)
+  BIGGEST LEAD: none (the Cardinals never led)
+  TEAM LINE: Cardinals 6-for-33, 1 BB
+  SCORING INNINGS: Cardinals 2, MIL 4
+  Leo Bernal: 2-for-4, 0 BB
+  TIME OF DAY: last night
+  PLAY 1: bottom 1st -- Brice Turang doubles (36) on a sharp line drive to left fielder José Fermín, Garrett Mitchell scores; 0-1 after
+  PLAY 2: top 4th -- Iván Herrera homers (19) on a fly ball to left center field, (runner unresolved); 1-1 after
+  PLAY 3: bottom 4th -- Luis Lara grounds into a force out, shortstop Masyn Winn to second baseman JJ Wetherholt, Christian Yelich scores; 1-2 after
+  PLAY 4: bottom 5th -- Jake Bauers singles on a ground ball to center fielder Victor Scott II, Brice Turang scores; 1-3 after
+  PLAY 5: bottom 5th -- Jackson Chourio walks, Jake Bauers scores; 1-4 after
+  PLAY 6: top 7th -- Jordan Walker homers (29) on a fly ball to center field, (runner unresolved); 2-4 after
+  PLAY 7: top 7th -- Alec Burleson homers (25) on a fly ball to right field, Leo Bernal scores; 4-4 after
+  PLAY 8: bottom 8th -- Brice Turang singles on a ground ball to left fielder Victor Scott II, Jackson Chourio and David Hamilton score; 4-6 after
+  PLAY 9: bottom 8th -- William Contreras singles on a ground ball to left fielder Victor Scott II, Garrett Mitchell scores; 4-7 after
+  PLAY 10: bottom 8th -- Jake Bauers out on a sacrifice fly to left fielder Victor Scott II, Brice Turang scores; 4-8 after
+  FIRST RUN: Brice Turang (bottom 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: Alec Burleson (top 7th, 4-4)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 8th
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+- Jordan Walker homered (29) to center field in the seventh, part of a three-run inning that tied the game 4-4.<br>
+- Alec Burleson followed with a home run (25) to right field, scoring Leo Bernal to complete the seventh-inning rally.<br>
+- Iván Herrera hit a solo home run (19) in the fourth to tie the game 1-1.<br>
+- Brycen Mautz threw 1.1 scoreless innings in relief, allowing no hits.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+- The Cardinals went 6-for-33 with 1 walk; five of nine starters finished hitless.<br>
+- Michael McGreevy allowed 9 hits and 4 runs in 4.2 innings before exiting.<br>
+- Justin Bruihl faced 1 batter in the eighth and allowed 1 hit and 3 runs (1 earned) without recording an out, turning a tied game into a four-run deficit.
+- Brice Turang went 3-for-5 with 3 RBI, driving in the first run on a first-inning double and adding two more with an eighth-inning single that broke the game open.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Jordan Walker is the Cardinals' clearest power threat tonight, ranking 13th of 172 NL hitters with at least 200 plate appearances in HR (29). He faces Dustin May on his weaker side this season: .775 OPS against right-handed pitching, compared with .874 OPS against left-handed pitching.<br><br><b style="color:#8B3A3A;">Threat:</b> Jake Bauers ranks 2nd of 172 NL hitters with at least 200 plate appearances in OBP (.391). He faces Quinn Mathews on his stronger side this season: .927 OPS against left-handed pitching, compared with .863 OPS against right-handed pitching.<br><br><b style="color:#B8860B;">Watch:</b> Leo Bernal went 2-for-4 last night and brings a strong split against right-handed pitching into tonight's lineup -- if he sees consistent at-bats against May, he is the Cardinals' name to watch.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">May vs Cardinals RHB-heavy lineup.</b> Dustin May is stronger against right-handed batters this season: .649 OPS allowed, compared with .753 OPS allowed against left-handed batters. St. Louis sends six right-handed bats against him tonight -- the Cardinals' order lands predominantly on his stronger side. Among NL pitchers with at least 60 batters faced vs right-handed batters, May ranks 87th of 244 (.649; league average .698). Jordan Walker, batting third, is stronger against left-handed pitching this season (.874 OPS vs LHP across 173 PA), landing on May's tougher side; against right-handed pitching Walker carries a .775 OPS across 486 PA, 55th of 232 NL batters. Masyn Winn's 2026 line vs right-handed pitching reads .594 OPS across 391 PA, 187th of 232 NL batters.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Mathews vs Brewers LHB-heavy lineup.</b> Quinn Mathews's 2026 sample against left-handed batters carries 52 batters faced -- too small to report a reliable platoon edge. His right-handed sample clears the floor: .690 OPS allowed across 138 batters faced, 111th of 244 NL pitchers with at least 60 batters faced vs right-handed batters (league average .698). Milwaukee sends six left-handed bats tonight. Jake Bauers, batting fourth, ranks 11th of 164 NL batters with at least 60 plate appearances vs left-handed pitching in OPS (.927; league average .726). Brice Turang hits left-handed pitching at .598 OPS across 198 PA, 138th of 164; Christian Yelich carries .610 OPS vs left-handed pitching across 130 PA, 132nd of 164 NL batters.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">May home/away split.</b> Dustin May is stronger at home this season: .635 OPS allowed, compared with .820 OPS allowed on the road. Tonight he pitches at American Family Field -- the Cardinals face his better self. Among NL pitchers with at least 20 innings pitched at home, May ranks 99th of 197 in ERA (home) (3.87; league average 3.91). His road ERA ranks 171st of 189 NL pitchers with at least 20 innings pitched on the road (5.88; league average 4.05) -- a split the Cardinals cannot use tonight.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jake Bauers.</b> If Bauers reaches base against Quinn Mathews, watch his walk rate as the primary mechanism -- he draws a walk more often than the league average: 16.3% against 8.9% this season, and he ranks 4th of 172 NL hitters with at least 200 plate appearances in BB% (16.3%; league average 9.0%). His threat level against left-handed pitching is covered in the sections above.</div>
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Mathews second pass.</b> If the Brewers' lineup reaches Mathews a second time, watch for the divergence in outcomes by hitter. Mathews has pitched into a third pass in 7 of his 8 starts; in the starts where he reached a third pass, his second-pass sample of 63 PA produced a .790 OPS against. Brice Turang (.598 OPS vs left-handed pitching this season, 198 PA) and Jake Bauers (his threat level against Mathews is covered in the sections above) represent opposite ends of the exposure spectrum among the left-handed bats in tonight's Milwaukee lineup.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jordan Walker.</b> If Walker reaches hitter's counts against Dustin May, watch whether he can lift the ball -- his 2025 ground-ball rate was 48.9% against a 47.0% league average, and he faces May on the side where May holds a platoon advantage tonight. Walker's power figures are covered in the sections above.</div>
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Iván Herrera.</b> If Herrera sees multiple plate appearances against May, watch his on-base ability as the counter to May's platoon edge -- Herrera ranks 25th of 172 NL hitters with at least 200 plate appearances in OBP (.355; league average .322), though he faces May tonight on his weaker side: .701 OPS against right-handed pitching across 492 plate appearances this season, compared with .835 OPS against left-handed pitching.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
