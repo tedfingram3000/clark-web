@@ -136,7 +136,7 @@ Milwaukee topped the Cardinals 3-2 last night in game two of the three-game seri
     - [P30/negative] The Cardinals bullpen is pacing at 614.3 relief innings -- the franchise record is 584.3 (2021)
 -->
 <!-- PHASE2_SLOT: trend_watch_prose -->
-<b>The Cardinals have dropped all 3 series from September 14 through September 24, finishing the stretch without a single series win.</b> Over those 3 series, St. Louis went 0-3, a stretch that sits well below their season rate of winning 25 of 55 series (a .455 series-win rate). Today is the last game day of 2026 -- that series slump is the final word on how this team closed the season against its opponents. Alec Burleson has homered in each of the last 3 games, and the bullpen has logged 610.7 relief innings across 161 team games -- on pace for 614.3 over a full 162, above the franchise record of 584.3 set in 2021.
+<b>The Cardinals have dropped all 3 series from September 14 through September 24, finishing the stretch without a single series win.</b> Over those 3 series, St. Louis went 0-3, a stretch that sits well below their season rate of winning 25 of 55 series (a .455 series-win rate). Today is the last game day of 2026 -- that series slump is the final word on how this team closed the season against its opponents. Alec Burleson has homered in each of the last 3 games, and the bullpen has already thrown 610⅔ relief innings with one game to play, 26⅓ past the franchise record of 584⅓ set in 2021.
 <!-- /PHASE2_SLOT -->
   </div>
 </td></tr>
