@@ -1,0 +1,144 @@
+<!-- 700 Clark Email Block -- STL vs MIL 2026-09-27 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (77-84)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Game 3 of 3 -- American Family Field -- 2:10 PM CT</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIL (102-59)</td>
+  </tr>
+  <tr>
+    <td align="left" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Pallante (R) -- 3.61 ERA</td>
+    <td align="center" style="font-size:10px;color:rgba(255,255,255,0.5);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Sunday, September 27, 2026</td>
+    <td align="right" style="font-size:11px;color:rgba(255,255,255,0.7);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:4px;">Misiorowski (R) -- 1.86 ERA</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- MIL 3, STL 2</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 1 1 0 0 0 0 0 0 -- 2<br>
+      MIL&nbsp;&nbsp;0 0 1 0 2 0 0 0 0 -- 3
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 1-0 (top 2nd) -> 2-0 (top 3rd) -> 2-1 (bottom 3rd) -> 2-3 (bottom 5th)
+  FINAL: Cardinals 2, MIL 3 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): MIL 3, STL 2
+  WALK-OFF: no
+  BIGGEST DEFICIT: 1 run (first reached in the bottom 5th)
+  BIGGEST LEAD: 2 runs (first reached in the top 3rd)
+  TEAM LINE: Cardinals 3-for-30, 1 BB
+  SCORING INNINGS: Cardinals 2, MIL 2
+  TIME OF DAY: last night
+  PLAY 1: top 2nd -- Thomas Saggese singles on a line drive to left fielder Jackson Chourio, Jordan Walker scores; 1-0 after
+  PLAY 2: top 3rd -- Alec Burleson homers (26) on a fly ball to right center field, (runner unresolved); 2-0 after
+  PLAY 3: bottom 3rd -- Jackson Chourio singles on a sharp fly ball to right fielder Jordan Walker, Brandon Lockridge scores; 2-1 after
+  PLAY 4: bottom 5th -- Brice Turang homers (21) on a fly ball to center field, Jackson Chourio scores; 2-3 after
+  FIRST RUN: Thomas Saggese (top 2nd)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 5th
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+Milwaukee topped the Cardinals 3-2 last night in game two of the three-game series. Alec Burleson homered (26) and Thomas Saggese drove in a run, accounting for both St. Louis runs, but the Cardinals managed just 3-for-30 with one walk as a team. Brice Turang's two-run homer in the fifth put Milwaukee ahead for good.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 1-0 (top 2nd) -> 2-0 (top 3rd) -> 2-1 (bottom 3rd) -> 2-3 (bottom 5th)
+  FINAL: Cardinals 2, MIL 3 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): MIL 3, STL 2
+  WALK-OFF: no
+  BIGGEST DEFICIT: 1 run (first reached in the bottom 5th)
+  BIGGEST LEAD: 2 runs (first reached in the top 3rd)
+  TEAM LINE: Cardinals 3-for-30, 1 BB
+  SCORING INNINGS: Cardinals 2, MIL 2
+  TIME OF DAY: last night
+  PLAY 1: top 2nd -- Thomas Saggese singles on a line drive to left fielder Jackson Chourio, Jordan Walker scores; 1-0 after
+  PLAY 2: top 3rd -- Alec Burleson homers (26) on a fly ball to right center field, (runner unresolved); 2-0 after
+  PLAY 3: bottom 3rd -- Jackson Chourio singles on a sharp fly ball to right fielder Jordan Walker, Brandon Lockridge scores; 2-1 after
+  PLAY 4: bottom 5th -- Brice Turang homers (21) on a fly ball to center field, Jackson Chourio scores; 2-3 after
+  FIRST RUN: Thomas Saggese (top 2nd)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 5th
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<b style="color:#2E7D32;">WHAT WORKED</b><br>&#8226; Thomas Saggese singled on a line drive in the second to score Jordan Walker, putting the Cardinals on top 1-0.<br>&#8226; Alec Burleson homered (26) in the third to extend the lead to 2-0.<br>&#8226; Gordon Graceffo threw two scoreless innings of relief, allowing no runs on three hits with three strikeouts.<br><br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>&#8226; The Cardinals went 3-for-30 with one walk -- a threadbare offensive output that left no margin for error.<br>&#8226; Quinn Mathews allowed three earned runs over five innings, including a two-run homer to Brice Turang in the fifth that flipped the lead.<br>&#8226; St. Louis scored in only two innings and could not answer after Milwaukee took the lead in the bottom of the fifth.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- BOTTOM LINE -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:16px 20px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">BOTTOM LINE</div>
+    <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: bottom_line_content -->
+<b style="color:#2E7D32;">Edge:</b> Alec Burleson ranks 6th of 232 NL batters with at least 60 plate appearances vs right-handed pitching in OPS (.939; league average .700), and faces a right-hander today -- his stronger side this season (he posts .549 against left-handed pitching).<br><br><b style="color:#8B3A3A;">Threat:</b> Jacob Misiorowski ranks 1st of 133 NL pitchers with at least 60 innings in WHIP (0.80; league average 1.24) and is stronger against left-handed batters this season: .383 OPS allowed, compared with .585 OPS allowed against right-handed batters. The Cardinals send 6 left-handed batters directly into his dominant side today.<br><br><b style="color:#B8860B;">Watch:</b> Jordan Walker -- one of only three right-handed bats in the lineup with a platoon path into Misiorowski's less dominant side -- ranks 14th of 172 NL hitters with at least 200 plate appearances in HR (29; league average 14.4). His .776 OPS vs right-handed pitching this season, compared with .863 vs left-handed pitching, means he faces Misiorowski from his own weaker side; watch whether he can generate hard contact on that footing.
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- KEY MATCHUPS -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">KEY MATCHUPS</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: key_matchups_prose -->
+<div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Misiorowski vs Cardinals Left-Handed Batters.</b> Jacob Misiorowski's platoon split is the structural fact of today's matchup: he ranks 3rd of 233 NL pitchers with at least 60 batters faced vs left-handed batters in OPS allowed (league average .715), and six of the Cardinals' nine projected starters land on that dominant side -- JJ Wetherholt, Alec Burleson, Nolan Gorman, Bryan Torres, Nathan Church, and switch-hitter Leo Bernal batting left. Career plate-appearance samples for most of those hitters against Misiorowski are too small to compare: Burleson is 1-for-7, Gorman is 0-for-3 in 4 PA, and the remaining left-handed Cardinals starters have no career history against him on file.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Iván Herrera BvP vs Misiorowski.</b> Iván Herrera is 3-for-6 with a home run, a walk, and a 1.167 SLG in 7 career plate appearances against Misiorowski -- the strongest Cardinals BvP line in the sample, though 7 PA is too small to weight heavily. As a right-handed batter he lands on Misiorowski's weaker side: Misiorowski ranks 51st of 246 NL pitchers with at least 60 batters faced vs right-handed batters in OPS allowed (league average .698).</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Brice Turang vs Pallante.</b> Brice Turang is 5-for-13 (.385 AVG, .385 OBP, .462 SLG) in 13 career plate appearances against Andre Pallante -- the deepest Brewer BvP sample against today's Cardinals starter, though 13 PA sits below the floor for reliable rate conclusions. As a left-handed batter, Turang lands on Pallante's weaker side this season: Pallante allows .686 OPS against left-handed batters, compared with .644 OPS against right-handed batters.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">Misiorowski Times Through the Order.</b> Jacob Misiorowski has pitched into a third pass in 25 of 29 starts. His second pass is his weakest this season at .546 OPS allowed, after .431 on the first; when he does reach the third pass (132 PA), opposing lineups have hit to a .418 OPS -- lower than both earlier passes. The Cardinals' best path is pressure in the first two times through before Misiorowski settles into the pattern his third-pass numbers represent.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- WATCHLIST -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">WATCHLIST</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: watchlist_prose -->
+<div style="border-left:3px solid #B8860B;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Alec Burleson HR Streak.</b> If Burleson reaches Misiorowski in the lineup, watch whether he extends his home-run streak to four consecutive games -- he has homered in each of the last 3 games (September 24 through last night) and faces a right-hander, his own stronger side -- though left-handed batters are Misiorowski's stronger side.</div><div style="border-left:3px solid #0B1C33;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Andre Pallante Ground-Ball Rate vs Brewers Lineup.</b> If the Brewers' right-handed bats make hard contact early, watch Pallante's ground-ball rate as the countermeasure -- he ranks 3rd of 133 NL pitchers with at least 60 innings in GB% (64.1%; league average 48.4%), and 5 right-handed Brewer bats land on his stronger side.</div><div style="border-left:3px solid #8B3A3A;padding-left:10px;margin-bottom:12px;"><b style="color:#0B1C33;">-- Jake Bauers On-Base Threat.</b> If Bauers reaches base early in counts, watch his patience against Pallante -- he ranks 2nd of 172 NL hitters with at least 200 plate appearances in OBP (.390; league average .322), and his 5 career plate appearances against Pallante are too small a sample for a reliable read on that specific matchup.</div>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+<!-- TREND WATCH -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">TREND WATCH</div>
+  <div style="font-size:12px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- TREND WATCH CANDIDATES (Phase 2: write ONLY from these)
+  [1] [P28] The Cardinals have won just 0 of their last 3 series (3 losses) -- 25 of 55 on the season | window: last 3 series (September 14..September 24) | stats: {'window_series': 3, 'window_won': 0, 'window_lost': 3, 'window_split': 0, 'window_win_rate': 0.0, 'season_series': 55, 'season_won': 25, 'season_lost': 28, 'season_split': 2, 'season_win_rate': 0.455, 'delta_vs_season': -0.455}
+  ALSO NOTICED (context only -- acknowledge tensions, never write as standalone items):
+    - [P2/positive] Alec Burleson: HR streak at 3 games
+    - [P2/negative] Bryan Torres is hitless in his last 20 at-bats
+    - [P1/negative] Bryan Torres has slumped since August 1: 0.766 OPS before vs 0.527 after (100 PA)
+    - [P16/negative] Cardinals defense has slipped: errors per game 1.0 over the last 21 days vs 0.49 season baseline
+    - [P1/negative] Nolan Gorman has slumped since May 20: 0.702 OPS before vs 0.406 after (124 PA)
+    - [P1/negative] Pedro Pagés has slumped since April 28: 0.762 OPS before vs 0.480 after (146 PA)
+    - [P30/negative] The Cardinals bullpen is pacing at 614.3 relief innings -- the franchise record is 584.3 (2021)
+-->
+<!-- PHASE2_SLOT: trend_watch_prose -->
+<b>The Cardinals have dropped all 3 series from September 14 through September 24, finishing the stretch without a single series win.</b> Over those 3 series, St. Louis went 0-3, a stretch that sits well below their season rate of winning 25 of 55 series (a .455 series-win rate). Today is the last game day of 2026 -- that series slump is the final word on how this team closed the season against its opponents. Alec Burleson has homered in each of the last 3 games, and the bullpen has logged 610.7 relief innings across 161 team games -- on pace for 614.3 over a full 162, above the franchise record of 584.3 set in 2021.
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+</table></div>
