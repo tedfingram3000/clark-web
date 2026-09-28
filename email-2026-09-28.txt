@@ -1,0 +1,174 @@
+<!-- 700 Clark Email Block -- STL vs OPP 2026-09-28 -->
+<!-- Block 1: Default visibility (email + web). No footer. ASCII only. -->
+
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
+<!-- HEADER BAR -->
+<tr><td style="background-color:#0B1C33;padding:16px 20px;text-align:center;border-radius:4px 4px 0 0;">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL (77-85)</td>
+    <td align="center" style="font-size:11px;color:#FFFFFF;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">OFF DAY</td>
+    <td align="right" style="font-size:12px;color:#FFFFFF;font-weight:700;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">SEASON FINAL</td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- YESTERDAY'S RESULT -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">YESTERDAY'S RESULT -- MIL 6, STL 4</div>
+  <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;margin-bottom:10px;">
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Courier New',Courier,monospace;">
+      STL&nbsp;&nbsp;0 0 0 0 0 0 0 4 0 -- 4<br>
+      MIL&nbsp;&nbsp;3 0 2 1 0 0 0 0 0 -- 6
+    </div>
+  </div>
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-left:4px solid #8B3A3A;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:13px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-3 (bottom 1st) -> 0-5 (bottom 3rd) -> 0-6 (bottom 4th) -> 4-6 (top 8th)
+  FINAL: Cardinals 4, MIL 6 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): MIL 6, STL 4
+  WALK-OFF: no
+  BIGGEST DEFICIT: 6 runs (first reached in the bottom 4th)
+  BIGGEST LEAD: none (the Cardinals never led)
+  TEAM LINE: Cardinals 4-for-30, 5 BB
+  SCORING INNINGS: Cardinals 1, MIL 3
+  Leo Bernal: 1-for-2, 2 BB
+  Pedro Pagés: 1-for-1, 2 BB
+  TIME OF DAY: yesterday afternoon
+  PLAY 1: bottom 1st -- Jackson Chourio singles on a ground ball to center fielder Nathan Church, Garrett Mitchell scores; 0-1 after
+  PLAY 2: bottom 1st -- Brice Turang singles on a ground ball to second baseman César Prieto, Jake Bauers scores; 0-2 after
+  PLAY 3: bottom 1st -- Christian Yelich singles on a line drive to left fielder José Fermín, Jackson Chourio scores; 0-3 after
+  PLAY 4: bottom 3rd -- Gary Sánchez homers (12) on a fly ball to right field, Jackson Chourio scores; 0-5 after
+  PLAY 5: bottom 4th -- Jackson Chourio singles on a ground ball to right fielder Jordan Walker, David Hamilton scores; 0-6 after
+  PLAY 6: top 8th -- Jordan Walker grounds into a force out, second baseman Brice Turang to shortstop Cooper Pratt, César Prieto scores; 1-6 after
+  PLAY 7: top 8th -- Leo Bernal homers (5) on a fly ball to right field, Jordan Walker and Iván Herrera score; 4-6 after
+  FIRST RUN: Jackson Chourio (bottom 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 1st
+-->
+<!-- PHASE2_SLOT: report_card_recap -->
+<p style="margin:0 0 8px;">The Cardinals went 4-for-30 and lost 6-4 yesterday afternoon in Milwaukee as the Brewers finished a three-game sweep. Milwaukee built a 6-run lead across the first four innings -- 3 in the first, 2 in the third, 1 in the fourth -- and the Cardinals managed no offense through seven before a four-run eighth. Leo Bernal's three-run home run (his fifth of the season) drove in Jordan Walker and Iván Herrera, but the rally arrived too late.</p>
+<p style="margin:0;"><b>Key performer:</b> Leo Bernal -- 1-for-2, 2 BB, 3 RBI, HR.</p>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- WHAT WORKED / WHAT DIDN'T -->
+<tr><td style="padding:16px 20px 0;">
+  <div style="background-color:#FFF;border:1px solid #E0E0E0;border-radius:4px;padding:12px 16px;">
+    <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">THE BREAKDOWN</div>
+    <div style="font-size:12px;color:#2D3640;line-height:1.5;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- RECAP FACT LINES (Phase 2: copy these; never compute a score, a walk-off, a go-ahead/tying/first-run batter, or any "scored on" attribution yourself -- if there is no line for it, do not claim it)
+  SCORE SEQUENCE (game order, Cardinals-Opponent): 0-0 -> 0-3 (bottom 1st) -> 0-5 (bottom 3rd) -> 0-6 (bottom 4th) -> 4-6 (top 8th)
+  FINAL: Cardinals 4, MIL 6 (lost)
+  FINAL, PROSE FORM (copy this order -- the winning total first, never the Cardinals-Opponent order the lines above use): MIL 6, STL 4
+  WALK-OFF: no
+  BIGGEST DEFICIT: 6 runs (first reached in the bottom 4th)
+  BIGGEST LEAD: none (the Cardinals never led)
+  TEAM LINE: Cardinals 4-for-30, 5 BB
+  SCORING INNINGS: Cardinals 1, MIL 3
+  Leo Bernal: 1-for-2, 2 BB
+  Pedro Pagés: 1-for-1, 2 BB
+  TIME OF DAY: yesterday afternoon
+  PLAY 1: bottom 1st -- Jackson Chourio singles on a ground ball to center fielder Nathan Church, Garrett Mitchell scores; 0-1 after
+  PLAY 2: bottom 1st -- Brice Turang singles on a ground ball to second baseman César Prieto, Jake Bauers scores; 0-2 after
+  PLAY 3: bottom 1st -- Christian Yelich singles on a line drive to left fielder José Fermín, Jackson Chourio scores; 0-3 after
+  PLAY 4: bottom 3rd -- Gary Sánchez homers (12) on a fly ball to right field, Jackson Chourio scores; 0-5 after
+  PLAY 5: bottom 4th -- Jackson Chourio singles on a ground ball to right fielder Jordan Walker, David Hamilton scores; 0-6 after
+  PLAY 6: top 8th -- Jordan Walker grounds into a force out, second baseman Brice Turang to shortstop Cooper Pratt, César Prieto scores; 1-6 after
+  PLAY 7: top 8th -- Leo Bernal homers (5) on a fly ball to right field, Jordan Walker and Iván Herrera score; 4-6 after
+  FIRST RUN: Jackson Chourio (bottom 1st)
+  GO-AHEAD RBI: none (Cardinals did not win)
+  TYING RUN: none (Cardinals were never behind then tied)
+  INSURANCE RUNS: 0 (none)
+  LAST LEAD CHANGE: bottom 1st
+-->
+<!-- PHASE2_SLOT: retrospective_commentary -->
+<p style="font-weight:700;color:#0B1C33;margin:0 0 6px;">WHAT WORKED</p>
+<p style="margin:0 0 4px;">-- Leo Bernal's three-run homer in the eighth -- the only Cardinals scoring inning of the afternoon -- made it a two-run game. He drove in Walker and Iván Herrera, doing the maximum with a lineup that had spent seven innings without a run.</p>
+<p style="margin:0 0 4px;">-- Pedro Pagés reached base three times (1-for-1, 2 BB), one of two Cardinals to draw multiple walks.</p>
+<p style="margin:0 0 12px;">-- Justin Bruihl (2 IP, 0 runs) and Hancel Rincon (1 IP, 2 K, 0 runs) shut out Milwaukee from the sixth inning on, preventing the margin from widening beyond 6.</p>
+<p style="font-weight:700;color:#0B1C33;margin:0 0 6px;">WHAT DIDN'T</p>
+<p style="margin:0 0 4px;">-- Andre Pallante gave up 6 runs on 10 hits across 5 innings. Milwaukee scored in the first, third, and fourth before the bullpen took over, leaving the Cardinals in a 6-run hole they could not fully escape.</p>
+<p style="margin:0 0 4px;">-- The lineup went 4-for-30 as a team, with no runs across the first seven innings. It took until the eighth for any offensive burst from a group that collectively produced just four hits.</p>
+<p style="margin:0;">-- Jackson Chourio's 3-for-4 afternoon (2 RBI) was the engine of Milwaukee's offense -- he scored twice and drove in two, with run-scoring singles in the first and the fourth to help stake Milwaukee to its lead.</p>
+<!-- /PHASE2_SLOT -->
+    </div>
+  </div>
+</td></tr>
+
+<!-- SEASON RECAP (hand-inserted 2026-09-28 from season-recap-2026.py; statsapi, cross-checked) -->
+<tr><td style="padding:16px 20px 0;">
+<div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin-bottom:10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">2026 SEASON IN REVIEW</div>
+<div style="font-size:13px;color:#2D3640;line-height:1.5;margin-bottom:8px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">The Cardinals finished 77-85, fourth in the NL Central, 26 games behind Milwaukee. Wild card: the Cardinals finished seventh among the 12 NL teams that did not win a division, 11 games out of the third and final wild-card spot.</div>
+<div style="font-size:11px;color:#707070;margin:4px 0 6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Final NL Central standings</div>
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin-bottom:12px;">
+<tr><td align="left" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Team</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">W-L</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PCT</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">GB</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Home</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Road</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Brewers</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">103-59</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">.636</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">--</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">55-26</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">48-33</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Cubs</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">89-73</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">.549</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">14</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">46-35</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">43-38</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Pirates</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">82-80</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">.506</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">21</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">44-37</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">38-43</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Cardinals</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">77-85</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">.475</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">26</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">38-43</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">39-42</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Reds</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">75-87</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">.463</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">28</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">38-43</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">37-44</td></tr>
+</table>
+<div style="font-size:11px;color:#707070;margin:4px 0 6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Head to head: each row's record against each column</div>
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin-bottom:12px;">
+<tr><td align="left" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">vs</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">MIL</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CHC</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">PIT</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">STL</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">CIN</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Brewers</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">--</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">9-4</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">6-7</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">11-2</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">9-4</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Cubs</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">4-9</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">--</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">7-6</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">6-7</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">9-4</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Pirates</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">7-6</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">6-7</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">--</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">6-7</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">7-6</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Cardinals</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">2-11</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">7-6</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">7-6</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">--</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">8-5</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Reds</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">4-9</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">4-9</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">6-7</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">5-8</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">--</td></tr>
+</table>
+<div style="font-size:11px;color:#707070;margin:4px 0 6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Cardinals splits</div>
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin-bottom:12px;">
+<tr><td align="left" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Split</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">W-L</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Home</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">38-43</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Road</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">39-42</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">vs NL Central</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">24-28</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">vs NL East</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">15-15</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">vs NL West</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">15-17</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">vs American League</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">23-25</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">vs teams with winning records</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">41-45</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">vs .500 teams</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">3-0</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">vs teams with losing records</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">33-40</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">One-run games</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">24-30</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Extra innings</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">9-10</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Runs scored / allowed</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">720 / 749 (-29)</td></tr>
+</table>
+<div style="font-size:11px;color:#707070;margin:4px 0 6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Cardinals by month</div>
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin-bottom:12px;">
+<tr><td align="left" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Month</td><td align="center" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">W-L</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">March/April</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">18-13</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">May</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">13-13</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">June</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">13-12</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">July</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">10-18</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">August</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">14-14</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">September</td><td align="center" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">9-15</td></tr>
+</table>
+<div style="font-size:11px;color:#707070;margin:4px 0 6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">In Cardinals history</div>
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin-bottom:12px;">
+<tr><td align="left" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Season mark</td><td align="left" style="background-color:#0B1C33;padding:4px 6px;font-size:12px;color:#FFFFFF;font-weight:700;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">In context</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Alec Burleson, 116 RBI (led the NL)</td><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">The first Cardinal to lead the NL in RBI since Albert Pujols (118 in 2010), and the most by a Cardinals left-handed hitter since Stan Musial's 126 in 1954</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Jordan Walker, 29 HR at age 24</td><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Only Albert Pujols (four seasons) and Fernando Tatis (34, 1999) hit more for the Cardinals at 24 or younger</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">829 starter innings, 613 2/3 relief innings</td><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Fewest by a Cardinals rotation and most by a Cardinals bullpen in any full season since 1950 (both previous marks: 2021)</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">13 MLB debuts</td><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Tied for the most in a Cardinals season since 1924</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Back-to-back losing seasons</td><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">78-84 in 2025 and 77-85 in 2026: the first consecutive losing seasons since the strike-shortened 1994-95, and the first in two full-length seasons since 1958-59</td></tr>
+<tr><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">97.6% of home runs, 92.2% of wins</td><td align="left" style="padding:4px 6px;font-size:12px;color:#2D3640;border-bottom:1px solid #E0E0E0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">From players under 30 (163 of 167 HR, 71 of 77 wins); per the Cardinals, one of five teams in the wild-card era to reach 90% in both</td></tr>
+</table>
+</td></tr>
+
+<!-- OFF-DAY NOTE -->
+<tr><td style="padding:16px 20px;">
+  <div style="font-size:13px;color:#2D3640;line-height:1.6;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<!-- PHASE2_SLOT: offday_note -->
+<p style="margin:0;">That's the 2026 season. Over the coming weeks, we'll send several more detailed reviews of the 2026 season, each looking at one part of it. The daily report returns next spring.</p>
+<!-- /PHASE2_SLOT -->
+  </div>
+</td></tr>
+
+
+</table></div>
