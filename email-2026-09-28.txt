@@ -88,14 +88,14 @@
   LAST LEAD CHANGE: bottom 1st
 -->
 <!-- PHASE2_SLOT: retrospective_commentary -->
-<p style="font-weight:700;color:#0B1C33;margin:0 0 6px;">WHAT WORKED</p>
-<p style="margin:0 0 4px;">-- Leo Bernal's three-run homer in the eighth -- the only Cardinals scoring inning of the afternoon -- made it a two-run game. He drove in Walker and Iván Herrera, doing the maximum with a lineup that had spent seven innings without a run.</p>
-<p style="margin:0 0 4px;">-- Pedro Pagés reached base three times (1-for-1, 2 BB), one of two Cardinals to draw multiple walks.</p>
-<p style="margin:0 0 12px;">-- Justin Bruihl (2 IP, 0 runs) and Hancel Rincon (1 IP, 2 K, 0 runs) shut out Milwaukee from the sixth inning on, preventing the margin from widening beyond 6.</p>
-<p style="font-weight:700;color:#0B1C33;margin:0 0 6px;">WHAT DIDN'T</p>
-<p style="margin:0 0 4px;">-- Andre Pallante gave up 6 runs on 10 hits across 5 innings. Milwaukee scored in the first, third, and fourth before the bullpen took over, leaving the Cardinals in a 6-run hole they could not fully escape.</p>
-<p style="margin:0 0 4px;">-- The lineup went 4-for-30 as a team, with no runs across the first seven innings. It took until the eighth for any offensive burst from a group that collectively produced just four hits.</p>
-<p style="margin:0;">-- Jackson Chourio's 3-for-4 afternoon (2 RBI) was the engine of Milwaukee's offense -- he scored twice and drove in two, with run-scoring singles in the first and the fourth to help stake Milwaukee to its lead.</p>
+<b style="color:#2E7D32;">WHAT WORKED</b><br>
+&#8226; Leo Bernal's three-run homer in the eighth -- the only Cardinals scoring inning of the afternoon -- made it a two-run game. He drove in Walker and Iván Herrera, doing the maximum with a lineup that had spent seven innings without a run.<br>
+&#8226; Pedro Pagés reached base three times (1-for-1, 2 BB), one of two Cardinals to draw multiple walks.<br>
+&#8226; Justin Bruihl (2 IP, 0 runs) and Hancel Rincon (1 IP, 2 K, 0 runs) shut out Milwaukee from the sixth inning on, preventing the margin from widening beyond 6.<br>
+<br><b style="color:#8B3A3A;">WHAT DIDN'T</b><br>
+&#8226; Andre Pallante gave up 6 runs on 10 hits across 5 innings. Milwaukee scored in the first, third, and fourth before the bullpen took over, leaving the Cardinals in a 6-run hole they could not fully escape.<br>
+&#8226; The lineup went 4-for-30 as a team, with no runs across the first seven innings. It took until the eighth for any offensive burst from a group that collectively produced just four hits.<br>
+&#8226; Jackson Chourio's 3-for-4 afternoon (2 RBI) was the engine of Milwaukee's offense -- he scored twice and drove in two, with run-scoring singles in the first and the fourth to help stake Milwaukee to its lead.
 <!-- /PHASE2_SLOT -->
     </div>
   </div>
