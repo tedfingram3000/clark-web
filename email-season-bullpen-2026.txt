@@ -1,5 +1,5 @@
 <!-- 700 Clark Email Block -- Research: Bullpen usage tops franchise history -->
-<!-- Built by season-pieces/build_email.py from READER-DRAFT-bullpen.md @ 700clark-pipeline 7338024. Default visibility (email + web). No footer. ASCII only. -->
+<!-- Built by season-pieces/build_email.py from READER-DRAFT-bullpen.md @ 700clark-pipeline 4ff5c19. Default visibility (email + web). No footer. ASCII only. -->
 
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;">
 <!-- HEADER BAR -->
@@ -18,7 +18,7 @@
 <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin:16px 0 10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Thirteenth in the majors</div>
 <p style="font-size:13px;color:#2D3640;line-height:1.5;margin:0 0 10px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">The old franchise mark was 584&#8531; relief innings, set in 2021. Giovanny Gallegos led that bullpen with 80&#8531; innings in 73 games. That team won 90 games. The 2026 bullpen passed its mark by 29&#8531; innings.</p>
 <p style="font-size:13px;color:#2D3640;line-height:1.5;margin:0 0 10px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">The 2026 total ranked 13th in the majors. The average big-league bullpen threw about 619 innings. The White Sox led at 766. The Dodgers (556) and Phillies (555) had the two lightest bullpen workloads in the National League.</p>
-<p style="font-size:13px;color:#2D3640;line-height:1.5;margin:0 0 10px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">The Brewers, who won the division at 103-59 and carry the NL pennant into the World Series this week, used their bullpen more: 640&#8532; innings with a 3.40 ERA.</p>
+<p style="font-size:13px;color:#2D3640;line-height:1.5;margin:0 0 10px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">The Brewers, who won the division at 103-59 and the NL pennant, used their bullpen more: 640&#8532; innings with a 3.40 ERA.</p>
 <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#0B1C33;font-weight:700;margin:16px 0 10px;padding-bottom:5px;border-bottom:2px solid #0B1C33;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">The league moved the same way</div>
 <p style="font-size:13px;color:#2D3640;line-height:1.5;margin:0 0 10px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">Relievers' share of big-league innings has grown for decades. In 1950, relievers threw about a quarter of all innings. By 2026, they threw 43%.</p>
 <div style="background-color:#F4F4F4;border:1px solid #E0E0E0;border-left:4px solid #0B1C33;border-radius:4px;padding:12px 16px;margin:4px 0 14px;">
