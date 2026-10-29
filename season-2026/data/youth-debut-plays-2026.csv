@@ -1,0 +1,329 @@
+date,game_pk,game_number_that_day,batter,play_index,inning,half,event,rbi,pitcher,pitches,distance_ft,cardinals_score_after,opponent_score_after,last_play_of_game
+2026-03-26,823081,1,JJ Wetherholt,5,1,bottom,Flyout,0,Drew Rasmussen,7,249.0,0,0,no
+2026-03-26,823081,1,JJ Wetherholt,24,3,bottom,Home Run,1,Drew Rasmussen,3,425.0,1,0,no
+2026-03-26,823081,1,JJ Wetherholt,42,5,bottom,Groundout,0,Drew Rasmussen,2,14.0,1,1,no
+2026-03-26,823081,1,JJ Wetherholt,62,6,bottom,Sac Fly,1,Garrett Cleavinger,2,362.0,6,7,no
+2026-03-26,823081,1,JJ Wetherholt,80,8,bottom,Strikeout,0,Yoendrys Gómez,4,,9,7,no
+2026-03-28,823082,1,JJ Wetherholt,3,1,bottom,Single,0,Joe Boyle,4,,0,0,no
+2026-03-28,823082,1,JJ Wetherholt,18,3,bottom,Pop Out,0,Joe Boyle,2,108.0,2,0,no
+2026-03-28,823082,1,JJ Wetherholt,39,6,bottom,Groundout,0,Joe Boyle,2,11.0,2,0,no
+2026-03-28,823082,1,JJ Wetherholt,55,8,bottom,Pop Out,0,Cole Sulser,5,162.0,2,0,no
+2026-03-28,823082,1,JJ Wetherholt,75,10,bottom,Single,2,Griffin Jax,1,12.0,6,5,yes
+2026-03-29,823079,1,JJ Wetherholt,4,1,bottom,Lineout,0,Steven Matz,1,310.0,0,0,no
+2026-03-29,823079,1,JJ Wetherholt,25,3,bottom,Flyout,0,Steven Matz,2,369.0,1,3,no
+2026-03-29,823079,1,JJ Wetherholt,45,5,bottom,Single,0,Steven Matz,4,270.0,4,6,no
+2026-03-29,823079,1,JJ Wetherholt,61,7,bottom,Walk,0,Garrett Cleavinger,8,,4,6,no
+2026-03-29,823079,1,JJ Wetherholt,77,8,bottom,Flyout,0,Mason Englert,3,246.0,7,9,no
+2026-03-30,823080,1,JJ Wetherholt,4,1,bottom,Walk,0,Clay Holmes,5,,0,1,no
+2026-03-30,823080,1,JJ Wetherholt,21,3,bottom,Groundout,0,Clay Holmes,4,6.0,1,1,no
+2026-03-30,823080,1,JJ Wetherholt,40,5,bottom,Groundout,0,Clay Holmes,4,30.0,1,2,no
+2026-03-30,823080,1,JJ Wetherholt,66,8,bottom,Flyout,0,Brooks Raley,1,319.0,2,4,no
+2026-03-31,823077,1,JJ Wetherholt,5,1,bottom,Single,0,Kodai Senga,6,201.0,0,0,no
+2026-03-31,823077,1,JJ Wetherholt,21,3,bottom,Single,0,Kodai Senga,4,249.0,0,0,no
+2026-03-31,823077,1,JJ Wetherholt,37,5,bottom,Strikeout,0,Kodai Senga,6,,2,0,no
+2026-03-31,823077,1,JJ Wetherholt,54,7,bottom,Strikeout,0,Richard Lovelady,4,,3,0,no
+2026-05-23,824518,1,JJ Wetherholt,0,1,top,Groundout,0,Chris Paddack,6,13.0,0,0,no
+2026-05-23,824518,1,Bryan Torres,9,2,top,Walk,0,Chris Paddack,6,,0,0,no
+2026-05-23,824518,1,JJ Wetherholt,17,3,top,Walk,0,Chris Paddack,5,,0,1,no
+2026-05-23,824518,1,Bryan Torres,26,4,top,Single,0,Chris Paddack,4,190.0,2,1,no
+2026-05-23,824518,1,JJ Wetherholt,29,4,top,Single,1,Chris Paddack,1,152.0,3,1,no
+2026-05-23,824518,1,Bryan Torres,41,6,top,Groundout,0,Sam Moll,2,,3,1,no
+2026-05-23,824518,1,JJ Wetherholt,44,6,top,Flyout,0,Sam Moll,3,385.0,3,1,no
+2026-05-23,824518,1,Bryan Torres,53,7,top,Flyout,0,Connor Phillips,7,338.0,5,1,no
+2026-05-23,824518,1,JJ Wetherholt,60,8,top,Strikeout,0,Jose Franco,7,,5,1,no
+2026-05-23,824518,1,Bryan Torres,69,9,top,Home Run,2,Jose Franco,4,377.0,8,1,no
+2026-05-23,824518,1,JJ Wetherholt,72,9,top,Groundout,0,Jose Franco,5,63.0,8,1,no
+2026-05-23,824516,2,JJ Wetherholt,0,1,top,Flyout,0,Chase Petty,1,316.0,0,0,no
+2026-05-23,824516,2,Bryan Torres,10,2,top,Single,0,Chase Petty,2,177.0,1,0,no
+2026-05-23,824516,2,JJ Wetherholt,17,3,top,Single,0,Chase Petty,3,209.0,1,0,no
+2026-05-23,824516,2,Bryan Torres,26,4,top,Groundout,0,Chase Petty,2,5.0,1,0,no
+2026-05-23,824516,2,JJ Wetherholt,34,5,top,Strikeout,0,Chase Petty,5,,1,0,no
+2026-05-23,824516,2,Bryan Torres,48,6,top,Walk,0,Brock Burke,7,,4,5,no
+2026-05-23,824516,2,JJ Wetherholt,57,7,top,Walk,0,Brock Burke,5,,4,6,no
+2026-05-23,824516,2,Bryan Torres,66,8,top,Strikeout,0,Graham Ashcraft,6,,4,6,no
+2026-05-23,824516,2,JJ Wetherholt,72,9,top,Flyout,0,Tony Santillan,5,306.0,5,6,no
+2026-05-23,824516,2,Bryan Torres,81,10,top,Fielders Choice Out,0,Pierce Johnson,3,40.0,6,6,no
+2026-05-23,824516,2,JJ Wetherholt,88,11,top,Groundout,0,Pierce Johnson,4,,6,6,no
+2026-05-25,823784,1,JJ Wetherholt,0,1,top,Walk,0,Jacob Misiorowski,6,,0,0,no
+2026-05-25,823784,1,Bryan Torres,13,2,top,Strikeout,0,Jacob Misiorowski,3,,0,3,no
+2026-05-25,823784,1,JJ Wetherholt,20,3,top,Strikeout,0,Jacob Misiorowski,5,,0,3,no
+2026-05-25,823784,1,Bryan Torres,34,5,top,Lineout,0,Jacob Misiorowski,7,142.0,0,3,no
+2026-05-25,823784,1,JJ Wetherholt,42,6,top,Single,0,Jacob Misiorowski,5,89.0,0,3,no
+2026-05-25,823784,1,Bryan Torres,59,8,top,Groundout,0,Aaron Ashby,4,66.0,1,5,no
+2026-05-25,823784,1,JJ Wetherholt,65,9,top,Groundout,0,Aaron Ashby,3,7.0,1,5,no
+2026-05-26,823785,1,JJ Wetherholt,0,1,top,Lineout,0,Kyle Harrison,4,123.0,0,0,no
+2026-05-26,823785,1,Bryan Torres,10,2,top,Groundout,0,Kyle Harrison,4,17.0,0,0,no
+2026-05-26,823785,1,JJ Wetherholt,18,3,top,Flyout,0,Kyle Harrison,1,333.0,0,0,no
+2026-05-26,823785,1,Bryan Torres,33,5,top,Lineout,0,Kyle Harrison,8,192.0,0,1,no
+2026-05-26,823785,1,JJ Wetherholt,45,6,top,Lineout,0,Kyle Harrison,8,319.0,0,6,no
+2026-05-26,823785,1,Bryan Torres,54,7,top,Single,0,Grant Anderson,1,176.0,0,6,no
+2026-05-26,823785,1,JJ Wetherholt,61,8,top,Strikeout,0,Abner Uribe,6,,0,6,no
+2026-05-26,823785,1,Bryan Torres,70,9,top,Single,0,Trevor Megill,1,256.0,0,6,no
+2026-05-27,823783,1,JJ Wetherholt,0,1,top,Flyout,0,Chad Patrick,2,263.0,0,0,no
+2026-05-27,823783,1,Bryan Torres,9,2,top,Pop Out,0,Chad Patrick,4,160.0,0,0,no
+2026-05-27,823783,1,JJ Wetherholt,16,3,top,Flyout,0,Chad Patrick,5,381.0,0,0,no
+2026-05-27,823783,1,Bryan Torres,26,4,top,Triple,1,Chad Patrick,7,195.0,1,0,no
+2026-05-27,823783,1,JJ Wetherholt,32,5,top,Double,0,Shane Drohan,1,333.0,1,0,no
+2026-05-27,823783,1,Bryan Torres,44,7,top,Strikeout,0,Aaron Ashby,3,,1,0,no
+2026-05-27,823783,1,JJ Wetherholt,47,7,top,Flyout,0,Aaron Ashby,4,334.0,1,0,no
+2026-05-27,823783,1,Bryan Torres,63,9,top,Flyout,0,Trevor Megill,5,380.0,1,2,no
+2026-06-12,823695,1,JJ Wetherholt,0,1,top,Strikeout,0,Joe Ryan,4,,0,0,no
+2026-06-12,823695,1,Blaze Jordan,11,2,top,Single,1,Joe Ryan,7,102.0,2,1,no
+2026-06-12,823695,1,JJ Wetherholt,13,2,top,Single,1,Joe Ryan,2,209.0,3,1,no
+2026-06-12,823695,1,Blaze Jordan,26,4,top,Strikeout,0,Joe Ryan,3,,3,1,no
+2026-06-12,823695,1,JJ Wetherholt,31,5,top,Strikeout,0,Joe Ryan,5,,3,1,no
+2026-06-12,823695,1,Blaze Jordan,50,7,top,Strikeout,0,Taylor Rogers,8,,3,4,no
+2026-06-12,823695,1,JJ Wetherholt,52,7,top,Walk,0,Taylor Rogers,5,,3,4,no
+2026-06-12,823695,1,Blaze Jordan,65,8,top,Single,0,Yoendrys Gómez,6,75.0,7,7,no
+2026-06-12,823695,1,JJ Wetherholt,67,8,top,Single,0,Anthony Banda,4,223.0,8,7,no
+2026-06-13,823694,1,Blaze Jordan,8,2,top,Triple,0,Connor Prielipp,1,332.0,2,0,no
+2026-06-13,823694,1,Blaze Jordan,21,3,top,Grounded Into DP,0,Connor Prielipp,2,5.0,4,0,no
+2026-06-13,823694,1,Blaze Jordan,43,6,top,Groundout,0,Connor Prielipp,3,7.0,4,4,no
+2026-06-13,823694,1,Blaze Jordan,55,7,top,Home Run,3,Travis Adams,5,418.0,9,4,no
+2026-06-14,823693,1,JJ Wetherholt,0,1,top,Strikeout,0,Taj Bradley,6,,0,0,no
+2026-06-14,823693,1,Blaze Jordan,10,2,top,Groundout,0,Taj Bradley,5,6.0,0,0,no
+2026-06-14,823693,1,Bryan Torres,14,3,top,Groundout,0,Taj Bradley,1,5.0,0,0,no
+2026-06-14,823693,1,JJ Wetherholt,17,3,top,Groundout,0,Taj Bradley,2,30.0,0,0,no
+2026-06-14,823693,1,Blaze Jordan,32,5,top,Groundout,0,Taj Bradley,3,8.0,1,2,no
+2026-06-14,823693,1,Bryan Torres,33,5,top,Groundout,0,Taj Bradley,4,5.0,1,2,no
+2026-06-14,823693,1,JJ Wetherholt,39,6,top,Home Run,2,Taj Bradley,5,380.0,3,2,no
+2026-06-14,823693,1,Blaze Jordan,48,7,top,Groundout,0,Taj Bradley,5,43.0,3,2,no
+2026-06-14,823693,1,Bryan Torres,49,7,top,Flyout,0,Taj Bradley,1,354.0,3,2,no
+2026-06-14,823693,1,JJ Wetherholt,52,7,top,Single,1,Anthony Banda,5,220.0,4,2,no
+2026-06-14,823693,1,Blaze Jordan,65,8,top,Single,0,Andrew Morris,1,11.0,4,4,no
+2026-06-14,823693,1,JJ Wetherholt,74,9,top,Flyout,0,Yoendrys Gómez,1,384.0,4,5,yes
+2026-06-18,824098,1,JJ Wetherholt,0,1,top,Single,0,Noah Cameron,3,188.0,0,0,no
+2026-06-18,824098,1,Blaze Jordan,6,1,top,Lineout,0,Noah Cameron,3,289.0,2,0,no
+2026-06-18,824098,1,JJ Wetherholt,13,2,top,Double,0,Noah Cameron,3,402.0,2,1,no
+2026-06-18,824098,1,Blaze Jordan,34,4,top,Single,0,Noah Cameron,1,182.0,2,7,no
+2026-06-18,824098,1,JJ Wetherholt,37,4,top,Lineout,0,Noah Cameron,2,253.0,2,7,no
+2026-06-18,824098,1,Blaze Jordan,51,5,top,Lineout,0,Noah Cameron,2,250.0,3,11,no
+2026-06-18,824098,1,JJ Wetherholt,57,6,top,Walk,0,Mason Black,5,,4,11,no
+2026-06-18,824098,1,Blaze Jordan,67,7,top,Double,0,Mason Black,3,364.0,4,12,no
+2026-06-18,824098,1,JJ Wetherholt,70,7,top,Walk,0,Mason Black,6,,6,12,no
+2026-06-18,824098,1,Blaze Jordan,81,8,top,Flyout,0,Beck Way,2,250.0,6,13,no
+2026-06-18,824098,1,JJ Wetherholt,89,9,top,Single,0,Beck Way,1,184.0,6,14,no
+2026-06-19,824097,1,JJ Wetherholt,0,1,top,Groundout,0,Seth Lugo,6,7.0,0,0,no
+2026-06-19,824097,1,Blaze Jordan,10,2,top,Groundout,0,Seth Lugo,2,13.0,1,0,no
+2026-06-19,824097,1,JJ Wetherholt,15,3,top,Flyout,0,Seth Lugo,3,301.0,1,0,no
+2026-06-19,824097,1,Blaze Jordan,34,5,top,Groundout,0,Seth Lugo,1,14.0,2,4,no
+2026-06-19,824097,1,JJ Wetherholt,36,5,top,Groundout,0,Seth Lugo,3,11.0,2,4,no
+2026-06-19,824097,1,Blaze Jordan,53,7,top,Groundout,0,John Schreiber,4,35.0,2,6,no
+2026-06-19,824097,1,JJ Wetherholt,58,8,top,Groundout,0,Daniel Lynch IV,2,72.0,2,6,no
+2026-06-19,824097,1,Blaze Jordan,69,9,top,Single,2,Alex Lange,7,256.0,5,6,no
+2026-06-21,824095,1,JJ Wetherholt,0,1,top,Home Run,1,Stephen Kolek,3,,1,0,no
+2026-06-21,824095,1,Blaze Jordan,7,1,top,Grounded Into DP,0,Stephen Kolek,3,3.0,5,0,no
+2026-06-21,824095,1,JJ Wetherholt,15,2,top,Home Run,2,Stephen Kolek,2,360.0,7,2,no
+2026-06-21,824095,1,Blaze Jordan,29,3,top,Strikeout,0,Connor Seabold,3,,9,6,no
+2026-06-21,824095,1,JJ Wetherholt,31,3,top,Hit By Pitch,0,Connor Seabold,3,,9,6,no
+2026-06-21,824095,1,Blaze Jordan,48,5,top,Strikeout,0,Steven Cruz,5,,9,7,no
+2026-06-21,824095,1,JJ Wetherholt,50,5,top,Single,0,Steven Cruz,2,237.0,9,7,no
+2026-06-21,824095,1,Blaze Jordan,60,6,top,Single,0,Lucas Erceg,5,82.0,12,7,no
+2026-06-21,824095,1,JJ Wetherholt,66,7,top,Flyout,0,Matt Strahm,2,236.0,12,8,no
+2026-06-21,824095,1,Blaze Jordan,77,8,top,Groundout,0,Beck Way,1,3.0,12,8,no
+2026-06-21,824095,1,JJ Wetherholt,83,9,top,Groundout,0,Beck Way,2,1.0,12,8,no
+2026-07-08,823032,1,Blaze Jordan,15,2,bottom,Groundout,0,Kyle Harrison,3,31.0,2,0,no
+2026-07-08,823032,1,Blaze Jordan,30,4,bottom,Lineout,0,Kyle Harrison,4,289.0,3,0,no
+2026-07-08,823032,1,Blaze Jordan,45,6,bottom,Single,0,Jared Koenig,4,27.0,5,0,no
+2026-07-09,823034,1,JJ Wetherholt,3,1,bottom,Double,0,Logan Henderson,1,194.0,0,0,no
+2026-07-09,823034,1,Bryan Torres,15,2,bottom,Lineout,0,Logan Henderson,5,362.0,0,2,no
+2026-07-09,823034,1,JJ Wetherholt,25,3,bottom,Groundout,0,Logan Henderson,5,37.0,0,6,no
+2026-07-09,823034,1,Bryan Torres,39,5,bottom,Groundout,0,Logan Henderson,6,13.0,1,6,no
+2026-07-09,823034,1,JJ Wetherholt,47,6,bottom,Hit By Pitch,0,Logan Henderson,6,,1,6,no
+2026-07-09,823034,1,Bryan Torres,57,7,bottom,Groundout,0,Chad Patrick,2,35.0,4,7,no
+2026-07-09,823034,1,JJ Wetherholt,64,8,bottom,Single,0,Aaron Ashby,4,5.0,4,7,no
+2026-07-09,823034,1,Bryan Torres,74,9,bottom,Lineout,0,Abner Uribe,6,317.0,4,8,no
+2026-07-10,823033,1,JJ Wetherholt,3,1,bottom,Flyout,0,Chris Sale,3,293.0,0,0,no
+2026-07-10,823033,1,Blaze Jordan,17,3,bottom,Double,0,Chris Sale,4,378.0,0,0,no
+2026-07-10,823033,1,JJ Wetherholt,19,3,bottom,Walk,0,Chris Sale,6,,0,0,no
+2026-07-10,823033,1,Blaze Jordan,34,5,bottom,Strikeout,0,Victor Mederos,4,,0,1,no
+2026-07-10,823033,1,Bryan Torres,39,6,bottom,Strikeout,0,Didier Fuentes,9,,0,1,no
+2026-07-10,823033,1,JJ Wetherholt,40,6,bottom,Walk,0,Didier Fuentes,6,,0,1,no
+2026-07-10,823033,1,Blaze Jordan,51,7,bottom,Strikeout,0,Tyler Kinley,6,,1,1,no
+2026-07-10,823033,1,JJ Wetherholt,56,8,bottom,Flyout,0,Danny Young,1,343.0,2,1,no
+2026-08-01,822781,1,JJ Wetherholt,0,1,top,Groundout,0,Kevin Gausman,6,11.0,0,0,no
+2026-08-01,822781,1,Blaze Jordan,11,2,top,Strikeout,0,Kevin Gausman,7,,0,0,no
+2026-08-01,822781,1,JJ Wetherholt,17,3,top,Grounded Into DP,0,Kevin Gausman,2,10.0,0,0,no
+2026-08-01,822781,1,Blaze Jordan,31,4,top,Single,0,Kevin Gausman,3,205.0,0,1,no
+2026-08-01,822781,1,JJ Wetherholt,38,5,top,Walk,0,Kevin Gausman,6,,0,2,no
+2026-08-01,822781,1,Blaze Jordan,48,6,top,Groundout,0,Braydon Fisher,7,5.0,1,2,no
+2026-08-01,822781,1,JJ Wetherholt,54,7,top,Flyout,0,Braydon Fisher,2,357.0,1,2,no
+2026-08-01,822781,1,Blaze Jordan,69,8,top,Double,0,Jeff Hoffman,1,346.0,1,5,no
+2026-08-01,822781,1,Bryan Torres,70,8,top,Groundout,0,Jeff Hoffman,2,18.0,1,5,no
+2026-08-01,822781,1,JJ Wetherholt,74,9,top,Groundout,0,Tyler Rogers,4,3.0,1,5,no
+2026-08-02,822783,1,Bryan Torres,8,2,top,Groundout,0,Max Scherzer,4,5.0,0,0,no
+2026-08-02,822783,1,Blaze Jordan,15,3,top,Strikeout,0,Max Scherzer,4,,0,0,no
+2026-08-02,822783,1,Bryan Torres,27,5,top,Strikeout,0,Max Scherzer,4,,1,0,no
+2026-08-02,822783,1,Blaze Jordan,30,5,top,Pop Out,0,Max Scherzer,2,146.0,1,0,no
+2026-08-02,822783,1,Bryan Torres,43,7,top,Flyout,0,Spencer Miles,5,362.0,1,0,no
+2026-08-02,822783,1,Blaze Jordan,50,8,top,Single,0,Spencer Miles,3,102.0,1,0,no
+2026-08-02,822783,1,Bryan Torres,61,9,top,Single,0,Louis Varland,6,13.0,1,1,no
+2026-08-02,822783,1,Blaze Jordan,64,9,top,Forceout,0,Louis Varland,6,33.0,2,1,no
+2026-08-03,823520,1,JJ Wetherholt,0,1,top,Walk,0,Cam Schlittler,4,,0,0,no
+2026-08-03,823520,1,Bryan Torres,4,1,top,Single,0,Cam Schlittler,8,265.0,2,0,no
+2026-08-03,823520,1,JJ Wetherholt,12,2,top,Walk,0,Cam Schlittler,6,,3,0,no
+2026-08-03,823520,1,Bryan Torres,19,3,top,Strikeout,0,Cam Schlittler,4,,3,0,no
+2026-08-03,823520,1,JJ Wetherholt,29,4,top,Groundout,0,Tim Hill,4,6.0,4,0,no
+2026-08-03,823520,1,Bryan Torres,37,5,top,Groundout,0,Tim Hill,7,9.0,6,0,no
+2026-08-03,823520,1,JJ Wetherholt,49,6,top,Groundout,0,Kervin Castro,3,270.0,6,3,no
+2026-08-03,823520,1,Blaze Jordan,63,8,top,Triple,0,Ryan Yarbrough,5,416.0,6,7,no
+2026-08-03,823520,1,JJ Wetherholt,68,8,top,Single,0,Angel Chivilli,3,80.0,11,7,no
+2026-08-03,823520,1,Blaze Jordan,72,8,top,Groundout,0,Angel Chivilli,2,,13,7,no
+2026-08-15,824644,1,JJ Wetherholt,0,1,top,Walk,0,Matthew Boyd,9,,0,0,no
+2026-08-15,824644,1,Joshua Báez,4,1,top,Home Run,2,Matthew Boyd,1,449.0,3,0,no
+2026-08-15,824644,1,Blaze Jordan,9,2,top,Pop Out,0,Matthew Boyd,1,148.0,3,0,no
+2026-08-15,824644,1,JJ Wetherholt,19,3,top,Flyout,0,Matthew Boyd,2,343.0,3,3,no
+2026-08-15,824644,1,Joshua Báez,28,4,top,Home Run,1,Matthew Boyd,6,382.0,4,3,no
+2026-08-15,824644,1,Blaze Jordan,30,4,top,Groundout,0,Matthew Boyd,2,7.0,4,3,no
+2026-08-15,824644,1,JJ Wetherholt,37,5,top,Forceout,0,Matthew Boyd,6,30.0,4,3,no
+2026-08-15,824644,1,Joshua Báez,45,6,top,Home Run,2,Matthew Boyd,2,368.0,6,3,no
+2026-08-15,824644,1,Blaze Jordan,47,6,top,Home Run,1,Matthew Boyd,5,408.0,7,3,no
+2026-08-15,824644,1,JJ Wetherholt,53,7,top,Flyout,0,Caleb Thielbar,5,297.0,7,3,no
+2026-08-15,824644,1,Joshua Báez,60,8,top,Lineout,0,Colin Rea,5,292.0,8,3,no
+2026-08-15,824644,1,Blaze Jordan,62,8,top,Flyout,0,Colin Rea,1,348.0,8,3,no
+2026-08-15,824644,1,JJ Wetherholt,69,9,top,Groundout,0,Colin Rea,4,20.0,8,4,no
+2026-08-16,824642,1,JJ Wetherholt,0,1,top,Double,0,Edward Cabrera,5,249.0,0,0,no
+2026-08-16,824642,1,Joshua Báez,4,1,top,Flyout,0,Edward Cabrera,2,373.0,2,0,no
+2026-08-16,824642,1,Blaze Jordan,11,2,top,Single,1,Edward Cabrera,6,251.0,3,0,no
+2026-08-16,824642,1,JJ Wetherholt,12,2,top,Groundout,0,Edward Cabrera,3,3.0,3,0,no
+2026-08-16,824642,1,Joshua Báez,19,3,top,Strikeout,0,Edward Cabrera,7,,3,0,no
+2026-08-16,824642,1,Blaze Jordan,28,4,top,Single,0,Edward Cabrera,3,154.0,3,2,no
+2026-08-16,824642,1,JJ Wetherholt,29,4,top,Walk,1,Edward Cabrera,5,,4,2,no
+2026-08-16,824642,1,Joshua Báez,33,4,top,Flyout,0,Ryan Rolison,1,339.0,9,2,no
+2026-08-16,824642,1,Blaze Jordan,46,6,top,Strikeout,0,Aaron Civale,4,,9,2,no
+2026-08-16,824642,1,JJ Wetherholt,47,6,top,Lineout,0,Aaron Civale,7,300.0,9,2,no
+2026-08-16,824642,1,Joshua Báez,51,6,top,Strikeout,0,Aaron Civale,5,,9,2,no
+2026-08-16,824642,1,Blaze Jordan,63,8,top,Strikeout,0,Caleb Thielbar,3,,9,2,no
+2026-08-16,824642,1,JJ Wetherholt,64,8,top,Single,0,Caleb Thielbar,2,9.0,9,2,no
+2026-08-16,824642,1,Joshua Báez,68,8,top,Strikeout,0,Trent Thornton,4,,11,2,no
+2026-08-16,824642,1,Blaze Jordan,78,9,top,Pop Out,0,Carson Kelly,2,38.0,11,3,no
+2026-08-17,824514,1,Joshua Báez,0,1,top,Hit By Pitch,0,Kent Emanuel,2,,0,0,no
+2026-08-17,824514,1,Blaze Jordan,9,2,top,Triple,0,Kent Emanuel,2,392.0,2,0,no
+2026-08-17,824514,1,Joshua Báez,12,2,top,Lineout,0,Kent Emanuel,3,317.0,2,0,no
+2026-08-17,824514,1,Blaze Jordan,28,4,top,Walk,0,Kent Emanuel,6,,2,0,no
+2026-08-17,824514,1,Joshua Báez,31,4,top,Forceout,0,Kent Emanuel,2,8.0,2,0,no
+2026-08-17,824514,1,Blaze Jordan,44,6,top,Strikeout,0,Luis Mey,4,,2,1,no
+2026-08-17,824514,1,JJ Wetherholt,49,7,top,Flyout,0,Luis Mey,2,365.0,2,1,no
+2026-08-17,824514,1,Joshua Báez,50,7,top,Groundout,0,Luis Mey,4,37.0,2,1,no
+2026-08-17,824514,1,Blaze Jordan,59,8,top,Lineout,0,Pierce Johnson,1,259.0,2,1,no
+2026-08-17,824514,1,JJ Wetherholt,65,9,top,Groundout,0,Sam Moll,2,3.0,2,1,no
+2026-08-17,824514,1,Joshua Báez,66,9,top,Strikeout,0,Sam Moll,5,,2,1,no
+2026-08-17,824478,2,JJ Wetherholt,0,1,top,Single,0,Rhett Lowder,7,8.0,0,0,no
+2026-08-17,824478,2,Joshua Báez,9,2,top,Flyout,0,Rhett Lowder,1,245.0,0,1,no
+2026-08-17,824478,2,Bryan Torres,15,3,top,Groundout,0,Rhett Lowder,7,75.0,0,1,no
+2026-08-17,824478,2,Blaze Jordan,16,3,top,Groundout,0,Rhett Lowder,5,33.0,0,1,no
+2026-08-17,824478,2,JJ Wetherholt,17,3,top,Strikeout,0,Rhett Lowder,5,,0,1,no
+2026-08-17,824478,2,Joshua Báez,24,4,top,Forceout,0,Rhett Lowder,2,3.0,1,1,no
+2026-08-17,824478,2,Bryan Torres,27,4,top,Lineout,0,Rhett Lowder,1,326.0,2,1,no
+2026-08-17,824478,2,Blaze Jordan,33,5,top,Field Error,0,Rhett Lowder,1,7.0,2,1,no
+2026-08-17,824478,2,JJ Wetherholt,34,5,top,Forceout,0,Rhett Lowder,3,32.0,2,1,no
+2026-08-17,824478,2,Joshua Báez,41,6,top,Flyout,0,Rhett Lowder,1,387.0,2,1,no
+2026-08-17,824478,2,Bryan Torres,44,6,top,Walk,0,Rhett Lowder,6,,3,1,no
+2026-08-17,824478,2,Blaze Jordan,45,6,top,Single,1,Rhett Lowder,2,194.0,4,1,no
+2026-08-17,824478,2,JJ Wetherholt,52,7,top,Strikeout,0,Rhett Lowder,6,,4,4,no
+2026-08-17,824478,2,Joshua Báez,59,8,top,Strikeout,0,Brock Burke,5,,4,4,no
+2026-08-17,824478,2,Bryan Torres,62,8,top,Single,1,Brock Burke,3,31.0,5,4,no
+2026-08-17,824478,2,Blaze Jordan,63,8,top,Strikeout,0,Brock Burke,7,,5,4,no
+2026-08-17,824478,2,JJ Wetherholt,68,9,top,Single,0,Zach McCambley,3,25.0,5,4,no
+2026-08-17,824478,2,Joshua Báez,76,10,top,Strikeout,0,Emilio Pagán,4,,5,5,no
+2026-08-29,823011,1,JJ Wetherholt,4,1,bottom,Groundout,0,Lake Bachar,1,10.0,0,1,no
+2026-08-29,823011,1,Joshua Báez,21,3,bottom,Home Run,1,Lake Bachar,2,370.0,1,1,no
+2026-08-29,823011,1,JJ Wetherholt,23,3,bottom,Forceout,0,Evan Sisk,1,11.0,1,1,no
+2026-08-29,823011,1,Joshua Báez,36,4,bottom,Strikeout,0,Carmen Mlodzinski,6,,1,2,no
+2026-08-29,823011,1,JJ Wetherholt,44,5,bottom,Groundout,0,Carmen Mlodzinski,6,8.0,1,5,no
+2026-08-29,823011,1,Joshua Báez,54,6,bottom,Pop Out,0,Carmen Mlodzinski,2,178.0,2,5,no
+2026-08-29,823011,1,JJ Wetherholt,59,7,bottom,Pop Out,0,Gregory Soto,6,198.0,2,5,no
+2026-08-29,823011,1,Joshua Báez,75,9,bottom,Flyout,0,Mason Montgomery,6,370.0,2,6,no
+2026-08-30,823010,1,Bryan Torres,4,1,bottom,Single,0,Braxton Ashcraft,3,196.0,0,0,no
+2026-08-30,823010,1,Bryan Torres,24,3,bottom,Single,0,Braxton Ashcraft,1,14.0,0,3,no
+2026-08-30,823010,1,Bryan Torres,41,5,bottom,Walk,0,Braxton Ashcraft,5,,0,4,no
+2026-08-30,823010,1,Bryan Torres,60,7,bottom,Sac Fly,1,Camilo Doval,1,346.0,3,5,no
+2026-08-30,823010,1,Joshua Báez,76,9,bottom,Groundout,0,Mason Montgomery,4,38.0,4,5,no
+2026-09-01,823908,1,Joshua Báez,7,2,top,Pop Out,0,Eric Lauer,1,65.0,0,0,no
+2026-09-01,823908,1,Leo Bernal,8,2,top,Strikeout,0,Eric Lauer,4,,0,0,no
+2026-09-01,823908,1,Joshua Báez,19,3,top,Hit By Pitch,0,Eric Lauer,7,,3,0,no
+2026-09-01,823908,1,Leo Bernal,20,3,top,Single,2,Eric Lauer,2,280.0,5,0,no
+2026-09-01,823908,1,Joshua Báez,35,4,top,Strikeout,0,Seth Halvorsen,6,,9,3,no
+2026-09-01,823908,1,Leo Bernal,39,5,top,Groundout,0,Alex Vesia,2,18.0,9,3,no
+2026-09-01,823908,1,Joshua Báez,58,7,top,Home Run,1,Justin Wrobleski,2,404.0,11,4,no
+2026-09-01,823908,1,Leo Bernal,59,7,top,Strikeout,0,Justin Wrobleski,6,,11,4,no
+2026-09-01,823908,1,Leo Bernal,78,9,top,Flyout,0,Enrique Hernández,2,284.0,13,5,no
+2026-09-02,823906,1,Bryan Torres,0,1,top,Strikeout,0,Yoshinobu Yamamoto,5,,0,0,no
+2026-09-02,823906,1,Leo Bernal,13,2,top,Groundout,0,Yoshinobu Yamamoto,2,4.0,0,3,no
+2026-09-02,823906,1,Bryan Torres,27,4,top,Groundout,0,Yoshinobu Yamamoto,5,100.0,0,3,no
+2026-09-02,823906,1,Leo Bernal,36,5,top,Flyout,0,Yoshinobu Yamamoto,2,353.0,0,3,no
+2026-09-02,823906,1,Bryan Torres,45,6,top,Pop Out,0,Yoshinobu Yamamoto,2,60.0,2,3,no
+2026-09-02,823906,1,Leo Bernal,55,7,top,Home Run,2,Yoshinobu Yamamoto,6,377.0,4,5,no
+2026-09-02,823906,1,Joshua Báez,65,8,top,Double,0,Tanner Scott,3,124.0,4,5,no
+2026-09-02,823906,1,Leo Bernal,72,9,top,Flyout,0,Jack Dreyer,4,359.0,5,5,no
+2026-09-02,823906,1,Joshua Báez,81,10,top,Double,2,Brock Stewart,1,16.0,8,5,no
+2026-09-03,823907,1,Joshua Báez,3,1,top,Single,1,Tarik Skubal,3,46.0,1,0,no
+2026-09-03,823907,1,Leo Bernal,4,1,top,Double Play,0,Tarik Skubal,1,189.0,1,0,no
+2026-09-03,823907,1,Joshua Báez,21,3,top,Strikeout,0,Tarik Skubal,4,,1,0,no
+2026-09-03,823907,1,Leo Bernal,22,3,top,Single,0,Tarik Skubal,3,266.0,1,0,no
+2026-09-03,823907,1,Joshua Báez,39,5,top,Pop Out,0,Tarik Skubal,1,85.0,2,0,no
+2026-09-03,823907,1,Leo Bernal,40,5,top,Pickoff 1B,0,Tarik Skubal,0,,2,0,no
+2026-09-03,823907,1,Leo Bernal,46,6,top,Single,0,Tarik Skubal,3,191.0,2,1,no
+2026-09-03,823907,1,Joshua Báez,57,7,top,Hit By Pitch,0,Evan Phillips,2,,2,1,no
+2026-09-03,823907,1,Leo Bernal,58,7,top,Strikeout,0,Evan Phillips,4,,2,1,no
+2026-09-04,824311,1,Bryan Torres,0,1,top,Flyout,0,Ryan Feltner,1,329.0,0,0,no
+2026-09-04,824311,1,Leo Bernal,8,2,top,Walk,0,Ryan Feltner,6,,0,1,no
+2026-09-04,824311,1,Joshua Báez,9,2,top,Forceout,0,Ryan Feltner,2,9.0,0,1,no
+2026-09-04,824311,1,Bryan Torres,13,2,top,Strikeout,0,Ryan Feltner,8,,2,1,no
+2026-09-04,824311,1,Leo Bernal,27,4,top,Walk,0,Ryan Feltner,5,,2,1,no
+2026-09-04,824311,1,Joshua Báez,28,4,top,Strikeout,0,Ryan Feltner,3,,2,1,no
+2026-09-04,824311,1,Bryan Torres,35,5,top,Walk,0,Ryan Feltner,6,,2,1,no
+2026-09-04,824311,1,Leo Bernal,39,5,top,Double,0,Ryan Feltner,2,53.0,4,1,no
+2026-09-04,824311,1,Joshua Báez,40,5,top,Groundout,0,Ryan Feltner,7,48.0,4,1,no
+2026-09-04,824311,1,Leo Bernal,64,8,top,Flyout,0,Jimmy Herget,2,358.0,4,6,no
+2026-09-04,824311,1,Joshua Báez,65,8,top,Single,0,Jimmy Herget,3,25.0,4,6,no
+2026-09-05,824310,1,Bryan Torres,0,1,top,Walk,0,Mason Adams,6,,0,0,no
+2026-09-05,824310,1,Leo Bernal,7,2,top,Strikeout,0,Mason Adams,3,,0,0,no
+2026-09-05,824310,1,Joshua Báez,8,2,top,Home Run,1,Mason Adams,5,422.0,1,0,no
+2026-09-05,824310,1,Bryan Torres,15,3,top,Single,0,Mason Adams,1,214.0,1,0,no
+2026-09-05,824310,1,Leo Bernal,22,4,top,Single,0,Mason Adams,2,8.0,1,0,no
+2026-09-05,824310,1,Joshua Báez,23,4,top,Strikeout,0,Mason Adams,5,,1,0,no
+2026-09-05,824310,1,Bryan Torres,31,5,top,Strikeout,0,Mason Adams,4,,1,0,no
+2026-09-05,824310,1,Leo Bernal,45,6,top,Single,0,Zach Agnos,1,196.0,3,6,no
+2026-09-05,824310,1,Joshua Báez,46,6,top,Single,0,Zach Agnos,5,248.0,3,6,no
+2026-09-05,824310,1,Leo Bernal,65,8,top,Flyout,0,Nick Frasso,2,285.0,5,10,no
+2026-09-05,824310,1,Joshua Báez,66,8,top,Strikeout,0,Nick Frasso,5,,5,10,no
+2026-09-05,824310,1,Leo Bernal,79,9,top,Lineout,0,Jordan Romano,1,335.0,7,10,yes
+2026-09-06,824309,1,Bryan Torres,0,1,top,Single,0,Tanner Gordon,3,278.0,0,0,no
+2026-09-06,824309,1,Leo Bernal,4,1,top,Groundout,0,Tanner Gordon,5,8.0,0,0,no
+2026-09-06,824309,1,Joshua Báez,11,2,top,Flyout,0,Tanner Gordon,4,194.0,0,2,no
+2026-09-06,824309,1,Bryan Torres,15,2,top,Strikeout,0,Tanner Gordon,3,,1,2,no
+2026-09-06,824309,1,Leo Bernal,28,4,top,Flyout,0,Tanner Gordon,3,214.0,1,5,no
+2026-09-06,824309,1,Joshua Báez,29,4,top,Single,0,Tanner Gordon,1,114.0,1,5,no
+2026-09-06,824309,1,Bryan Torres,36,5,top,Groundout,0,Tanner Gordon,3,25.0,1,5,no
+2026-09-06,824309,1,Leo Bernal,40,5,top,Single,2,Tanner Gordon,1,302.0,3,5,no
+2026-09-06,824309,1,Joshua Báez,41,5,top,Single,1,Jimmy Herget,4,295.0,5,5,no
+2026-09-06,824309,1,Leo Bernal,55,7,top,Strikeout,0,Juan Mejia,3,,7,5,no
+2026-09-06,824309,1,Joshua Báez,56,7,top,Walk,0,Juan Mejia,7,,7,5,no
+2026-09-06,824309,1,Leo Bernal,73,9,top,Walk,0,Blas Castaño,6,,10,6,no
+2026-09-07,823175,1,Bryan Torres,0,1,top,Groundout,0,Logan Webb,2,30.0,0,0,no
+2026-09-07,823175,1,Leo Bernal,9,2,top,Groundout,0,Logan Webb,4,11.0,0,1,no
+2026-09-07,823175,1,Joshua Báez,11,2,top,Strikeout,0,Logan Webb,6,,0,1,no
+2026-09-07,823175,1,Bryan Torres,17,3,top,Single,0,Logan Webb,6,201.0,0,1,no
+2026-09-07,823175,1,Leo Bernal,27,4,top,Strikeout,0,Logan Webb,5,,0,2,no
+2026-09-07,823175,1,Joshua Báez,32,5,top,Flyout,0,Logan Webb,4,260.0,0,2,no
+2026-09-07,823175,1,Bryan Torres,40,6,top,Groundout,0,Logan Webb,6,3.0,0,3,no
+2026-09-07,823175,1,Leo Bernal,44,6,top,Lineout,0,Logan Webb,5,132.0,1,3,no
+2026-09-07,823175,1,Joshua Báez,49,7,top,Strikeout,0,Trent Harris,3,,1,3,no
+2026-09-07,823175,1,Bryan Torres,52,7,top,Groundout,0,Trent Harris,5,34.0,2,3,no
+2026-09-07,823175,1,Leo Bernal,59,8,top,Forceout,0,Dylan Smith,1,9.0,2,3,no
+2026-09-07,823175,1,Joshua Báez,64,9,top,Single,0,Dylan Smith,5,11.0,2,3,no
+2026-09-07,823175,1,Bryan Torres,67,9,top,Walk,0,Dylan Smith,8,,2,3,no
+2026-09-07,823175,1,Leo Bernal,77,10,top,Single,1,Jason Foley,5,215.0,4,3,no
+2026-09-07,823175,1,Joshua Báez,79,10,top,Flyout,0,Jason Foley,1,238.0,4,3,no
+2026-09-08,823174,1,Bryan Torres,0,1,top,Flyout,0,Landen Roupp,5,249.0,0,0,no
+2026-09-08,823174,1,Leo Bernal,10,2,top,Walk,0,Landen Roupp,6,,0,1,no
+2026-09-08,823174,1,Bryan Torres,19,3,top,Flyout,0,Landen Roupp,2,351.0,0,2,no
+2026-09-08,823174,1,Leo Bernal,26,4,top,Flyout,0,Landen Roupp,1,379.0,0,2,no
+2026-09-08,823174,1,Bryan Torres,36,5,top,Groundout,0,Landen Roupp,3,10.0,0,2,no
+2026-09-08,823174,1,Leo Bernal,44,6,top,Groundout,0,Landen Roupp,3,6.0,0,2,no
+2026-09-08,823174,1,Joshua Báez,48,7,top,Groundout,0,Reiver Sanmartin,6,26.0,0,2,no
+2026-09-08,823174,1,Bryan Torres,58,8,top,Walk,0,Carson Seymour,5,,0,2,no
+2026-09-08,823174,1,Leo Bernal,62,8,top,Strikeout,0,Carson Seymour,6,,0,2,no
+2026-09-08,823174,1,Joshua Báez,63,8,top,Flyout,0,Joel Kuhnel,4,326.0,0,2,no
+2026-09-08,823174,1,Bryan Torres,70,9,top,Single,1,Joel Kuhnel,3,18.0,1,2,no

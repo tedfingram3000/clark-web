@@ -1,0 +1,52 @@
+lahman_player_id,hitter,cardinal_in_jump_season,first_season,pa_first,ops_first,jump_season,age_june30_jump_season,pa_jump,ops_jump,next_season,pa_next,ops_next,what_came_next,share_of_gain_kept
+birmijo01,Joe Birmingham,no,1908,446,0.510,1909,24,370,0.689,1910,406,0.553,gave back more than half,0.2438
+byrnebo01,Bobby Byrne,yes,1908,490,0.450,1909,24,690,0.618,1910,679,0.783,matched or beat the jump season,1.9862
+beckfr02,Fred Beck,no,1909,364,0.512,1910,23,607,0.722,1911,327,0.671,"kept half or more, not all",0.7595
+knighjo02,John Knight,no,1909,416,0.597,1910,24,473,0.785,1911,542,0.693,"kept half or more, not all",0.5118
+milancl01,Clyde Milan,no,1909,460,0.525,1910,23,624,0.713,1911,705,0.789,matched or beat the jump season,1.4080
+collish01,Shano Collins,no,1910,354,0.547,1911,25,414,0.712,1912,632,0.723,matched or beat the jump season,1.0714
+flackma01,Max Flack,no,1914,569,0.625,1915,25,583,0.787,1916,546,0.640,gave back more than half,0.0945
+snydefr01,Frank Snyder,yes,1914,355,0.572,1915,21,522,0.740,1916,430,0.598,gave back more than half,0.1570
+judgejo01,Joe Judge,no,1916,399,0.631,1917,23,451,0.783,1918,583,0.672,gave back more than half,0.2705
+duganjo01,Joe Dugan,no,1919,412,0.634,1920,23,521,0.793,1921,507,0.776,"kept half or more, not all",0.8940
+smithja03,Jack Smith,yes,1919,451,0.548,1920,25,346,0.829,1921,439,0.838,matched or beat the jump season,1.0306
+galloch01,Chick Galloway,no,1920,335,0.510,1921,24,508,0.676,1922,629,0.801,matched or beat the jump season,1.7523
+grimmch01,Charlie Grimm,no,1920,581,0.562,1921,22,611,0.724,1922,649,0.726,matched or beat the jump season,1.0123
+dayco01,Connie Day,no,1922,359,0.583,1923,25,355,0.739,1924,217,0.642,gave back more than half,0.3811
+reevebo01,Bobby Reeves,no,1927,420,0.614,1928,24,392,0.770,1929,535,0.654,gave back more than half,0.2561
+knickbi01,Bill Knickerbocker,no,1933,303,0.581,1934,22,632,0.755,1935,577,0.711,"kept half or more, not all",0.7483
+ryanco01,Connie Ryan,no,1943,531,0.550,1944,24,381,0.780,1945,,,fewer than 100 plate appearances,
+stirnsn01,Snuffy Stirnweiss,no,1943,325,0.622,1944,25,723,0.849,1945,717,0.862,matched or beat the jump season,1.0534
+mossle01,Les Moss,no,1947,312,0.510,1948,23,381,0.758,1949,330,0.838,matched or beat the jump season,1.3234
+foxne01,Nellie Fox,no,1950,504,0.608,1951,23,681,0.798,1952,700,0.700,gave back more than half,0.4859
+landiji01,Jim Landis,no,1957,324,0.625,1958,24,593,0.785,1959,623,0.749,"kept half or more, not all",0.7758
+dalrycl01,Clay Dalrymple,no,1961,423,0.575,1962,25,451,0.809,1963,511,0.692,gave back more than half,0.4989
+menkede01,Denis Menke,no,1963,572,0.632,1964,23,588,0.847,1965,202,0.706,gave back more than half,0.3411
+rosepe01,Pete Rose,no,1964,558,0.645,1965,24,757,0.828,1966,700,0.811,"kept half or more, not all",0.9062
+freehbi01,Bill Freehan,no,1966,544,0.646,1967,25,618,0.835,1968,635,0.819,"kept half or more, not all",0.9145
+groteje01,Jerry Grote,no,1967,367,0.479,1968,25,454,0.706,1969,406,0.663,"kept half or more, not all",0.8116
+jonescl01,Cleon Jones,no,1967,446,0.613,1968,25,552,0.793,1969,558,0.904,matched or beat the jump season,1.6186
+belanma01,Mark Belanger,no,1968,531,0.520,1969,25,594,0.696,1970,527,0.562,gave back more than half,0.2408
+blairpa01,Paul Blair,no,1968,467,0.595,1969,25,685,0.804,1970,548,0.782,"kept half or more, not all",0.8932
+bradfbu01,Buddy Bradford,no,1968,313,0.587,1969,24,313,0.769,1970,289,0.624,gave back more than half,0.2025
+scottge02,George Scott,no,1968,387,0.473,1969,25,617,0.716,1970,530,0.821,matched or beat the jump season,1.4364
+unserde01,Del Unser,no,1968,690,0.560,1969,24,649,0.731,1970,358,0.645,"kept half or more, not all",0.5001
+garrewa01,Wayne Garrett,no,1969,454,0.558,1970,22,454,0.811,1971,235,0.548,gave back more than half,-0.0383
+moneydo01,Don Money,no,1969,503,0.622,1970,23,507,0.824,1971,482,0.634,gave back more than half,0.0562
+conceda01,Dave Concepcion,no,1972,421,0.541,1973,25,357,0.760,1974,653,0.732,"kept half or more, not all",0.8740
+roberda06,Dave Roberts,no,1972,443,0.595,1973,22,503,0.782,1974,358,0.497,gave back more than half,-0.5242
+lemonch01,Chet Lemon,no,1976,497,0.626,1977,22,627,0.803,1978,416,0.887,matched or beat the jump season,1.4779
+porteda02,Darrell Porter,no,1976,449,0.586,1977,25,486,0.804,1978,602,0.802,"kept half or more, not all",0.9891
+smallro02,Roy Smalley,no,1977,680,0.631,1978,25,702,0.796,1979,729,0.794,"kept half or more, not all",0.9904
+veryzto01,Tom Veryzer,no,1977,373,0.485,1978,25,458,0.638,1979,501,0.533,gave back more than half,0.3156
+jonesru01,Ruppert Jones,no,1978,540,0.649,1979,24,716,0.799,1980,373,0.656,gave back more than half,0.0447
+venturo01,Robin Ventura,no,1990,565,0.643,1991,23,705,0.810,1992,694,0.806,"kept half or more, not all",0.9784
+gilkebe01,Bernard Gilkey,yes,1991,311,0.630,1992,25,431,0.792,1993,622,0.851,matched or beat the jump season,1.3664
+beckeri01,Rich Becker,no,1995,438,0.599,1996,24,604,0.807,1997,510,0.749,"kept half or more, not all",0.7242
+alfoned01,Edgardo Alfonzo,no,1996,407,0.649,1997,23,599,0.823,1998,630,0.782,"kept half or more, not all",0.7651
+johnsch04,Charles Johnson,no,1996,434,0.649,1997,25,484,0.802,1998,506,0.670,gave back more than half,0.1354
+schoojo01,Jonathan Schoop,no,2014,481,0.598,2015,23,321,0.788,2016,647,0.752,"kept half or more, not all",0.8098
+ramirjo01,Jose Ramirez,no,2015,355,0.631,2016,23,618,0.825,2017,645,0.957,matched or beat the jump season,1.6785
+kingesc01,Scott Kingery,no,2018,484,0.605,2019,25,500,0.788,2020,124,0.511,gave back more than half,-0.5136
+perdoge01,Geraldo Perdomo,no,2022,500,0.547,2023,23,495,0.712,2024,388,0.718,matched or beat the jump season,1.0337
+torkesp01,Spencer Torkelson,no,2022,404,0.604,2023,23,684,0.758,2024,380,0.669,gave back more than half,0.4206
