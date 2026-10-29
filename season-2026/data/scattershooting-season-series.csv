@@ -1,0 +1,1446 @@
+season,opponent,opponent_name,games,wins,losses,win_pct,source
+1898,BLN,Baltimore Orioles,14,2,12,0.143,Retrosheet
+1898,BRO,Brooklyn Dodgers,14,6,7,0.462,Retrosheet
+1898,BSN,Boston Braves,14,2,12,0.143,Retrosheet
+1898,CHN,Chicago Cubs,14,4,10,0.286,Retrosheet
+1898,CIN,Cincinnati Reds,14,2,12,0.143,Retrosheet
+1898,CL4,Cleveland Spiders,14,3,10,0.231,Retrosheet
+1898,LS3,Louisville Colonels,14,4,10,0.286,Retrosheet
+1898,NY1,New York Giants,15,3,10,0.231,Retrosheet
+1898,PHI,Philadelphia Phillies,14,5,9,0.357,Retrosheet
+1898,PIT,Pittsburgh Pirates,13,4,9,0.308,Retrosheet
+1898,WSN,Washington Senators,14,4,10,0.286,Retrosheet
+1899,BLN,Baltimore Orioles,14,6,8,0.429,Retrosheet
+1899,BRO,Brooklyn Dodgers,13,4,8,0.333,Retrosheet
+1899,BSN,Boston Braves,14,6,8,0.429,Retrosheet
+1899,CHN,Chicago Cubs,14,6,8,0.429,Retrosheet
+1899,CIN,Cincinnati Reds,15,8,5,0.615,Retrosheet
+1899,CL4,Cleveland Spiders,14,13,1,0.929,Retrosheet
+1899,LS3,Louisville Colonels,15,9,5,0.643,Retrosheet
+1899,NY1,New York Giants,14,9,5,0.643,Retrosheet
+1899,PHI,Philadelphia Phillies,14,7,7,0.500,Retrosheet
+1899,PIT,Pittsburgh Pirates,14,7,7,0.500,Retrosheet
+1899,WSN,Washington Senators,14,8,6,0.571,Retrosheet
+1900,BRO,Brooklyn Dodgers,20,8,12,0.400,Retrosheet
+1900,BSN,Boston Braves,20,8,12,0.400,Retrosheet
+1900,CHN,Chicago Cubs,22,11,9,0.550,Retrosheet
+1900,CIN,Cincinnati Reds,20,8,12,0.400,Retrosheet
+1900,NY1,New York Giants,20,14,6,0.700,Retrosheet
+1900,PHI,Philadelphia Phillies,20,8,12,0.400,Retrosheet
+1900,PIT,Pittsburgh Pirates,20,9,11,0.450,Retrosheet
+1901,BRO,Brooklyn Dodgers,20,11,9,0.550,Retrosheet
+1901,BSN,Boston Braves,20,11,9,0.550,Retrosheet
+1901,CHN,Chicago Cubs,20,10,10,0.500,Retrosheet
+1901,CIN,Cincinnati Reds,21,11,9,0.550,Retrosheet
+1901,NY1,New York Giants,21,13,7,0.650,Retrosheet
+1901,PHI,Philadelphia Phillies,20,11,9,0.550,Retrosheet
+1901,PIT,Pittsburgh Pirates,20,9,11,0.450,Retrosheet
+1902,BRO,Brooklyn Dodgers,21,9,10,0.474,Retrosheet
+1902,BSN,Boston Braves,21,8,10,0.444,Retrosheet
+1902,CHN,Chicago Cubs,18,5,12,0.294,Retrosheet
+1902,CIN,Cincinnati Reds,20,7,13,0.350,Retrosheet
+1902,NY1,New York Giants,20,13,7,0.650,Retrosheet
+1902,PHI,Philadelphia Phillies,20,10,10,0.500,Retrosheet
+1902,PIT,Pittsburgh Pirates,20,4,16,0.200,Retrosheet
+1903,BRO,Brooklyn Dodgers,19,4,14,0.222,Retrosheet
+1903,BSN,Boston Braves,20,8,12,0.400,Retrosheet
+1903,CHN,Chicago Cubs,20,4,16,0.200,Retrosheet
+1903,CIN,Cincinnati Reds,19,7,12,0.368,Retrosheet
+1903,NY1,New York Giants,21,5,15,0.250,Retrosheet
+1903,PHI,Philadelphia Phillies,20,10,10,0.500,Retrosheet
+1903,PIT,Pittsburgh Pirates,20,5,15,0.250,Retrosheet
+1904,BRO,Brooklyn Dodgers,22,15,7,0.682,Retrosheet
+1904,BSN,Boston Braves,23,13,9,0.591,Retrosheet
+1904,CHN,Chicago Cubs,22,7,15,0.318,Retrosheet
+1904,CIN,Cincinnati Reds,22,8,14,0.364,Retrosheet
+1904,NY1,New York Giants,22,7,15,0.318,Retrosheet
+1904,PHI,Philadelphia Phillies,22,15,7,0.682,Retrosheet
+1904,PIT,Pittsburgh Pirates,22,10,12,0.455,Retrosheet
+1905,BRO,Brooklyn Dodgers,22,12,10,0.545,Retrosheet
+1905,BSN,Boston Braves,22,14,8,0.636,Retrosheet
+1905,CHN,Chicago Cubs,22,5,17,0.227,Retrosheet
+1905,CIN,Cincinnati Reds,22,12,10,0.545,Retrosheet
+1905,NY1,New York Giants,22,5,17,0.227,Retrosheet
+1905,PHI,Philadelphia Phillies,22,6,16,0.273,Retrosheet
+1905,PIT,Pittsburgh Pirates,22,4,18,0.182,Retrosheet
+1906,BRO,Brooklyn Dodgers,22,8,13,0.381,Retrosheet
+1906,BSN,Boston Braves,21,12,9,0.571,Retrosheet
+1906,CHN,Chicago Cubs,22,6,15,0.286,Retrosheet
+1906,CIN,Cincinnati Reds,23,9,12,0.429,Retrosheet
+1906,NY1,New York Giants,22,3,19,0.136,Retrosheet
+1906,PHI,Philadelphia Phillies,22,9,13,0.409,Retrosheet
+1906,PIT,Pittsburgh Pirates,22,5,17,0.227,Retrosheet
+1907,BRO,Brooklyn Dodgers,22,8,14,0.364,Retrosheet
+1907,BSN,Boston Braves,22,16,6,0.727,Retrosheet
+1907,CHN,Chicago Cubs,23,6,16,0.273,Retrosheet
+1907,CIN,Cincinnati Reds,22,8,14,0.364,Retrosheet
+1907,NY1,New York Giants,22,5,17,0.227,Retrosheet
+1907,PHI,Philadelphia Phillies,22,7,14,0.333,Retrosheet
+1907,PIT,Pittsburgh Pirates,22,2,20,0.091,Retrosheet
+1908,BRO,Brooklyn Dodgers,22,9,13,0.409,Retrosheet
+1908,BSN,Boston Braves,22,8,14,0.364,Retrosheet
+1908,CHN,Chicago Cubs,22,3,19,0.136,Retrosheet
+1908,CIN,Cincinnati Reds,22,11,11,0.500,Retrosheet
+1908,NY1,New York Giants,22,8,14,0.364,Retrosheet
+1908,PHI,Philadelphia Phillies,22,8,14,0.364,Retrosheet
+1908,PIT,Pittsburgh Pirates,22,2,20,0.091,Retrosheet
+1909,BRO,Brooklyn Dodgers,23,10,12,0.455,Retrosheet
+1909,BSN,Boston Braves,22,13,9,0.591,Retrosheet
+1909,CHN,Chicago Cubs,23,7,15,0.318,Retrosheet
+1909,CIN,Cincinnati Reds,22,10,12,0.455,Retrosheet
+1909,NY1,New York Giants,21,5,16,0.238,Retrosheet
+1909,PHI,Philadelphia Phillies,22,6,16,0.273,Retrosheet
+1909,PIT,Pittsburgh Pirates,21,3,18,0.143,Retrosheet
+1910,BRO,Brooklyn Dodgers,22,10,12,0.455,Retrosheet
+1910,BSN,Boston Braves,22,10,12,0.455,Retrosheet
+1910,CHN,Chicago Cubs,22,7,15,0.318,Retrosheet
+1910,CIN,Cincinnati Reds,22,10,12,0.455,Retrosheet
+1910,NY1,New York Giants,22,10,12,0.455,Retrosheet
+1910,PHI,Philadelphia Phillies,22,12,10,0.545,Retrosheet
+1910,PIT,Pittsburgh Pirates,21,4,17,0.190,Retrosheet
+1911,BRO,Brooklyn Dodgers,21,11,9,0.550,Retrosheet
+1911,BSN,Boston Braves,23,13,7,0.650,Retrosheet
+1911,CHN,Chicago Cubs,24,6,16,0.273,Retrosheet
+1911,CIN,Cincinnati Reds,25,16,6,0.727,Retrosheet
+1911,NY1,New York Giants,22,7,15,0.318,Retrosheet
+1911,PHI,Philadelphia Phillies,21,13,8,0.619,Retrosheet
+1911,PIT,Pittsburgh Pirates,22,9,13,0.409,Retrosheet
+1912,BRO,Brooklyn Dodgers,21,10,11,0.476,Retrosheet
+1912,BSN,Boston Braves,22,12,10,0.545,Retrosheet
+1912,CHN,Chicago Cubs,22,7,15,0.318,Retrosheet
+1912,CIN,Cincinnati Reds,22,9,13,0.409,Retrosheet
+1912,NY1,New York Giants,22,7,15,0.318,Retrosheet
+1912,PHI,Philadelphia Phillies,22,11,11,0.500,Retrosheet
+1912,PIT,Pittsburgh Pirates,22,7,15,0.318,Retrosheet
+1913,BRO,Brooklyn Dodgers,20,7,13,0.350,Retrosheet
+1913,BSN,Boston Braves,23,6,16,0.273,Retrosheet
+1913,CHN,Chicago Cubs,23,6,16,0.273,Retrosheet
+1913,CIN,Cincinnati Reds,22,12,10,0.545,Retrosheet
+1913,NY1,New York Giants,21,7,14,0.333,Retrosheet
+1913,PHI,Philadelphia Phillies,22,5,17,0.227,Retrosheet
+1913,PIT,Pittsburgh Pirates,22,8,13,0.381,Retrosheet
+1914,BRO,Brooklyn Dodgers,22,17,5,0.773,Retrosheet
+1914,BSN,Boston Braves,22,6,15,0.286,Retrosheet
+1914,CHN,Chicago Cubs,24,12,10,0.545,Retrosheet
+1914,CIN,Cincinnati Reds,22,12,10,0.545,Retrosheet
+1914,NY1,New York Giants,22,13,9,0.591,Retrosheet
+1914,PHI,Philadelphia Phillies,22,14,8,0.636,Retrosheet
+1914,PIT,Pittsburgh Pirates,23,7,15,0.318,Retrosheet
+1915,BRO,Brooklyn Dodgers,22,11,11,0.500,Retrosheet
+1915,BSN,Boston Braves,23,12,9,0.571,Retrosheet
+1915,CHN,Chicago Cubs,22,10,12,0.455,Retrosheet
+1915,CIN,Cincinnati Reds,23,8,14,0.364,Retrosheet
+1915,NY1,New York Giants,22,12,10,0.545,Retrosheet
+1915,PHI,Philadelphia Phillies,22,7,15,0.318,Retrosheet
+1915,PIT,Pittsburgh Pirates,23,12,10,0.545,Retrosheet
+1916,BRO,Brooklyn Dodgers,22,7,15,0.318,Retrosheet
+1916,BSN,Boston Braves,22,9,13,0.409,Retrosheet
+1916,CHN,Chicago Cubs,22,8,14,0.364,Retrosheet
+1916,CIN,Cincinnati Reds,22,14,8,0.636,Retrosheet
+1916,NY1,New York Giants,22,7,15,0.318,Retrosheet
+1916,PHI,Philadelphia Phillies,21,9,12,0.429,Retrosheet
+1916,PIT,Pittsburgh Pirates,22,6,16,0.273,Retrosheet
+1917,BRO,Brooklyn Dodgers,21,11,10,0.524,Retrosheet
+1917,BSN,Boston Braves,22,15,6,0.714,Retrosheet
+1917,CHN,Chicago Cubs,22,12,10,0.545,Retrosheet
+1917,CIN,Cincinnati Reds,22,13,9,0.591,Retrosheet
+1917,NY1,New York Giants,22,8,14,0.364,Retrosheet
+1917,PHI,Philadelphia Phillies,22,9,13,0.409,Retrosheet
+1917,PIT,Pittsburgh Pirates,23,14,8,0.636,Retrosheet
+1918,BRO,Brooklyn Dodgers,19,11,8,0.579,Retrosheet
+1918,BSN,Boston Braves,19,7,12,0.368,Retrosheet
+1918,CHN,Chicago Cubs,18,3,15,0.167,Retrosheet
+1918,CIN,Cincinnati Reds,21,8,13,0.381,Retrosheet
+1918,NY1,New York Giants,17,4,13,0.235,Retrosheet
+1918,PHI,Philadelphia Phillies,21,11,8,0.579,Retrosheet
+1918,PIT,Pittsburgh Pirates,16,7,9,0.438,Retrosheet
+1919,BRO,Brooklyn Dodgers,20,9,11,0.450,Retrosheet
+1919,BSN,Boston Braves,21,10,10,0.500,Retrosheet
+1919,CHN,Chicago Cubs,20,7,13,0.350,Retrosheet
+1919,CIN,Cincinnati Reds,20,6,14,0.300,Retrosheet
+1919,NY1,New York Giants,20,6,14,0.300,Retrosheet
+1919,PHI,Philadelphia Phillies,17,7,10,0.412,Retrosheet
+1919,PIT,Pittsburgh Pirates,20,9,11,0.450,Retrosheet
+1920,BRO,Brooklyn Dodgers,22,7,15,0.318,Retrosheet
+1920,BSN,Boston Braves,22,11,11,0.500,Retrosheet
+1920,CHN,Chicago Cubs,22,12,10,0.545,Retrosheet
+1920,CIN,Cincinnati Reds,22,9,13,0.409,Retrosheet
+1920,NY1,New York Giants,22,11,11,0.500,Retrosheet
+1920,PHI,Philadelphia Phillies,22,14,8,0.636,Retrosheet
+1920,PIT,Pittsburgh Pirates,23,11,11,0.500,Retrosheet
+1921,BRO,Brooklyn Dodgers,22,14,8,0.636,Retrosheet
+1921,BSN,Boston Braves,22,12,10,0.545,Retrosheet
+1921,CHN,Chicago Cubs,22,14,8,0.636,Retrosheet
+1921,CIN,Cincinnati Reds,22,10,12,0.455,Retrosheet
+1921,NY1,New York Giants,22,11,11,0.500,Retrosheet
+1921,PHI,Philadelphia Phillies,22,15,7,0.682,Retrosheet
+1921,PIT,Pittsburgh Pirates,22,11,10,0.524,Retrosheet
+1922,BRO,Brooklyn Dodgers,22,14,8,0.636,Retrosheet
+1922,BSN,Boston Braves,22,11,11,0.500,Retrosheet
+1922,CHN,Chicago Cubs,22,9,13,0.409,Retrosheet
+1922,CIN,Cincinnati Reds,22,14,8,0.636,Retrosheet
+1922,NY1,New York Giants,22,9,13,0.409,Retrosheet
+1922,PHI,Philadelphia Phillies,22,15,7,0.682,Retrosheet
+1922,PIT,Pittsburgh Pirates,22,13,9,0.591,Retrosheet
+1923,BRO,Brooklyn Dodgers,22,12,10,0.545,Retrosheet
+1923,BSN,Boston Braves,23,13,9,0.591,Retrosheet
+1923,CHN,Chicago Cubs,22,10,12,0.455,Retrosheet
+1923,CIN,Cincinnati Reds,22,12,10,0.545,Retrosheet
+1923,NY1,New York Giants,21,7,14,0.333,Retrosheet
+1923,PHI,Philadelphia Phillies,22,15,7,0.682,Retrosheet
+1923,PIT,Pittsburgh Pirates,22,10,12,0.455,Retrosheet
+1924,BRO,Brooklyn Dodgers,22,7,15,0.318,Retrosheet
+1924,BSN,Boston Braves,22,16,6,0.727,Retrosheet
+1924,CHN,Chicago Cubs,22,7,15,0.318,Retrosheet
+1924,CIN,Cincinnati Reds,22,9,13,0.409,Retrosheet
+1924,NY1,New York Giants,22,9,13,0.409,Retrosheet
+1924,PHI,Philadelphia Phillies,22,10,12,0.455,Retrosheet
+1924,PIT,Pittsburgh Pirates,22,7,15,0.318,Retrosheet
+1925,BRO,Brooklyn Dodgers,22,11,11,0.500,Retrosheet
+1925,BSN,Boston Braves,22,10,12,0.455,Retrosheet
+1925,CHN,Chicago Cubs,22,14,8,0.636,Retrosheet
+1925,CIN,Cincinnati Reds,22,10,12,0.455,Retrosheet
+1925,NY1,New York Giants,21,9,12,0.429,Retrosheet
+1925,PHI,Philadelphia Phillies,22,15,7,0.682,Retrosheet
+1925,PIT,Pittsburgh Pirates,22,8,14,0.364,Retrosheet
+1926,BRO,Brooklyn Dodgers,22,15,7,0.682,Retrosheet
+1926,BSN,Boston Braves,22,15,7,0.682,Retrosheet
+1926,CHN,Chicago Cubs,22,11,11,0.500,Retrosheet
+1926,CIN,Cincinnati Reds,22,8,14,0.364,Retrosheet
+1926,NY1,New York Giants,22,12,10,0.545,Retrosheet
+1926,PHI,Philadelphia Phillies,22,15,7,0.682,Retrosheet
+1926,PIT,Pittsburgh Pirates,24,13,9,0.591,Retrosheet
+1927,BRO,Brooklyn Dodgers,22,14,8,0.636,Retrosheet
+1927,BSN,Boston Braves,22,15,7,0.682,Retrosheet
+1927,CHN,Chicago Cubs,21,12,9,0.571,Retrosheet
+1927,CIN,Cincinnati Reds,22,14,8,0.636,Retrosheet
+1927,NY1,New York Giants,22,10,12,0.455,Retrosheet
+1927,PHI,Philadelphia Phillies,22,19,3,0.864,Retrosheet
+1927,PIT,Pittsburgh Pirates,22,8,14,0.364,Retrosheet
+1928,BRO,Brooklyn Dodgers,22,13,9,0.591,Retrosheet
+1928,BSN,Boston Braves,22,18,4,0.818,Retrosheet
+1928,CHN,Chicago Cubs,22,11,11,0.500,Retrosheet
+1928,CIN,Cincinnati Reds,22,10,12,0.455,Retrosheet
+1928,NY1,New York Giants,22,8,14,0.364,Retrosheet
+1928,PHI,Philadelphia Phillies,22,20,2,0.909,Retrosheet
+1928,PIT,Pittsburgh Pirates,22,15,7,0.682,Retrosheet
+1929,BRO,Brooklyn Dodgers,22,12,10,0.545,Retrosheet
+1929,BSN,Boston Braves,22,14,8,0.636,Retrosheet
+1929,CHN,Chicago Cubs,21,5,15,0.250,Retrosheet
+1929,CIN,Cincinnati Reds,22,19,3,0.864,Retrosheet
+1929,NY1,New York Giants,22,9,13,0.409,Retrosheet
+1929,PHI,Philadelphia Phillies,22,13,9,0.591,Retrosheet
+1929,PIT,Pittsburgh Pirates,23,6,16,0.273,Retrosheet
+1930,BRO,Brooklyn Dodgers,22,11,11,0.500,Retrosheet
+1930,BSN,Boston Braves,22,14,8,0.636,Retrosheet
+1930,CHN,Chicago Cubs,22,11,11,0.500,Retrosheet
+1930,CIN,Cincinnati Reds,22,19,3,0.864,Retrosheet
+1930,NY1,New York Giants,22,12,10,0.545,Retrosheet
+1930,PHI,Philadelphia Phillies,22,16,6,0.727,Retrosheet
+1930,PIT,Pittsburgh Pirates,22,9,13,0.409,Retrosheet
+1931,BRO,Brooklyn Dodgers,22,12,10,0.545,Retrosheet
+1931,BSN,Boston Braves,22,13,9,0.591,Retrosheet
+1931,CHN,Chicago Cubs,22,14,8,0.636,Retrosheet
+1931,CIN,Cincinnati Reds,22,20,2,0.909,Retrosheet
+1931,NY1,New York Giants,22,12,10,0.545,Retrosheet
+1931,PHI,Philadelphia Phillies,22,18,4,0.818,Retrosheet
+1931,PIT,Pittsburgh Pirates,22,12,10,0.545,Retrosheet
+1932,BRO,Brooklyn Dodgers,22,8,14,0.364,Retrosheet
+1932,BSN,Boston Braves,23,9,13,0.409,Retrosheet
+1932,CHN,Chicago Cubs,22,10,12,0.455,Retrosheet
+1932,CIN,Cincinnati Reds,23,16,6,0.727,Retrosheet
+1932,NY1,New York Giants,22,8,14,0.364,Retrosheet
+1932,PHI,Philadelphia Phillies,22,13,9,0.591,Retrosheet
+1932,PIT,Pittsburgh Pirates,22,8,14,0.364,Retrosheet
+1933,BRO,Brooklyn Dodgers,21,12,9,0.571,Retrosheet
+1933,BSN,Boston Braves,22,7,15,0.318,Retrosheet
+1933,CHN,Chicago Cubs,22,11,11,0.500,Retrosheet
+1933,CIN,Cincinnati Reds,22,15,7,0.682,Retrosheet
+1933,NY1,New York Giants,23,13,9,0.591,Retrosheet
+1933,PHI,Philadelphia Phillies,22,16,6,0.727,Retrosheet
+1933,PIT,Pittsburgh Pirates,22,8,14,0.364,Retrosheet
+1934,BRO,Brooklyn Dodgers,22,15,7,0.682,Retrosheet
+1934,BSN,Boston Braves,21,16,5,0.762,Retrosheet
+1934,CHN,Chicago Cubs,22,10,12,0.455,Retrosheet
+1934,CIN,Cincinnati Reds,23,16,6,0.727,Retrosheet
+1934,NY1,New York Giants,22,13,9,0.591,Retrosheet
+1934,PHI,Philadelphia Phillies,22,16,6,0.727,Retrosheet
+1934,PIT,Pittsburgh Pirates,22,9,13,0.409,Retrosheet
+1935,BRO,Brooklyn Dodgers,22,16,6,0.727,Retrosheet
+1935,BSN,Boston Braves,22,18,4,0.818,Retrosheet
+1935,CHN,Chicago Cubs,22,14,8,0.636,Retrosheet
+1935,CIN,Cincinnati Reds,22,14,8,0.636,Retrosheet
+1935,NY1,New York Giants,22,8,14,0.364,Retrosheet
+1935,PHI,Philadelphia Phillies,22,15,7,0.682,Retrosheet
+1935,PIT,Pittsburgh Pirates,22,11,11,0.500,Retrosheet
+1936,BRO,Brooklyn Dodgers,22,13,9,0.591,Retrosheet
+1936,BSN,Boston Braves,22,9,13,0.409,Retrosheet
+1936,CHN,Chicago Cubs,22,13,9,0.591,Retrosheet
+1936,CIN,Cincinnati Reds,22,12,10,0.545,Retrosheet
+1936,NY1,New York Giants,22,12,10,0.545,Retrosheet
+1936,PHI,Philadelphia Phillies,22,15,7,0.682,Retrosheet
+1936,PIT,Pittsburgh Pirates,23,13,9,0.591,Retrosheet
+1937,BRO,Brooklyn Dodgers,23,15,7,0.682,Retrosheet
+1937,BSN,Boston Braves,22,13,9,0.591,Retrosheet
+1937,CHN,Chicago Cubs,22,5,17,0.227,Retrosheet
+1937,CIN,Cincinnati Reds,22,15,7,0.682,Retrosheet
+1937,NY1,New York Giants,22,8,14,0.364,Retrosheet
+1937,PHI,Philadelphia Phillies,24,17,5,0.773,Retrosheet
+1937,PIT,Pittsburgh Pirates,22,8,14,0.364,Retrosheet
+1938,BRO,Brooklyn Dodgers,22,12,9,0.571,Retrosheet
+1938,BSN,Boston Braves,23,9,13,0.409,Retrosheet
+1938,CHN,Chicago Cubs,23,9,13,0.409,Retrosheet
+1938,CIN,Cincinnati Reds,23,9,13,0.409,Retrosheet
+1938,NY1,New York Giants,21,9,11,0.450,Retrosheet
+1938,PHI,Philadelphia Phillies,22,16,6,0.727,Retrosheet
+1938,PIT,Pittsburgh Pirates,22,7,15,0.318,Retrosheet
+1939,BRO,Brooklyn Dodgers,22,13,9,0.591,Retrosheet
+1939,BSN,Boston Braves,22,13,9,0.591,Retrosheet
+1939,CHN,Chicago Cubs,22,12,10,0.545,Retrosheet
+1939,CIN,Cincinnati Reds,24,11,11,0.500,Retrosheet
+1939,NY1,New York Giants,21,12,9,0.571,Retrosheet
+1939,PHI,Philadelphia Phillies,22,17,5,0.773,Retrosheet
+1939,PIT,Pittsburgh Pirates,22,14,8,0.636,Retrosheet
+1940,BRO,Brooklyn Dodgers,23,13,9,0.591,Retrosheet
+1940,BSN,Boston Braves,22,14,8,0.636,Retrosheet
+1940,CHN,Chicago Cubs,22,14,8,0.636,Retrosheet
+1940,CIN,Cincinnati Reds,23,10,12,0.455,Retrosheet
+1940,NY1,New York Giants,21,10,11,0.476,Retrosheet
+1940,PHI,Philadelphia Phillies,22,16,6,0.727,Retrosheet
+1940,PIT,Pittsburgh Pirates,23,7,15,0.318,Retrosheet
+1941,BRO,Brooklyn Dodgers,23,11,11,0.500,Retrosheet
+1941,BSN,Boston Braves,22,14,8,0.636,Retrosheet
+1941,CHN,Chicago Cubs,22,12,10,0.545,Retrosheet
+1941,CIN,Cincinnati Reds,22,12,10,0.545,Retrosheet
+1941,NY1,New York Giants,22,15,6,0.714,Retrosheet
+1941,PHI,Philadelphia Phillies,22,17,5,0.773,Retrosheet
+1941,PIT,Pittsburgh Pirates,22,16,6,0.727,Retrosheet
+1942,BRO,Brooklyn Dodgers,22,13,9,0.591,Retrosheet
+1942,BSN,Boston Braves,22,16,6,0.727,Retrosheet
+1942,CHN,Chicago Cubs,22,16,6,0.727,Retrosheet
+1942,CIN,Cincinnati Reds,22,15,7,0.682,Retrosheet
+1942,NY1,New York Giants,22,15,7,0.682,Retrosheet
+1942,PHI,Philadelphia Phillies,22,17,5,0.773,Retrosheet
+1942,PIT,Pittsburgh Pirates,24,14,8,0.636,Retrosheet
+1943,BRO,Brooklyn Dodgers,22,15,7,0.682,Retrosheet
+1943,BSN,Boston Braves,22,19,3,0.864,Retrosheet
+1943,CHN,Chicago Cubs,22,13,9,0.591,Retrosheet
+1943,CIN,Cincinnati Reds,22,12,10,0.545,Retrosheet
+1943,NY1,New York Giants,22,18,4,0.818,Retrosheet
+1943,PHI,Philadelphia Phillies,23,13,9,0.591,Retrosheet
+1943,PIT,Pittsburgh Pirates,24,15,7,0.682,Retrosheet
+1944,BRO,Brooklyn Dodgers,22,18,4,0.818,Retrosheet
+1944,BSN,Boston Braves,22,14,8,0.636,Retrosheet
+1944,CHN,Chicago Cubs,22,16,6,0.727,Retrosheet
+1944,CIN,Cincinnati Reds,22,14,8,0.636,Retrosheet
+1944,NY1,New York Giants,22,16,6,0.727,Retrosheet
+1944,PHI,Philadelphia Phillies,22,17,5,0.773,Retrosheet
+1944,PIT,Pittsburgh Pirates,25,10,12,0.455,Retrosheet
+1945,BRO,Brooklyn Dodgers,22,13,9,0.591,Retrosheet
+1945,BSN,Boston Braves,22,12,10,0.545,Retrosheet
+1945,CHN,Chicago Cubs,22,16,6,0.727,Retrosheet
+1945,CIN,Cincinnati Reds,22,13,9,0.591,Retrosheet
+1945,NY1,New York Giants,22,16,6,0.727,Retrosheet
+1945,PHI,Philadelphia Phillies,22,13,9,0.591,Retrosheet
+1945,PIT,Pittsburgh Pirates,23,12,10,0.545,Retrosheet
+1946,BRO,Brooklyn Dodgers,22,14,8,0.636,Retrosheet
+1946,BSN,Boston Braves,22,15,7,0.682,Retrosheet
+1946,CHN,Chicago Cubs,22,14,8,0.636,Retrosheet
+1946,CIN,Cincinnati Reds,22,14,8,0.636,Retrosheet
+1946,NY1,New York Giants,22,12,10,0.545,Retrosheet
+1946,PHI,Philadelphia Phillies,22,14,8,0.636,Retrosheet
+1946,PIT,Pittsburgh Pirates,22,13,9,0.591,Retrosheet
+1947,BRO,Brooklyn Dodgers,23,11,11,0.500,Retrosheet
+1947,BSN,Boston Braves,22,13,9,0.591,Retrosheet
+1947,CHN,Chicago Cubs,22,12,10,0.545,Retrosheet
+1947,CIN,Cincinnati Reds,22,14,8,0.636,Retrosheet
+1947,NY1,New York Giants,22,9,13,0.409,Retrosheet
+1947,PHI,Philadelphia Phillies,22,14,8,0.636,Retrosheet
+1947,PIT,Pittsburgh Pirates,23,16,6,0.727,Retrosheet
+1948,BRO,Brooklyn Dodgers,22,10,12,0.455,Retrosheet
+1948,BSN,Boston Braves,22,11,11,0.500,Retrosheet
+1948,CHN,Chicago Cubs,22,11,11,0.500,Retrosheet
+1948,CIN,Cincinnati Reds,22,12,10,0.545,Retrosheet
+1948,NY1,New York Giants,22,15,7,0.682,Retrosheet
+1948,PHI,Philadelphia Phillies,22,17,5,0.773,Retrosheet
+1948,PIT,Pittsburgh Pirates,23,9,13,0.409,Retrosheet
+1949,BRO,Brooklyn Dodgers,24,12,10,0.545,Retrosheet
+1949,BSN,Boston Braves,22,16,6,0.727,Retrosheet
+1949,CHN,Chicago Cubs,22,14,8,0.636,Retrosheet
+1949,CIN,Cincinnati Reds,23,17,5,0.773,Retrosheet
+1949,NY1,New York Giants,22,15,7,0.682,Retrosheet
+1949,PHI,Philadelphia Phillies,22,12,10,0.545,Retrosheet
+1949,PIT,Pittsburgh Pirates,22,10,12,0.455,Retrosheet
+1950,BRO,Brooklyn Dodgers,22,10,12,0.455,Retrosheet
+1950,BSN,Boston Braves,22,11,11,0.500,Retrosheet
+1950,CHN,Chicago Cubs,22,12,10,0.545,Retrosheet
+1950,CIN,Cincinnati Reds,22,15,7,0.682,Retrosheet
+1950,NY1,New York Giants,22,11,11,0.500,Retrosheet
+1950,PHI,Philadelphia Phillies,22,10,12,0.455,Retrosheet
+1950,PIT,Pittsburgh Pirates,21,9,12,0.429,Retrosheet
+1951,BRO,Brooklyn Dodgers,22,4,18,0.182,Retrosheet
+1951,BSN,Boston Braves,22,9,13,0.409,Retrosheet
+1951,CHN,Chicago Cubs,23,13,9,0.591,Retrosheet
+1951,CIN,Cincinnati Reds,22,14,8,0.636,Retrosheet
+1951,NY1,New York Giants,22,11,11,0.500,Retrosheet
+1951,PHI,Philadelphia Phillies,22,13,9,0.591,Retrosheet
+1951,PIT,Pittsburgh Pirates,22,17,5,0.773,Retrosheet
+1952,BRO,Brooklyn Dodgers,22,11,11,0.500,Retrosheet
+1952,BSN,Boston Braves,22,15,7,0.682,Retrosheet
+1952,CHN,Chicago Cubs,22,11,11,0.500,Retrosheet
+1952,CIN,Cincinnati Reds,22,12,10,0.545,Retrosheet
+1952,NY1,New York Giants,22,10,12,0.455,Retrosheet
+1952,PHI,Philadelphia Phillies,22,12,10,0.545,Retrosheet
+1952,PIT,Pittsburgh Pirates,22,17,5,0.773,Retrosheet
+1953,BRO,Brooklyn Dodgers,22,7,15,0.318,Retrosheet
+1953,CHN,Chicago Cubs,22,11,11,0.500,Retrosheet
+1953,CIN,Cincinnati Reds,23,15,7,0.682,Retrosheet
+1953,MLN,Milwaukee Braves,23,9,13,0.409,Retrosheet
+1953,NY1,New York Giants,22,13,9,0.591,Retrosheet
+1953,PHI,Philadelphia Phillies,23,11,11,0.500,Retrosheet
+1953,PIT,Pittsburgh Pirates,22,17,5,0.773,Retrosheet
+1954,BRO,Brooklyn Dodgers,22,8,14,0.364,Retrosheet
+1954,CHN,Chicago Cubs,22,8,14,0.364,Retrosheet
+1954,CIN,Cincinnati Reds,22,14,8,0.636,Retrosheet
+1954,MLN,Milwaukee Braves,22,10,12,0.455,Retrosheet
+1954,NY1,New York Giants,22,10,12,0.455,Retrosheet
+1954,PHI,Philadelphia Phillies,22,10,12,0.455,Retrosheet
+1954,PIT,Pittsburgh Pirates,22,12,10,0.545,Retrosheet
+1955,BRO,Brooklyn Dodgers,22,8,14,0.364,Retrosheet
+1955,CHN,Chicago Cubs,22,8,14,0.364,Retrosheet
+1955,CIN,Cincinnati Reds,22,11,11,0.500,Retrosheet
+1955,MLN,Milwaukee Braves,22,11,11,0.500,Retrosheet
+1955,NY1,New York Giants,22,9,13,0.409,Retrosheet
+1955,PHI,Philadelphia Phillies,22,9,13,0.409,Retrosheet
+1955,PIT,Pittsburgh Pirates,22,12,10,0.545,Retrosheet
+1956,BRO,Brooklyn Dodgers,22,6,16,0.273,Retrosheet
+1956,CHN,Chicago Cubs,23,13,9,0.591,Retrosheet
+1956,CIN,Cincinnati Reds,22,9,13,0.409,Retrosheet
+1956,MLN,Milwaukee Braves,22,9,13,0.409,Retrosheet
+1956,NY1,New York Giants,22,15,7,0.682,Retrosheet
+1956,PHI,Philadelphia Phillies,22,10,12,0.455,Retrosheet
+1956,PIT,Pittsburgh Pirates,23,14,8,0.636,Retrosheet
+1957,BRO,Brooklyn Dodgers,22,10,12,0.455,Retrosheet
+1957,CHN,Chicago Cubs,22,10,12,0.455,Retrosheet
+1957,CIN,Cincinnati Reds,22,13,9,0.591,Retrosheet
+1957,MLN,Milwaukee Braves,22,11,11,0.500,Retrosheet
+1957,NY1,New York Giants,22,14,8,0.636,Retrosheet
+1957,PHI,Philadelphia Phillies,22,13,9,0.591,Retrosheet
+1957,PIT,Pittsburgh Pirates,22,16,6,0.727,Retrosheet
+1958,CHN,Chicago Cubs,22,15,7,0.682,Retrosheet
+1958,CIN,Cincinnati Reds,22,10,12,0.455,Retrosheet
+1958,LAN,Los Angeles Dodgers,22,11,11,0.500,Retrosheet
+1958,MLN,Milwaukee Braves,22,7,15,0.318,Retrosheet
+1958,PHI,Philadelphia Phillies,22,10,12,0.455,Retrosheet
+1958,PIT,Pittsburgh Pirates,22,10,12,0.455,Retrosheet
+1958,SFN,San Francisco Giants,22,9,13,0.409,Retrosheet
+1959,CHN,Chicago Cubs,22,12,10,0.545,Retrosheet
+1959,CIN,Cincinnati Reds,22,11,11,0.500,Retrosheet
+1959,LAN,Los Angeles Dodgers,22,10,12,0.455,Retrosheet
+1959,MLN,Milwaukee Braves,22,9,13,0.409,Retrosheet
+1959,PHI,Philadelphia Phillies,22,15,7,0.682,Retrosheet
+1959,PIT,Pittsburgh Pirates,22,8,14,0.364,Retrosheet
+1959,SFN,San Francisco Giants,22,6,16,0.273,Retrosheet
+1960,CHN,Chicago Cubs,23,14,8,0.636,Retrosheet
+1960,CIN,Cincinnati Reds,22,14,8,0.636,Retrosheet
+1960,LAN,Los Angeles Dodgers,22,12,10,0.545,Retrosheet
+1960,MLN,Milwaukee Braves,22,11,11,0.500,Retrosheet
+1960,PHI,Philadelphia Phillies,22,15,7,0.682,Retrosheet
+1960,PIT,Pittsburgh Pirates,22,11,11,0.500,Retrosheet
+1960,SFN,San Francisco Giants,22,9,13,0.409,Retrosheet
+1961,CHN,Chicago Cubs,23,15,7,0.682,Retrosheet
+1961,CIN,Cincinnati Reds,22,8,14,0.364,Retrosheet
+1961,LAN,Los Angeles Dodgers,22,10,12,0.455,Retrosheet
+1961,MLN,Milwaukee Braves,22,8,14,0.364,Retrosheet
+1961,PHI,Philadelphia Phillies,22,13,9,0.591,Retrosheet
+1961,PIT,Pittsburgh Pirates,22,13,9,0.591,Retrosheet
+1961,SFN,San Francisco Giants,22,13,9,0.591,Retrosheet
+1962,CHN,Chicago Cubs,18,11,7,0.611,Retrosheet
+1962,CIN,Cincinnati Reds,18,10,8,0.556,Retrosheet
+1962,HOU,Houston Astros,19,9,9,0.500,Retrosheet
+1962,LAN,Los Angeles Dodgers,18,11,7,0.611,Retrosheet
+1962,MLN,Milwaukee Braves,18,6,12,0.333,Retrosheet
+1962,NYN,New York Mets,18,13,5,0.722,Retrosheet
+1962,PHI,Philadelphia Phillies,18,9,9,0.500,Retrosheet
+1962,PIT,Pittsburgh Pirates,18,6,12,0.333,Retrosheet
+1962,SFN,San Francisco Giants,18,9,9,0.500,Retrosheet
+1963,CHN,Chicago Cubs,18,11,7,0.611,Retrosheet
+1963,CIN,Cincinnati Reds,18,7,11,0.389,Retrosheet
+1963,HOU,Houston Astros,18,13,5,0.722,Retrosheet
+1963,LAN,Los Angeles Dodgers,18,6,12,0.333,Retrosheet
+1963,MLN,Milwaukee Braves,18,10,8,0.556,Retrosheet
+1963,NYN,New York Mets,18,13,5,0.722,Retrosheet
+1963,PHI,Philadelphia Phillies,18,10,8,0.556,Retrosheet
+1963,PIT,Pittsburgh Pirates,18,13,5,0.722,Retrosheet
+1963,SFN,San Francisco Giants,18,10,8,0.556,Retrosheet
+1964,CHN,Chicago Cubs,18,12,6,0.667,Retrosheet
+1964,CIN,Cincinnati Reds,18,8,10,0.444,Retrosheet
+1964,HOU,Houston Astros,18,10,8,0.556,Retrosheet
+1964,LAN,Los Angeles Dodgers,18,8,10,0.444,Retrosheet
+1964,MLN,Milwaukee Braves,18,10,8,0.556,Retrosheet
+1964,NYN,New York Mets,18,11,7,0.611,Retrosheet
+1964,PHI,Philadelphia Phillies,18,13,5,0.722,Retrosheet
+1964,PIT,Pittsburgh Pirates,18,12,6,0.667,Retrosheet
+1964,SFN,San Francisco Giants,18,9,9,0.500,Retrosheet
+1965,CHN,Chicago Cubs,19,8,10,0.444,Retrosheet
+1965,CIN,Cincinnati Reds,18,8,10,0.444,Retrosheet
+1965,HOU,Houston Astros,18,9,9,0.500,Retrosheet
+1965,LAN,Los Angeles Dodgers,18,6,12,0.333,Retrosheet
+1965,MLN,Milwaukee Braves,18,7,11,0.389,Retrosheet
+1965,NYN,New York Mets,18,13,5,0.722,Retrosheet
+1965,PHI,Philadelphia Phillies,17,7,10,0.412,Retrosheet
+1965,PIT,Pittsburgh Pirates,18,14,4,0.778,Retrosheet
+1965,SFN,San Francisco Giants,18,8,10,0.444,Retrosheet
+1966,ATL,Atlanta Braves,18,11,7,0.611,Retrosheet
+1966,CHN,Chicago Cubs,18,14,4,0.778,Retrosheet
+1966,CIN,Cincinnati Reds,18,7,11,0.389,Retrosheet
+1966,HOU,Houston Astros,18,8,10,0.444,Retrosheet
+1966,LAN,Los Angeles Dodgers,18,8,10,0.444,Retrosheet
+1966,NYN,New York Mets,18,11,7,0.611,Retrosheet
+1966,PHI,Philadelphia Phillies,18,8,10,0.444,Retrosheet
+1966,PIT,Pittsburgh Pirates,18,10,8,0.556,Retrosheet
+1966,SFN,San Francisco Giants,18,6,12,0.333,Retrosheet
+1967,ATL,Atlanta Braves,18,12,6,0.667,Retrosheet
+1967,CHN,Chicago Cubs,17,11,6,0.647,Retrosheet
+1967,CIN,Cincinnati Reds,18,13,5,0.722,Retrosheet
+1967,HOU,Houston Astros,18,12,6,0.667,Retrosheet
+1967,LAN,Los Angeles Dodgers,18,12,6,0.667,Retrosheet
+1967,NYN,New York Mets,18,11,7,0.611,Retrosheet
+1967,PHI,Philadelphia Phillies,18,12,6,0.667,Retrosheet
+1967,PIT,Pittsburgh Pirates,18,7,11,0.389,Retrosheet
+1967,SFN,San Francisco Giants,18,11,7,0.611,Retrosheet
+1968,ATL,Atlanta Braves,18,13,5,0.722,Retrosheet
+1968,CHN,Chicago Cubs,18,9,9,0.500,Retrosheet
+1968,CIN,Cincinnati Reds,18,11,7,0.611,Retrosheet
+1968,HOU,Houston Astros,18,13,5,0.722,Retrosheet
+1968,LAN,Los Angeles Dodgers,18,9,9,0.500,Retrosheet
+1968,NYN,New York Mets,18,12,6,0.667,Retrosheet
+1968,PHI,Philadelphia Phillies,18,10,8,0.556,Retrosheet
+1968,PIT,Pittsburgh Pirates,18,12,6,0.667,Retrosheet
+1968,SFN,San Francisco Giants,18,8,10,0.444,Retrosheet
+1969,ATL,Atlanta Braves,12,6,6,0.500,Retrosheet
+1969,CHN,Chicago Cubs,18,9,9,0.500,Retrosheet
+1969,CIN,Cincinnati Reds,12,4,8,0.333,Retrosheet
+1969,HOU,Houston Astros,12,5,7,0.417,Retrosheet
+1969,LAN,Los Angeles Dodgers,12,9,3,0.750,Retrosheet
+1969,MON,Montreal Expos,18,11,7,0.611,Retrosheet
+1969,NYN,New York Mets,18,6,12,0.333,Retrosheet
+1969,PHI,Philadelphia Phillies,18,11,7,0.611,Retrosheet
+1969,PIT,Pittsburgh Pirates,18,9,9,0.500,Retrosheet
+1969,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1969,SFN,San Francisco Giants,12,9,3,0.750,Retrosheet
+1970,ATL,Atlanta Braves,12,5,7,0.417,Retrosheet
+1970,CHN,Chicago Cubs,18,11,7,0.611,Retrosheet
+1970,CIN,Cincinnati Reds,12,3,9,0.250,Retrosheet
+1970,HOU,Houston Astros,12,6,6,0.500,Retrosheet
+1970,LAN,Los Angeles Dodgers,12,5,7,0.417,Retrosheet
+1970,MON,Montreal Expos,18,11,7,0.611,Retrosheet
+1970,NYN,New York Mets,18,6,12,0.333,Retrosheet
+1970,PHI,Philadelphia Phillies,18,10,8,0.556,Retrosheet
+1970,PIT,Pittsburgh Pirates,18,6,12,0.333,Retrosheet
+1970,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1970,SFN,San Francisco Giants,12,5,7,0.417,Retrosheet
+1971,ATL,Atlanta Braves,12,6,6,0.500,Retrosheet
+1971,CHN,Chicago Cubs,18,9,9,0.500,Retrosheet
+1971,CIN,Cincinnati Reds,12,4,8,0.333,Retrosheet
+1971,HOU,Houston Astros,12,10,2,0.833,Retrosheet
+1971,LAN,Los Angeles Dodgers,12,6,6,0.500,Retrosheet
+1971,MON,Montreal Expos,19,14,4,0.778,Retrosheet
+1971,NYN,New York Mets,18,8,10,0.444,Retrosheet
+1971,PHI,Philadelphia Phillies,18,11,7,0.611,Retrosheet
+1971,PIT,Pittsburgh Pirates,18,7,11,0.389,Retrosheet
+1971,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1971,SFN,San Francisco Giants,12,7,5,0.583,Retrosheet
+1972,ATL,Atlanta Braves,12,6,6,0.500,Retrosheet
+1972,CHN,Chicago Cubs,18,8,10,0.444,Retrosheet
+1972,CIN,Cincinnati Reds,12,2,10,0.167,Retrosheet
+1972,HOU,Houston Astros,12,8,4,0.667,Retrosheet
+1972,LAN,Los Angeles Dodgers,12,4,8,0.333,Retrosheet
+1972,MON,Montreal Expos,17,8,9,0.471,Retrosheet
+1972,NYN,New York Mets,16,9,7,0.562,Retrosheet
+1972,PHI,Philadelphia Phillies,15,7,8,0.467,Retrosheet
+1972,PIT,Pittsburgh Pirates,18,8,10,0.444,Retrosheet
+1972,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1972,SFN,San Francisco Giants,12,7,5,0.583,Retrosheet
+1973,ATL,Atlanta Braves,12,6,6,0.500,Retrosheet
+1973,CHN,Chicago Cubs,18,9,9,0.500,Retrosheet
+1973,CIN,Cincinnati Reds,12,6,6,0.500,Retrosheet
+1973,HOU,Houston Astros,12,7,5,0.583,Retrosheet
+1973,LAN,Los Angeles Dodgers,12,4,8,0.333,Retrosheet
+1973,MON,Montreal Expos,18,10,8,0.556,Retrosheet
+1973,NYN,New York Mets,18,8,10,0.444,Retrosheet
+1973,PHI,Philadelphia Phillies,18,9,9,0.500,Retrosheet
+1973,PIT,Pittsburgh Pirates,18,8,10,0.444,Retrosheet
+1973,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1973,SFN,San Francisco Giants,12,6,6,0.500,Retrosheet
+1974,ATL,Atlanta Braves,12,3,9,0.250,Retrosheet
+1974,CHN,Chicago Cubs,18,13,5,0.722,Retrosheet
+1974,CIN,Cincinnati Reds,12,6,6,0.500,Retrosheet
+1974,HOU,Houston Astros,12,4,8,0.333,Retrosheet
+1974,LAN,Los Angeles Dodgers,12,6,6,0.500,Retrosheet
+1974,MON,Montreal Expos,17,9,8,0.529,Retrosheet
+1974,NYN,New York Mets,18,12,6,0.667,Retrosheet
+1974,PHI,Philadelphia Phillies,18,9,9,0.500,Retrosheet
+1974,PIT,Pittsburgh Pirates,18,11,7,0.611,Retrosheet
+1974,SDN,San Diego Padres,12,7,5,0.583,Retrosheet
+1974,SFN,San Francisco Giants,12,6,6,0.500,Retrosheet
+1975,ATL,Atlanta Braves,12,9,3,0.750,Retrosheet
+1975,CHN,Chicago Cubs,18,7,11,0.389,Retrosheet
+1975,CIN,Cincinnati Reds,12,4,8,0.333,Retrosheet
+1975,HOU,Houston Astros,13,8,4,0.667,Retrosheet
+1975,LAN,Los Angeles Dodgers,12,7,5,0.583,Retrosheet
+1975,MON,Montreal Expos,18,7,11,0.389,Retrosheet
+1975,NYN,New York Mets,18,9,9,0.500,Retrosheet
+1975,PHI,Philadelphia Phillies,18,8,10,0.444,Retrosheet
+1975,PIT,Pittsburgh Pirates,18,8,10,0.444,Retrosheet
+1975,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1975,SFN,San Francisco Giants,12,7,5,0.583,Retrosheet
+1976,ATL,Atlanta Braves,12,8,4,0.667,Retrosheet
+1976,CHN,Chicago Cubs,18,6,12,0.333,Retrosheet
+1976,CIN,Cincinnati Reds,12,6,6,0.500,Retrosheet
+1976,HOU,Houston Astros,12,3,9,0.250,Retrosheet
+1976,LAN,Los Angeles Dodgers,12,2,10,0.167,Retrosheet
+1976,MON,Montreal Expos,18,11,7,0.611,Retrosheet
+1976,NYN,New York Mets,18,9,9,0.500,Retrosheet
+1976,PHI,Philadelphia Phillies,18,6,12,0.333,Retrosheet
+1976,PIT,Pittsburgh Pirates,18,6,12,0.333,Retrosheet
+1976,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1976,SFN,San Francisco Giants,12,7,5,0.583,Retrosheet
+1977,ATL,Atlanta Braves,12,11,1,0.917,Retrosheet
+1977,CHN,Chicago Cubs,18,11,7,0.611,Retrosheet
+1977,CIN,Cincinnati Reds,12,7,5,0.583,Retrosheet
+1977,HOU,Houston Astros,12,7,5,0.583,Retrosheet
+1977,LAN,Los Angeles Dodgers,12,6,6,0.500,Retrosheet
+1977,MON,Montreal Expos,18,6,12,0.333,Retrosheet
+1977,NYN,New York Mets,18,10,8,0.556,Retrosheet
+1977,PHI,Philadelphia Phillies,18,7,11,0.389,Retrosheet
+1977,PIT,Pittsburgh Pirates,18,9,9,0.500,Retrosheet
+1977,SDN,San Diego Padres,12,4,8,0.333,Retrosheet
+1977,SFN,San Francisco Giants,12,5,7,0.417,Retrosheet
+1978,ATL,Atlanta Braves,12,7,5,0.583,Retrosheet
+1978,CHN,Chicago Cubs,18,3,15,0.167,Retrosheet
+1978,CIN,Cincinnati Reds,12,4,8,0.333,Retrosheet
+1978,HOU,Houston Astros,12,5,7,0.417,Retrosheet
+1978,LAN,Los Angeles Dodgers,12,7,5,0.583,Retrosheet
+1978,MON,Montreal Expos,18,9,9,0.500,Retrosheet
+1978,NYN,New York Mets,18,11,7,0.611,Retrosheet
+1978,PHI,Philadelphia Phillies,18,8,10,0.444,Retrosheet
+1978,PIT,Pittsburgh Pirates,18,9,9,0.500,Retrosheet
+1978,SDN,San Diego Padres,12,3,9,0.250,Retrosheet
+1978,SFN,San Francisco Giants,12,3,9,0.250,Retrosheet
+1979,ATL,Atlanta Braves,12,8,4,0.667,Retrosheet
+1979,CHN,Chicago Cubs,18,10,8,0.556,Retrosheet
+1979,CIN,Cincinnati Reds,12,4,8,0.333,Retrosheet
+1979,HOU,Houston Astros,12,6,6,0.500,Retrosheet
+1979,LAN,Los Angeles Dodgers,12,6,6,0.500,Retrosheet
+1979,MON,Montreal Expos,18,8,10,0.444,Retrosheet
+1979,NYN,New York Mets,18,11,7,0.611,Retrosheet
+1979,PHI,Philadelphia Phillies,19,11,7,0.611,Retrosheet
+1979,PIT,Pittsburgh Pirates,18,7,11,0.389,Retrosheet
+1979,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1979,SFN,San Francisco Giants,12,7,5,0.583,Retrosheet
+1980,ATL,Atlanta Braves,12,6,6,0.500,Retrosheet
+1980,CHN,Chicago Cubs,18,9,9,0.500,Retrosheet
+1980,CIN,Cincinnati Reds,12,7,5,0.583,Retrosheet
+1980,HOU,Houston Astros,12,5,7,0.417,Retrosheet
+1980,LAN,Los Angeles Dodgers,12,5,7,0.417,Retrosheet
+1980,MON,Montreal Expos,18,6,12,0.333,Retrosheet
+1980,NYN,New York Mets,18,9,9,0.500,Retrosheet
+1980,PHI,Philadelphia Phillies,18,9,9,0.500,Retrosheet
+1980,PIT,Pittsburgh Pirates,18,8,10,0.444,Retrosheet
+1980,SDN,San Diego Padres,12,5,7,0.417,Retrosheet
+1980,SFN,San Francisco Giants,12,5,7,0.417,Retrosheet
+1981,ATL,Atlanta Braves,7,3,4,0.429,Retrosheet
+1981,CHN,Chicago Cubs,10,4,5,0.444,Retrosheet
+1981,CIN,Cincinnati Reds,5,5,0,1.000,Retrosheet
+1981,HOU,Houston Astros,6,4,2,0.667,Retrosheet
+1981,LAN,Los Angeles Dodgers,10,5,5,0.500,Retrosheet
+1981,MON,Montreal Expos,15,9,6,0.600,Retrosheet
+1981,NYN,New York Mets,11,5,6,0.455,Retrosheet
+1981,PHI,Philadelphia Phillies,13,6,7,0.462,Retrosheet
+1981,PIT,Pittsburgh Pirates,11,8,3,0.727,Retrosheet
+1981,SDN,San Diego Padres,10,7,3,0.700,Retrosheet
+1981,SFN,San Francisco Giants,5,3,2,0.600,Retrosheet
+1982,ATL,Atlanta Braves,12,5,7,0.417,Retrosheet
+1982,CHN,Chicago Cubs,18,12,6,0.667,Retrosheet
+1982,CIN,Cincinnati Reds,12,7,5,0.583,Retrosheet
+1982,HOU,Houston Astros,12,6,6,0.500,Retrosheet
+1982,LAN,Los Angeles Dodgers,12,5,7,0.417,Retrosheet
+1982,MON,Montreal Expos,18,8,10,0.444,Retrosheet
+1982,NYN,New York Mets,18,12,6,0.667,Retrosheet
+1982,PHI,Philadelphia Phillies,18,11,7,0.611,Retrosheet
+1982,PIT,Pittsburgh Pirates,18,11,7,0.611,Retrosheet
+1982,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1982,SFN,San Francisco Giants,12,7,5,0.583,Retrosheet
+1983,ATL,Atlanta Braves,12,5,7,0.417,Retrosheet
+1983,CHN,Chicago Cubs,18,8,10,0.444,Retrosheet
+1983,CIN,Cincinnati Reds,12,6,6,0.500,Retrosheet
+1983,HOU,Houston Astros,12,10,2,0.833,Retrosheet
+1983,LAN,Los Angeles Dodgers,12,3,9,0.250,Retrosheet
+1983,MON,Montreal Expos,18,9,9,0.500,Retrosheet
+1983,NYN,New York Mets,18,12,6,0.667,Retrosheet
+1983,PHI,Philadelphia Phillies,18,4,14,0.222,Retrosheet
+1983,PIT,Pittsburgh Pirates,18,8,10,0.444,Retrosheet
+1983,SDN,San Diego Padres,12,6,6,0.500,Retrosheet
+1983,SFN,San Francisco Giants,12,8,4,0.667,Retrosheet
+1984,ATL,Atlanta Braves,12,7,5,0.583,Retrosheet
+1984,CHN,Chicago Cubs,18,5,13,0.278,Retrosheet
+1984,CIN,Cincinnati Reds,12,8,4,0.667,Retrosheet
+1984,HOU,Houston Astros,12,4,8,0.333,Retrosheet
+1984,LAN,Los Angeles Dodgers,12,6,6,0.500,Retrosheet
+1984,MON,Montreal Expos,18,9,9,0.500,Retrosheet
+1984,NYN,New York Mets,18,11,7,0.611,Retrosheet
+1984,PHI,Philadelphia Phillies,18,10,8,0.556,Retrosheet
+1984,PIT,Pittsburgh Pirates,18,14,4,0.778,Retrosheet
+1984,SDN,San Diego Padres,12,5,7,0.417,Retrosheet
+1984,SFN,San Francisco Giants,12,5,7,0.417,Retrosheet
+1985,ATL,Atlanta Braves,12,9,3,0.750,Retrosheet
+1985,CHN,Chicago Cubs,18,14,4,0.778,Retrosheet
+1985,CIN,Cincinnati Reds,12,7,5,0.583,Retrosheet
+1985,HOU,Houston Astros,12,6,6,0.500,Retrosheet
+1985,LAN,Los Angeles Dodgers,12,5,7,0.417,Retrosheet
+1985,MON,Montreal Expos,18,7,11,0.389,Retrosheet
+1985,NYN,New York Mets,18,10,8,0.556,Retrosheet
+1985,PHI,Philadelphia Phillies,18,10,8,0.556,Retrosheet
+1985,PIT,Pittsburgh Pirates,18,15,3,0.833,Retrosheet
+1985,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1985,SFN,San Francisco Giants,12,10,2,0.833,Retrosheet
+1986,ATL,Atlanta Braves,12,6,6,0.500,Retrosheet
+1986,CHN,Chicago Cubs,17,7,10,0.412,Retrosheet
+1986,CIN,Cincinnati Reds,12,5,7,0.417,Retrosheet
+1986,HOU,Houston Astros,12,5,7,0.417,Retrosheet
+1986,LAN,Los Angeles Dodgers,12,4,8,0.333,Retrosheet
+1986,MON,Montreal Expos,18,9,9,0.500,Retrosheet
+1986,NYN,New York Mets,18,6,12,0.333,Retrosheet
+1986,PHI,Philadelphia Phillies,18,12,6,0.667,Retrosheet
+1986,PIT,Pittsburgh Pirates,18,11,7,0.611,Retrosheet
+1986,SDN,San Diego Padres,12,7,5,0.583,Retrosheet
+1986,SFN,San Francisco Giants,12,7,5,0.583,Retrosheet
+1987,ATL,Atlanta Braves,12,9,3,0.750,Retrosheet
+1987,CHN,Chicago Cubs,18,12,6,0.667,Retrosheet
+1987,CIN,Cincinnati Reds,12,8,4,0.667,Retrosheet
+1987,HOU,Houston Astros,12,7,5,0.583,Retrosheet
+1987,LAN,Los Angeles Dodgers,12,9,3,0.750,Retrosheet
+1987,MON,Montreal Expos,18,7,11,0.389,Retrosheet
+1987,NYN,New York Mets,18,9,9,0.500,Retrosheet
+1987,PHI,Philadelphia Phillies,18,10,8,0.556,Retrosheet
+1987,PIT,Pittsburgh Pirates,18,11,7,0.611,Retrosheet
+1987,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1987,SFN,San Francisco Giants,12,5,7,0.417,Retrosheet
+1988,ATL,Atlanta Braves,12,9,3,0.750,Retrosheet
+1988,CHN,Chicago Cubs,18,11,7,0.611,Retrosheet
+1988,CIN,Cincinnati Reds,12,6,6,0.500,Retrosheet
+1988,HOU,Houston Astros,12,6,6,0.500,Retrosheet
+1988,LAN,Los Angeles Dodgers,12,5,7,0.417,Retrosheet
+1988,MON,Montreal Expos,18,5,13,0.278,Retrosheet
+1988,NYN,New York Mets,18,4,14,0.222,Retrosheet
+1988,PHI,Philadelphia Phillies,18,12,6,0.667,Retrosheet
+1988,PIT,Pittsburgh Pirates,18,7,11,0.389,Retrosheet
+1988,SDN,San Diego Padres,12,6,6,0.500,Retrosheet
+1988,SFN,San Francisco Giants,12,5,7,0.417,Retrosheet
+1989,ATL,Atlanta Braves,13,9,3,0.750,Retrosheet
+1989,CHN,Chicago Cubs,18,7,11,0.389,Retrosheet
+1989,CIN,Cincinnati Reds,12,4,8,0.333,Retrosheet
+1989,HOU,Houston Astros,12,5,7,0.417,Retrosheet
+1989,LAN,Los Angeles Dodgers,12,9,3,0.750,Retrosheet
+1989,MON,Montreal Expos,18,13,5,0.722,Retrosheet
+1989,NYN,New York Mets,18,8,10,0.444,Retrosheet
+1989,PHI,Philadelphia Phillies,18,11,7,0.611,Retrosheet
+1989,PIT,Pittsburgh Pirates,19,5,13,0.278,Retrosheet
+1989,SDN,San Diego Padres,12,10,2,0.833,Retrosheet
+1989,SFN,San Francisco Giants,12,5,7,0.417,Retrosheet
+1990,ATL,Atlanta Braves,12,5,7,0.417,Retrosheet
+1990,CHN,Chicago Cubs,18,10,8,0.556,Retrosheet
+1990,CIN,Cincinnati Reds,12,3,9,0.250,Retrosheet
+1990,HOU,Houston Astros,12,6,6,0.500,Retrosheet
+1990,LAN,Los Angeles Dodgers,12,5,7,0.417,Retrosheet
+1990,MON,Montreal Expos,18,7,11,0.389,Retrosheet
+1990,NYN,New York Mets,18,6,12,0.333,Retrosheet
+1990,PHI,Philadelphia Phillies,18,8,10,0.444,Retrosheet
+1990,PIT,Pittsburgh Pirates,18,8,10,0.444,Retrosheet
+1990,SDN,San Diego Padres,12,9,3,0.750,Retrosheet
+1990,SFN,San Francisco Giants,12,3,9,0.250,Retrosheet
+1991,ATL,Atlanta Braves,12,3,9,0.250,Retrosheet
+1991,CHN,Chicago Cubs,18,8,10,0.444,Retrosheet
+1991,CIN,Cincinnati Reds,12,8,4,0.667,Retrosheet
+1991,HOU,Houston Astros,12,7,5,0.583,Retrosheet
+1991,LAN,Los Angeles Dodgers,12,6,6,0.500,Retrosheet
+1991,MON,Montreal Expos,18,11,7,0.611,Retrosheet
+1991,NYN,New York Mets,18,11,7,0.611,Retrosheet
+1991,PHI,Philadelphia Phillies,18,12,6,0.667,Retrosheet
+1991,PIT,Pittsburgh Pirates,18,7,11,0.389,Retrosheet
+1991,SDN,San Diego Padres,12,3,9,0.250,Retrosheet
+1991,SFN,San Francisco Giants,12,8,4,0.667,Retrosheet
+1992,ATL,Atlanta Braves,12,6,6,0.500,Retrosheet
+1992,CHN,Chicago Cubs,18,7,11,0.389,Retrosheet
+1992,CIN,Cincinnati Reds,12,5,7,0.417,Retrosheet
+1992,HOU,Houston Astros,12,7,5,0.583,Retrosheet
+1992,LAN,Los Angeles Dodgers,12,8,4,0.667,Retrosheet
+1992,MON,Montreal Expos,18,12,6,0.667,Retrosheet
+1992,NYN,New York Mets,18,9,9,0.500,Retrosheet
+1992,PHI,Philadelphia Phillies,18,11,7,0.611,Retrosheet
+1992,PIT,Pittsburgh Pirates,18,3,15,0.167,Retrosheet
+1992,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1992,SFN,San Francisco Giants,12,7,5,0.583,Retrosheet
+1993,ATL,Atlanta Braves,12,6,6,0.500,Retrosheet
+1993,CHN,Chicago Cubs,13,5,8,0.385,Retrosheet
+1993,CIN,Cincinnati Reds,12,7,5,0.583,Retrosheet
+1993,COL,Colorado Rockies,12,7,5,0.583,Retrosheet
+1993,FLO,Florida Marlins,13,9,4,0.692,Retrosheet
+1993,HOU,Houston Astros,12,6,6,0.500,Retrosheet
+1993,LAN,Los Angeles Dodgers,12,6,6,0.500,Retrosheet
+1993,MON,Montreal Expos,13,6,7,0.462,Retrosheet
+1993,NYN,New York Mets,13,8,5,0.615,Retrosheet
+1993,PHI,Philadelphia Phillies,13,5,8,0.385,Retrosheet
+1993,PIT,Pittsburgh Pirates,13,9,4,0.692,Retrosheet
+1993,SDN,San Diego Padres,12,5,7,0.417,Retrosheet
+1993,SFN,San Francisco Giants,12,8,4,0.667,Retrosheet
+1994,ATL,Atlanta Braves,12,7,5,0.583,Retrosheet
+1994,CHN,Chicago Cubs,10,5,5,0.500,Retrosheet
+1994,CIN,Cincinnati Reds,5,2,2,0.500,Retrosheet
+1994,COL,Colorado Rockies,12,4,8,0.333,Retrosheet
+1994,FLO,Florida Marlins,10,7,3,0.700,Retrosheet
+1994,HOU,Houston Astros,12,4,8,0.333,Retrosheet
+1994,LAN,Los Angeles Dodgers,6,4,2,0.667,Retrosheet
+1994,MON,Montreal Expos,10,3,7,0.300,Retrosheet
+1994,NYN,New York Mets,9,3,6,0.333,Retrosheet
+1994,PHI,Philadelphia Phillies,7,3,4,0.429,Retrosheet
+1994,PIT,Pittsburgh Pirates,10,5,5,0.500,Retrosheet
+1994,SDN,San Diego Padres,6,2,4,0.333,Retrosheet
+1994,SFN,San Francisco Giants,6,4,2,0.667,Retrosheet
+1995,ATL,Atlanta Braves,12,5,7,0.417,Retrosheet
+1995,CHN,Chicago Cubs,13,4,9,0.308,Retrosheet
+1995,CIN,Cincinnati Reds,13,5,8,0.385,Retrosheet
+1995,COL,Colorado Rockies,12,7,5,0.583,Retrosheet
+1995,FLO,Florida Marlins,7,3,4,0.429,Retrosheet
+1995,HOU,Houston Astros,13,4,9,0.308,Retrosheet
+1995,LAN,Los Angeles Dodgers,12,5,7,0.417,Retrosheet
+1995,MON,Montreal Expos,7,3,4,0.429,Retrosheet
+1995,NYN,New York Mets,7,4,3,0.571,Retrosheet
+1995,PHI,Philadelphia Phillies,9,4,5,0.444,Retrosheet
+1995,PIT,Pittsburgh Pirates,13,7,6,0.538,Retrosheet
+1995,SDN,San Diego Padres,12,5,7,0.417,Retrosheet
+1995,SFN,San Francisco Giants,13,6,7,0.462,Retrosheet
+1996,ATL,Atlanta Braves,13,4,9,0.308,Retrosheet
+1996,CHN,Chicago Cubs,13,8,5,0.615,Retrosheet
+1996,CIN,Cincinnati Reds,13,8,5,0.615,Retrosheet
+1996,COL,Colorado Rockies,12,4,8,0.333,Retrosheet
+1996,FLO,Florida Marlins,12,6,6,0.500,Retrosheet
+1996,HOU,Houston Astros,13,11,2,0.846,Retrosheet
+1996,LAN,Los Angeles Dodgers,12,4,8,0.333,Retrosheet
+1996,MON,Montreal Expos,12,4,8,0.333,Retrosheet
+1996,NYN,New York Mets,12,7,5,0.583,Retrosheet
+1996,PHI,Philadelphia Phillies,12,8,4,0.667,Retrosheet
+1996,PIT,Pittsburgh Pirates,13,10,3,0.769,Retrosheet
+1996,SDN,San Diego Padres,12,8,4,0.667,Retrosheet
+1996,SFN,San Francisco Giants,13,6,7,0.462,Retrosheet
+1997,ATL,Atlanta Braves,11,3,8,0.273,Retrosheet
+1997,CHA,Chicago White Sox,3,2,1,0.667,Retrosheet
+1997,CHN,Chicago Cubs,12,8,4,0.667,Retrosheet
+1997,CIN,Cincinnati Reds,12,6,6,0.500,Retrosheet
+1997,CLE,Cleveland Guardians,3,1,2,0.333,Retrosheet
+1997,COL,Colorado Rockies,11,4,7,0.364,Retrosheet
+1997,FLO,Florida Marlins,11,6,5,0.545,Retrosheet
+1997,HOU,Houston Astros,12,3,9,0.250,Retrosheet
+1997,KCA,Kansas City Royals,3,2,1,0.667,Retrosheet
+1997,LAN,Los Angeles Dodgers,11,6,5,0.545,Retrosheet
+1997,MIL,Milwaukee Brewers,3,0,3,0.000,Retrosheet
+1997,MIN,Minnesota Twins,3,3,0,1.000,Retrosheet
+1997,MON,Montreal Expos,11,5,6,0.455,Retrosheet
+1997,NYN,New York Mets,11,2,9,0.182,Retrosheet
+1997,PHI,Philadelphia Phillies,11,5,6,0.455,Retrosheet
+1997,PIT,Pittsburgh Pirates,12,3,9,0.250,Retrosheet
+1997,SDN,San Diego Padres,11,6,5,0.545,Retrosheet
+1997,SFN,San Francisco Giants,11,8,3,0.727,Retrosheet
+1998,ARI,Arizona Diamondbacks,9,7,2,0.778,Retrosheet
+1998,ATL,Atlanta Braves,9,3,6,0.333,Retrosheet
+1998,CHA,Chicago White Sox,3,1,2,0.333,Retrosheet
+1998,CHN,Chicago Cubs,11,7,4,0.636,Retrosheet
+1998,CIN,Cincinnati Reds,11,3,8,0.273,Retrosheet
+1998,CLE,Cleveland Guardians,2,0,2,0.000,Retrosheet
+1998,COL,Colorado Rockies,9,6,3,0.667,Retrosheet
+1998,DET,Detroit Tigers,2,1,1,0.500,Retrosheet
+1998,FLO,Florida Marlins,9,5,4,0.556,Retrosheet
+1998,HOU,Houston Astros,12,7,5,0.583,Retrosheet
+1998,KCA,Kansas City Royals,3,1,2,0.333,Retrosheet
+1998,LAN,Los Angeles Dodgers,9,5,4,0.556,Retrosheet
+1998,MIL,Milwaukee Brewers,11,8,3,0.727,Retrosheet
+1998,MIN,Minnesota Twins,3,1,2,0.333,Retrosheet
+1998,MON,Montreal Expos,9,6,3,0.667,Retrosheet
+1998,NYN,New York Mets,9,3,6,0.333,Retrosheet
+1998,PHI,Philadelphia Phillies,9,6,3,0.667,Retrosheet
+1998,PIT,Pittsburgh Pirates,12,5,6,0.455,Retrosheet
+1998,SDN,San Diego Padres,9,3,6,0.333,Retrosheet
+1998,SFN,San Francisco Giants,12,5,7,0.417,Retrosheet
+1999,ARI,Arizona Diamondbacks,8,4,4,0.500,Retrosheet
+1999,ATL,Atlanta Braves,9,1,8,0.111,Retrosheet
+1999,CHA,Chicago White Sox,3,2,1,0.667,Retrosheet
+1999,CHN,Chicago Cubs,12,5,7,0.417,Retrosheet
+1999,CIN,Cincinnati Reds,12,4,8,0.333,Retrosheet
+1999,COL,Colorado Rockies,9,5,4,0.556,Retrosheet
+1999,DET,Detroit Tigers,6,3,3,0.500,Retrosheet
+1999,FLO,Florida Marlins,7,4,3,0.571,Retrosheet
+1999,HOU,Houston Astros,12,7,5,0.583,Retrosheet
+1999,KCA,Kansas City Royals,3,1,2,0.333,Retrosheet
+1999,LAN,Los Angeles Dodgers,9,6,3,0.667,Retrosheet
+1999,MIL,Milwaukee Brewers,13,6,7,0.462,Retrosheet
+1999,MIN,Minnesota Twins,3,1,2,0.333,Retrosheet
+1999,MON,Montreal Expos,9,4,5,0.444,Retrosheet
+1999,NYN,New York Mets,7,2,5,0.286,Retrosheet
+1999,PHI,Philadelphia Phillies,9,5,4,0.556,Retrosheet
+1999,PIT,Pittsburgh Pirates,12,5,7,0.417,Retrosheet
+1999,SDN,San Diego Padres,9,7,2,0.778,Retrosheet
+1999,SFN,San Francisco Giants,9,3,6,0.333,Retrosheet
+2000,ARI,Arizona Diamondbacks,9,4,5,0.444,Retrosheet
+2000,ATL,Atlanta Braves,7,4,3,0.571,Retrosheet
+2000,CHA,Chicago White Sox,3,2,1,0.667,Retrosheet
+2000,CHN,Chicago Cubs,13,10,3,0.769,Retrosheet
+2000,CIN,Cincinnati Reds,13,6,7,0.462,Retrosheet
+2000,CLE,Cleveland Guardians,3,1,2,0.333,Retrosheet
+2000,COL,Colorado Rockies,8,3,5,0.375,Retrosheet
+2000,DET,Detroit Tigers,3,1,2,0.333,Retrosheet
+2000,FLO,Florida Marlins,9,6,3,0.667,Retrosheet
+2000,HOU,Houston Astros,12,6,6,0.500,Retrosheet
+2000,KCA,Kansas City Royals,3,2,1,0.667,Retrosheet
+2000,LAN,Los Angeles Dodgers,9,6,3,0.667,Retrosheet
+2000,MIL,Milwaukee Brewers,12,7,5,0.583,Retrosheet
+2000,MIN,Minnesota Twins,3,1,2,0.333,Retrosheet
+2000,MON,Montreal Expos,7,5,2,0.714,Retrosheet
+2000,NYN,New York Mets,9,3,6,0.333,Retrosheet
+2000,PHI,Philadelphia Phillies,9,7,2,0.778,Retrosheet
+2000,PIT,Pittsburgh Pirates,12,8,4,0.667,Retrosheet
+2000,SDN,San Diego Padres,9,9,0,1.000,Retrosheet
+2000,SFN,San Francisco Giants,9,4,5,0.444,Retrosheet
+2001,ARI,Arizona Diamondbacks,6,4,2,0.667,Retrosheet
+2001,ATL,Atlanta Braves,6,3,3,0.500,Retrosheet
+2001,CHA,Chicago White Sox,3,3,0,1.000,Retrosheet
+2001,CHN,Chicago Cubs,17,8,9,0.471,Retrosheet
+2001,CIN,Cincinnati Reds,17,10,7,0.588,Retrosheet
+2001,CLE,Cleveland Guardians,3,1,2,0.333,Retrosheet
+2001,COL,Colorado Rockies,9,3,6,0.333,Retrosheet
+2001,DET,Detroit Tigers,3,1,2,0.333,Retrosheet
+2001,FLO,Florida Marlins,6,3,3,0.500,Retrosheet
+2001,HOU,Houston Astros,16,7,9,0.438,Retrosheet
+2001,KCA,Kansas City Royals,3,0,3,0.000,Retrosheet
+2001,LAN,Los Angeles Dodgers,6,3,3,0.500,Retrosheet
+2001,MIL,Milwaukee Brewers,17,10,7,0.588,Retrosheet
+2001,MIN,Minnesota Twins,3,3,0,1.000,Retrosheet
+2001,MON,Montreal Expos,6,4,2,0.667,Retrosheet
+2001,NYN,New York Mets,6,5,1,0.833,Retrosheet
+2001,PHI,Philadelphia Phillies,6,4,2,0.667,Retrosheet
+2001,PIT,Pittsburgh Pirates,17,14,3,0.824,Retrosheet
+2001,SDN,San Diego Padres,6,5,1,0.833,Retrosheet
+2001,SFN,San Francisco Giants,6,2,4,0.333,Retrosheet
+2002,ANA,Anaheim Angels,3,2,1,0.667,Retrosheet
+2002,ARI,Arizona Diamondbacks,6,4,2,0.667,Retrosheet
+2002,ATL,Atlanta Braves,6,1,5,0.167,Retrosheet
+2002,CHN,Chicago Cubs,18,12,6,0.667,Retrosheet
+2002,CIN,Cincinnati Reds,19,11,8,0.579,Retrosheet
+2002,COL,Colorado Rockies,6,4,2,0.667,Retrosheet
+2002,FLO,Florida Marlins,6,2,4,0.333,Retrosheet
+2002,HOU,Houston Astros,19,13,6,0.684,Retrosheet
+2002,KCA,Kansas City Royals,6,5,1,0.833,Retrosheet
+2002,LAN,Los Angeles Dodgers,6,4,2,0.667,Retrosheet
+2002,MIL,Milwaukee Brewers,17,10,7,0.588,Retrosheet
+2002,MON,Montreal Expos,6,3,3,0.500,Retrosheet
+2002,NYN,New York Mets,6,3,3,0.500,Retrosheet
+2002,PHI,Philadelphia Phillies,6,2,4,0.333,Retrosheet
+2002,PIT,Pittsburgh Pirates,17,11,6,0.647,Retrosheet
+2002,SDN,San Diego Padres,6,5,1,0.833,Retrosheet
+2002,SEA,Seattle Mariners,3,1,2,0.333,Retrosheet
+2002,SFN,San Francisco Giants,6,4,2,0.667,Retrosheet
+2003,ARI,Arizona Diamondbacks,6,3,3,0.500,Retrosheet
+2003,ATL,Atlanta Braves,6,2,4,0.333,Retrosheet
+2003,BAL,Baltimore Orioles,3,2,1,0.667,Retrosheet
+2003,BOS,Boston Red Sox,3,2,1,0.667,Retrosheet
+2003,CHN,Chicago Cubs,17,9,8,0.529,Retrosheet
+2003,CIN,Cincinnati Reds,16,7,9,0.438,Retrosheet
+2003,COL,Colorado Rockies,6,2,4,0.333,Retrosheet
+2003,FLO,Florida Marlins,6,3,3,0.500,Retrosheet
+2003,HOU,Houston Astros,18,7,11,0.389,Retrosheet
+2003,KCA,Kansas City Royals,6,3,3,0.500,Retrosheet
+2003,LAN,Los Angeles Dodgers,6,2,4,0.333,Retrosheet
+2003,MIL,Milwaukee Brewers,16,13,3,0.812,Retrosheet
+2003,MON,Montreal Expos,6,5,1,0.833,Retrosheet
+2003,NYA,New York Yankees,3,0,3,0.000,Retrosheet
+2003,NYN,New York Mets,6,5,1,0.833,Retrosheet
+2003,PHI,Philadelphia Phillies,6,2,4,0.333,Retrosheet
+2003,PIT,Pittsburgh Pirates,17,10,7,0.588,Retrosheet
+2003,SDN,San Diego Padres,6,4,2,0.667,Retrosheet
+2003,SFN,San Francisco Giants,6,1,5,0.167,Retrosheet
+2003,TOR,Toronto Blue Jays,3,3,0,1.000,Retrosheet
+2004,ARI,Arizona Diamondbacks,6,5,1,0.833,Retrosheet
+2004,ATL,Atlanta Braves,6,4,2,0.667,Retrosheet
+2004,CHN,Chicago Cubs,19,11,8,0.579,Retrosheet
+2004,CIN,Cincinnati Reds,19,14,5,0.737,Retrosheet
+2004,COL,Colorado Rockies,6,5,1,0.833,Retrosheet
+2004,FLO,Florida Marlins,6,4,2,0.667,Retrosheet
+2004,HOU,Houston Astros,18,8,10,0.444,Retrosheet
+2004,KCA,Kansas City Royals,3,3,0,1.000,Retrosheet
+2004,LAN,Los Angeles Dodgers,6,4,2,0.667,Retrosheet
+2004,MIL,Milwaukee Brewers,17,9,8,0.529,Retrosheet
+2004,MON,Montreal Expos,6,3,3,0.500,Retrosheet
+2004,NYN,New York Mets,6,5,1,0.833,Retrosheet
+2004,OAK,Oakland Athletics,3,3,0,1.000,Retrosheet
+2004,PHI,Philadelphia Phillies,6,3,3,0.500,Retrosheet
+2004,PIT,Pittsburgh Pirates,17,12,5,0.706,Retrosheet
+2004,SDN,San Diego Padres,6,4,2,0.667,Retrosheet
+2004,SEA,Seattle Mariners,3,3,0,1.000,Retrosheet
+2004,SFN,San Francisco Giants,6,3,3,0.500,Retrosheet
+2004,TEX,Texas Rangers,3,2,1,0.667,Retrosheet
+2005,ARI,Arizona Diamondbacks,7,5,2,0.714,Retrosheet
+2005,ATL,Atlanta Braves,6,3,3,0.500,Retrosheet
+2005,BOS,Boston Red Sox,3,2,1,0.667,Retrosheet
+2005,CHN,Chicago Cubs,16,6,10,0.375,Retrosheet
+2005,CIN,Cincinnati Reds,16,11,5,0.688,Retrosheet
+2005,COL,Colorado Rockies,8,4,4,0.500,Retrosheet
+2005,FLO,Florida Marlins,7,4,3,0.571,Retrosheet
+2005,HOU,Houston Astros,16,11,5,0.688,Retrosheet
+2005,KCA,Kansas City Royals,3,2,1,0.667,Retrosheet
+2005,LAN,Los Angeles Dodgers,7,5,2,0.714,Retrosheet
+2005,MIL,Milwaukee Brewers,16,11,5,0.688,Retrosheet
+2005,NYA,New York Yankees,3,2,1,0.667,Retrosheet
+2005,NYN,New York Mets,7,5,2,0.714,Retrosheet
+2005,PHI,Philadelphia Phillies,6,2,4,0.333,Retrosheet
+2005,PIT,Pittsburgh Pirates,16,12,4,0.750,Retrosheet
+2005,SDN,San Diego Padres,7,3,4,0.429,Retrosheet
+2005,SFN,San Francisco Giants,6,4,2,0.667,Retrosheet
+2005,TBA,Tampa Bay Devil Rays,3,3,0,1.000,Retrosheet
+2005,TOR,Toronto Blue Jays,3,1,2,0.333,Retrosheet
+2005,WAS,Washington Nationals,6,4,2,0.667,Retrosheet
+2006,ARI,Arizona Diamondbacks,7,3,4,0.429,Retrosheet
+2006,ATL,Atlanta Braves,6,2,4,0.333,Retrosheet
+2006,CHA,Chicago White Sox,3,0,3,0.000,Retrosheet
+2006,CHN,Chicago Cubs,19,8,11,0.421,Retrosheet
+2006,CIN,Cincinnati Reds,15,6,9,0.400,Retrosheet
+2006,CLE,Cleveland Guardians,3,1,2,0.333,Retrosheet
+2006,COL,Colorado Rockies,9,7,2,0.778,Retrosheet
+2006,DET,Detroit Tigers,3,0,3,0.000,Retrosheet
+2006,FLO,Florida Marlins,6,5,1,0.833,Retrosheet
+2006,HOU,Houston Astros,16,7,9,0.438,Retrosheet
+2006,KCA,Kansas City Royals,6,4,2,0.667,Retrosheet
+2006,LAN,Los Angeles Dodgers,7,7,0,1.000,Retrosheet
+2006,MIL,Milwaukee Brewers,16,9,7,0.562,Retrosheet
+2006,NYN,New York Mets,6,2,4,0.333,Retrosheet
+2006,PHI,Philadelphia Phillies,6,3,3,0.500,Retrosheet
+2006,PIT,Pittsburgh Pirates,15,9,6,0.600,Retrosheet
+2006,SDN,San Diego Padres,6,2,4,0.333,Retrosheet
+2006,SFN,San Francisco Giants,5,4,1,0.800,Retrosheet
+2006,WAS,Washington Nationals,7,4,3,0.571,Retrosheet
+2007,ANA,Anaheim Angels,3,1,2,0.333,Retrosheet
+2007,ARI,Arizona Diamondbacks,7,3,4,0.429,Retrosheet
+2007,ATL,Atlanta Braves,7,4,3,0.571,Retrosheet
+2007,CHN,Chicago Cubs,16,5,11,0.312,Retrosheet
+2007,CIN,Cincinnati Reds,15,9,6,0.600,Retrosheet
+2007,COL,Colorado Rockies,7,4,3,0.571,Retrosheet
+2007,DET,Detroit Tigers,3,0,3,0.000,Retrosheet
+2007,FLO,Florida Marlins,6,4,2,0.667,Retrosheet
+2007,HOU,Houston Astros,16,9,7,0.562,Retrosheet
+2007,KCA,Kansas City Royals,6,3,3,0.500,Retrosheet
+2007,LAN,Los Angeles Dodgers,6,3,3,0.500,Retrosheet
+2007,MIL,Milwaukee Brewers,15,8,7,0.533,Retrosheet
+2007,NYN,New York Mets,7,2,5,0.286,Retrosheet
+2007,OAK,Oakland Athletics,3,2,1,0.667,Retrosheet
+2007,PHI,Philadelphia Phillies,9,3,6,0.333,Retrosheet
+2007,PIT,Pittsburgh Pirates,18,12,6,0.667,Retrosheet
+2007,SDN,San Diego Padres,7,4,3,0.571,Retrosheet
+2007,SFN,San Francisco Giants,5,1,4,0.200,Retrosheet
+2007,WAS,Washington Nationals,6,1,5,0.167,Retrosheet
+2008,ARI,Arizona Diamondbacks,7,4,3,0.571,Retrosheet
+2008,ATL,Atlanta Braves,7,5,2,0.714,Retrosheet
+2008,BOS,Boston Red Sox,3,2,1,0.667,Retrosheet
+2008,CHN,Chicago Cubs,15,6,9,0.400,Retrosheet
+2008,CIN,Cincinnati Reds,15,10,5,0.667,Retrosheet
+2008,COL,Colorado Rockies,7,4,3,0.571,Retrosheet
+2008,DET,Detroit Tigers,3,1,2,0.333,Retrosheet
+2008,FLO,Florida Marlins,7,5,2,0.714,Retrosheet
+2008,HOU,Houston Astros,15,8,7,0.533,Retrosheet
+2008,KCA,Kansas City Royals,6,2,4,0.333,Retrosheet
+2008,LAN,Los Angeles Dodgers,6,4,2,0.667,Retrosheet
+2008,MIL,Milwaukee Brewers,15,5,10,0.333,Retrosheet
+2008,NYN,New York Mets,7,3,4,0.429,Retrosheet
+2008,PHI,Philadelphia Phillies,9,4,5,0.444,Retrosheet
+2008,PIT,Pittsburgh Pirates,17,7,10,0.412,Retrosheet
+2008,SDN,San Diego Padres,7,6,1,0.857,Retrosheet
+2008,SFN,San Francisco Giants,7,3,4,0.429,Retrosheet
+2008,TBA,Tampa Bay Devil Rays,3,2,1,0.667,Retrosheet
+2008,WAS,Washington Nationals,6,5,1,0.833,Retrosheet
+2009,ARI,Arizona Diamondbacks,6,4,2,0.667,Retrosheet
+2009,ATL,Atlanta Braves,6,2,4,0.333,Retrosheet
+2009,CHN,Chicago Cubs,16,10,6,0.625,Retrosheet
+2009,CIN,Cincinnati Reds,16,8,8,0.500,Retrosheet
+2009,CLE,Cleveland Guardians,3,1,2,0.333,Retrosheet
+2009,COL,Colorado Rockies,7,1,6,0.143,Retrosheet
+2009,DET,Detroit Tigers,3,2,1,0.667,Retrosheet
+2009,FLO,Florida Marlins,6,3,3,0.500,Retrosheet
+2009,HOU,Houston Astros,15,9,6,0.600,Retrosheet
+2009,KCA,Kansas City Royals,6,5,1,0.833,Retrosheet
+2009,LAN,Los Angeles Dodgers,7,5,2,0.714,Retrosheet
+2009,MIL,Milwaukee Brewers,18,9,9,0.500,Retrosheet
+2009,MIN,Minnesota Twins,3,1,2,0.333,Retrosheet
+2009,NYN,New York Mets,9,5,4,0.556,Retrosheet
+2009,PHI,Philadelphia Phillies,5,1,4,0.200,Retrosheet
+2009,PIT,Pittsburgh Pirates,15,10,5,0.667,Retrosheet
+2009,SDN,San Diego Padres,7,6,1,0.857,Retrosheet
+2009,SFN,San Francisco Giants,7,3,4,0.429,Retrosheet
+2009,WAS,Washington Nationals,7,6,1,0.857,Retrosheet
+2010,ANA,Anaheim Angels,3,2,1,0.667,Retrosheet
+2010,ARI,Arizona Diamondbacks,9,5,4,0.556,Retrosheet
+2010,ATL,Atlanta Braves,8,6,2,0.750,Retrosheet
+2010,CHN,Chicago Cubs,15,6,9,0.400,Retrosheet
+2010,CIN,Cincinnati Reds,18,12,6,0.667,Retrosheet
+2010,COL,Colorado Rockies,7,4,3,0.571,Retrosheet
+2010,FLO,Florida Marlins,5,2,3,0.400,Retrosheet
+2010,HOU,Houston Astros,15,5,10,0.333,Retrosheet
+2010,KCA,Kansas City Royals,3,1,2,0.333,Retrosheet
+2010,LAN,Los Angeles Dodgers,7,4,3,0.571,Retrosheet
+2010,MIL,Milwaukee Brewers,15,7,8,0.467,Retrosheet
+2010,NYN,New York Mets,6,3,3,0.500,Retrosheet
+2010,OAK,Oakland Athletics,3,2,1,0.667,Retrosheet
+2010,PHI,Philadelphia Phillies,8,4,4,0.500,Retrosheet
+2010,PIT,Pittsburgh Pirates,15,9,6,0.600,Retrosheet
+2010,SDN,San Diego Padres,7,4,3,0.571,Retrosheet
+2010,SEA,Seattle Mariners,3,2,1,0.667,Retrosheet
+2010,SFN,San Francisco Giants,6,3,3,0.500,Retrosheet
+2010,TOR,Toronto Blue Jays,3,2,1,0.667,Retrosheet
+2010,WAS,Washington Nationals,6,3,3,0.500,Retrosheet
+2011,ARI,Arizona Diamondbacks,7,4,3,0.571,Retrosheet
+2011,ATL,Atlanta Braves,6,5,1,0.833,Retrosheet
+2011,BAL,Baltimore Orioles,3,3,0,1.000,Retrosheet
+2011,CHN,Chicago Cubs,15,10,5,0.667,Retrosheet
+2011,CIN,Cincinnati Reds,15,6,9,0.400,Retrosheet
+2011,COL,Colorado Rockies,6,4,2,0.667,Retrosheet
+2011,FLO,Florida Marlins,8,6,2,0.750,Retrosheet
+2011,HOU,Houston Astros,15,10,5,0.667,Retrosheet
+2011,KCA,Kansas City Royals,6,4,2,0.667,Retrosheet
+2011,LAN,Los Angeles Dodgers,7,3,4,0.429,Retrosheet
+2011,MIL,Milwaukee Brewers,18,9,9,0.500,Retrosheet
+2011,NYN,New York Mets,6,3,3,0.500,Retrosheet
+2011,PHI,Philadelphia Phillies,9,6,3,0.667,Retrosheet
+2011,PIT,Pittsburgh Pirates,16,9,7,0.562,Retrosheet
+2011,SDN,San Diego Padres,6,3,3,0.500,Retrosheet
+2011,SFN,San Francisco Giants,7,2,5,0.286,Retrosheet
+2011,TBA,Tampa Bay Devil Rays,3,1,2,0.333,Retrosheet
+2011,TOR,Toronto Blue Jays,3,0,3,0.000,Retrosheet
+2011,WAS,Washington Nationals,6,2,4,0.333,Retrosheet
+2012,ARI,Arizona Diamondbacks,6,5,1,0.833,Retrosheet
+2012,ATL,Atlanta Braves,6,1,5,0.167,Retrosheet
+2012,CHA,Chicago White Sox,3,2,1,0.667,Retrosheet
+2012,CHN,Chicago Cubs,17,10,7,0.588,Retrosheet
+2012,CIN,Cincinnati Reds,15,8,7,0.533,Retrosheet
+2012,CLE,Cleveland Guardians,3,1,2,0.333,Retrosheet
+2012,COL,Colorado Rockies,7,5,2,0.714,Retrosheet
+2012,DET,Detroit Tigers,3,1,2,0.333,Retrosheet
+2012,HOU,Houston Astros,15,11,4,0.733,Retrosheet
+2012,KCA,Kansas City Royals,6,4,2,0.667,Retrosheet
+2012,LAN,Los Angeles Dodgers,11,5,6,0.455,Retrosheet
+2012,MIA,Miami Marlins,7,5,2,0.714,Retrosheet
+2012,MIL,Milwaukee Brewers,15,9,6,0.600,Retrosheet
+2012,NYN,New York Mets,7,3,4,0.429,Retrosheet
+2012,PHI,Philadelphia Phillies,7,2,5,0.286,Retrosheet
+2012,PIT,Pittsburgh Pirates,15,7,8,0.467,Retrosheet
+2012,SDN,San Diego Padres,6,3,3,0.500,Retrosheet
+2012,SFN,San Francisco Giants,6,3,3,0.500,Retrosheet
+2012,WAS,Washington Nationals,7,3,4,0.429,Retrosheet
+2013,ANA,Anaheim Angels,3,1,2,0.333,Retrosheet
+2013,ARI,Arizona Diamondbacks,7,3,4,0.429,Retrosheet
+2013,ATL,Atlanta Braves,7,3,4,0.429,Retrosheet
+2013,CHN,Chicago Cubs,19,12,7,0.632,Retrosheet
+2013,CIN,Cincinnati Reds,19,11,8,0.579,Retrosheet
+2013,COL,Colorado Rockies,7,4,3,0.571,Retrosheet
+2013,HOU,Houston Astros,4,3,1,0.750,Retrosheet
+2013,KCA,Kansas City Royals,4,3,1,0.750,Retrosheet
+2013,LAN,Los Angeles Dodgers,7,3,4,0.429,Retrosheet
+2013,MIA,Miami Marlins,6,4,2,0.667,Retrosheet
+2013,MIL,Milwaukee Brewers,19,14,5,0.737,Retrosheet
+2013,NYN,New York Mets,7,5,2,0.714,Retrosheet
+2013,OAK,Oakland Athletics,3,1,2,0.333,Retrosheet
+2013,PHI,Philadelphia Phillies,7,5,2,0.714,Retrosheet
+2013,PIT,Pittsburgh Pirates,19,9,10,0.474,Retrosheet
+2013,SDN,San Diego Padres,6,4,2,0.667,Retrosheet
+2013,SEA,Seattle Mariners,3,2,1,0.667,Retrosheet
+2013,SFN,San Francisco Giants,6,4,2,0.667,Retrosheet
+2013,TEX,Texas Rangers,3,0,3,0.000,Retrosheet
+2013,WAS,Washington Nationals,6,6,0,1.000,Retrosheet
+2014,ARI,Arizona Diamondbacks,6,5,1,0.833,Retrosheet
+2014,ATL,Atlanta Braves,6,4,2,0.667,Retrosheet
+2014,BAL,Baltimore Orioles,3,1,2,0.333,Retrosheet
+2014,BOS,Boston Red Sox,3,2,1,0.667,Retrosheet
+2014,CHN,Chicago Cubs,19,10,9,0.526,Retrosheet
+2014,CIN,Cincinnati Reds,19,12,7,0.632,Retrosheet
+2014,COL,Colorado Rockies,6,5,1,0.833,Retrosheet
+2014,KCA,Kansas City Royals,4,1,3,0.250,Retrosheet
+2014,LAN,Los Angeles Dodgers,7,3,4,0.429,Retrosheet
+2014,MIA,Miami Marlins,6,2,4,0.333,Retrosheet
+2014,MIL,Milwaukee Brewers,19,12,7,0.632,Retrosheet
+2014,NYA,New York Yankees,3,1,2,0.333,Retrosheet
+2014,NYN,New York Mets,7,3,4,0.429,Retrosheet
+2014,PHI,Philadelphia Phillies,7,3,4,0.429,Retrosheet
+2014,PIT,Pittsburgh Pirates,19,11,8,0.579,Retrosheet
+2014,SDN,San Diego Padres,7,4,3,0.571,Retrosheet
+2014,SFN,San Francisco Giants,7,3,4,0.429,Retrosheet
+2014,TBA,Tampa Bay Devil Rays,4,1,3,0.250,Retrosheet
+2014,TOR,Toronto Blue Jays,3,2,1,0.667,Retrosheet
+2014,WAS,Washington Nationals,7,5,2,0.714,Retrosheet
+2015,ARI,Arizona Diamondbacks,7,7,0,1.000,Retrosheet
+2015,ATL,Atlanta Braves,6,2,4,0.333,Retrosheet
+2015,CHA,Chicago White Sox,4,2,2,0.500,Retrosheet
+2015,CHN,Chicago Cubs,19,11,8,0.579,Retrosheet
+2015,CIN,Cincinnati Reds,19,12,7,0.632,Retrosheet
+2015,CLE,Cleveland Guardians,3,2,1,0.667,Retrosheet
+2015,COL,Colorado Rockies,7,4,3,0.571,Retrosheet
+2015,DET,Detroit Tigers,3,1,2,0.333,Retrosheet
+2015,KCA,Kansas City Royals,6,4,2,0.667,Retrosheet
+2015,LAN,Los Angeles Dodgers,7,5,2,0.714,Retrosheet
+2015,MIA,Miami Marlins,6,5,1,0.833,Retrosheet
+2015,MIL,Milwaukee Brewers,19,13,6,0.684,Retrosheet
+2015,MIN,Minnesota Twins,4,2,2,0.500,Retrosheet
+2015,NYN,New York Mets,7,4,3,0.571,Retrosheet
+2015,PHI,Philadelphia Phillies,7,5,2,0.714,Retrosheet
+2015,PIT,Pittsburgh Pirates,19,10,9,0.526,Retrosheet
+2015,SDN,San Diego Padres,7,3,4,0.429,Retrosheet
+2015,SFN,San Francisco Giants,6,4,2,0.667,Retrosheet
+2015,WAS,Washington Nationals,6,4,2,0.667,Retrosheet
+2016,ANA,Anaheim Angels,3,3,0,1.000,Retrosheet
+2016,ARI,Arizona Diamondbacks,7,3,4,0.429,Retrosheet
+2016,ATL,Atlanta Braves,6,4,2,0.667,Retrosheet
+2016,CHN,Chicago Cubs,19,9,10,0.474,Retrosheet
+2016,CIN,Cincinnati Reds,19,10,9,0.526,Retrosheet
+2016,COL,Colorado Rockies,6,4,2,0.667,Retrosheet
+2016,HOU,Houston Astros,4,2,2,0.500,Retrosheet
+2016,KCA,Kansas City Royals,4,1,3,0.250,Retrosheet
+2016,LAN,Los Angeles Dodgers,6,2,4,0.333,Retrosheet
+2016,MIA,Miami Marlins,7,3,4,0.429,Retrosheet
+2016,MIL,Milwaukee Brewers,19,13,6,0.684,Retrosheet
+2016,NYN,New York Mets,6,3,3,0.500,Retrosheet
+2016,OAK,Oakland Athletics,3,1,2,0.333,Retrosheet
+2016,PHI,Philadelphia Phillies,7,5,2,0.714,Retrosheet
+2016,PIT,Pittsburgh Pirates,19,10,9,0.526,Retrosheet
+2016,SDN,San Diego Padres,7,6,1,0.857,Retrosheet
+2016,SEA,Seattle Mariners,3,1,2,0.333,Retrosheet
+2016,SFN,San Francisco Giants,7,4,3,0.571,Retrosheet
+2016,TEX,Texas Rangers,3,0,3,0.000,Retrosheet
+2016,WAS,Washington Nationals,7,2,5,0.286,Retrosheet
+2017,ARI,Arizona Diamondbacks,7,4,3,0.571,Retrosheet
+2017,ATL,Atlanta Braves,6,5,1,0.833,Retrosheet
+2017,BAL,Baltimore Orioles,3,1,2,0.333,Retrosheet
+2017,BOS,Boston Red Sox,4,0,4,0.000,Retrosheet
+2017,CHN,Chicago Cubs,19,5,14,0.263,Retrosheet
+2017,CIN,Cincinnati Reds,19,10,9,0.526,Retrosheet
+2017,COL,Colorado Rockies,6,4,2,0.667,Retrosheet
+2017,KCA,Kansas City Royals,4,4,0,1.000,Retrosheet
+2017,LAN,Los Angeles Dodgers,7,3,4,0.429,Retrosheet
+2017,MIA,Miami Marlins,7,5,2,0.714,Retrosheet
+2017,MIL,Milwaukee Brewers,19,8,11,0.421,Retrosheet
+2017,NYA,New York Yankees,3,0,3,0.000,Retrosheet
+2017,NYN,New York Mets,7,4,3,0.571,Retrosheet
+2017,PHI,Philadelphia Phillies,6,5,1,0.833,Retrosheet
+2017,PIT,Pittsburgh Pirates,19,11,8,0.579,Retrosheet
+2017,SDN,San Diego Padres,7,4,3,0.571,Retrosheet
+2017,SFN,San Francisco Giants,7,4,3,0.571,Retrosheet
+2017,TBA,Tampa Bay Devil Rays,3,1,2,0.333,Retrosheet
+2017,TOR,Toronto Blue Jays,3,2,1,0.667,Retrosheet
+2017,WAS,Washington Nationals,6,3,3,0.500,Retrosheet
+2018,ARI,Arizona Diamondbacks,6,3,3,0.500,Retrosheet
+2018,ATL,Atlanta Braves,6,2,4,0.333,Retrosheet
+2018,CHA,Chicago White Sox,4,3,1,0.750,Retrosheet
+2018,CHN,Chicago Cubs,19,10,9,0.526,Retrosheet
+2018,CIN,Cincinnati Reds,19,12,7,0.632,Retrosheet
+2018,CLE,Cleveland Guardians,3,2,1,0.667,Retrosheet
+2018,COL,Colorado Rockies,7,5,2,0.714,Retrosheet
+2018,DET,Detroit Tigers,3,1,2,0.333,Retrosheet
+2018,KCA,Kansas City Royals,6,4,2,0.667,Retrosheet
+2018,LAN,Los Angeles Dodgers,7,4,3,0.571,Retrosheet
+2018,MIA,Miami Marlins,6,3,3,0.500,Retrosheet
+2018,MIL,Milwaukee Brewers,19,8,11,0.421,Retrosheet
+2018,MIN,Minnesota Twins,4,1,3,0.250,Retrosheet
+2018,NYN,New York Mets,6,3,3,0.500,Retrosheet
+2018,PHI,Philadelphia Phillies,7,3,4,0.429,Retrosheet
+2018,PIT,Pittsburgh Pirates,19,11,8,0.579,Retrosheet
+2018,SDN,San Diego Padres,7,3,4,0.429,Retrosheet
+2018,SFN,San Francisco Giants,7,5,2,0.714,Retrosheet
+2018,WAS,Washington Nationals,7,5,2,0.714,Retrosheet
+2019,ANA,Anaheim Angels,3,2,1,0.667,Retrosheet
+2019,ARI,Arizona Diamondbacks,6,3,3,0.500,Retrosheet
+2019,ATL,Atlanta Braves,6,2,4,0.333,Retrosheet
+2019,CHN,Chicago Cubs,19,10,9,0.526,Retrosheet
+2019,CIN,Cincinnati Reds,19,12,7,0.632,Retrosheet
+2019,COL,Colorado Rockies,7,5,2,0.714,Retrosheet
+2019,HOU,Houston Astros,3,1,2,0.333,Retrosheet
+2019,KCA,Kansas City Royals,4,3,1,0.750,Retrosheet
+2019,LAN,Los Angeles Dodgers,7,4,3,0.571,Retrosheet
+2019,MIA,Miami Marlins,7,4,3,0.571,Retrosheet
+2019,MIL,Milwaukee Brewers,19,10,9,0.526,Retrosheet
+2019,NYN,New York Mets,7,5,2,0.714,Retrosheet
+2019,OAK,Oakland Athletics,4,0,4,0.000,Retrosheet
+2019,PHI,Philadelphia Phillies,6,2,4,0.333,Retrosheet
+2019,PIT,Pittsburgh Pirates,19,14,5,0.737,Retrosheet
+2019,SDN,San Diego Padres,6,2,4,0.333,Retrosheet
+2019,SEA,Seattle Mariners,3,2,1,0.667,Retrosheet
+2019,SFN,San Francisco Giants,7,4,3,0.571,Retrosheet
+2019,TEX,Texas Rangers,3,1,2,0.333,Retrosheet
+2019,WAS,Washington Nationals,7,5,2,0.714,Retrosheet
+2020,CHA,Chicago White Sox,3,2,1,0.667,Retrosheet
+2020,CHN,Chicago Cubs,10,5,5,0.500,Retrosheet
+2020,CIN,Cincinnati Reds,10,6,4,0.600,Retrosheet
+2020,CLE,Cleveland Guardians,3,1,2,0.333,Retrosheet
+2020,DET,Detroit Tigers,2,1,1,0.500,Retrosheet
+2020,KCA,Kansas City Royals,6,3,3,0.500,Retrosheet
+2020,MIL,Milwaukee Brewers,10,5,5,0.500,Retrosheet
+2020,MIN,Minnesota Twins,4,1,3,0.250,Retrosheet
+2020,PIT,Pittsburgh Pirates,10,6,4,0.600,Retrosheet
+2021,ARI,Arizona Diamondbacks,7,6,1,0.857,Retrosheet
+2021,ATL,Atlanta Braves,7,1,6,0.143,Retrosheet
+2021,CHA,Chicago White Sox,3,1,2,0.333,Retrosheet
+2021,CHN,Chicago Cubs,19,10,9,0.526,Retrosheet
+2021,CIN,Cincinnati Reds,19,9,10,0.474,Retrosheet
+2021,CLE,Cleveland Guardians,4,2,2,0.500,Retrosheet
+2021,COL,Colorado Rockies,7,4,3,0.571,Retrosheet
+2021,DET,Detroit Tigers,4,1,3,0.250,Retrosheet
+2021,KCA,Kansas City Royals,6,5,1,0.833,Retrosheet
+2021,LAN,Los Angeles Dodgers,7,3,4,0.429,Retrosheet
+2021,MIA,Miami Marlins,6,6,0,1.000,Retrosheet
+2021,MIL,Milwaukee Brewers,19,11,8,0.579,Retrosheet
+2021,MIN,Minnesota Twins,3,2,1,0.667,Retrosheet
+2021,NYN,New York Mets,7,5,2,0.714,Retrosheet
+2021,PHI,Philadelphia Phillies,7,3,4,0.429,Retrosheet
+2021,PIT,Pittsburgh Pirates,19,12,7,0.632,Retrosheet
+2021,SDN,San Diego Padres,6,3,3,0.500,Retrosheet
+2021,SFN,San Francisco Giants,6,4,2,0.667,Retrosheet
+2021,WAS,Washington Nationals,6,2,4,0.333,Retrosheet
+2022,ARI,Arizona Diamondbacks,7,5,2,0.714,Retrosheet
+2022,ATL,Atlanta Braves,7,3,4,0.429,Retrosheet
+2022,BAL,Baltimore Orioles,3,1,2,0.333,Retrosheet
+2022,BOS,Boston Red Sox,3,1,2,0.333,Retrosheet
+2022,CHN,Chicago Cubs,19,13,6,0.684,Retrosheet
+2022,CIN,Cincinnati Reds,19,12,7,0.632,Retrosheet
+2022,COL,Colorado Rockies,6,4,2,0.667,Retrosheet
+2022,KCA,Kansas City Royals,4,3,1,0.750,Retrosheet
+2022,LAN,Los Angeles Dodgers,6,2,4,0.333,Retrosheet
+2022,MIA,Miami Marlins,6,4,2,0.667,Retrosheet
+2022,MIL,Milwaukee Brewers,19,10,9,0.526,Retrosheet
+2022,NYA,New York Yankees,3,3,0,1.000,Retrosheet
+2022,NYN,New York Mets,7,2,5,0.286,Retrosheet
+2022,PHI,Philadelphia Phillies,7,3,4,0.429,Retrosheet
+2022,PIT,Pittsburgh Pirates,19,13,6,0.684,Retrosheet
+2022,SDN,San Diego Padres,6,4,2,0.667,Retrosheet
+2022,SFN,San Francisco Giants,7,4,3,0.571,Retrosheet
+2022,TBA,Tampa Bay Devil Rays,3,0,3,0.000,Retrosheet
+2022,TOR,Toronto Blue Jays,4,2,2,0.500,Retrosheet
+2022,WAS,Washington Nationals,7,4,3,0.571,Retrosheet
+2023,ANA,Anaheim Angels,3,0,3,0.000,Retrosheet
+2023,ARI,Arizona Diamondbacks,6,3,3,0.500,Retrosheet
+2023,ATL,Atlanta Braves,6,2,4,0.333,Retrosheet
+2023,BAL,Baltimore Orioles,3,2,1,0.667,Retrosheet
+2023,BOS,Boston Red Sox,3,3,0,1.000,Retrosheet
+2023,CHA,Chicago White Sox,3,2,1,0.667,Retrosheet
+2023,CHN,Chicago Cubs,13,5,8,0.385,Retrosheet
+2023,CIN,Cincinnati Reds,13,7,6,0.538,Retrosheet
+2023,CLE,Cleveland Guardians,3,1,2,0.333,Retrosheet
+2023,COL,Colorado Rockies,6,3,3,0.500,Retrosheet
+2023,DET,Detroit Tigers,3,1,2,0.333,Retrosheet
+2023,HOU,Houston Astros,3,1,2,0.333,Retrosheet
+2023,KCA,Kansas City Royals,4,2,2,0.500,Retrosheet
+2023,LAN,Los Angeles Dodgers,7,3,4,0.429,Retrosheet
+2023,MIA,Miami Marlins,7,4,3,0.571,Retrosheet
+2023,MIL,Milwaukee Brewers,13,5,8,0.385,Retrosheet
+2023,MIN,Minnesota Twins,3,1,2,0.333,Retrosheet
+2023,NYA,New York Yankees,3,2,1,0.667,Retrosheet
+2023,NYN,New York Mets,7,3,4,0.429,Retrosheet
+2023,OAK,Oakland Athletics,3,2,1,0.667,Retrosheet
+2023,PHI,Philadelphia Phillies,6,1,5,0.167,Retrosheet
+2023,PIT,Pittsburgh Pirates,13,4,9,0.308,Retrosheet
+2023,SDN,San Diego Padres,6,3,3,0.500,Retrosheet
+2023,SEA,Seattle Mariners,3,1,2,0.333,Retrosheet
+2023,SFN,San Francisco Giants,7,1,6,0.143,Retrosheet
+2023,TBA,Tampa Bay Devil Rays,3,2,1,0.667,Retrosheet
+2023,TEX,Texas Rangers,3,1,2,0.333,Retrosheet
+2023,TOR,Toronto Blue Jays,3,2,1,0.667,Retrosheet
+2023,WAS,Washington Nationals,6,4,2,0.667,Retrosheet
+2024,ANA,Anaheim Angels,3,2,1,0.667,Retrosheet
+2024,ARI,Arizona Diamondbacks,6,3,3,0.500,Retrosheet
+2024,ATL,Atlanta Braves,6,4,2,0.667,Retrosheet
+2024,BAL,Baltimore Orioles,3,3,0,1.000,Retrosheet
+2024,BOS,Boston Red Sox,3,2,1,0.667,Retrosheet
+2024,CHA,Chicago White Sox,3,1,2,0.333,Retrosheet
+2024,CHN,Chicago Cubs,13,7,6,0.538,Retrosheet
+2024,CIN,Cincinnati Reds,13,6,7,0.462,Retrosheet
+2024,CLE,Cleveland Guardians,3,2,1,0.667,Retrosheet
+2024,COL,Colorado Rockies,7,4,3,0.571,Retrosheet
+2024,DET,Detroit Tigers,3,1,2,0.333,Retrosheet
+2024,HOU,Houston Astros,3,1,2,0.333,Retrosheet
+2024,KCA,Kansas City Royals,4,1,3,0.250,Retrosheet
+2024,LAN,Los Angeles Dodgers,7,2,5,0.286,Retrosheet
+2024,MIA,Miami Marlins,6,3,3,0.500,Retrosheet
+2024,MIL,Milwaukee Brewers,13,5,8,0.385,Retrosheet
+2024,MIN,Minnesota Twins,3,2,1,0.667,Retrosheet
+2024,NYA,New York Yankees,3,2,1,0.667,Retrosheet
+2024,NYN,New York Mets,6,2,4,0.333,Retrosheet
+2024,OAK,Oakland Athletics,3,2,1,0.667,Retrosheet
+2024,PHI,Philadelphia Phillies,6,2,4,0.333,Retrosheet
+2024,PIT,Pittsburgh Pirates,13,8,5,0.615,Retrosheet
+2024,SDN,San Diego Padres,7,4,3,0.571,Retrosheet
+2024,SEA,Seattle Mariners,3,1,2,0.333,Retrosheet
+2024,SFN,San Francisco Giants,6,5,1,0.833,Retrosheet
+2024,TBA,Tampa Bay Devil Rays,3,2,1,0.667,Retrosheet
+2024,TEX,Texas Rangers,3,2,1,0.667,Retrosheet
+2024,TOR,Toronto Blue Jays,3,0,3,0.000,Retrosheet
+2024,WAS,Washington Nationals,7,4,3,0.571,Retrosheet
+2025,ANA,Anaheim Angels,3,1,2,0.333,Retrosheet
+2025,ARI,Arizona Diamondbacks,6,3,3,0.500,Retrosheet
+2025,ATH,Sacramento Athletics,3,2,1,0.667,Retrosheet
+2025,ATL,Atlanta Braves,6,2,4,0.333,Retrosheet
+2025,BAL,Baltimore Orioles,3,2,1,0.667,Retrosheet
+2025,BOS,Boston Red Sox,3,0,3,0.000,Retrosheet
+2025,CHA,Chicago White Sox,3,3,0,1.000,Retrosheet
+2025,CHN,Chicago Cubs,13,5,8,0.385,Retrosheet
+2025,CIN,Cincinnati Reds,13,7,6,0.538,Retrosheet
+2025,CLE,Cleveland Guardians,3,3,0,1.000,Retrosheet
+2025,COL,Colorado Rockies,6,2,4,0.333,Retrosheet
+2025,DET,Detroit Tigers,3,1,2,0.333,Retrosheet
+2025,HOU,Houston Astros,3,2,1,0.667,Retrosheet
+2025,KCA,Kansas City Royals,6,3,3,0.500,Retrosheet
+2025,LAN,Los Angeles Dodgers,6,4,2,0.667,Retrosheet
+2025,MIA,Miami Marlins,6,3,3,0.500,Retrosheet
+2025,MIL,Milwaukee Brewers,13,6,7,0.462,Retrosheet
+2025,MIN,Minnesota Twins,3,3,0,1.000,Retrosheet
+2025,NYA,New York Yankees,3,0,3,0.000,Retrosheet
+2025,NYN,New York Mets,7,2,5,0.286,Retrosheet
+2025,PHI,Philadelphia Phillies,6,4,2,0.667,Retrosheet
+2025,PIT,Pittsburgh Pirates,13,6,7,0.462,Retrosheet
+2025,SDN,San Diego Padres,7,3,4,0.429,Retrosheet
+2025,SEA,Seattle Mariners,3,0,3,0.000,Retrosheet
+2025,SFN,San Francisco Giants,6,4,2,0.667,Retrosheet
+2025,TBA,Tampa Bay Devil Rays,3,1,2,0.333,Retrosheet
+2025,TEX,Texas Rangers,3,1,2,0.333,Retrosheet
+2025,TOR,Toronto Blue Jays,3,0,3,0.000,Retrosheet
+2025,WAS,Washington Nationals,6,5,1,0.833,Retrosheet
+2026,ATH,Athletics,3,2,1,0.667,MLB Stats API
+2026,ATL,Braves,6,4,2,0.667,MLB Stats API
+2026,AZ,D-backs,7,2,5,0.286,MLB Stats API
+2026,BAL,Orioles,3,1,2,0.333,MLB Stats API
+2026,BOS,Red Sox,3,1,2,0.333,MLB Stats API
+2026,CHC,Cubs,13,7,6,0.538,MLB Stats API
+2026,CIN,Reds,13,8,5,0.615,MLB Stats API
+2026,CLE,Guardians,3,2,1,0.667,MLB Stats API
+2026,COL,Rockies,6,4,2,0.667,MLB Stats API
+2026,CWS,White Sox,3,2,1,0.667,MLB Stats API
+2026,DET,Tigers,3,1,2,0.333,MLB Stats API
+2026,HOU,Astros,3,3,0,1.000,MLB Stats API
+2026,KC,Royals,6,3,3,0.500,MLB Stats API
+2026,LAA,Angels,3,1,2,0.333,MLB Stats API
+2026,LAD,Dodgers,6,4,2,0.667,MLB Stats API
+2026,MIA,Marlins,6,2,4,0.333,MLB Stats API
+2026,MIL,Brewers,13,2,11,0.154,MLB Stats API
+2026,MIN,Twins,3,1,2,0.333,MLB Stats API
+2026,NYM,Mets,6,4,2,0.667,MLB Stats API
+2026,NYY,Yankees,3,2,1,0.667,MLB Stats API
+2026,PHI,Phillies,6,2,4,0.333,MLB Stats API
+2026,PIT,Pirates,13,7,6,0.538,MLB Stats API
+2026,SD,Padres,7,4,3,0.571,MLB Stats API
+2026,SEA,Mariners,3,0,3,0.000,MLB Stats API
+2026,SF,Giants,6,1,5,0.167,MLB Stats API
+2026,TB,Rays,3,2,1,0.667,MLB Stats API
+2026,TEX,Rangers,3,1,2,0.333,MLB Stats API
+2026,TOR,Blue Jays,3,1,2,0.333,MLB Stats API
+2026,WSH,Nationals,6,3,3,0.500,MLB Stats API

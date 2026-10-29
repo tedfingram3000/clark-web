@@ -1,0 +1,26 @@
+player,which,date,game_pk,game_number_that_day,home_away,opponent,cardinals_runs,opponent_runs,result,innings,line,pa,ab,h,doubles,triples,hr,bb,hbp,sf,rbi,so,batting_order,started,outs,ip,batters_faced,runs,earned_runs,strikeouts
+JJ Wetherholt,debut date,2026-03-26,823081,1,home,Rays,9,7,W,9,batting,5,4,1,0,0,1,0,0,1,2,1,100,,,,,,,
+JJ Wetherholt,next game dates,2026-03-28,823082,1,home,Rays,6,5,W,10,batting,5,5,2,0,0,0,0,0,0,2,0,100,,,,,,,
+JJ Wetherholt,next game dates,2026-03-29,823079,1,home,Rays,7,11,L,9,batting,5,4,1,0,0,0,1,0,0,0,0,100,,,,,,,
+Matt Pushard,debut date,2026-03-29,823079,1,home,Rays,7,11,L,9,pitching,,,,,,,,,,,,,0,3,1.0,7,3,3,1
+Bryan Torres,debut date,2026-05-23,824518,1,away,Reds,8,1,W,9,batting,5,4,2,0,0,1,1,0,0,2,0,700,,,,,,,
+Bryan Torres,debut date,2026-05-23,824516,2,away,Reds,6,7,L,11,batting,5,4,1,0,0,0,1,0,0,0,1,700,,,,,,,
+Bryan Torres,next game dates,2026-05-25,823784,1,away,Brewers,1,5,L,9,batting,3,3,0,0,0,0,0,0,0,0,1,700,,,,,,,
+Bryan Torres,next game dates,2026-05-26,823785,1,away,Brewers,0,6,L,9,batting,4,4,2,0,0,0,0,0,0,0,0,700,,,,,,,
+Brycen Mautz,debut date,2026-05-25,823784,1,away,Brewers,1,5,L,9,pitching,,,,,,,,,,,,,0,9,3.0,14,2,2,2
+Blaze Jordan,debut date,2026-06-12,823695,1,away,Twins,8,9,L,9,batting,4,4,2,0,0,0,0,0,0,1,2,800,,,,,,,
+Blaze Jordan,next game dates,2026-06-13,823694,1,away,Twins,9,6,W,9,batting,4,4,2,0,1,1,0,0,0,3,0,600,,,,,,,
+Blaze Jordan,next game dates,2026-06-14,823693,1,away,Twins,4,5,L,9,batting,4,4,1,0,0,0,0,0,0,0,0,600,,,,,,,
+Max Rajcic,debut date,2026-06-18,824098,1,away,Royals,6,14,L,9,pitching,,,,,,,,,,,,,0,6,2.0,8,1,1,1
+Luis Gastelum,debut date,2026-07-08,823032,1,home,Brewers,5,1,W,9,pitching,,,,,,,,,,,,,0,2,0.2,3,0,0,0
+Quinn Mathews,debut date,2026-08-01,822781,1,away,Blue Jays,1,5,L,9,pitching,,,,,,,,,,,,,1,15,5.0,24,2,2,3
+Joshua Báez,debut date,2026-08-15,824644,1,away,Cubs,8,4,W,9,batting,4,4,3,0,0,3,0,0,0,5,0,500,,,,,,,
+Joshua Báez,next game dates,2026-08-16,824642,1,away,Cubs,11,4,W,9,batting,5,5,0,0,0,0,0,0,0,0,3,500,,,,,,,
+Joshua Báez,next game dates,2026-08-17,824514,1,away,Reds,2,1,W,9,batting,5,4,0,0,0,0,0,1,0,0,1,100,,,,,,,
+Joshua Báez,next game dates,2026-08-17,824478,2,away,Reds,5,6,L,10,batting,5,5,0,0,0,0,0,0,0,0,2,500,,,,,,,
+Cade Winquest,debut date,2026-08-29,823011,1,home,Pirates,2,6,L,9,pitching,,,,,,,,,,,,,0,6,2.0,6,0,0,2
+Leo Bernal,debut date,2026-09-01,823908,1,away,Dodgers,13,8,W,9,batting,5,5,1,0,0,0,0,0,0,2,2,600,,,,,,,
+Leo Bernal,next game dates,2026-09-02,823906,1,away,Dodgers,8,6,W,10,batting,4,4,1,0,0,1,0,0,0,2,0,500,,,,,,,
+Leo Bernal,next game dates,2026-09-03,823907,1,away,Dodgers,2,3,L,9,batting,4,4,2,0,0,0,0,0,0,0,1,500,,,,,,,
+Hancel Rincon,debut date,2026-09-04,824311,1,away,Rockies,7,6,W,9,pitching,,,,,,,,,,,,,0,1,0.1,4,3,3,0
+Cooper Hjerpe,debut date,2026-09-06,824309,1,away,Rockies,10,8,W,9,pitching,,,,,,,,,,,,,0,12,4.0,12,0,0,6
