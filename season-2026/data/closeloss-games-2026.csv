@@ -1,0 +1,1337 @@
+game_pk,date,team,opponent,runs,opp_runs,result,team_first_pitcher,lineup_wins,starter_wins,bullpen_wins
+822681,2026-09-25,Washington Nationals,New York Mets,7,6,W,Andrew Alvarez,0.4090,-0.2710,0.3620
+822681,2026-09-25,New York Mets,Washington Nationals,6,7,L,Jefry Yan,-0.0910,-0.1550,-0.2540
+822682,2026-09-13,Washington Nationals,Los Angeles Angels,6,5,W,Riley Cornelio,0.6210,0.0990,-0.2200
+822682,2026-09-13,Los Angeles Angels,Washington Nationals,5,6,L,Grayson Rodriguez,0.1210,0.1470,-0.7680
+822684,2026-09-11,Washington Nationals,Los Angeles Angels,4,3,W,Cade Cavalli,0.2700,-0.0460,0.2760
+822684,2026-09-11,Los Angeles Angels,Washington Nationals,3,4,L,Yusei Kikuchi,-0.2300,0.0940,-0.3640
+822685,2026-09-12,Washington Nationals,Los Angeles Angels,6,5,W,Andrew Alvarez,0.6520,0.2710,-0.4230
+822685,2026-09-12,Los Angeles Angels,Washington Nationals,5,6,L,Walbert Ureña,0.1520,-0.2000,-0.4520
+822690,2026-08-29,Washington Nationals,Miami Marlins,5,4,W,Cade Cavalli,0.0430,0.1900,0.2670
+822690,2026-08-29,Miami Marlins,Washington Nationals,4,5,L,Sandy Alcantara,-0.4570,-0.1830,0.1400
+822705,2026-07-27,Washington Nationals,Toronto Blue Jays,2,3,L,Eddy Yean,-0.6020,-0.1440,0.2460
+822705,2026-07-27,Toronto Blue Jays,Washington Nationals,3,2,W,Max Scherzer,-0.1020,0.0020,0.6000
+822707,2026-07-24,Washington Nationals,Arizona Diamondbacks,2,3,L,Carson Palmquist,-0.5680,-0.0430,0.1110
+822707,2026-07-24,Arizona Diamondbacks,Washington Nationals,3,2,W,Eduardo Rodriguez,-0.0680,0.1120,0.4560
+822712,2026-07-06,Washington Nationals,Houston Astros,12,11,W,Miles Mikolas,0.6990,-0.2670,0.0680
+822712,2026-07-06,Houston Astros,Washington Nationals,11,12,L,Mike Burrows,0.1990,-0.5650,-0.1340
+822719,2026-06-24,Washington Nationals,Philadelphia Phillies,4,5,L,Carson Palmquist,-0.0490,0.1500,-0.6010
+822719,2026-06-24,Philadelphia Phillies,Washington Nationals,5,4,W,Aaron Nola,0.4510,0.0650,-0.0160
+822733,2026-05-21,Washington Nationals,New York Mets,1,2,L,Cade Cavalli,-0.7110,0.1190,0.0920
+822733,2026-05-21,New York Mets,Washington Nationals,2,1,W,David Peterson,-0.2110,0.1670,0.5440
+822739,2026-05-15,Washington Nationals,Baltimore Orioles,3,2,W,Zack Littell,0.0100,0.2840,0.2060
+822739,2026-05-15,Baltimore Orioles,Washington Nationals,2,3,L,Shane Baz,-0.4900,-0.0160,0.0060
+822742,2026-05-03,Washington Nationals,Milwaukee Brewers,3,2,W,PJ Poulin,0.0420,0.0990,0.3590
+822742,2026-05-03,Milwaukee Brewers,Washington Nationals,2,3,L,Logan Henderson,-0.4580,0.0170,-0.0590
+822751,2026-04-18,Washington Nationals,San Francisco Giants,6,7,L,Cade Cavalli,-0.8310,-0.0410,0.3720
+822751,2026-04-18,San Francisco Giants,Washington Nationals,7,6,W,Adrian Houser,-0.3310,-0.2370,1.0680
+822754,2026-04-07,Washington Nationals,St. Louis Cardinals,6,7,L,Cade Cavalli,-0.2300,0.0590,-0.3290
+822754,2026-04-07,St. Louis Cardinals,Washington Nationals,7,6,W,Matthew Liberatore,0.2700,-0.2050,0.4350
+822760,2026-09-25,Toronto Blue Jays,Cincinnati Reds,6,5,W,José Soriano,0.4780,-0.3700,0.3920
+822760,2026-09-25,Cincinnati Reds,Toronto Blue Jays,5,6,L,Nick Lodolo,-0.0220,0.0030,-0.4810
+822765,2026-09-14,Toronto Blue Jays,Detroit Tigers,5,6,L,José Soriano,0.1940,-0.3120,-0.3820
+822765,2026-09-14,Detroit Tigers,Toronto Blue Jays,6,5,W,Troy Melton,0.6940,-0.1310,-0.0630
+822770,2026-08-29,Toronto Blue Jays,Seattle Mariners,4,3,W,José Soriano,0.1530,0.0600,0.2870
+822770,2026-08-29,Seattle Mariners,Toronto Blue Jays,3,4,L,Kade Anderson,-0.3470,0.1620,-0.3150
+822774,2026-08-16,Toronto Blue Jays,New York Yankees,3,4,L,Dylan Cease,-0.3830,0.1790,-0.2960
+822774,2026-08-16,New York Yankees,Toronto Blue Jays,4,3,W,Ryan Weathers,0.1170,0.3170,0.0660
+822780,2026-08-10,Toronto Blue Jays,Boston Red Sox,2,1,W,Jameson Taillon,-0.1220,0.2140,0.4080
+822780,2026-08-10,Boston Red Sox,Toronto Blue Jays,1,2,L,Sonny Gray,-0.6220,0.0460,0.0760
+822790,2026-07-18,Toronto Blue Jays,Chicago White Sox,1,0,W,Shane Bieber,-0.2480,0.3640,0.3840
+822790,2026-07-18,Chicago White Sox,Toronto Blue Jays,0,1,L,Davis Martin,-0.7480,0.1490,0.0990
+822792,2026-06-29,Toronto Blue Jays,New York Mets,2,1,W,Trey Yesavage,-0.1170,0.2840,0.3330
+822792,2026-06-29,New York Mets,Toronto Blue Jays,1,2,L,Sean Manaea,-0.6170,0.0150,0.1020
+822795,2026-06-28,Toronto Blue Jays,Texas Rangers,2,3,L,Shane Bieber,-0.3360,0.1060,-0.2700
+822795,2026-06-28,Texas Rangers,Toronto Blue Jays,3,2,W,Kumar Rocker,0.1640,0.3820,-0.0460
+822796,2026-06-26,Toronto Blue Jays,Texas Rangers,4,5,L,Patrick Corbin,-0.2860,-0.2790,0.0650
+822796,2026-06-26,Texas Rangers,Toronto Blue Jays,5,4,W,Nathan Eovaldi,0.2140,0.2250,0.0610
+822797,2026-06-25,Toronto Blue Jays,Texas Rangers,5,6,L,Kevin Gausman,-0.2650,-0.2800,0.0450
+822797,2026-06-25,Texas Rangers,Toronto Blue Jays,6,5,W,MacKenzie Gore,0.2350,0.1690,0.0960
+822805,2026-06-09,Toronto Blue Jays,Philadelphia Phillies,3,2,W,Dylan Cease,0.3970,0.2030,-0.1000
+822805,2026-06-09,Philadelphia Phillies,Toronto Blue Jays,2,3,L,Zack Wheeler,-0.1030,0.2030,-0.6000
+822809,2026-05-27,Toronto Blue Jays,Miami Marlins,2,1,W,Kevin Gausman,-0.1070,0.1470,0.4600
+822809,2026-05-27,Miami Marlins,Toronto Blue Jays,1,2,L,Eury Pérez,-0.6070,0.2320,-0.1250
+822817,2026-05-12,Toronto Blue Jays,Tampa Bay Rays,6,7,L,Patrick Corbin,-0.2990,-0.1580,-0.0430
+822817,2026-05-12,Tampa Bay Rays,Toronto Blue Jays,7,6,W,Shane McClanahan,0.2010,0.2630,0.0360
+822833,2026-04-08,Toronto Blue Jays,Los Angeles Dodgers,4,3,W,Dylan Cease,0.2600,-0.0660,0.3060
+822833,2026-04-08,Los Angeles Dodgers,Toronto Blue Jays,3,4,L,Shohei Ohtani,-0.2400,0.2460,-0.5060
+822835,2026-04-01,Toronto Blue Jays,Colorado Rockies,1,2,L,Kevin Gausman,-0.9130,0.3660,0.0470
+822835,2026-04-01,Colorado Rockies,Toronto Blue Jays,2,1,W,Kyle Freeland,-0.4130,0.1260,0.7870
+822838,2026-03-28,Toronto Blue Jays,Athletics,8,7,W,Dylan Cease,0.6120,0.0250,-0.1370
+822838,2026-03-28,Athletics,Toronto Blue Jays,7,8,L,Jeffrey Springs,0.1120,0.1240,-0.7360
+822839,2026-03-27,Toronto Blue Jays,Athletics,3,2,W,Kevin Gausman,0.2620,0.2150,0.0230
+822839,2026-03-27,Athletics,Toronto Blue Jays,2,3,L,Luis Severino,-0.2380,-0.0250,-0.2370
+822845,2026-09-17,Texas Rangers,Boston Red Sox,3,4,L,Tyler Alexander,-0.2670,0.0480,-0.2810
+822845,2026-09-17,Boston Red Sox,Texas Rangers,4,3,W,Sonny Gray,0.2330,-0.1050,0.3720
+822852,2026-09-04,Texas Rangers,Tampa Bay Rays,6,7,L,Trevor Williams,-0.1820,0.0480,-0.3660
+822852,2026-09-04,Tampa Bay Rays,Texas Rangers,7,6,W,Nick Martinez,0.3180,0.1290,0.0530
+822857,2026-08-21,Texas Rangers,Los Angeles Angels,2,1,W,MacKenzie Gore,-0.1400,0.3570,0.2830
+822857,2026-08-21,Los Angeles Angels,Texas Rangers,1,2,L,Reid Detmers,-0.6400,0.3570,-0.2170
+822863,2026-08-07,Texas Rangers,Baltimore Orioles,2,1,W,Nathan Eovaldi,-0.0840,0.1420,0.4420
+822863,2026-08-07,Baltimore Orioles,Texas Rangers,1,2,L,Shane Baz,-0.5840,0.0840,0.0000
+822865,2026-08-04,Texas Rangers,San Francisco Giants,5,4,W,MacKenzie Gore,0.5710,0.3330,-0.4040
+822865,2026-08-04,San Francisco Giants,Texas Rangers,4,5,L,Blade Tidwell,0.0710,-0.0120,-0.5590
+822872,2026-07-24,Texas Rangers,Seattle Mariners,5,4,W,MacKenzie Gore,0.2730,-0.0730,0.3000
+822872,2026-07-24,Seattle Mariners,Texas Rangers,4,5,L,Bryce Miller,-0.2270,-0.1270,-0.1460
+822876,2026-07-12,Texas Rangers,Houston Astros,6,5,W,MacKenzie Gore,0.6330,0.1160,-0.2490
+822876,2026-07-12,Houston Astros,Texas Rangers,5,6,L,Cristian Javier,0.1330,-0.1700,-0.4630
+822877,2026-07-09,Texas Rangers,Los Angeles Angels,7,6,W,Nathan Eovaldi,0.4650,0.0600,-0.0250
+822877,2026-07-09,Los Angeles Angels,Texas Rangers,6,7,L,Reid Detmers,-0.0350,-0.2960,-0.1690
+822883,2026-06-21,Texas Rangers,San Diego Padres,4,3,W,Nathan Eovaldi,0.0660,0.0500,0.3840
+822883,2026-06-21,San Diego Padres,Texas Rangers,3,4,L,Wandy Peralta,-0.4340,0.0480,-0.1140
+822892,2026-06-05,Texas Rangers,Cleveland Guardians,3,2,W,Kumar Rocker,0.0600,0.0170,0.4230
+822892,2026-06-05,Cleveland Guardians,Texas Rangers,2,3,L,Parker Messick,-0.4400,-0.1780,0.1180
+822893,2026-05-30,Texas Rangers,Kansas City Royals,7,6,W,Kumar Rocker,0.8620,0.3160,-0.6780
+822893,2026-05-30,Kansas City Royals,Texas Rangers,6,7,L,Seth Lugo,0.3620,-0.0770,-0.7850
+822897,2026-05-27,Texas Rangers,Houston Astros,3,4,L,Jacob deGrom,-0.4250,0.1310,-0.2060
+822897,2026-05-27,Houston Astros,Texas Rangers,4,3,W,Mike Burrows,0.0750,0.2190,0.2060
+822900,2026-05-13,Texas Rangers,Arizona Diamondbacks,6,5,W,Kumar Rocker,0.8810,0.2810,-0.6620
+822900,2026-05-13,Arizona Diamondbacks,Texas Rangers,5,6,L,Ryne Nelson,0.3810,-0.0080,-0.8730
+822901,2026-05-11,Texas Rangers,Arizona Diamondbacks,0,1,L,Jakob Junis,-0.8510,0.0320,0.3190
+822901,2026-05-11,Arizona Diamondbacks,Texas Rangers,1,0,W,Michael Soroka,-0.3510,0.4430,0.4080
+822908,2026-04-28,Texas Rangers,New York Yankees,2,3,L,Jacob deGrom,-0.6120,0.2030,-0.0910
+822908,2026-04-28,New York Yankees,Texas Rangers,3,2,W,Cam Schlittler,-0.1120,0.3950,0.2170
+822910,2026-04-25,Texas Rangers,Athletics,4,3,W,MacKenzie Gore,0.1170,-0.0570,0.4400
+822910,2026-04-25,Athletics,Texas Rangers,3,4,L,Jeffrey Springs,-0.3830,-0.1930,0.0760
+822911,2026-04-26,Texas Rangers,Athletics,1,2,L,Kumar Rocker,-0.6980,0.0500,0.1480
+822911,2026-04-26,Athletics,Texas Rangers,2,1,W,J.T. Ginn,-0.1980,0.1560,0.5420
+822916,2026-04-07,Texas Rangers,Seattle Mariners,3,2,W,Nathan Eovaldi,0.0150,0.1010,0.3840
+822916,2026-04-07,Seattle Mariners,Texas Rangers,2,3,L,George Kirby,-0.4850,-0.0150,0.0000
+822917,2026-04-05,Texas Rangers,Cincinnati Reds,1,2,L,Jack Leiter,-0.5940,0.1350,-0.0410
+822917,2026-04-05,Cincinnati Reds,Texas Rangers,2,1,W,Chase Burns,-0.0940,0.1030,0.4910
+822918,2026-04-06,Texas Rangers,Seattle Mariners,2,1,W,Jacob deGrom,-0.1410,0.1810,0.4600
+822918,2026-04-06,Seattle Mariners,Texas Rangers,1,2,L,Logan Gilbert,-0.6410,0.0650,0.0760
+822921,2026-09-19,Tampa Bay Rays,Boston Red Sox,2,1,W,Freddy Peralta,-0.0650,0.1940,0.3710
+822921,2026-09-19,Boston Red Sox,Tampa Bay Rays,1,2,L,Brayan Bello,-0.5650,0.4260,-0.3610
+822925,2026-09-15,Tampa Bay Rays,Athletics,2,1,W,Griffin Jax,-0.0390,0.2880,0.2510
+822925,2026-09-15,Athletics,Tampa Bay Rays,1,2,L,Jack Perkins,-0.5390,0.2160,-0.1770
+822926,2026-09-16,Tampa Bay Rays,Athletics,4,3,W,Nick Martinez,0.0340,0.1210,0.3450
+822926,2026-09-16,Athletics,Tampa Bay Rays,3,4,L,Brady Basso,-0.4660,-0.2620,0.2280
+822927,2026-09-12,Tampa Bay Rays,Houston Astros,3,2,W,Ian Seymour,0.0620,0.0630,0.3750
+822927,2026-09-12,Houston Astros,Tampa Bay Rays,2,3,L,Peter Lambert,-0.4380,-0.0440,-0.0180
+822932,2026-08-31,Tampa Bay Rays,New York Mets,2,3,L,Ian Seymour,-0.5650,0.0670,-0.0020
+822932,2026-08-31,New York Mets,Tampa Bay Rays,3,2,W,Robert Stock,-0.0650,0.3350,0.2300
+822933,2026-08-30,Tampa Bay Rays,San Diego Padres,5,4,W,Drew Rasmussen,0.2120,0.0740,0.2140
+822933,2026-08-30,San Diego Padres,Tampa Bay Rays,4,5,L,Robbie Ray,-0.2880,0.2660,-0.4780
+822936,2026-08-29,Tampa Bay Rays,San Diego Padres,7,6,W,Nick Martinez,0.6730,-0.0880,-0.0850
+822936,2026-08-29,San Diego Padres,Tampa Bay Rays,6,7,L,Walker Buehler,0.1730,-0.1640,-0.5090
+822937,2026-08-19,Tampa Bay Rays,Toronto Blue Jays,7,6,W,Drew Rasmussen,0.2000,-0.0450,0.3450
+822937,2026-08-19,Toronto Blue Jays,Tampa Bay Rays,6,7,L,Max Scherzer,-0.3000,-0.3570,0.1570
+822939,2026-08-17,Tampa Bay Rays,Baltimore Orioles,7,6,W,Shane McClanahan,0.6360,-0.0650,-0.0710
+822939,2026-08-17,Baltimore Orioles,Tampa Bay Rays,6,7,L,Brandon Young,0.1360,-0.2870,-0.3490
+822941,2026-08-15,Tampa Bay Rays,Baltimore Orioles,3,4,L,Ian Seymour,-0.5310,-0.0650,0.0960
+822941,2026-08-15,Baltimore Orioles,Tampa Bay Rays,4,3,W,Kyle Bradish,-0.0310,0.1270,0.4040
+822942,2026-08-14,Tampa Bay Rays,Baltimore Orioles,5,6,L,Steven Matz,-0.2620,0.0480,-0.2860
+822942,2026-08-14,Baltimore Orioles,Tampa Bay Rays,6,5,W,Chris Bassitt,0.2380,0.0530,0.2090
+822944,2026-08-01,Tampa Bay Rays,Chicago White Sox,1,0,W,Drew Rasmussen,-0.2450,0.3610,0.3840
+822944,2026-08-01,Chicago White Sox,Tampa Bay Rays,0,1,L,Jordan Hicks,-0.7450,0.0480,0.1970
+822946,2026-07-30,Tampa Bay Rays,Texas Rangers,3,2,W,Shane McClanahan,0.0770,0.0360,0.3870
+822946,2026-07-30,Texas Rangers,Tampa Bay Rays,2,3,L,Cole Winn,-0.4230,0.0480,-0.1250
+822950,2026-07-26,Tampa Bay Rays,Cleveland Guardians,1,0,W,Drew Rasmussen,-0.2450,0.4580,0.2870
+822950,2026-07-26,Cleveland Guardians,Tampa Bay Rays,0,1,L,Parker Messick,-0.7450,0.2300,0.0150
+822964,2026-06-22,Tampa Bay Rays,Kansas City Royals,1,2,L,Drew Rasmussen,-0.7220,0.0740,0.1480
+822964,2026-06-22,Kansas City Royals,Tampa Bay Rays,2,1,W,Michael Wacha,-0.2220,0.3750,0.3470
+822967,2026-06-20,Tampa Bay Rays,Washington Nationals,3,4,L,Ian Seymour,-0.5070,-0.0880,0.0950
+822967,2026-06-20,Washington Nationals,Tampa Bay Rays,4,3,W,Cade Cavalli,-0.0070,-0.1180,0.6250
+822968,2026-06-21,Tampa Bay Rays,Washington Nationals,4,3,W,Nick Martinez,0.2200,-0.0630,0.3430
+822968,2026-06-21,Washington Nationals,Tampa Bay Rays,3,4,L,Andrew Alvarez,-0.2800,0.1020,-0.3220
+822969,2026-06-09,Tampa Bay Rays,Boston Red Sox,4,3,W,Nick Martinez,0.1340,-0.0690,0.4350
+822969,2026-06-09,Boston Red Sox,Tampa Bay Rays,3,4,L,Payton Tolle,-0.3660,-0.1790,0.0450
+822974,2026-06-01,Tampa Bay Rays,Detroit Tigers,9,10,L,Griffin Jax,-0.1490,-0.3160,-0.0350
+822974,2026-06-01,Detroit Tigers,Tampa Bay Rays,10,9,W,Ty Madden,0.3510,-0.0000,0.1490
+822986,2026-05-05,Tampa Bay Rays,Toronto Blue Jays,4,3,W,Drew Rasmussen,0.2720,-0.0460,0.2740
+822986,2026-05-05,Toronto Blue Jays,Tampa Bay Rays,3,4,L,Kevin Gausman,-0.2280,0.1460,-0.4180
+822987,2026-05-03,Tampa Bay Rays,San Francisco Giants,2,1,W,Steven Matz,-0.2560,0.2030,0.5530
+822987,2026-05-03,San Francisco Giants,Tampa Bay Rays,1,2,L,Tyler Mahle,-0.7560,0.2370,0.0190
+822996,2026-04-11,Tampa Bay Rays,New York Yankees,5,4,W,Nick Martinez,0.5040,0.0750,-0.0790
+822996,2026-04-11,New York Yankees,Tampa Bay Rays,4,5,L,Max Fried,0.0040,-0.0910,-0.4130
+822998,2026-04-12,Tampa Bay Rays,New York Yankees,5,4,W,Drew Rasmussen,0.2060,0.2880,0.0060
+822998,2026-04-12,New York Yankees,Tampa Bay Rays,4,5,L,Cam Schlittler,-0.2940,-0.1230,-0.0830
+823004,2026-09-16,St. Louis Cardinals,San Francisco Giants,5,6,L,Matthew Liberatore,-0.1580,0.1960,-0.5380
+823004,2026-09-16,San Francisco Giants,St. Louis Cardinals,6,5,W,Anthony Molina,0.3420,0.3690,-0.2110
+823006,2026-09-14,St. Louis Cardinals,San Francisco Giants,2,1,W,Quinn Mathews,-0.1260,0.1940,0.4320
+823006,2026-09-14,San Francisco Giants,St. Louis Cardinals,1,2,L,Landen Roupp,-0.6260,0.1640,-0.0380
+823009,2026-09-12,St. Louis Cardinals,Chicago White Sox,5,6,L,Kyle Leahy,0.0120,0.1440,-0.6560
+823009,2026-09-12,Chicago White Sox,St. Louis Cardinals,6,5,W,Sean Newcomb,0.5120,0.0450,-0.0570
+823010,2026-08-30,St. Louis Cardinals,Pittsburgh Pirates,4,5,L,Matthew Liberatore,-0.3990,-0.1540,0.0530
+823010,2026-08-30,Pittsburgh Pirates,St. Louis Cardinals,5,4,W,Braxton Ashcraft,0.1010,0.1040,0.2950
+823015,2026-08-26,St. Louis Cardinals,Baltimore Orioles,7,8,L,Michael McGreevy,-0.0890,-0.3870,-0.0240
+823015,2026-08-26,Baltimore Orioles,St. Louis Cardinals,8,7,W,Kyle Bradish,0.4110,-0.3320,0.4210
+823018,2026-08-10,St. Louis Cardinals,Philadelphia Phillies,5,6,L,Hunter Dobbins,-0.2960,-0.0880,-0.1160
+823018,2026-08-10,Philadelphia Phillies,St. Louis Cardinals,6,5,W,Andrew Painter,0.2040,0.0370,0.2590
+823022,2026-07-29,St. Louis Cardinals,Chicago Cubs,3,2,W,Dustin May,0.0970,0.2810,0.1220
+823022,2026-07-29,Chicago Cubs,St. Louis Cardinals,2,3,L,Matthew Boyd,-0.4030,0.4450,-0.5420
+823024,2026-08-07,St. Louis Cardinals,Colorado Rockies,3,2,W,Kyle Leahy,-0.0380,0.0740,0.4640
+823024,2026-08-07,Colorado Rockies,St. Louis Cardinals,2,3,L,Ryan Feltner,-0.5380,-0.0880,0.1260
+823029,2026-07-12,St. Louis Cardinals,Atlanta Braves,3,4,L,Dustin May,-0.3520,-0.0210,-0.1270
+823029,2026-07-12,Atlanta Braves,St. Louis Cardinals,4,3,W,Danny Young,0.1480,-0.0930,0.4450
+823033,2026-07-10,St. Louis Cardinals,Atlanta Braves,2,1,W,Kyle Leahy,-0.0460,0.1540,0.3920
+823033,2026-07-10,Atlanta Braves,St. Louis Cardinals,1,2,L,Chris Sale,-0.5460,0.1540,-0.1080
+823036,2026-07-06,St. Louis Cardinals,Milwaukee Brewers,3,4,L,Dustin May,-0.4010,0.2110,-0.3100
+823036,2026-07-06,Milwaukee Brewers,St. Louis Cardinals,4,3,W,Shane Drohan,0.0990,-0.0550,0.4560
+823037,2026-06-28,St. Louis Cardinals,Miami Marlins,2,1,W,Kyle Leahy,-0.1290,0.1650,0.4640
+823037,2026-06-28,Miami Marlins,St. Louis Cardinals,1,2,L,Tyler Phillips,-0.6290,0.0560,0.0730
+823040,2026-06-22,St. Louis Cardinals,Arizona Diamondbacks,3,2,W,Andre Pallante,-0.0070,0.2460,0.2610
+823040,2026-06-22,Arizona Diamondbacks,St. Louis Cardinals,2,3,L,Merrill Kelly,-0.5070,-0.0690,0.0760
+823043,2026-06-23,St. Louis Cardinals,Arizona Diamondbacks,3,4,L,Kyle Leahy,-0.5720,0.3540,-0.2820
+823043,2026-06-23,Arizona Diamondbacks,St. Louis Cardinals,4,3,W,Eduardo Rodriguez,-0.0720,0.4240,0.1480
+823045,2026-06-16,St. Louis Cardinals,San Diego Padres,3,2,W,Andre Pallante,-0.0100,0.2230,0.2870
+823045,2026-06-16,San Diego Padres,St. Louis Cardinals,2,3,L,Michael King,-0.5100,-0.1080,0.1180
+823048,2026-06-06,St. Louis Cardinals,Cincinnati Reds,6,5,W,Matthew Liberatore,0.4590,-0.3590,0.4000
+823048,2026-06-06,Cincinnati Reds,St. Louis Cardinals,5,6,L,Nick Lodolo,-0.0410,-0.2840,-0.1750
+823050,2026-06-01,St. Louis Cardinals,Texas Rangers,1,2,L,Michael McGreevy,-0.6960,0.0480,0.1480
+823050,2026-06-01,Texas Rangers,St. Louis Cardinals,2,1,W,Jacob deGrom,-0.1960,0.2880,0.4080
+823055,2026-05-29,St. Louis Cardinals,Chicago Cubs,6,5,W,Andre Pallante,0.2480,-0.2410,0.4930
+823055,2026-05-29,Chicago Cubs,St. Louis Cardinals,5,6,L,Shota Imanaga,-0.2520,-0.2620,0.0140
+823061,2026-05-15,St. Louis Cardinals,Kansas City Royals,5,4,W,Dustin May,-0.0360,-0.0520,0.5880
+823061,2026-05-15,Kansas City Royals,St. Louis Cardinals,4,5,L,Michael Wacha,-0.5360,-0.0520,0.0880
+823062,2026-07-07,St. Louis Cardinals,Milwaukee Brewers,3,4,L,Matt Svanson,-0.4440,0.0480,-0.1040
+823062,2026-07-07,Milwaukee Brewers,St. Louis Cardinals,4,3,W,Jacob Misiorowski,0.0560,0.0970,0.3470
+823067,2026-05-02,St. Louis Cardinals,Los Angeles Dodgers,3,2,W,Michael McGreevy,0.0780,0.2960,0.1260
+823067,2026-05-02,Los Angeles Dodgers,St. Louis Cardinals,2,3,L,Roki Sasaki,-0.4220,-0.0970,0.0190
+823068,2026-04-26,St. Louis Cardinals,Seattle Mariners,2,3,L,Michael McGreevy,-0.4420,0.2340,-0.2920
+823068,2026-04-26,Seattle Mariners,St. Louis Cardinals,3,2,W,Emerson Hancock,0.0580,0.0420,0.4000
+823069,2026-04-24,St. Louis Cardinals,Seattle Mariners,2,3,L,Andre Pallante,-0.5850,-0.0940,0.1790
+823069,2026-04-24,Seattle Mariners,St. Louis Cardinals,3,2,W,George Kirby,-0.0850,0.0520,0.5330
+823072,2026-04-14,St. Louis Cardinals,Cleveland Guardians,6,5,W,Michael McGreevy,0.3380,0.0670,0.0950
+823072,2026-04-14,Cleveland Guardians,St. Louis Cardinals,5,6,L,Joey Cantillo,-0.1620,0.1430,-0.4810
+823076,2026-04-10,St. Louis Cardinals,Boston Red Sox,3,2,W,Dustin May,0.0220,0.0940,0.3840
+823076,2026-04-10,Boston Red Sox,St. Louis Cardinals,2,3,L,Connelly Early,-0.4780,0.1320,-0.1540
+823078,2026-04-01,St. Louis Cardinals,New York Mets,2,1,W,Matthew Liberatore,-0.6220,0.1770,0.9450
+823078,2026-04-01,New York Mets,St. Louis Cardinals,1,2,L,Freddy Peralta,-1.1220,0.2110,0.4110
+823082,2026-03-28,St. Louis Cardinals,Tampa Bay Rays,6,5,W,Michael McGreevy,0.4170,0.3330,-0.2500
+823082,2026-03-28,Tampa Bay Rays,St. Louis Cardinals,5,6,L,Joe Boyle,-0.0830,0.0180,-0.4350
+823086,2026-09-23,Seattle Mariners,Houston Astros,6,5,W,George Kirby,0.2740,-0.1330,0.3590
+823086,2026-09-23,Houston Astros,Seattle Mariners,5,6,L,Ethan Pecko,-0.2260,-0.1850,-0.0890
+823088,2026-09-10,Seattle Mariners,Texas Rangers,4,3,W,Logan Gilbert,0.2560,-0.0430,0.2870
+823088,2026-09-10,Texas Rangers,Seattle Mariners,3,4,L,Jacob deGrom,-0.2440,0.3290,-0.5850
+823090,2026-09-09,Seattle Mariners,Texas Rangers,3,2,W,Kade Anderson,0.0250,0.2330,0.2420
+823090,2026-09-09,Texas Rangers,Seattle Mariners,2,3,L,Cody Bradford,-0.4750,-0.1450,0.1200
+823093,2026-09-04,Seattle Mariners,Athletics,6,7,L,Logan Gilbert,-0.1150,-0.5630,0.1780
+823093,2026-09-04,Athletics,Seattle Mariners,7,6,W,Kade Morris,0.3850,-0.4150,0.5300
+823100,2026-08-22,Seattle Mariners,Chicago Cubs,5,4,W,Kade Anderson,0.6670,-0.1270,-0.0400
+823100,2026-08-22,Chicago Cubs,Seattle Mariners,4,5,L,David Peterson,0.1670,0.0640,-0.7310
+823101,2026-08-21,Seattle Mariners,Chicago Cubs,6,5,W,Emerson Hancock,0.2610,0.0230,0.2160
+823101,2026-08-21,Chicago Cubs,Seattle Mariners,5,6,L,Matthew Boyd,-0.2390,-0.2620,0.0010
+823102,2026-08-08,Seattle Mariners,Tampa Bay Rays,2,3,L,George Kirby,-0.5480,0.1600,-0.1120
+823102,2026-08-08,Tampa Bay Rays,Seattle Mariners,3,2,W,Casey Legumina,-0.0480,0.0710,0.4770
+823103,2026-08-07,Seattle Mariners,Tampa Bay Rays,1,2,L,Logan Gilbert,-0.6340,0.0550,0.0790
+823103,2026-08-07,Tampa Bay Rays,Seattle Mariners,2,1,W,Drew Rasmussen,-0.1340,0.4480,0.1860
+823107,2026-08-02,Seattle Mariners,Minnesota Twins,7,6,W,George Kirby,0.4400,0.3810,-0.3210
+823107,2026-08-02,Minnesota Twins,Seattle Mariners,6,7,L,Taj Bradley,-0.0600,-0.0600,-0.3800
+823109,2026-08-01,Seattle Mariners,Minnesota Twins,4,3,W,Logan Gilbert,0.2320,0.0210,0.2470
+823109,2026-08-01,Minnesota Twins,Seattle Mariners,3,4,L,Connor Prielipp,-0.2680,-0.0940,-0.1380
+823116,2026-07-18,Seattle Mariners,San Francisco Giants,4,3,W,Bryan Woo,-0.0360,-0.0370,0.5730
+823116,2026-07-18,San Francisco Giants,Seattle Mariners,3,4,L,Logan Webb,-0.5360,-0.0570,0.0930
+823119,2026-07-02,Seattle Mariners,Los Angeles Angels,1,0,W,Bryce Miller,-0.2410,0.4540,0.2870
+823119,2026-07-02,Los Angeles Angels,Seattle Mariners,0,1,L,Walbert Ureña,-0.7410,0.0980,0.1430
+823131,2026-06-01,Seattle Mariners,New York Mets,3,2,W,Emerson Hancock,-0.1490,0.0410,0.6080
+823131,2026-06-01,New York Mets,Seattle Mariners,2,3,L,Austin Warren,-0.6490,0.0100,0.1390
+823133,2026-05-31,Seattle Mariners,Arizona Diamondbacks,3,2,W,Bryce Miller,-0.1080,0.2880,0.3200
+823133,2026-05-31,Arizona Diamondbacks,Seattle Mariners,2,3,L,Merrill Kelly,-0.6080,-0.0380,0.1460
+823134,2026-05-20,Seattle Mariners,Chicago White Sox,5,4,W,Emerson Hancock,0.2190,0.0310,0.2500
+823134,2026-05-20,Chicago White Sox,Seattle Mariners,4,5,L,Sean Burke,-0.2810,-0.0650,-0.1540
+823135,2026-05-29,Seattle Mariners,Arizona Diamondbacks,7,6,W,George Kirby,0.3230,0.0280,0.1490
+823135,2026-05-29,Arizona Diamondbacks,Seattle Mariners,6,7,L,Zac Gallen,-0.1770,-0.2270,-0.0960
+823136,2026-05-19,Seattle Mariners,Chicago White Sox,1,2,L,Bryce Miller,-0.4580,0.3160,-0.3580
+823136,2026-05-19,Chicago White Sox,Seattle Mariners,2,1,W,Anthony Kay,0.0420,0.1510,0.3070
+823142,2026-05-05,Seattle Mariners,Atlanta Braves,2,3,L,George Kirby,-0.5280,0.2160,-0.1880
+823142,2026-05-05,Atlanta Braves,Seattle Mariners,3,2,W,Bryce Elder,-0.0280,0.1280,0.4000
+823143,2026-05-04,Seattle Mariners,Atlanta Braves,5,4,W,Logan Gilbert,0.2110,-0.0950,0.3840
+823143,2026-05-04,Atlanta Braves,Seattle Mariners,4,5,L,JR Ritchie,-0.2890,0.0090,-0.2200
+823144,2026-05-02,Seattle Mariners,Kansas City Royals,2,3,L,Emerson Hancock,-0.7220,0.3480,-0.1260
+823144,2026-05-02,Kansas City Royals,Seattle Mariners,3,2,W,Seth Lugo,-0.2220,0.0590,0.6630
+823146,2026-05-01,Seattle Mariners,Kansas City Royals,6,7,L,Bryan Woo,-0.0610,-0.3220,-0.1170
+823146,2026-05-01,Kansas City Royals,Seattle Mariners,7,6,W,Cole Ragans,0.4390,-0.0470,0.1080
+823147,2026-04-22,Seattle Mariners,Athletics,5,4,W,Logan Gilbert,0.4880,-0.1110,0.1230
+823147,2026-04-22,Athletics,Seattle Mariners,4,5,L,Aaron Civale,-0.0120,0.0970,-0.5850
+823155,2026-04-11,Seattle Mariners,Houston Astros,8,7,W,Luis Castillo,0.5400,-0.4940,0.4540
+823155,2026-04-11,Houston Astros,Seattle Mariners,7,8,L,Lance McCullers Jr.,0.0400,-0.2190,-0.3210
+823159,2026-03-30,Seattle Mariners,New York Yankees,2,1,W,Luis Castillo,-0.0110,0.3680,0.1430
+823159,2026-03-30,New York Yankees,Seattle Mariners,1,2,L,Ryan Weathers,-0.5110,-0.0020,0.0130
+823161,2026-03-28,Seattle Mariners,Cleveland Guardians,5,6,L,Bryan Woo,-0.1330,0.0760,-0.4430
+823161,2026-03-28,Cleveland Guardians,Seattle Mariners,6,5,W,Joey Cantillo,0.3670,-0.0630,0.1960
+823165,2026-09-26,San Francisco Giants,Los Angeles Dodgers,3,4,L,Matt Wilkinson,-0.2190,0.0360,-0.3170
+823165,2026-09-26,Los Angeles Dodgers,San Francisco Giants,4,3,W,Blake Snell,0.2810,0.0980,0.1210
+823166,2026-09-22,San Francisco Giants,Minnesota Twins,2,3,L,Anthony Molina,-0.4850,0.0240,-0.0390
+823166,2026-09-22,Minnesota Twins,San Francisco Giants,3,2,W,Taj Bradley,0.0150,0.2160,0.2690
+823170,2026-09-12,San Francisco Giants,San Diego Padres,6,7,L,Cesar Perdomo,-0.1520,-0.3200,-0.0280
+823170,2026-09-12,San Diego Padres,San Francisco Giants,7,6,W,Michael King,0.3480,0.0690,0.0830
+823172,2026-09-09,San Francisco Giants,St. Louis Cardinals,7,6,W,Blade Tidwell,0.6290,-0.3170,0.1880
+823172,2026-09-09,St. Louis Cardinals,San Francisco Giants,6,7,L,Andre Pallante,0.1290,0.1140,-0.7430
+823174,2026-09-08,San Francisco Giants,St. Louis Cardinals,2,1,W,Landen Roupp,-0.0610,0.3370,0.2240
+823174,2026-09-08,St. Louis Cardinals,San Francisco Giants,1,2,L,Quinn Mathews,-0.5610,0.0220,0.0390
+823175,2026-09-07,San Francisco Giants,St. Louis Cardinals,5,4,W,Logan Webb,0.0890,0.2580,0.1530
+823175,2026-09-07,St. Louis Cardinals,San Francisco Giants,4,5,L,Michael McGreevy,-0.4110,-0.0230,-0.0660
+823180,2026-08-26,San Francisco Giants,Cincinnati Reds,9,10,L,Logan Webb,0.1220,0.1270,-0.7490
+823180,2026-08-26,Cincinnati Reds,San Francisco Giants,10,9,W,Nick Lodolo,0.6220,-0.2730,0.1510
+823187,2026-08-12,San Francisco Giants,Houston Astros,1,2,L,Adrian Houser,-0.6130,0.3700,-0.2570
+823187,2026-08-12,Houston Astros,San Francisco Giants,2,1,W,Bryan King,-0.1130,0.0050,0.6080
+823194,2026-07-26,San Francisco Giants,Los Angeles Angels,3,4,L,Carson Whisenhunt,-0.3990,-0.1720,0.0710
+823194,2026-07-26,Los Angeles Angels,San Francisco Giants,4,3,W,José Soriano,0.1010,0.1910,0.2080
+823196,2026-07-24,San Francisco Giants,Los Angeles Angels,7,6,W,Logan Webb,0.2270,-0.0140,0.2870
+823196,2026-07-24,Los Angeles Angels,San Francisco Giants,6,7,L,Grayson Rodriguez,-0.2730,-0.3020,0.0750
+823200,2026-07-10,San Francisco Giants,Colorado Rockies,3,4,L,Robbie Ray,-0.1930,-0.0770,-0.2300
+823200,2026-07-10,Colorado Rockies,San Francisco Giants,4,3,W,Tanner Gordon,0.3070,0.1470,0.0460
+823204,2026-06-28,San Francisco Giants,Atlanta Braves,3,2,W,Robbie Ray,-0.0150,0.4390,0.0760
+823204,2026-06-28,Atlanta Braves,San Francisco Giants,2,3,L,Chris Sale,-0.5150,0.0420,-0.0270
+823208,2026-06-24,San Francisco Giants,Athletics,2,1,W,Tyler Mahle,0.2080,0.3040,-0.0120
+823208,2026-06-24,Athletics,San Francisco Giants,1,2,L,Gage Jump,-0.2920,0.2810,-0.4890
+823215,2026-06-10,San Francisco Giants,Washington Nationals,11,10,W,Robbie Ray,0.7240,-0.0770,-0.1470
+823215,2026-06-10,Washington Nationals,San Francisco Giants,10,11,L,Foster Griffin,0.2240,0.2860,-1.0100
+823217,2026-05-27,San Francisco Giants,Arizona Diamondbacks,2,3,L,Trevor McDonald,-0.5250,0.0050,0.0200
+823217,2026-05-27,Arizona Diamondbacks,San Francisco Giants,3,2,W,Michael Soroka,-0.0250,0.0690,0.4560
+823218,2026-06-08,San Francisco Giants,Washington Nationals,3,4,L,Logan Webb,-0.1530,0.3730,-0.7200
+823218,2026-06-08,Washington Nationals,San Francisco Giants,4,3,W,Richard Lovelady,0.3470,0.0480,0.1050
+823221,2026-05-10,San Francisco Giants,Pittsburgh Pirates,7,6,W,Tyler Mahle,0.0260,-0.2100,0.6840
+823221,2026-05-10,Pittsburgh Pirates,San Francisco Giants,6,7,L,Bubba Chandler,-0.4740,0.0580,-0.0840
+823228,2026-05-04,San Francisco Giants,San Diego Padres,3,2,W,Trevor McDonald,0.0060,0.3420,0.1520
+823228,2026-05-04,San Diego Padres,San Francisco Giants,2,3,L,Randy Vásquez,-0.4940,-0.0590,0.0530
+823249,2026-09-19,San Diego Padres,Miami Marlins,7,6,W,Casey Mize,0.3010,-0.3230,0.5220
+823249,2026-09-19,Miami Marlins,San Diego Padres,6,7,L,Eury Pérez,-0.1990,-0.2640,-0.0370
+823250,2026-09-08,San Diego Padres,Washington Nationals,5,4,W,Casey Mize,0.3980,0.1510,-0.0490
+823250,2026-09-08,Washington Nationals,San Diego Padres,4,5,L,Riley Cornelio,-0.1020,0.1630,-0.5610
+823253,2026-09-06,San Diego Padres,New York Yankees,4,3,W,Michael King,0.1060,0.2780,0.1160
+823253,2026-09-06,New York Yankees,San Diego Padres,3,4,L,Gerrit Cole,-0.3940,-0.1380,0.0320
+823254,2026-09-07,San Diego Padres,Washington Nationals,3,2,W,Nick Pivetta,-0.0130,0.2520,0.2610
+823254,2026-09-07,Washington Nationals,San Diego Padres,2,3,L,Jake Irvin,-0.5130,-0.0860,0.0990
+823256,2026-09-04,San Diego Padres,New York Yankees,3,2,W,Walker Buehler,-0.0280,0.1690,0.3590
+823256,2026-09-04,New York Yankees,San Diego Padres,2,3,L,Max Fried,-0.5280,0.2280,-0.2000
+823259,2026-08-25,San Diego Padres,Pittsburgh Pirates,0,1,L,Michael King,-0.7570,0.4450,-0.1880
+823259,2026-08-25,Pittsburgh Pirates,San Diego Padres,1,0,W,Paul Skenes,-0.2570,0.3570,0.4000
+823260,2026-08-24,San Diego Padres,Pittsburgh Pirates,2,3,L,Robbie Ray,-1.3470,0.1190,0.7280
+823260,2026-08-24,Pittsburgh Pirates,San Diego Padres,3,2,W,Braxton Ashcraft,-0.8470,0.2330,1.1140
+823263,2026-08-12,San Diego Padres,Milwaukee Brewers,4,3,W,Robbie Ray,-0.0920,-0.0180,0.6100
+823263,2026-08-12,Milwaukee Brewers,San Diego Padres,3,4,L,Dustin May,-0.5920,0.2940,-0.2020
+823265,2026-08-10,San Diego Padres,Milwaukee Brewers,3,2,W,Casey Mize,0.0590,0.0980,0.3430
+823265,2026-08-10,Milwaukee Brewers,San Diego Padres,2,3,L,Logan Henderson,-0.4410,-0.1360,0.0770
+823267,2026-08-08,San Diego Padres,Houston Astros,3,2,W,Michael King,0.0360,0.2400,0.2240
+823267,2026-08-08,Houston Astros,San Diego Padres,2,3,L,Peter Lambert,-0.4640,-0.1050,0.0690
+823269,2026-08-01,San Diego Padres,San Francisco Giants,6,5,W,Walker Buehler,0.5200,-0.1860,0.1660
+823269,2026-08-01,San Francisco Giants,San Diego Padres,5,6,L,Tyler Mahle,0.0200,-0.1920,-0.3280
+823270,2026-08-02,San Diego Padres,San Francisco Giants,5,4,W,Kyle Hart,0.1900,0.1350,0.1750
+823270,2026-08-02,San Francisco Giants,San Diego Padres,4,5,L,Landen Roupp,-0.3100,-0.3060,0.1160
+823274,2026-07-12,San Diego Padres,Toronto Blue Jays,5,4,W,Germán Márquez,0.4190,-0.1230,0.2040
+823274,2026-07-12,Toronto Blue Jays,San Diego Padres,4,5,L,Kevin Gausman,-0.0810,0.0200,-0.4390
+823275,2026-07-28,San Diego Padres,Colorado Rockies,8,7,W,Michael King,0.9810,-0.1490,-0.3320
+823275,2026-07-28,Colorado Rockies,San Diego Padres,7,8,L,Michael Lorenzen,0.4810,-0.1650,-0.8160
+823276,2026-07-11,San Diego Padres,Toronto Blue Jays,8,7,W,Walker Buehler,0.5520,-0.3090,0.2570
+823276,2026-07-11,Toronto Blue Jays,San Diego Padres,7,8,L,Trey Yesavage,0.0520,-0.3600,-0.1920
+823286,2026-06-23,San Diego Padres,Atlanta Braves,7,6,W,Wandy Peralta,0.1980,0.0480,0.2540
+823286,2026-06-23,Atlanta Braves,San Diego Padres,6,7,L,JR Ritchie,-0.3020,-0.2020,0.0040
+823287,2026-06-10,San Diego Padres,Cincinnati Reds,5,4,W,Michael King,0.4930,-0.0700,0.0770
+823287,2026-06-10,Cincinnati Reds,San Diego Padres,4,5,L,Brady Singer,-0.0070,0.0920,-0.5850
+823288,2026-06-22,San Diego Padres,Atlanta Braves,1,0,W,Michael King,-0.2480,0.4610,0.2870
+823288,2026-06-22,Atlanta Braves,San Diego Padres,0,1,L,Grant Holmes,-0.7480,0.0820,0.1660
+823292,2026-06-06,San Diego Padres,New York Mets,3,2,W,Griffin Canning,0.1060,0.1670,0.2270
+823292,2026-06-06,New York Mets,San Diego Padres,2,3,L,Nolan McLean,-0.3940,0.2430,-0.3490
+823294,2026-05-26,San Diego Padres,Philadelphia Phillies,3,4,L,Randy Vásquez,-0.4710,-0.1510,0.1220
+823294,2026-05-26,Philadelphia Phillies,San Diego Padres,4,3,W,Aaron Nola,0.0290,0.1820,0.2890
+823301,2026-05-18,San Diego Padres,Los Angeles Dodgers,1,0,W,Michael King,-0.2540,0.4670,0.2870
+823301,2026-05-18,Los Angeles Dodgers,San Diego Padres,0,1,L,Yoshinobu Yamamoto,-0.7540,0.2220,0.0320
+823302,2026-05-19,San Diego Padres,Los Angeles Dodgers,4,5,L,Griffin Canning,-0.2880,-0.0280,-0.1840
+823302,2026-05-19,Los Angeles Dodgers,San Diego Padres,5,4,W,Emmet Sheehan,0.2120,-0.2360,0.5240
+823305,2026-05-10,San Diego Padres,St. Louis Cardinals,3,2,W,Walker Buehler,0.0670,0.0440,0.3890
+823305,2026-05-10,St. Louis Cardinals,San Diego Padres,2,3,L,Kyle Leahy,-0.4330,0.2840,-0.3510
+823306,2026-05-07,San Diego Padres,St. Louis Cardinals,1,2,L,Michael King,-0.6940,0.2380,-0.0440
+823306,2026-05-07,St. Louis Cardinals,San Diego Padres,2,1,W,Matthew Liberatore,-0.1940,0.2380,0.4560
+823307,2026-05-03,San Diego Padres,Chicago White Sox,4,3,W,Griffin Canning,0.2400,0.1480,0.1120
+823307,2026-05-03,Chicago White Sox,San Diego Padres,3,4,L,Anthony Kay,-0.2600,-0.1310,-0.1090
+823312,2026-04-29,San Diego Padres,Chicago Cubs,4,5,L,Matt Waldron,-0.3100,-0.0930,-0.0970
+823312,2026-04-29,Chicago Cubs,San Diego Padres,5,4,W,Jameson Taillon,0.1900,0.1040,0.2060
+823314,2026-04-15,San Diego Padres,Seattle Mariners,7,6,W,Randy Vásquez,0.7280,-0.1980,-0.0300
+823314,2026-04-15,Seattle Mariners,San Diego Padres,6,7,L,Emerson Hancock,0.2280,0.1890,-0.9170
+823320,2026-03-30,San Diego Padres,San Francisco Giants,2,3,L,Walker Buehler,-0.4740,-0.1250,0.0990
+823320,2026-03-30,San Francisco Giants,San Diego Padres,3,2,W,Landen Roupp,0.0260,0.3220,0.1520
+823326,2026-09-24,Pittsburgh Pirates,St. Louis Cardinals,2,1,W,Paul Skenes,-0.1180,0.2960,0.3220
+823326,2026-09-24,St. Louis Cardinals,Pittsburgh Pirates,1,2,L,Kyle Leahy,-0.6180,-0.0010,0.1190
+823329,2026-09-20,Pittsburgh Pirates,Kansas City Royals,4,3,W,Lake Bachar,0.3730,-0.0520,0.1790
+823329,2026-09-20,Kansas City Royals,Pittsburgh Pirates,3,4,L,Michael Wacha,-0.1270,0.0030,-0.3760
+823330,2026-09-19,Pittsburgh Pirates,Kansas City Royals,6,5,W,Bubba Chandler,0.5400,0.0120,-0.0520
+823330,2026-09-19,Kansas City Royals,Pittsburgh Pirates,5,6,L,Noah Cameron,0.0400,-0.1220,-0.4180
+823332,2026-09-16,Pittsburgh Pirates,Milwaukee Brewers,4,5,L,Jared Jones,-0.2360,-0.1040,-0.1600
+823332,2026-09-16,Milwaukee Brewers,Pittsburgh Pirates,5,4,W,Logan Henderson,0.2640,-0.1040,0.3400
+823336,2026-09-06,Pittsburgh Pirates,Los Angeles Angels,1,0,W,Paul Skenes,-0.2500,0.3220,0.4280
+823336,2026-09-06,Los Angeles Angels,Pittsburgh Pirates,0,1,L,Walbert Ureña,-0.7500,0.2500,0.0000
+823338,2026-09-04,Pittsburgh Pirates,Los Angeles Angels,1,0,W,Jared Jones,-0.2520,0.3680,0.3840
+823338,2026-09-04,Los Angeles Angels,Pittsburgh Pirates,0,1,L,Ryan Johnson,-0.7520,0.1760,0.0760
+823339,2026-09-02,Pittsburgh Pirates,San Francisco Giants,4,5,L,Bubba Chandler,-0.3610,-0.1170,-0.0220
+823339,2026-09-02,San Francisco Giants,Pittsburgh Pirates,5,4,W,Landen Roupp,0.1390,0.1620,0.1990
+823340,2026-09-01,Pittsburgh Pirates,San Francisco Giants,13,12,W,Paul Skenes,1.0610,-0.3520,-0.2090
+823340,2026-09-01,San Francisco Giants,Pittsburgh Pirates,12,13,L,Logan Webb,0.5610,-0.7140,-0.3470
+823342,2026-08-19,Pittsburgh Pirates,Detroit Tigers,4,3,W,Paul Skenes,0.4400,-0.1060,0.1660
+823342,2026-08-19,Detroit Tigers,Pittsburgh Pirates,3,4,L,Jackson Jobe,-0.0600,0.2070,-0.6470
+823350,2026-07-28,Pittsburgh Pirates,Arizona Diamondbacks,7,8,L,Bubba Chandler,-0.4410,-0.2690,0.2100
+823350,2026-07-28,Arizona Diamondbacks,Pittsburgh Pirates,8,7,W,Brandon Pfaadt,0.0590,0.2210,0.2200
+823352,2026-07-24,Pittsburgh Pirates,Chicago Cubs,2,3,L,Jared Jones,-0.7430,0.1970,0.0460
+823352,2026-07-24,Chicago Cubs,Pittsburgh Pirates,3,2,W,Matthew Boyd,-0.2430,0.2850,0.4580
+823353,2026-07-27,Pittsburgh Pirates,Arizona Diamondbacks,3,2,W,Mitch Keller,-0.0940,-0.0630,0.6570
+823353,2026-07-27,Arizona Diamondbacks,Pittsburgh Pirates,2,3,L,Merrill Kelly,-0.5940,0.1550,-0.0610
+823354,2026-07-26,Pittsburgh Pirates,Chicago Cubs,8,7,W,Braxton Ashcraft,0.3950,0.0330,0.0720
+823354,2026-07-26,Chicago Cubs,Pittsburgh Pirates,7,8,L,Jameson Taillon,-0.1050,-0.3840,-0.0110
+823356,2026-07-11,Pittsburgh Pirates,Milwaukee Brewers,3,2,W,Bubba Chandler,0.0100,-0.0160,0.5060
+823356,2026-07-11,Milwaukee Brewers,Pittsburgh Pirates,2,3,L,Shane Drohan,-0.4900,-0.0670,0.0570
+823357,2026-07-11,Pittsburgh Pirates,Milwaukee Brewers,7,6,W,Braxton Ashcraft,0.5620,-0.3310,0.2690
+823357,2026-07-11,Milwaukee Brewers,Pittsburgh Pirates,6,7,L,Brandon Sproat,0.0620,-0.1670,-0.3950
+823365,2026-06-23,Pittsburgh Pirates,Seattle Mariners,2,3,L,Mitch Keller,-0.5260,-0.1600,0.1860
+823365,2026-06-23,Seattle Mariners,Pittsburgh Pirates,3,2,W,George Kirby,-0.0260,0.0700,0.4560
+823369,2026-06-13,Pittsburgh Pirates,Miami Marlins,3,2,W,Bubba Chandler,0.0470,0.1840,0.2690
+823369,2026-06-13,Miami Marlins,Pittsburgh Pirates,2,3,L,Lake Bachar,-0.4530,-0.0110,-0.0360
+823372,2026-06-10,Pittsburgh Pirates,Los Angeles Dodgers,9,8,W,Jared Jones,0.6950,-0.0350,-0.1600
+823372,2026-06-10,Los Angeles Dodgers,Pittsburgh Pirates,8,9,L,Shohei Ohtani,0.1950,0.1390,-0.8340
+823375,2026-05-30,Pittsburgh Pirates,Minnesota Twins,10,9,W,Mitch Keller,0.5240,-0.3720,0.3480
+823375,2026-05-30,Minnesota Twins,Pittsburgh Pirates,9,10,L,Bailey Ober,0.0240,-0.5130,-0.0110
+823377,2026-05-29,Pittsburgh Pirates,Minnesota Twins,6,5,W,Jared Jones,0.5630,-0.3220,0.2590
+823377,2026-05-29,Minnesota Twins,Pittsburgh Pirates,5,6,L,Taj Bradley,0.0630,-0.1820,-0.3810
+823380,2026-05-25,Pittsburgh Pirates,Chicago Cubs,2,1,W,Carmen Mlodzinski,-0.0960,0.1450,0.4510
+823380,2026-05-25,Chicago Cubs,Pittsburgh Pirates,1,2,L,Ben Brown,-0.5960,0.2210,-0.1250
+823387,2026-05-03,Pittsburgh Pirates,Cincinnati Reds,1,0,W,Braxton Ashcraft,-0.2180,0.4450,0.2730
+823387,2026-05-03,Cincinnati Reds,Pittsburgh Pirates,0,1,L,Chase Burns,-0.7180,0.3830,-0.1650
+823392,2026-04-29,Pittsburgh Pirates,St. Louis Cardinals,4,5,L,Bubba Chandler,-0.4100,-0.0830,-0.0070
+823392,2026-04-29,St. Louis Cardinals,Pittsburgh Pirates,5,4,W,Andre Pallante,0.0900,0.2710,0.1390
+823394,2026-04-18,Pittsburgh Pirates,Tampa Bay Rays,7,8,L,Paul Skenes,-0.7980,0.2060,0.0920
+823394,2026-04-18,Tampa Bay Rays,Pittsburgh Pirates,8,7,W,Drew Rasmussen,-0.2980,-0.1940,0.9920
+823396,2026-04-16,Pittsburgh Pirates,Washington Nationals,7,8,L,Braxton Ashcraft,0.0560,-0.1240,-0.4320
+823396,2026-04-16,Washington Nationals,Pittsburgh Pirates,8,7,W,Foster Griffin,0.5560,-0.1240,0.0680
+823398,2026-04-14,Pittsburgh Pirates,Washington Nationals,4,5,L,Mitch Keller,-0.4560,-0.2880,0.2440
+823398,2026-04-14,Washington Nationals,Pittsburgh Pirates,5,4,W,PJ Poulin,0.0440,-0.0350,0.4910
+823404,2026-04-04,Pittsburgh Pirates,Baltimore Orioles,3,2,W,Carmen Mlodzinski,0.1780,-0.0190,0.3410
+823404,2026-04-04,Baltimore Orioles,Pittsburgh Pirates,2,3,L,Shane Baz,-0.3220,0.2060,-0.3840
+823406,2026-04-03,Pittsburgh Pirates,Baltimore Orioles,5,4,W,Mitch Keller,0.2190,0.1350,0.1460
+823406,2026-04-03,Baltimore Orioles,Pittsburgh Pirates,4,5,L,Kyle Bradish,-0.2810,-0.2250,0.0060
+823413,2026-09-10,Philadelphia Phillies,Houston Astros,1,2,L,Zack Wheeler,-0.6200,0.3080,-0.1880
+823413,2026-09-10,Houston Astros,Philadelphia Phillies,2,1,W,Cristian Javier,-0.1200,0.2200,0.4000
+823414,2026-09-08,Philadelphia Phillies,Houston Astros,5,6,L,Andrew Painter,-0.2310,-0.2690,0.0000
+823414,2026-09-08,Houston Astros,Philadelphia Phillies,6,5,W,Hayden Wesneski,0.2690,0.0550,0.1760
+823415,2026-09-07,Philadelphia Phillies,Atlanta Braves,1,0,W,Jesús Luzardo,-0.2180,0.7180,0.0000
+823415,2026-09-07,Atlanta Braves,Philadelphia Phillies,0,1,L,Grant Holmes,-0.7180,0.3570,-0.1390
+823417,2026-09-06,Philadelphia Phillies,Atlanta Braves,4,5,L,Aaron Nola,-0.2090,0.3250,-0.6160
+823417,2026-09-06,Atlanta Braves,Philadelphia Phillies,5,4,W,Tyler Mahle,0.2910,0.0360,0.1730
+823420,2026-08-21,Philadelphia Phillies,St. Louis Cardinals,7,6,W,Jesús Luzardo,0.6390,-0.2120,0.0730
+823420,2026-08-21,St. Louis Cardinals,Philadelphia Phillies,6,7,L,Hunter Dobbins,0.1390,-0.1300,-0.5090
+823425,2026-08-09,Philadelphia Phillies,Toronto Blue Jays,7,6,W,Jesús Luzardo,-0.0740,0.1970,0.3770
+823425,2026-08-09,Toronto Blue Jays,Philadelphia Phillies,6,7,L,Shane Bieber,-0.5740,-0.2570,0.3310
+823427,2026-08-17,Philadelphia Phillies,Miami Marlins,6,5,W,Cristopher Sánchez,0.2900,0.2330,-0.0230
+823427,2026-08-17,Miami Marlins,Philadelphia Phillies,5,6,L,Janson Junk,-0.2100,-0.0070,-0.2830
+823428,2026-08-07,Philadelphia Phillies,Toronto Blue Jays,4,5,L,Zack Wheeler,-0.3230,-0.1930,0.0160
+823428,2026-08-07,Toronto Blue Jays,Philadelphia Phillies,5,4,W,José Soriano,0.1770,-0.0200,0.3430
+823434,2026-07-24,Philadelphia Phillies,New York Yankees,0,1,L,Jesús Luzardo,-0.8390,0.2470,0.0920
+823434,2026-07-24,New York Yankees,Philadelphia Phillies,1,0,W,Cam Schlittler,-0.3390,0.3880,0.4510
+823437,2026-07-21,Philadelphia Phillies,Los Angeles Dodgers,1,2,L,Zack Wheeler,-0.7200,0.1280,0.0920
+823437,2026-07-21,Los Angeles Dodgers,Philadelphia Phillies,2,1,W,Justin Wrobleski,-0.2200,0.3120,0.4080
+823456,2026-06-03,Philadelphia Phillies,San Diego Padres,3,2,W,Cristopher Sánchez,0.0730,0.2570,0.1700
+823456,2026-06-03,San Diego Padres,Philadelphia Phillies,2,3,L,Walker Buehler,-0.4270,0.1690,-0.2420
+823460,2026-06-02,Philadelphia Phillies,San Diego Padres,3,2,W,Aaron Nola,0.0060,0.0340,0.4600
+823460,2026-06-02,San Diego Padres,Philadelphia Phillies,2,3,L,Randy Vásquez,-0.4940,0.0340,-0.0400
+823461,2026-05-22,Philadelphia Phillies,Cleveland Guardians,0,1,L,Cristopher Sánchez,-0.7570,0.5530,-0.2960
+823461,2026-05-22,Cleveland Guardians,Philadelphia Phillies,1,0,W,Gavin Williams,-0.2570,0.5530,0.2040
+823465,2026-05-18,Philadelphia Phillies,Cincinnati Reds,5,4,W,Andrew Painter,0.4720,0.1590,-0.1310
+823465,2026-05-18,Cincinnati Reds,Philadelphia Phillies,4,5,L,Nick Lodolo,-0.0280,-0.0750,-0.3970
+823471,2026-04-30,Philadelphia Phillies,San Francisco Giants,6,5,W,Tim Mayza,0.4640,0.0970,-0.0610
+823471,2026-04-30,San Francisco Giants,Philadelphia Phillies,5,6,L,Adrian Houser,-0.0360,0.0030,-0.4670
+823472,2026-04-30,Philadelphia Phillies,San Francisco Giants,3,2,W,Cristopher Sánchez,0.2450,0.1500,0.1050
+823472,2026-04-30,San Francisco Giants,Philadelphia Phillies,2,3,L,Logan Webb,-0.2550,0.4080,-0.6530
+823479,2026-04-12,Philadelphia Phillies,Arizona Diamondbacks,3,4,L,Zach Pop,-0.2630,-0.0090,-0.2280
+823479,2026-04-12,Arizona Diamondbacks,Philadelphia Phillies,4,3,W,Zac Gallen,0.2370,-0.2850,0.5480
+823480,2026-04-11,Philadelphia Phillies,Arizona Diamondbacks,4,3,W,Taijuan Walker,0.1430,0.0490,0.3080
+823480,2026-04-11,Arizona Diamondbacks,Philadelphia Phillies,3,4,L,Brandon Pfaadt,-0.3570,-0.2000,0.0570
+823482,2026-04-10,Philadelphia Phillies,Arizona Diamondbacks,4,5,L,Jesús Luzardo,-0.3790,-0.3620,0.2410
+823482,2026-04-10,Arizona Diamondbacks,Philadelphia Phillies,5,4,W,Michael Soroka,0.1210,-0.1370,0.5160
+823483,2026-04-01,Philadelphia Phillies,Washington Nationals,6,5,W,Cristopher Sánchez,0.3240,0.2120,-0.0360
+823483,2026-04-01,Washington Nationals,Philadelphia Phillies,5,6,L,Cade Cavalli,-0.1760,0.2660,-0.5900
+823485,2026-03-31,Philadelphia Phillies,Washington Nationals,3,2,W,Andrew Painter,-0.0200,0.2730,0.2470
+823485,2026-03-31,Washington Nationals,Philadelphia Phillies,2,3,L,PJ Poulin,-0.5200,0.0480,-0.0280
+823488,2026-03-28,Philadelphia Phillies,Texas Rangers,4,5,L,Aaron Nola,-0.1820,-0.1000,-0.2180
+823488,2026-03-28,Texas Rangers,Philadelphia Phillies,5,4,W,Jacob Latz,0.3180,0.1630,0.0190
+823504,2026-08-28,New York Yankees,Boston Red Sox,1,0,W,Cam Schlittler,-0.2500,0.3290,0.4210
+823504,2026-08-28,Boston Red Sox,New York Yankees,0,1,L,Patrick Sandoval,-0.7500,0.0400,0.2100
+823508,2026-08-13,New York Yankees,Seattle Mariners,0,1,L,Max Fried,-0.8480,0.1440,0.2040
+823508,2026-08-13,Seattle Mariners,New York Yankees,1,0,W,Logan Gilbert,-0.3480,0.3920,0.4560
+823509,2026-08-22,New York Yankees,Toronto Blue Jays,3,4,L,Ryan Weathers,-0.4550,-0.0930,0.0480
+823509,2026-08-22,Toronto Blue Jays,New York Yankees,4,3,W,Dylan Cease,0.0450,0.2450,0.2100
+823513,2026-08-09,New York Yankees,Atlanta Braves,1,2,L,Cam Schlittler,-0.8610,0.2210,0.1400
+823513,2026-08-09,Atlanta Braves,New York Yankees,2,1,W,Grant Holmes,-0.3610,0.3570,0.5040
+823514,2026-08-08,New York Yankees,Atlanta Braves,5,4,W,Gerrit Cole,0.2470,0.1720,0.0810
+823514,2026-08-08,Atlanta Braves,New York Yankees,4,5,L,Chris Sale,-0.2530,-0.1170,-0.1300
+823515,2026-08-07,New York Yankees,Atlanta Braves,3,2,W,Max Fried,0.0120,0.3960,0.0920
+823515,2026-08-07,Atlanta Braves,New York Yankees,2,3,L,Tyler Mahle,-0.4880,0.3570,-0.3690
+823521,2026-07-19,New York Yankees,Los Angeles Dodgers,2,1,W,Ryan Yarbrough,0.0050,0.1070,0.3880
+823521,2026-07-19,Los Angeles Dodgers,New York Yankees,1,2,L,Will Klein,-0.4950,-0.0550,0.0500
+823524,2026-07-17,New York Yankees,Los Angeles Dodgers,1,2,L,Gerrit Cole,-0.6280,-0.0200,0.1480
+823524,2026-07-17,Los Angeles Dodgers,New York Yankees,2,1,W,Roki Sasaki,-0.1280,0.1300,0.4980
+823540,2026-06-03,New York Yankees,Cleveland Guardians,4,5,L,Gerrit Cole,-0.3170,-0.2370,0.0540
+823540,2026-06-03,Cleveland Guardians,New York Yankees,5,4,W,Gavin Williams,0.1830,0.0080,0.3090
+823542,2026-06-04,New York Yankees,Cleveland Guardians,2,1,W,Carlos Rodón,-0.1000,0.2250,0.3750
+823542,2026-06-04,Cleveland Guardians,New York Yankees,1,2,L,Slade Cecconi,-0.6000,0.2250,-0.1250
+823547,2026-05-20,New York Yankees,Toronto Blue Jays,1,2,L,Cam Schlittler,-0.6260,0.0080,0.1180
+823547,2026-05-20,Toronto Blue Jays,New York Yankees,2,1,W,Trey Yesavage,-0.1260,0.3570,0.2690
+823548,2026-05-19,New York Yankees,Toronto Blue Jays,5,4,W,Will Warren,0.2730,-0.0630,0.2900
+823548,2026-05-19,Toronto Blue Jays,New York Yankees,4,5,L,Dylan Cease,-0.2270,-0.3420,0.0690
+823549,2026-05-18,New York Yankees,Toronto Blue Jays,7,6,W,Ryan Weathers,0.6310,-0.3130,0.1820
+823549,2026-05-18,Toronto Blue Jays,New York Yankees,6,7,L,Patrick Corbin,0.1310,-0.1540,-0.4770
+823561,2026-04-15,New York Yankees,Los Angeles Angels,5,4,W,Luis Gil,0.5040,-0.2080,0.2040
+823561,2026-04-15,Los Angeles Angels,New York Yankees,4,5,L,Jack Kochanowicz,0.0040,0.0730,-0.5770
+823563,2026-04-13,New York Yankees,Los Angeles Angels,11,10,W,Will Warren,1.3210,-0.1140,-0.7070
+823563,2026-04-13,Los Angeles Angels,New York Yankees,10,11,L,Yusei Kikuchi,0.8210,-0.2460,-1.0750
+823564,2026-04-08,New York Yankees,Athletics,2,3,L,Will Warren,-0.5230,-0.0120,0.0350
+823564,2026-04-08,Athletics,New York Yankees,3,2,W,Luis Severino,-0.0230,0.0470,0.4760
+823565,2026-04-09,New York Yankees,Athletics,0,1,L,Ryan Weathers,-0.8130,0.2740,0.0390
+823565,2026-04-09,Athletics,New York Yankees,1,0,W,Jeffrey Springs,-0.3130,0.4660,0.3470
+823566,2026-04-05,New York Yankees,Miami Marlins,6,7,L,Max Fried,0.0090,0.1190,-0.6280
+823566,2026-04-05,Miami Marlins,New York Yankees,7,6,W,Pete Fairbanks,0.5090,-0.2500,0.2410
+823575,2026-09-14,New York Mets,Baltimore Orioles,1,2,L,Jonah Tong,-0.6690,0.2340,-0.0650
+823575,2026-09-14,Baltimore Orioles,New York Mets,2,1,W,Brandon Young,-0.1690,0.1580,0.5110
+823585,2026-08-25,New York Mets,Milwaukee Brewers,3,2,W,Zac Thornton,-0.0390,0.2110,0.3280
+823585,2026-08-25,Milwaukee Brewers,New York Mets,2,3,L,Kyle Harrison,-0.5390,0.1350,-0.0960
+823588,2026-08-15,New York Mets,Washington Nationals,5,4,W,Sean Manaea,0.5770,-0.2870,0.2100
+823588,2026-08-15,Washington Nationals,New York Mets,4,5,L,Brad Lord,0.0770,-0.2010,-0.3760
+823589,2026-08-17,New York Mets,San Diego Padres,2,1,W,Nolan McLean,-0.1590,0.2750,0.3840
+823589,2026-08-17,San Diego Padres,New York Mets,1,2,L,Walker Buehler,-0.6590,0.0830,0.0760
+823590,2026-08-16,New York Mets,Washington Nationals,4,3,W,Christian Scott,0.1320,-0.0940,0.4620
+823590,2026-08-16,Washington Nationals,New York Mets,3,4,L,Jake Irvin,-0.3680,-0.2080,0.0760
+823596,2026-07-29,New York Mets,Atlanta Braves,3,2,W,Sean Manaea,0.0470,0.0780,0.3750
+823596,2026-07-29,Atlanta Braves,New York Mets,2,3,L,AJ Smith-Shawver,-0.4530,-0.0450,-0.0020
+823598,2026-07-29,New York Mets,Atlanta Braves,0,1,L,Christian Scott,-0.8250,0.1770,0.1480
+823598,2026-07-29,Atlanta Braves,New York Mets,1,0,W,Chris Sale,-0.3250,0.3690,0.4560
+823600,2026-07-25,New York Mets,Los Angeles Dodgers,3,4,L,Nolan McLean,-0.4240,-0.1510,0.0750
+823600,2026-07-25,Los Angeles Dodgers,New York Mets,4,3,W,Yoshinobu Yamamoto,0.0760,0.2420,0.1820
+823602,2026-07-12,New York Mets,Boston Red Sox,2,3,L,Zac Thornton,-0.6810,0.4420,-0.2610
+823602,2026-07-12,Boston Red Sox,New York Mets,3,2,W,Payton Tolle,-0.1810,0.0490,0.6320
+823608,2026-06-28,New York Mets,Philadelphia Phillies,4,5,L,Cionel Pérez,-0.1960,0.0480,-0.3520
+823608,2026-06-28,Philadelphia Phillies,New York Mets,5,4,W,Jesús Luzardo,0.3040,0.1720,0.0240
+823610,2026-06-26,New York Mets,Philadelphia Phillies,1,2,L,Zac Thornton,-0.6930,0.2370,-0.0440
+823610,2026-06-26,Philadelphia Phillies,New York Mets,2,1,W,Zack Wheeler,-0.1930,0.3460,0.3470
+823612,2026-06-25,New York Mets,Chicago Cubs,3,4,L,Freddy Peralta,-0.6950,-0.0780,0.2730
+823612,2026-06-25,Chicago Cubs,New York Mets,4,3,W,Matthew Boyd,-0.1950,0.2500,0.4450
+823619,2026-06-11,New York Mets,St. Louis Cardinals,5,4,W,Christian Scott,0.2030,-0.2010,0.4980
+823619,2026-06-11,St. Louis Cardinals,New York Mets,4,5,L,Hunter Dobbins,-0.2970,-0.0360,-0.1670
+823628,2026-05-17,New York Mets,New York Yankees,7,6,W,Freddy Peralta,0.4760,0.0250,-0.0010
+823628,2026-05-17,New York Yankees,New York Mets,6,7,L,Elmer Rodríguez,-0.0240,0.0850,-0.5610
+823631,2026-05-13,New York Mets,Detroit Tigers,3,2,W,Christian Scott,-0.2080,0.0200,0.6880
+823631,2026-05-13,Detroit Tigers,New York Mets,2,3,L,Framber Valdez,-0.7080,0.3040,-0.0960
+823634,2026-04-30,New York Mets,Washington Nationals,4,5,L,Freddy Peralta,-0.2390,0.0400,-0.3010
+823634,2026-04-30,Washington Nationals,New York Mets,5,4,W,Miles Mikolas,0.2610,-0.1030,0.3420
+823638,2026-04-24,New York Mets,Colorado Rockies,3,4,L,Freddy Peralta,-0.4170,-0.0210,-0.0620
+823638,2026-04-24,Colorado Rockies,New York Mets,4,3,W,Michael Lorenzen,0.0830,0.2910,0.1260
+823641,2026-04-22,New York Mets,Minnesota Twins,3,2,W,Clay Holmes,0.0580,0.1690,0.2730
+823641,2026-04-22,Minnesota Twins,New York Mets,2,3,L,Connor Prielipp,-0.4420,-0.0430,-0.0150
+823642,2026-04-12,New York Mets,Athletics,0,1,L,Freddy Peralta,-0.8440,0.1960,0.1480
+823642,2026-04-12,Athletics,New York Mets,1,0,W,Aaron Civale,-0.3440,0.3000,0.5440
+823647,2026-03-29,New York Mets,Pittsburgh Pirates,3,4,L,Nolan McLean,-0.6570,0.0350,0.1220
+823647,2026-03-29,Pittsburgh Pirates,New York Mets,4,3,W,Carmen Mlodzinski,-0.1570,-0.0340,0.6910
+823648,2026-04-07,New York Mets,Arizona Diamondbacks,4,3,W,Freddy Peralta,0.0170,0.1730,0.3100
+823648,2026-04-07,Arizona Diamondbacks,New York Mets,3,4,L,Zac Gallen,-0.4830,0.0340,-0.0510
+823655,2026-09-16,Minnesota Twins,New York Yankees,5,4,W,Zebby Matthews,-0.2250,0.3560,0.3690
+823655,2026-09-16,New York Yankees,Minnesota Twins,4,5,L,Carlos Rodón,-0.7250,0.0410,0.1840
+823657,2026-09-12,Minnesota Twins,Cleveland Guardians,4,3,W,Connor Prielipp,0.0780,-0.0060,0.4280
+823657,2026-09-12,Cleveland Guardians,Minnesota Twins,3,4,L,Daniel Espino,-0.4220,0.1030,-0.1810
+823665,2026-08-29,Minnesota Twins,Chicago White Sox,2,3,L,Bailey Ober,-0.6040,0.0600,0.0440
+823665,2026-08-29,Chicago White Sox,Minnesota Twins,3,2,W,Erick Fedde,-0.1040,0.0600,0.5440
+823674,2026-07-30,Minnesota Twins,Kansas City Royals,4,3,W,Bailey Ober,0.5190,-0.0640,0.0450
+823674,2026-07-30,Kansas City Royals,Minnesota Twins,3,4,L,Noah Cameron,0.0190,0.4380,-0.9570
+823676,2026-07-28,Minnesota Twins,Kansas City Royals,3,2,W,Taj Bradley,0.3320,0.0200,0.1480
+823676,2026-07-28,Kansas City Royals,Minnesota Twins,2,3,L,Seth Lugo,-0.1680,0.2120,-0.5440
+823684,2026-07-08,Minnesota Twins,Cleveland Guardians,6,5,W,Connor Prielipp,0.5190,-0.0630,0.0440
+823684,2026-07-08,Cleveland Guardians,Minnesota Twins,5,6,L,Slade Cecconi,0.0190,-0.1900,-0.3290
+823685,2026-07-10,Minnesota Twins,Los Angeles Angels,3,4,L,Zebby Matthews,-0.4670,-0.1810,0.1480
+823685,2026-07-10,Los Angeles Angels,Minnesota Twins,4,3,W,Grayson Rodriguez,0.0330,0.0770,0.3900
+823686,2026-06-28,Minnesota Twins,Colorado Rockies,3,2,W,Connor Prielipp,0.0300,0.0950,0.3750
+823686,2026-06-28,Colorado Rockies,Minnesota Twins,2,3,L,Ryan Feltner,-0.4700,0.0950,-0.1250
+823688,2026-06-26,Minnesota Twins,Colorado Rockies,9,8,W,Taj Bradley,0.7660,0.2060,-0.4720
+823688,2026-06-26,Colorado Rockies,Minnesota Twins,8,9,L,Tomoyuki Sugano,0.2660,-0.2810,-0.4850
+823691,2026-06-24,Minnesota Twins,Los Angeles Dodgers,3,4,L,Joe Ryan,-0.5240,-0.1240,0.1480
+823691,2026-06-24,Los Angeles Dodgers,Minnesota Twins,4,3,W,Shohei Ohtani,-0.0240,0.0680,0.4560
+823692,2026-06-22,Minnesota Twins,Los Angeles Dodgers,1,2,L,Zebby Matthews,-0.7250,0.0770,0.1480
+823692,2026-06-22,Los Angeles Dodgers,Minnesota Twins,2,1,W,Will Klein,-0.2250,-0.0520,0.7770
+823693,2026-06-14,Minnesota Twins,St. Louis Cardinals,5,4,W,Taj Bradley,0.4260,-0.1050,0.1790
+823693,2026-06-14,St. Louis Cardinals,Minnesota Twins,4,5,L,Michael McGreevy,-0.0740,0.0800,-0.5060
+823695,2026-06-12,Minnesota Twins,St. Louis Cardinals,9,8,W,Joe Ryan,1.1260,-0.0350,-0.5910
+823695,2026-06-12,St. Louis Cardinals,Minnesota Twins,8,9,L,Kyle Leahy,0.6260,-0.3030,-0.8230
+823696,2026-06-07,Minnesota Twins,Kansas City Royals,5,6,L,Connor Prielipp,-0.2310,0.0900,-0.3590
+823696,2026-06-07,Kansas City Royals,Minnesota Twins,6,5,W,Noah Cameron,0.2690,0.1720,0.0590
+823697,2026-06-06,Minnesota Twins,Kansas City Royals,2,3,L,Joe Ryan,-0.2880,0.2230,-0.4350
+823697,2026-06-06,Kansas City Royals,Minnesota Twins,3,2,W,Luinder Avila,0.2120,0.1470,0.1410
+823704,2026-05-19,Minnesota Twins,Houston Astros,1,2,L,Zebby Matthews,-0.6540,0.0500,0.1040
+823704,2026-05-19,Houston Astros,Minnesota Twins,2,1,W,Jason Alexander,-0.1540,0.3650,0.2890
+823706,2026-05-16,Minnesota Twins,Milwaukee Brewers,1,2,L,Connor Prielipp,-0.7020,0.0540,0.1480
+823706,2026-05-16,Milwaukee Brewers,Minnesota Twins,2,1,W,Logan Henderson,-0.2020,0.1580,0.5440
+823707,2026-05-15,Minnesota Twins,Milwaukee Brewers,2,3,L,Joe Ryan,-0.3930,0.2030,-0.3100
+823707,2026-05-15,Milwaukee Brewers,Minnesota Twins,3,2,W,Coleman Crow,0.1070,0.0990,0.2940
+823708,2026-05-17,Minnesota Twins,Milwaukee Brewers,5,4,W,Bailey Ober,0.1890,-0.0640,0.3750
+823708,2026-05-17,Milwaukee Brewers,Minnesota Twins,4,5,L,Robert Gasser,-0.3110,-0.1310,-0.0580
+823711,2026-05-03,Minnesota Twins,Toronto Blue Jays,4,3,W,Joe Ryan,0.0910,-0.0020,0.4110
+823711,2026-05-03,Toronto Blue Jays,Minnesota Twins,3,4,L,Trey Yesavage,-0.4090,0.0820,-0.1730
+823720,2026-04-17,Minnesota Twins,Cincinnati Reds,1,2,L,Joe Ryan,-0.7090,0.0610,0.1480
+823720,2026-04-17,Cincinnati Reds,Minnesota Twins,2,1,W,Brandon Williamson,-0.2090,0.1600,0.5490
+823721,2026-04-18,Minnesota Twins,Cincinnati Reds,4,5,L,Taj Bradley,-0.1960,0.1550,-0.4590
+823721,2026-04-18,Cincinnati Reds,Minnesota Twins,5,4,W,Andrew Abbott,0.3040,-0.1130,0.3090
+823733,2026-09-26,Milwaukee Brewers,St. Louis Cardinals,3,2,W,Dustin May,0.0010,-0.0690,0.5680
+823733,2026-09-26,St. Louis Cardinals,Milwaukee Brewers,2,3,L,Quinn Mathews,-0.4990,-0.1250,0.1240
+823734,2026-09-13,Milwaukee Brewers,Cincinnati Reds,3,4,L,Robert Gasser,-0.2890,0.2140,-0.4250
+823734,2026-09-13,Cincinnati Reds,Milwaukee Brewers,4,3,W,Chase Burns,0.2110,-0.0780,0.3670
+823738,2026-09-08,Milwaukee Brewers,Chicago Cubs,4,3,W,Jacob Misiorowski,0.1470,0.2960,0.0570
+823738,2026-09-08,Chicago Cubs,Milwaukee Brewers,3,4,L,David Peterson,-0.3530,0.0640,-0.2110
+823742,2026-09-07,Milwaukee Brewers,Chicago Cubs,4,3,W,Robert Gasser,0.3020,0.0820,0.1160
+823742,2026-09-07,Chicago Cubs,Milwaukee Brewers,3,4,L,Matthew Boyd,-0.1980,-0.0580,-0.2440
+823746,2026-08-21,Milwaukee Brewers,Atlanta Braves,2,1,W,Jacob Misiorowski,-0.0800,0.3380,0.2420
+823746,2026-08-21,Atlanta Braves,Milwaukee Brewers,1,2,L,Chris Sale,-0.5800,0.0230,0.0570
+823751,2026-08-09,Milwaukee Brewers,Minnesota Twins,4,3,W,Jacob Misiorowski,-0.0860,-0.0540,0.6400
+823751,2026-08-09,Minnesota Twins,Milwaukee Brewers,3,4,L,Connor Prielipp,-0.5860,-0.1800,0.2660
+823752,2026-08-08,Milwaukee Brewers,Minnesota Twins,4,3,W,Robert Gasser,0.1300,-0.1130,0.4830
+823752,2026-08-08,Minnesota Twins,Milwaukee Brewers,3,4,L,Taj Bradley,-0.3700,-0.0670,-0.0630
+823757,2026-08-03,Milwaukee Brewers,Pittsburgh Pirates,3,4,L,Brandon Sproat,-0.4850,-0.1850,0.1700
+823757,2026-08-03,Pittsburgh Pirates,Milwaukee Brewers,4,3,W,Bubba Chandler,0.0150,-0.0310,0.5160
+823761,2026-07-22,Milwaukee Brewers,New York Mets,4,3,W,Logan Henderson,0.1390,0.0570,0.3040
+823761,2026-07-22,New York Mets,Milwaukee Brewers,3,4,L,Christian Scott,-0.3610,-0.1810,0.0420
+823766,2026-07-17,Milwaukee Brewers,Miami Marlins,2,1,W,Logan Henderson,-0.3450,0.1290,0.7160
+823766,2026-07-17,Miami Marlins,Milwaukee Brewers,1,2,L,Sandy Alcantara,-0.8450,0.2050,0.1400
+823769,2026-06-28,Milwaukee Brewers,Chicago Cubs,3,4,L,Brandon Woodruff,-0.6120,0.3070,-0.1950
+823769,2026-06-28,Chicago Cubs,Milwaukee Brewers,4,3,W,Ryan Rolison,-0.1120,-0.0130,0.6250
+823775,2026-06-16,Milwaukee Brewers,Cleveland Guardians,2,1,W,Robert Gasser,-0.0470,0.3270,0.2200
+823775,2026-06-16,Cleveland Guardians,Milwaukee Brewers,1,2,L,Slade Cecconi,-0.5470,0.1240,-0.0770
+823776,2026-06-13,Milwaukee Brewers,Philadelphia Phillies,8,9,L,Shane Drohan,-0.0070,-0.1210,-0.3720
+823776,2026-06-13,Philadelphia Phillies,Milwaukee Brewers,9,8,W,Aaron Nola,0.4930,-0.0990,0.1060
+823780,2026-06-03,Milwaukee Brewers,San Francisco Giants,0,1,L,Robert Gasser,-0.8330,0.1290,0.2040
+823780,2026-06-03,San Francisco Giants,Milwaukee Brewers,1,0,W,Logan Webb,-0.3330,0.4860,0.3470
+823783,2026-05-27,Milwaukee Brewers,St. Louis Cardinals,2,1,W,Chad Patrick,0.0350,0.0820,0.3830
+823783,2026-05-27,St. Louis Cardinals,Milwaukee Brewers,1,2,L,Dustin May,-0.4650,0.1710,-0.2060
+823792,2026-05-09,Milwaukee Brewers,New York Yankees,4,3,W,Kyle Harrison,0.2680,-0.0230,0.2550
+823792,2026-05-09,New York Yankees,Milwaukee Brewers,3,4,L,Cam Schlittler,-0.2320,0.3710,-0.6390
+823793,2026-05-10,Milwaukee Brewers,New York Yankees,4,3,W,Logan Henderson,0.2070,0.0420,0.2510
+823793,2026-05-10,New York Yankees,Milwaukee Brewers,3,4,L,Carlos Rodón,-0.2930,-0.2020,-0.0050
+823801,2026-04-16,Milwaukee Brewers,Toronto Blue Jays,2,1,W,Brandon Sproat,-0.1050,0.2980,0.3070
+823801,2026-04-16,Toronto Blue Jays,Milwaukee Brewers,1,2,L,Patrick Corbin,-0.6050,0.2130,-0.1080
+823803,2026-04-15,Milwaukee Brewers,Toronto Blue Jays,2,1,W,Chad Patrick,0.0230,0.2330,0.2440
+823803,2026-04-15,Toronto Blue Jays,Milwaukee Brewers,1,2,L,Dylan Cease,-0.4770,0.3950,-0.4180
+823809,2026-03-30,Milwaukee Brewers,Tampa Bay Rays,2,3,L,Kyle Harrison,-0.4110,0.1470,-0.2360
+823809,2026-03-30,Tampa Bay Rays,Milwaukee Brewers,3,2,W,Nick Martinez,0.0890,0.0110,0.4000
+823818,2026-09-09,Miami Marlins,New York Mets,14,15,L,Janson Junk,0.3620,-0.4010,-0.4610
+823818,2026-09-09,New York Mets,Miami Marlins,15,14,W,Robert Stock,0.8620,0.0380,-0.4000
+823819,2026-09-12,Miami Marlins,Los Angeles Dodgers,4,3,W,Tyler Phillips,0.1300,-0.0180,0.3880
+823819,2026-09-12,Los Angeles Dodgers,Miami Marlins,3,4,L,Tyler Glasnow,-0.3700,-0.2080,0.0780
+823823,2026-09-05,Miami Marlins,Chicago Cubs,5,6,L,Ryan Gusto,-0.2840,-0.2770,0.0610
+823823,2026-09-05,Chicago Cubs,Miami Marlins,6,5,W,Javier Assad,0.2160,0.0750,0.2090
+823830,2026-08-21,Miami Marlins,Washington Nationals,3,2,W,Ryan Gusto,0.4100,0.2140,-0.1240
+823830,2026-08-21,Washington Nationals,Miami Marlins,2,3,L,Brad Lord,-0.0900,0.1280,-0.5380
+823836,2026-08-07,Miami Marlins,Los Angeles Angels,3,4,L,Tyler Phillips,-0.3140,0.0460,-0.2320
+823836,2026-08-07,Los Angeles Angels,Miami Marlins,4,3,W,George Klassen,0.1860,0.0940,0.2200
+823838,2026-07-28,Miami Marlins,Philadelphia Phillies,1,0,W,Sandy Alcantara,-0.2540,0.4670,0.2870
+823838,2026-07-28,Philadelphia Phillies,Miami Marlins,0,1,L,Aaron Nola,-0.7540,0.1300,0.1240
+823839,2026-07-27,Miami Marlins,Philadelphia Phillies,8,7,W,Tyler Phillips,0.9380,0.0420,-0.4800
+823839,2026-07-27,Philadelphia Phillies,Miami Marlins,7,8,L,Zack Wheeler,0.4380,-0.3660,-0.5720
+823845,2026-07-10,Miami Marlins,Cleveland Guardians,2,3,L,Sandy Alcantara,-0.5620,-0.0300,0.0920
+823845,2026-07-10,Cleveland Guardians,Miami Marlins,3,2,W,Parker Messick,-0.0620,0.2490,0.3130
+823847,2026-07-07,Miami Marlins,Seattle Mariners,6,5,W,Max Meyer,0.3590,-0.1360,0.2770
+823847,2026-07-07,Seattle Mariners,Miami Marlins,5,6,L,Bryan Woo,-0.1410,-0.1660,-0.1930
+823851,2026-06-22,Miami Marlins,Texas Rangers,3,4,L,Tyler Phillips,-0.3550,0.0610,-0.2060
+823851,2026-06-22,Texas Rangers,Miami Marlins,4,3,W,Tyler Alexander,0.1450,0.0480,0.3070
+823852,2026-06-21,Miami Marlins,San Francisco Giants,2,1,W,Ryan Gusto,-0.1360,0.0980,0.5380
+823852,2026-06-21,San Francisco Giants,Miami Marlins,1,2,L,Logan Webb,-0.6360,0.1360,0.0000
+823853,2026-06-19,Miami Marlins,San Francisco Giants,4,3,W,Lake Bachar,0.2430,-0.0970,0.3540
+823853,2026-06-19,San Francisco Giants,Miami Marlins,3,4,L,Landen Roupp,-0.2570,0.1060,-0.3490
+823859,2026-06-06,Miami Marlins,Tampa Bay Rays,4,3,W,Lake Bachar,0.0810,0.1540,0.2650
+823859,2026-06-06,Tampa Bay Rays,Miami Marlins,3,4,L,Shane McClanahan,-0.4190,-0.1120,0.0310
+823863,2026-05-22,Miami Marlins,New York Mets,2,1,W,Eury Pérez,-0.1430,0.3030,0.3400
+823863,2026-05-22,New York Mets,Miami Marlins,1,2,L,Tobias Myers,-0.6430,0.0300,0.1130
+823869,2026-05-09,Miami Marlins,Washington Nationals,8,7,W,Janson Junk,0.4660,-0.1450,0.1790
+823869,2026-05-09,Washington Nationals,Miami Marlins,7,8,L,Richard Lovelady,-0.0340,0.0920,-0.5580
+823870,2026-05-07,Miami Marlins,Baltimore Orioles,4,3,W,Max Meyer,0.2410,0.0800,0.1790
+823870,2026-05-07,Baltimore Orioles,Miami Marlins,3,4,L,Cade Povich,-0.2590,-0.1750,-0.0660
+823871,2026-05-08,Miami Marlins,Washington Nationals,2,3,L,Robby Snelling,-0.6700,-0.0340,0.2040
+823871,2026-05-08,Washington Nationals,Miami Marlins,3,2,W,Foster Griffin,-0.1700,0.3230,0.3470
+823874,2026-05-04,Miami Marlins,Philadelphia Phillies,0,1,L,Janson Junk,-0.8440,0.1380,0.2060
+823874,2026-05-04,Philadelphia Phillies,Miami Marlins,1,0,W,Aaron Nola,-0.3440,0.3880,0.4560
+823877,2026-05-01,Miami Marlins,Philadelphia Phillies,5,6,L,Eury Pérez,-0.3260,0.0160,-0.1900
+823877,2026-05-01,Philadelphia Phillies,Miami Marlins,6,5,W,Zack Wheeler,0.1740,0.2640,0.0620
+823891,2026-03-29,Miami Marlins,Colorado Rockies,4,3,W,Max Meyer,0.3370,-0.0410,0.2040
+823891,2026-03-29,Colorado Rockies,Miami Marlins,3,4,L,Jose Quintana,-0.1630,0.0390,-0.3760
+823892,2026-03-28,Miami Marlins,Colorado Rockies,4,3,W,Eury Pérez,0.1720,0.0550,0.2730
+823892,2026-03-28,Colorado Rockies,Miami Marlins,3,4,L,Michael Lorenzen,-0.3280,-0.1460,-0.0260
+823893,2026-03-27,Miami Marlins,Colorado Rockies,2,1,W,Sandy Alcantara,-0.1410,0.3540,0.2870
+823893,2026-03-27,Colorado Rockies,Miami Marlins,1,2,L,Kyle Freeland,-0.6410,-0.0100,0.1510
+823901,2026-09-08,Los Angeles Dodgers,Cincinnati Reds,3,2,W,Tarik Skubal,-0.0350,0.3020,0.2330
+823901,2026-09-08,Cincinnati Reds,Los Angeles Dodgers,2,3,L,Nick Lodolo,-0.5350,-0.1370,0.1720
+823904,2026-09-05,Los Angeles Dodgers,Washington Nationals,6,5,W,Tyler Glasnow,0.4120,-0.0920,0.1800
+823904,2026-09-05,Washington Nationals,Los Angeles Dodgers,5,6,L,Cade Cavalli,-0.0880,0.1690,-0.5810
+823907,2026-09-03,Los Angeles Dodgers,St. Louis Cardinals,3,2,W,Tarik Skubal,0.2820,0.0210,0.1970
+823907,2026-09-03,St. Louis Cardinals,Los Angeles Dodgers,2,3,L,Quinn Mathews,-0.2180,0.1740,-0.4560
+823910,2026-08-22,Los Angeles Dodgers,Pittsburgh Pirates,4,3,W,Tarik Skubal,0.1250,0.0880,0.2870
+823910,2026-08-22,Pittsburgh Pirates,Los Angeles Dodgers,3,4,L,Jared Jones,-0.3750,-0.0040,-0.1210
+823911,2026-08-21,Los Angeles Dodgers,Pittsburgh Pirates,5,4,W,Yoshinobu Yamamoto,0.1100,0.0570,0.3330
+823911,2026-08-21,Pittsburgh Pirates,Los Angeles Dodgers,4,5,L,Bubba Chandler,-0.3900,-0.2500,0.1400
+823915,2026-08-13,Los Angeles Dodgers,Milwaukee Brewers,4,5,L,Roki Sasaki,0.0110,0.0610,-0.5720
+823915,2026-08-13,Milwaukee Brewers,Los Angeles Dodgers,5,4,W,Shane Drohan,0.5110,0.0950,-0.1060
+823917,2026-08-11,Los Angeles Dodgers,Kansas City Royals,5,4,W,Blake Snell,0.2860,0.2360,-0.0220
+823917,2026-08-11,Kansas City Royals,Los Angeles Dodgers,4,5,L,Michael Wacha,-0.2140,-0.0560,-0.2300
+823918,2026-08-10,Los Angeles Dodgers,Kansas City Royals,6,5,W,Tarik Skubal,0.4380,-0.0540,0.1160
+823918,2026-08-10,Kansas City Royals,Los Angeles Dodgers,5,6,L,Noah Cameron,-0.0620,0.0890,-0.5270
+823920,2026-08-01,Los Angeles Dodgers,Boston Red Sox,2,3,L,Yoshinobu Yamamoto,-0.5750,0.0360,0.0390
+823920,2026-08-01,Boston Red Sox,Los Angeles Dodgers,3,2,W,Payton Tolle,-0.0750,0.1400,0.4350
+823923,2026-07-28,Los Angeles Dodgers,Seattle Mariners,6,7,L,Justin Wrobleski,0.0040,-0.2780,-0.2260
+823923,2026-07-28,Seattle Mariners,Los Angeles Dodgers,7,6,W,Luis Castillo,0.5040,-0.3540,0.3500
+823928,2026-07-08,Los Angeles Dodgers,Colorado Rockies,4,3,W,Roki Sasaki,0.0670,0.0720,0.3610
+823928,2026-07-08,Colorado Rockies,Los Angeles Dodgers,3,4,L,Gabriel Hughes,-0.4330,0.0720,-0.1390
+823929,2026-07-07,Los Angeles Dodgers,Colorado Rockies,3,4,L,Justin Wrobleski,-0.3080,0.3230,-0.5150
+823929,2026-07-07,Colorado Rockies,Los Angeles Dodgers,4,3,W,Michael Lorenzen,0.1920,-0.0640,0.3720
+823930,2026-07-06,Los Angeles Dodgers,Colorado Rockies,8,7,W,Eric Lauer,0.3920,0.0900,0.0180
+823930,2026-07-06,Colorado Rockies,Los Angeles Dodgers,7,8,L,Kyle Freeland,-0.1080,-0.3210,-0.0710
+823933,2026-07-03,Los Angeles Dodgers,San Diego Padres,4,3,W,Shohei Ohtani,0.2330,-0.0410,0.3080
+823933,2026-07-03,San Diego Padres,Los Angeles Dodgers,3,4,L,Michael King,-0.2670,0.2150,-0.4480
+823936,2026-06-19,Los Angeles Dodgers,Baltimore Orioles,6,5,W,Roki Sasaki,0.7820,-0.0680,-0.2140
+823936,2026-06-19,Baltimore Orioles,Los Angeles Dodgers,5,6,L,Trey Gibson,0.2820,-0.1270,-0.6550
+823937,2026-06-20,Los Angeles Dodgers,Baltimore Orioles,2,3,L,Yoshinobu Yamamoto,-0.4780,-0.0670,0.0450
+823937,2026-06-20,Baltimore Orioles,Los Angeles Dodgers,3,2,W,Trevor Rogers,0.0220,0.3820,0.0960
+823938,2026-06-15,Los Angeles Dodgers,Tampa Bay Rays,4,3,W,Eric Lauer,0.0640,0.0610,0.3750
+823938,2026-06-15,Tampa Bay Rays,Los Angeles Dodgers,3,4,L,Nick Martinez,-0.4360,-0.0170,-0.0470
+823939,2026-06-16,Los Angeles Dodgers,Tampa Bay Rays,1,0,W,Justin Wrobleski,-0.2410,0.3570,0.3840
+823939,2026-06-16,Tampa Bay Rays,Los Angeles Dodgers,0,1,L,Drew Rasmussen,-0.7410,0.2090,0.0320
+823940,2026-06-17,Los Angeles Dodgers,Tampa Bay Rays,5,4,W,Shohei Ohtani,0.3080,-0.1920,0.3840
+823940,2026-06-17,Tampa Bay Rays,Los Angeles Dodgers,4,5,L,Shane McClanahan,-0.1920,-0.0870,-0.2210
+823943,2026-06-05,Los Angeles Dodgers,Los Angeles Angels,1,0,W,Roki Sasaki,-0.1920,0.4450,0.2470
+823943,2026-06-05,Los Angeles Angels,Los Angeles Dodgers,0,1,L,Reid Detmers,-0.6920,0.3570,-0.1650
+823945,2026-05-30,Los Angeles Dodgers,Philadelphia Phillies,3,4,L,Roki Sasaki,-0.3380,0.1090,-0.2710
+823945,2026-05-30,Philadelphia Phillies,Los Angeles Dodgers,4,3,W,Jesús Luzardo,0.1620,-0.0040,0.3420
+823956,2026-04-28,Los Angeles Dodgers,Miami Marlins,1,2,L,Shohei Ohtani,-0.6610,0.0570,0.1040
+823956,2026-04-28,Miami Marlins,Los Angeles Dodgers,2,1,W,Janson Junk,-0.1610,0.3720,0.2890
+823958,2026-04-29,Los Angeles Dodgers,Miami Marlins,2,3,L,Tyler Glasnow,-0.5120,0.0210,-0.0090
+823958,2026-04-29,Miami Marlins,Los Angeles Dodgers,3,2,W,Sandy Alcantara,-0.0120,0.0770,0.4350
+823961,2026-04-27,Los Angeles Dodgers,Miami Marlins,5,4,W,Yoshinobu Yamamoto,0.6210,-0.2440,0.1230
+823961,2026-04-27,Miami Marlins,Los Angeles Dodgers,4,5,L,Chris Paddack,0.1210,-0.0330,-0.5880
+823965,2026-04-14,Los Angeles Dodgers,New York Mets,2,1,W,Yoshinobu Yamamoto,-0.1180,0.3450,0.2730
+823965,2026-04-14,New York Mets,Los Angeles Dodgers,1,2,L,Nolan McLean,-0.6180,0.3450,-0.2270
+823968,2026-04-10,Los Angeles Dodgers,Texas Rangers,8,7,W,Tyler Glasnow,0.7700,-0.1620,-0.1080
+823968,2026-04-10,Texas Rangers,Los Angeles Dodgers,7,8,L,Kumar Rocker,0.2700,-0.0580,-0.7120
+823971,2026-03-27,Los Angeles Dodgers,Arizona Diamondbacks,5,4,W,Emmet Sheehan,0.2340,-0.1720,0.4380
+823971,2026-03-27,Arizona Diamondbacks,Los Angeles Dodgers,4,5,L,Ryne Nelson,-0.2660,-0.1860,-0.0480
+823973,2026-03-28,Los Angeles Dodgers,Arizona Diamondbacks,3,2,W,Tyler Glasnow,0.1730,0.0530,0.2740
+823973,2026-03-28,Arizona Diamondbacks,Los Angeles Dodgers,2,3,L,Eduardo Rodriguez,-0.3270,0.2330,-0.4060
+823976,2026-09-19,Los Angeles Angels,Minnesota Twins,6,5,W,Reid Detmers,0.0280,-0.2010,0.6730
+823976,2026-09-19,Minnesota Twins,Los Angeles Angels,5,6,L,Joe Ryan,-0.4720,0.0780,-0.1060
+823978,2026-09-17,Los Angeles Angels,Minnesota Twins,5,4,W,Walbert Ureña,0.5010,0.3260,-0.3270
+823978,2026-09-17,Minnesota Twins,Los Angeles Angels,4,5,L,Taj Bradley,0.0010,-0.1020,-0.3990
+823980,2026-09-15,Los Angeles Angels,Seattle Mariners,2,1,W,Ryan Johnson,-0.0810,0.1970,0.3840
+823980,2026-09-15,Seattle Mariners,Los Angeles Angels,1,2,L,Logan Gilbert,-0.5810,0.0050,0.0760
+823988,2026-08-26,Los Angeles Angels,Cleveland Guardians,3,4,L,Grayson Rodriguez,-0.1800,0.2040,-0.5240
+823988,2026-08-26,Cleveland Guardians,Los Angeles Angels,4,3,W,Joey Cantillo,0.3200,-0.0810,0.2610
+823990,2026-08-15,Los Angeles Angels,Kansas City Royals,1,0,W,Reid Detmers,-0.2180,0.5530,0.1650
+823990,2026-08-15,Kansas City Royals,Los Angeles Angels,0,1,L,Randy Dobnak,-0.7180,0.2910,-0.0730
+823993,2026-08-14,Los Angeles Angels,Kansas City Royals,6,7,L,Grayson Rodriguez,-0.0180,-0.0990,-0.3830
+823993,2026-08-14,Kansas City Royals,Los Angeles Angels,7,6,W,Seth Lugo,0.4820,-0.3530,0.3710
+823997,2026-08-11,Los Angeles Angels,Texas Rangers,3,2,W,Ryan Johnson,-0.0060,0.0480,0.4580
+823997,2026-08-11,Texas Rangers,Los Angeles Angels,2,3,L,Cody Bradford,-0.5060,-0.0260,0.0320
+824003,2026-07-28,Los Angeles Angels,Houston Astros,2,3,L,Reid Detmers,-0.5000,0.0240,-0.0240
+824003,2026-07-28,Houston Astros,Los Angeles Angels,3,2,W,Peter Lambert,0.0000,0.0240,0.4760
+824004,2026-07-22,Los Angeles Angels,St. Louis Cardinals,0,1,L,Reid Detmers,-0.8250,0.1460,0.1790
+824004,2026-07-22,St. Louis Cardinals,Los Angeles Angels,1,0,W,Hunter Dobbins,-0.3250,0.3690,0.4560
+824006,2026-07-20,Los Angeles Angels,St. Louis Cardinals,3,2,W,José Soriano,0.2630,0.1450,0.0920
+824006,2026-07-20,St. Louis Cardinals,Los Angeles Angels,2,3,L,Kyle Leahy,-0.2370,0.2810,-0.5440
+824007,2026-07-19,Los Angeles Angels,Detroit Tigers,3,2,W,Ryan Johnson,0.0200,0.1760,0.3040
+824007,2026-07-19,Detroit Tigers,Los Angeles Angels,2,3,L,Casey Mize,-0.4800,0.0760,-0.0960
+824009,2026-07-17,Los Angeles Angels,Detroit Tigers,1,2,L,Reid Detmers,-0.4580,0.3700,-0.4120
+824009,2026-07-17,Detroit Tigers,Los Angeles Angels,2,1,W,Troy Melton,0.0420,0.1670,0.2910
+824018,2026-06-24,Los Angeles Angels,Baltimore Orioles,7,6,W,José Soriano,0.6560,-0.3630,0.2070
+824018,2026-06-24,Baltimore Orioles,Los Angeles Angels,6,7,L,Trey Gibson,0.1560,0.0030,-0.6590
+824020,2026-06-12,Los Angeles Angels,Tampa Bay Rays,4,3,W,Sam Aldegheri,0.1090,0.1010,0.2900
+824020,2026-06-12,Tampa Bay Rays,Los Angeles Angels,3,4,L,Shane McClanahan,-0.3910,-0.2110,0.1020
+824022,2026-06-10,Los Angeles Angels,Houston Astros,3,2,W,Reid Detmers,-0.1550,0.3480,0.3070
+824022,2026-06-10,Houston Astros,Los Angeles Angels,2,3,L,Peter Lambert,-0.6550,0.0090,0.1460
+824025,2026-06-08,Los Angeles Angels,Houston Astros,4,5,L,Grayson Rodriguez,-0.4460,-0.1230,0.0690
+824025,2026-06-08,Houston Astros,Los Angeles Angels,5,4,W,Spencer Arrighetti,0.0540,-0.0160,0.4620
+824027,2026-06-01,Los Angeles Angels,Colorado Rockies,8,9,L,José Soriano,0.5050,-0.0160,-0.9890
+824027,2026-06-01,Colorado Rockies,Los Angeles Angels,9,8,W,Kyle Freeland,1.0050,-0.3980,-0.1070
+824028,2026-05-24,Los Angeles Angels,Texas Rangers,2,1,W,Reid Detmers,-0.0780,0.4390,0.1390
+824028,2026-05-24,Texas Rangers,Los Angeles Angels,1,2,L,MacKenzie Gore,-0.5780,0.2430,-0.1650
+824031,2026-05-21,Los Angeles Angels,Athletics,2,3,L,José Soriano,-0.8190,0.0830,0.2360
+824031,2026-05-21,Athletics,Los Angeles Angels,3,2,W,Luis Severino,-0.3190,0.1240,0.6950
+824032,2026-05-20,Los Angeles Angels,Athletics,5,6,L,Jack Kochanowicz,-0.3790,0.0310,-0.1520
+824032,2026-05-20,Athletics,Los Angeles Angels,6,5,W,Aaron Civale,0.1210,-0.3140,0.6930
+824035,2026-05-18,Los Angeles Angels,Athletics,2,1,W,Walbert Ureña,0.2430,0.3570,-0.1000
+824035,2026-05-18,Athletics,Los Angeles Angels,1,2,L,J.T. Ginn,-0.2570,-0.2430,0.0000
+824040,2026-05-05,Los Angeles Angels,Chicago White Sox,4,3,W,Sam Aldegheri,0.0880,0.0180,0.3940
+824040,2026-05-05,Chicago White Sox,Los Angeles Angels,3,4,L,Erick Fedde,-0.4120,-0.2180,0.1300
+824041,2026-05-01,Los Angeles Angels,New York Mets,3,4,L,Walbert Ureña,-0.4120,0.2000,-0.2880
+824041,2026-05-01,New York Mets,Los Angeles Angels,4,3,W,Christian Scott,0.0880,-0.1200,0.5320
+824042,2026-05-02,Los Angeles Angels,New York Mets,4,3,W,Reid Detmers,-0.0560,-0.2430,0.7990
+824042,2026-05-02,New York Mets,Los Angeles Angels,3,4,L,Nolan McLean,-0.5560,-0.1470,0.2030
+824047,2026-04-19,Los Angeles Angels,San Diego Padres,1,2,L,Walbert Ureña,-0.6960,0.1000,0.0960
+824047,2026-04-19,San Diego Padres,Los Angeles Angels,2,1,W,Michael King,-0.1960,0.2950,0.4010
+824053,2026-04-05,Los Angeles Angels,Seattle Mariners,8,7,W,George Klassen,0.4830,-0.1200,0.1370
+824053,2026-04-05,Seattle Mariners,Los Angeles Angels,7,8,L,Luis Castillo,-0.0170,-0.1890,-0.2940
+824054,2026-04-04,Los Angeles Angels,Seattle Mariners,1,0,W,Jack Kochanowicz,-0.2540,0.3530,0.4010
+824054,2026-04-04,Seattle Mariners,Los Angeles Angels,0,1,L,Emerson Hancock,-0.7540,0.2020,0.0520
+824055,2026-09-27,Kansas City Royals,Cleveland Guardians,3,2,W,Daniel Lynch IV,0.0520,0.0080,0.4400
+824055,2026-09-27,Cleveland Guardians,Kansas City Royals,2,3,L,Parker Messick,-0.4480,0.0440,-0.0960
+824060,2026-09-23,Kansas City Royals,Chicago White Sox,5,4,W,Seth Lugo,0.1410,-0.2670,0.6260
+824060,2026-09-23,Chicago White Sox,Kansas City Royals,4,5,L,Bryan Hudson,-0.3590,-0.2680,0.1270
+824062,2026-09-07,Kansas City Royals,Arizona Diamondbacks,4,5,L,Noah Cameron,-0.7130,0.3570,-0.1440
+824062,2026-09-07,Arizona Diamondbacks,Kansas City Royals,5,4,W,Derek Law,-0.2130,0.0990,0.6140
+824066,2026-09-05,Kansas City Royals,Toronto Blue Jays,3,4,L,Seth Lugo,-0.4900,-0.0420,0.0320
+824066,2026-09-05,Toronto Blue Jays,Kansas City Royals,4,3,W,Max Scherzer,0.0100,-0.0010,0.4910
+824075,2026-08-18,Kansas City Royals,Athletics,4,3,W,Daniel Lynch IV,0.4610,0.0940,-0.0550
+824075,2026-08-18,Athletics,Kansas City Royals,3,4,L,Brady Basso,-0.0390,0.1030,-0.5640
+824080,2026-08-06,Kansas City Royals,Minnesota Twins,3,4,L,Michael Wacha,-0.3050,0.2310,-0.4260
+824080,2026-08-06,Minnesota Twins,Kansas City Royals,4,3,W,Bailey Ober,0.1950,-0.0670,0.3720
+824082,2026-08-05,Kansas City Royals,Minnesota Twins,2,1,W,Noah Cameron,-0.0860,0.4210,0.1650
+824082,2026-08-05,Minnesota Twins,Kansas City Royals,1,2,L,Dean Kremer,-0.5860,0.1350,-0.0490
+824083,2026-07-22,Kansas City Royals,San Francisco Giants,5,4,W,Seth Lugo,0.3510,-0.0030,0.1520
+824083,2026-07-22,San Francisco Giants,Kansas City Royals,4,5,L,Landen Roupp,-0.1490,0.1330,-0.4840
+824085,2026-07-21,Kansas City Royals,San Francisco Giants,3,2,W,Luinder Avila,0.0670,0.0110,0.4220
+824085,2026-07-21,San Francisco Giants,Kansas City Royals,2,3,L,Tyler Mahle,-0.4330,-0.0020,-0.0650
+824087,2026-07-20,Kansas City Royals,San Francisco Giants,4,3,W,Michael Wacha,0.4280,0.2090,-0.1370
+824087,2026-07-20,San Francisco Giants,Kansas City Royals,3,4,L,Trevor McDonald,-0.0720,-0.1690,-0.2590
+824090,2026-07-17,Kansas City Royals,San Diego Padres,7,6,W,Seth Lugo,0.8480,0.0510,-0.3990
+824090,2026-07-17,San Diego Padres,Kansas City Royals,6,7,L,Michael King,0.3480,0.1550,-1.0030
+824097,2026-06-19,Kansas City Royals,St. Louis Cardinals,6,5,W,Seth Lugo,0.3480,0.0830,0.0690
+824097,2026-06-19,St. Louis Cardinals,Kansas City Royals,5,6,L,Michael McGreevy,-0.1520,-0.3280,-0.0200
+824100,2026-06-13,Kansas City Royals,Houston Astros,7,8,L,Noah Cameron,0.2390,-0.3140,-0.4250
+824100,2026-06-13,Houston Astros,Kansas City Royals,8,7,W,Mike Burrows,0.7390,-0.2210,-0.0180
+824107,2026-05-25,Kansas City Royals,New York Yankees,3,4,L,Michael Wacha,-0.1630,0.1860,-0.5230
+824107,2026-05-25,New York Yankees,Kansas City Royals,4,3,W,Will Warren,0.3370,0.0980,0.0650
+824111,2026-05-20,Kansas City Royals,Boston Red Sox,3,4,L,Michael Wacha,-0.3850,0.1210,-0.2360
+824111,2026-05-20,Boston Red Sox,Kansas City Royals,4,3,W,Connelly Early,0.1150,-0.0770,0.4620
+824116,2026-05-08,Kansas City Royals,Detroit Tigers,4,3,W,Kris Bubic,0.3630,0.0300,0.1070
+824116,2026-05-08,Detroit Tigers,Kansas City Royals,3,4,L,Keider Montero,-0.1370,0.2480,-0.6110
+824126,2026-04-12,Kansas City Royals,Chicago White Sox,5,6,L,Noah Cameron,-0.1760,-0.3590,0.0350
+824126,2026-04-12,Chicago White Sox,Kansas City Royals,6,5,W,Grant Taylor,0.3240,0.1010,0.0750
+824127,2026-04-21,Kansas City Royals,Baltimore Orioles,6,5,W,Kris Bubic,0.7130,-0.0030,-0.2100
+824127,2026-04-21,Baltimore Orioles,Kansas City Royals,5,6,L,Shane Baz,0.2130,-0.2050,-0.5080
+824142,2026-09-06,Houston Astros,Arizona Diamondbacks,2,3,L,Peter Lambert,-0.5470,-0.0210,0.0680
+824142,2026-09-06,Arizona Diamondbacks,Houston Astros,3,2,W,Eduardo Rodriguez,-0.0470,0.2580,0.2890
+824145,2026-09-05,Houston Astros,Arizona Diamondbacks,3,4,L,Ethan Pecko,-0.6580,0.1270,0.0310
+824145,2026-09-05,Arizona Diamondbacks,Houston Astros,4,3,W,Brandon Pfaadt,-0.1580,-0.0820,0.7400
+824150,2026-08-23,Houston Astros,Athletics,6,7,L,Cristian Javier,-0.3000,0.0370,-0.2370
+824150,2026-08-23,Athletics,Houston Astros,7,6,W,Brady Basso,0.2000,-0.2300,0.5300
+824151,2026-08-22,Houston Astros,Athletics,3,4,L,Hunter Brown,-0.3030,0.1630,-0.3600
+824151,2026-08-22,Athletics,Houston Astros,4,3,W,Jacob Lopez,0.1970,0.2300,0.0730
+824155,2026-08-19,Houston Astros,Los Angeles Angels,3,2,W,Ethan Pecko,0.0070,-0.0760,0.5690
+824155,2026-08-19,Los Angeles Angels,Houston Astros,2,3,L,Walbert Ureña,-0.4930,-0.1310,0.1240
+824156,2026-08-16,Houston Astros,Seattle Mariners,2,3,L,Hunter Brown,-0.5950,0.0270,0.0680
+824156,2026-08-16,Seattle Mariners,Houston Astros,3,2,W,Bryan Woo,-0.0950,0.1390,0.4560
+824158,2026-08-05,Houston Astros,Toronto Blue Jays,4,5,L,Hunter Brown,-0.5070,-0.0390,0.0460
+824158,2026-08-05,Toronto Blue Jays,Houston Astros,5,4,W,Jameson Taillon,-0.0070,-0.1360,0.6430
+824162,2026-08-01,Houston Astros,Texas Rangers,5,4,W,Ronel Blanco,0.2210,-0.0940,0.3730
+824162,2026-08-01,Texas Rangers,Houston Astros,4,5,L,Jacob deGrom,-0.2790,-0.4010,0.1800
+824170,2026-07-17,Houston Astros,Baltimore Orioles,2,3,L,Peter Lambert,-0.4550,0.2560,-0.3010
+824170,2026-07-17,Baltimore Orioles,Houston Astros,3,2,W,Dean Kremer,0.0450,-0.0320,0.4870
+824176,2026-06-29,Houston Astros,Minnesota Twins,4,5,L,Peter Lambert,-0.3040,-0.1940,-0.0020
+824176,2026-06-29,Minnesota Twins,Houston Astros,5,4,W,Zebby Matthews,0.1960,0.2560,0.0480
+824177,2026-06-21,Houston Astros,Cleveland Guardians,2,1,W,Kai-Wei Teng,-0.1410,0.2570,0.3840
+824177,2026-06-21,Cleveland Guardians,Houston Astros,1,2,L,Slade Cecconi,-0.6410,0.0650,0.0760
+824191,2026-05-29,Houston Astros,Milwaukee Brewers,4,5,L,Kai-Wei Teng,-0.6010,-0.0260,0.1270
+824191,2026-05-29,Milwaukee Brewers,Houston Astros,5,4,W,Coleman Crow,-0.1010,-0.2340,0.8350
+824195,2026-05-13,Houston Astros,Seattle Mariners,4,3,W,Lance McCullers Jr.,0.1280,0.0450,0.3270
+824195,2026-05-13,Seattle Mariners,Houston Astros,3,4,L,Bryce Miller,-0.3720,0.1010,-0.2290
+824200,2026-05-05,Houston Astros,Los Angeles Dodgers,2,1,W,Peter Lambert,-0.0820,0.4120,0.1700
+824200,2026-05-05,Los Angeles Dodgers,Houston Astros,1,2,L,Shohei Ohtani,-0.5820,0.0500,0.0320
+824208,2026-04-16,Houston Astros,Colorado Rockies,2,3,L,Ryan Weiss,-0.6100,-0.0370,0.1470
+824208,2026-04-16,Colorado Rockies,Houston Astros,3,2,W,Juan Mejia,-0.1100,-0.1840,0.7940
+824210,2026-04-14,Houston Astros,Colorado Rockies,7,6,W,Colton Gordon,0.3880,-0.2490,0.3610
+824210,2026-04-14,Colorado Rockies,Houston Astros,6,7,L,Michael Lorenzen,-0.1120,-0.5480,0.1600
+824219,2026-09-26,Detroit Tigers,Pittsburgh Pirates,4,3,W,Justin Verlander,0.4650,0.0260,0.0090
+824219,2026-09-26,Pittsburgh Pirates,Detroit Tigers,3,4,L,Kirby Yates,-0.0350,0.0880,-0.5530
+824220,2026-09-25,Detroit Tigers,Pittsburgh Pirates,8,7,W,Jackson Jobe,0.3940,0.0320,0.0740
+824220,2026-09-25,Pittsburgh Pirates,Detroit Tigers,7,8,L,Bubba Chandler,-0.1060,-0.4500,0.0560
+824228,2026-09-08,Detroit Tigers,Minnesota Twins,2,3,L,Drew Anderson,-0.5310,-0.1480,0.1790
+824228,2026-09-08,Minnesota Twins,Detroit Tigers,3,2,W,Dean Kremer,-0.0310,-0.0130,0.5440
+824229,2026-09-07,Detroit Tigers,Minnesota Twins,5,4,W,Troy Melton,0.1620,-0.1000,0.4380
+824229,2026-09-07,Minnesota Twins,Detroit Tigers,4,5,L,Joe Ryan,-0.3380,-0.1310,-0.0310
+824230,2026-08-29,Detroit Tigers,Los Angeles Dodgers,2,1,W,Keider Montero,-0.0370,0.0690,0.4680
+824230,2026-08-29,Los Angeles Dodgers,Detroit Tigers,1,2,L,Blake Snell,-0.5370,0.1260,-0.0890
+824231,2026-08-28,Detroit Tigers,Los Angeles Dodgers,1,2,L,Drew Anderson,-0.6320,0.1830,-0.0510
+824231,2026-08-28,Los Angeles Dodgers,Detroit Tigers,2,1,W,Tarik Skubal,-0.1320,0.1970,0.4350
+824239,2026-08-15,Detroit Tigers,Chicago White Sox,3,4,L,Troy Melton,-0.4520,-0.1890,0.1410
+824239,2026-08-15,Chicago White Sox,Detroit Tigers,4,3,W,Anthony Kay,0.0480,-0.0460,0.4980
+824242,2026-07-29,Detroit Tigers,Baltimore Orioles,9,10,L,Tarik Skubal,-0.5150,0.2640,-0.2490
+824242,2026-07-29,Baltimore Orioles,Detroit Tigers,10,9,W,Trevor Rogers,-0.0150,-0.2210,0.7360
+824244,2026-07-25,Detroit Tigers,Kansas City Royals,2,3,L,Casey Mize,-0.4640,0.2560,-0.2920
+824244,2026-07-25,Kansas City Royals,Detroit Tigers,3,2,W,Michael Wacha,0.0360,0.1520,0.3120
+824246,2026-07-26,Detroit Tigers,Kansas City Royals,4,5,L,Framber Valdez,-0.1830,-0.0960,-0.2210
+824246,2026-07-26,Kansas City Royals,Detroit Tigers,5,4,W,Luinder Avila,0.3170,0.0810,0.1020
+824247,2026-07-23,Detroit Tigers,Kansas City Royals,4,3,W,Troy Melton,0.3950,0.0020,0.1030
+824247,2026-07-23,Kansas City Royals,Detroit Tigers,3,4,L,Randy Dobnak,-0.1050,0.2810,-0.6760
+824248,2026-07-24,Detroit Tigers,Kansas City Royals,2,1,W,Tarik Skubal,-0.1390,0.4060,0.2330
+824248,2026-07-24,Kansas City Royals,Detroit Tigers,1,2,L,Beck Way,-0.6390,-0.1500,0.2890
+824258,2026-06-25,Detroit Tigers,Houston Astros,1,2,L,Troy Melton,-0.7160,0.1770,0.0390
+824258,2026-06-25,Houston Astros,Detroit Tigers,2,1,W,Tatsuya Imai,-0.2160,0.3690,0.3470
+824260,2026-06-21,Detroit Tigers,Chicago White Sox,5,4,W,Keider Montero,0.5540,-0.0700,0.0160
+824260,2026-06-21,Chicago White Sox,Detroit Tigers,4,5,L,Davis Martin,0.0540,0.2090,-0.7630
+824262,2026-06-23,Detroit Tigers,New York Yankees,3,4,L,Casey Mize,-0.4280,-0.1100,0.0380
+824262,2026-06-23,New York Yankees,Detroit Tigers,4,3,W,Carlos Rodón,0.0720,-0.1520,0.5800
+824264,2026-06-19,Detroit Tigers,Chicago White Sox,4,3,W,Tarik Skubal,0.1710,-0.0670,0.3960
+824264,2026-06-19,Chicago White Sox,Detroit Tigers,3,4,L,Brandon Eisert,-0.3290,-0.1350,-0.0360
+824268,2026-06-07,Detroit Tigers,Seattle Mariners,5,4,W,Jack Flaherty,0.5510,-0.0980,0.0470
+824268,2026-06-07,Seattle Mariners,Detroit Tigers,4,5,L,Luis Castillo,0.0510,0.1940,-0.7450
+824273,2026-05-20,Detroit Tigers,Cleveland Guardians,2,3,L,Drew Anderson,-0.5820,0.2220,-0.1400
+824273,2026-05-20,Cleveland Guardians,Detroit Tigers,3,2,W,Tanner Bibee,-0.0820,0.2320,0.3500
+824276,2026-05-19,Detroit Tigers,Cleveland Guardians,3,4,L,Keider Montero,-0.4520,-0.0800,0.0320
+824276,2026-05-19,Cleveland Guardians,Detroit Tigers,4,3,W,Parker Messick,0.0480,-0.0800,0.5320
+824278,2026-05-16,Detroit Tigers,Toronto Blue Jays,1,2,L,Casey Mize,-0.9480,0.3570,0.0910
+824278,2026-05-16,Toronto Blue Jays,Detroit Tigers,2,1,W,Mason Fluharty,-0.4480,0.0450,0.9030
+824280,2026-05-15,Detroit Tigers,Toronto Blue Jays,3,2,W,Brenan Hanifee,0.0760,-0.0150,0.4390
+824280,2026-05-15,Toronto Blue Jays,Detroit Tigers,2,3,L,Trey Yesavage,-0.4240,0.0890,-0.1650
+824283,2026-05-04,Detroit Tigers,Boston Red Sox,4,5,L,Tyler Holton,-0.2240,0.0480,-0.3240
+824283,2026-05-04,Boston Red Sox,Detroit Tigers,5,4,W,Payton Tolle,0.2760,0.0980,0.1260
+824287,2026-05-01,Detroit Tigers,Texas Rangers,4,5,L,Jack Flaherty,-0.3540,-0.2200,0.0740
+824287,2026-05-01,Texas Rangers,Detroit Tigers,5,4,W,MacKenzie Gore,0.1460,-0.1380,0.4920
+824288,2026-04-23,Detroit Tigers,Milwaukee Brewers,5,4,W,Tarik Skubal,0.5040,-0.1670,0.1630
+824288,2026-04-23,Milwaukee Brewers,Detroit Tigers,4,5,L,Brandon Sproat,0.0040,0.0130,-0.5170
+824289,2026-04-16,Detroit Tigers,Kansas City Royals,10,9,W,Keider Montero,1.0750,0.0700,-0.6450
+824289,2026-04-16,Kansas City Royals,Detroit Tigers,9,10,L,Kris Bubic,0.5750,-0.2100,-0.8650
+824291,2026-04-15,Detroit Tigers,Kansas City Royals,2,1,W,Jack Flaherty,-0.0820,0.2210,0.3610
+824291,2026-04-15,Kansas City Royals,Detroit Tigers,1,2,L,Seth Lugo,-0.5820,0.2880,-0.2060
+824292,2026-04-14,Detroit Tigers,Kansas City Royals,2,1,W,Framber Valdez,0.0260,0.2560,0.2180
+824292,2026-04-14,Kansas City Royals,Detroit Tigers,1,2,L,Cole Ragans,-0.4740,0.3920,-0.4180
+824300,2026-09-20,Colorado Rockies,Seattle Mariners,1,2,L,Tomoyuki Sugano,-0.6390,0.1350,0.0040
+824300,2026-09-20,Seattle Mariners,Colorado Rockies,2,1,W,Kade Anderson,-0.1390,0.4530,0.1860
+824303,2026-09-18,Colorado Rockies,Seattle Mariners,4,5,L,Gabriel Hughes,-0.2030,-0.1080,-0.1890
+824303,2026-09-18,Seattle Mariners,Colorado Rockies,5,4,W,Bryan Woo,0.2970,0.0940,0.1090
+824308,2026-09-14,Colorado Rockies,San Diego Padres,7,8,L,Tomoyuki Sugano,-0.0020,-0.3780,-0.1200
+824308,2026-09-14,San Diego Padres,Colorado Rockies,8,7,W,Casey Mize,0.4980,0.0400,-0.0380
+824311,2026-09-04,Colorado Rockies,St. Louis Cardinals,6,7,L,Ryan Feltner,0.2030,-0.1820,-0.5210
+824311,2026-09-04,St. Louis Cardinals,Colorado Rockies,7,6,W,Andre Pallante,0.7030,0.1810,-0.3840
+824312,2026-09-02,Colorado Rockies,Baltimore Orioles,6,5,W,Tomoyuki Sugano,0.3520,-0.0160,0.1640
+824312,2026-09-02,Baltimore Orioles,Colorado Rockies,5,6,L,Trevor Rogers,-0.1480,0.2090,-0.5610
+824314,2026-08-31,Colorado Rockies,Baltimore Orioles,1,2,L,Tanner Gordon,-0.6750,0.1430,0.0320
+824314,2026-08-31,Baltimore Orioles,Colorado Rockies,2,1,W,Cade Povich,-0.1750,0.1430,0.5320
+824316,2026-08-22,Colorado Rockies,Cleveland Guardians,3,4,L,Gabriel Hughes,-0.4140,-0.0900,0.0040
+824316,2026-08-22,Cleveland Guardians,Colorado Rockies,4,3,W,Tanner Bibee,0.0860,0.1450,0.2690
+824319,2026-08-18,Colorado Rockies,Los Angeles Dodgers,6,7,L,Ryan Feltner,-0.0680,-0.4980,0.0660
+824319,2026-08-18,Los Angeles Dodgers,Colorado Rockies,7,6,W,Eric Lauer,0.4320,-0.1500,0.2180
+824329,2026-07-21,Colorado Rockies,Washington Nationals,8,7,W,Michael Lorenzen,0.6630,-0.4960,0.3330
+824329,2026-07-21,Washington Nationals,Colorado Rockies,7,8,L,Carson Palmquist,0.1630,-0.3370,-0.3260
+824333,2026-07-05,Colorado Rockies,San Francisco Giants,7,6,W,Tanner Gordon,0.6590,-0.3090,0.1500
+824333,2026-07-05,San Francisco Giants,Colorado Rockies,6,7,L,Tyler Mahle,0.1590,-0.2290,-0.4300
+824342,2026-06-20,Colorado Rockies,Pittsburgh Pirates,2,1,W,Tomoyuki Sugano,-0.1500,0.2660,0.3840
+824342,2026-06-20,Pittsburgh Pirates,Colorado Rockies,1,2,L,Paul Skenes,-0.6500,0.0740,0.0760
+824344,2026-06-22,Colorado Rockies,Boston Red Sox,3,2,W,Ryan Feltner,0.3750,0.0410,0.0840
+824344,2026-06-22,Boston Red Sox,Colorado Rockies,2,3,L,Jake Bennett,-0.1250,0.3560,-0.7310
+824345,2026-06-19,Colorado Rockies,Pittsburgh Pirates,4,3,W,Kyle Freeland,0.4740,0.2490,-0.2230
+824345,2026-06-19,Pittsburgh Pirates,Colorado Rockies,3,4,L,Bubba Chandler,-0.0260,0.0280,-0.5020
+824348,2026-06-10,Colorado Rockies,Chicago Cubs,3,2,W,Michael Lorenzen,0.3960,0.1350,-0.0310
+824348,2026-06-10,Chicago Cubs,Colorado Rockies,2,3,L,Shota Imanaga,-0.1040,0.2950,-0.6910
+824355,2026-05-20,Colorado Rockies,Texas Rangers,4,5,L,Kyle Freeland,-0.0670,-0.1780,-0.2550
+824355,2026-05-20,Texas Rangers,Colorado Rockies,5,4,W,Jack Leiter,0.4330,-0.2610,0.3280
+824357,2026-05-18,Colorado Rockies,Texas Rangers,7,6,W,Jose Quintana,0.3050,0.0690,0.1260
+824357,2026-05-18,Texas Rangers,Colorado Rockies,6,7,L,MacKenzie Gore,-0.1950,-0.1500,-0.1550
+824369,2026-04-21,Colorado Rockies,San Diego Padres,0,1,L,Jimmy Herget,-0.8250,0.0480,0.2770
+824369,2026-04-21,San Diego Padres,Colorado Rockies,1,0,W,Randy Vásquez,-0.3250,0.4780,0.3470
+824372,2026-04-18,Colorado Rockies,Los Angeles Dodgers,4,3,W,Ryan Feltner,0.1110,-0.0400,0.4290
+824372,2026-04-18,Los Angeles Dodgers,Colorado Rockies,3,4,L,Emmet Sheehan,-0.3890,0.1090,-0.2200
+824378,2026-04-04,Colorado Rockies,Philadelphia Phillies,1,2,L,Brennan Bernardino,-0.7220,-0.0960,0.3180
+824378,2026-04-04,Philadelphia Phillies,Colorado Rockies,2,1,W,Jesús Luzardo,-0.2220,0.2990,0.4230
+824381,2026-09-20,Cleveland Guardians,Athletics,1,0,W,Gavin Williams,-0.2480,0.4610,0.2870
+824381,2026-09-20,Athletics,Cleveland Guardians,0,1,L,Jack Perkins,-0.7480,0.1720,0.0760
+824384,2026-09-15,Cleveland Guardians,Chicago White Sox,7,6,W,Foster Griffin,0.8060,-0.0760,-0.2300
+824384,2026-09-15,Chicago White Sox,Cleveland Guardians,6,7,L,Chris Murphy,0.3060,-0.2360,-0.5700
+824385,2026-09-06,Cleveland Guardians,Detroit Tigers,3,2,W,Gavin Williams,-0.2670,0.1270,0.6400
+824385,2026-09-06,Detroit Tigers,Cleveland Guardians,2,3,L,Jackson Jobe,-0.7670,0.0510,0.2160
+824387,2026-09-04,Cleveland Guardians,Detroit Tigers,4,3,W,Foster Griffin,0.0550,-0.0640,0.5090
+824387,2026-09-04,Detroit Tigers,Cleveland Guardians,3,4,L,Andrew Sears,-0.4450,0.2030,-0.2580
+824394,2026-08-19,Cleveland Guardians,San Francisco Giants,0,1,L,Parker Messick,-0.8390,0.2210,0.1180
+824394,2026-08-19,San Francisco Giants,Cleveland Guardians,1,0,W,Matt Wilkinson,-0.3390,0.0990,0.7400
+824402,2026-08-05,Cleveland Guardians,New York Mets,5,6,L,Tanner Bibee,-0.2380,-0.2040,-0.0580
+824402,2026-08-05,New York Mets,Cleveland Guardians,6,5,W,Christian Scott,0.2620,-0.0880,0.3260
+824413,2026-07-05,Cleveland Guardians,Chicago White Sox,6,7,L,Tanner Bibee,-0.1380,-0.4340,0.0720
+824413,2026-07-05,Chicago White Sox,Cleveland Guardians,7,6,W,Chris Murphy,0.3620,-0.1910,0.3290
+824416,2026-07-02,Cleveland Guardians,Chicago White Sox,6,5,W,Slade Cecconi,0.6740,-0.3280,0.1540
+824416,2026-07-02,Chicago White Sox,Cleveland Guardians,5,6,L,Davis Martin,0.1740,-0.1390,-0.5350
+824417,2026-07-03,Cleveland Guardians,Chicago White Sox,4,3,W,Gavin Williams,0.0060,-0.1420,0.6360
+824417,2026-07-03,Chicago White Sox,Cleveland Guardians,3,4,L,Anthony Kay,-0.4940,0.0780,-0.0840
+824421,2026-06-27,Cleveland Guardians,Seattle Mariners,4,3,W,Slade Cecconi,0.1070,0.2660,0.1270
+824421,2026-06-27,Seattle Mariners,Cleveland Guardians,3,4,L,Logan Gilbert,-0.3930,-0.1390,0.0320
+824422,2026-06-28,Cleveland Guardians,Seattle Mariners,6,5,W,Gavin Williams,0.5490,-0.1030,0.0540
+824422,2026-06-28,Seattle Mariners,Cleveland Guardians,5,6,L,Emerson Hancock,0.0490,0.2080,-0.7570
+824424,2026-09-04,Cleveland Guardians,Detroit Tigers,7,6,W,Logan Allen,0.3850,-0.3360,0.4510
+824424,2026-09-04,Detroit Tigers,Cleveland Guardians,6,7,L,Keider Montero,-0.1150,-0.3630,-0.0220
+824425,2026-06-12,Cleveland Guardians,Detroit Tigers,3,2,W,Tanner Bibee,-0.0100,0.2230,0.2870
+824425,2026-06-12,Detroit Tigers,Cleveland Guardians,2,3,L,Jack Flaherty,-0.5100,-0.0670,0.0770
+824429,2026-06-09,Cleveland Guardians,New York Yankees,2,3,L,Slade Cecconi,-0.5670,0.0560,0.0110
+824429,2026-06-09,New York Yankees,Cleveland Guardians,3,2,W,Gerrit Cole,-0.0670,-0.0110,0.5780
+824432,2026-05-27,Cleveland Guardians,Washington Nationals,3,2,W,Gavin Williams,0.0700,0.2780,0.1520
+824432,2026-05-27,Washington Nationals,Cleveland Guardians,2,3,L,PJ Poulin,-0.4300,0.0480,-0.1180
+824433,2026-05-29,Cleveland Guardians,Boston Red Sox,4,3,W,Slade Cecconi,0.0680,-0.1290,0.5610
+824433,2026-05-29,Boston Red Sox,Cleveland Guardians,3,4,L,Tyler Samaniego,-0.4320,-0.2940,0.2260
+824439,2026-05-15,Cleveland Guardians,Cincinnati Reds,6,7,L,Tanner Bibee,-0.2880,-0.0570,-0.1550
+824439,2026-05-15,Cincinnati Reds,Cleveland Guardians,7,6,W,Andrew Abbott,0.2120,0.1780,0.1100
+824440,2026-05-10,Cleveland Guardians,Minnesota Twins,4,5,L,Gavin Williams,-0.3480,-0.2560,0.1040
+824440,2026-05-10,Minnesota Twins,Cleveland Guardians,5,4,W,Andrew Morris,0.1520,0.0480,0.3000
+824442,2026-05-12,Cleveland Guardians,Los Angeles Angels,3,2,W,Slade Cecconi,-0.0140,0.2160,0.2980
+824442,2026-05-12,Los Angeles Angels,Cleveland Guardians,2,3,L,Walbert Ureña,-0.5140,0.0070,0.0070
+824444,2026-05-09,Cleveland Guardians,Minnesota Twins,1,2,L,Tanner Bibee,-1.3250,0.2370,0.5880
+824444,2026-05-09,Minnesota Twins,Cleveland Guardians,2,1,W,Joe Ryan,-0.8250,0.2370,1.0880
+824446,2026-04-27,Cleveland Guardians,Tampa Bay Rays,2,3,L,Parker Messick,-0.4410,0.2050,-0.2640
+824446,2026-04-27,Tampa Bay Rays,Cleveland Guardians,3,2,W,Steven Matz,0.0590,0.0940,0.3470
+824447,2026-04-28,Cleveland Guardians,Tampa Bay Rays,0,1,L,Tanner Bibee,-0.8330,0.1290,0.2040
+824447,2026-04-28,Tampa Bay Rays,Cleveland Guardians,1,0,W,Nick Martinez,-0.3330,0.3880,0.4450
+824457,2026-04-07,Cleveland Guardians,Kansas City Royals,2,1,W,Gavin Williams,-0.0550,0.2030,0.3520
+824457,2026-04-07,Kansas City Royals,Cleveland Guardians,1,2,L,Noah Cameron,-0.5550,0.1850,-0.1300
+824459,2026-04-05,Cleveland Guardians,Chicago Cubs,0,1,L,Slade Cecconi,-0.7920,0.3570,-0.0650
+824459,2026-04-05,Chicago Cubs,Cleveland Guardians,1,0,W,Edward Cabrera,-0.2920,0.2510,0.5410
+824460,2026-04-05,Cleveland Guardians,Chicago Cubs,6,5,W,Parker Messick,0.5650,0.1400,-0.2050
+824460,2026-04-05,Chicago Cubs,Cleveland Guardians,5,6,L,Shota Imanaga,0.0650,0.2300,-0.7950
+824472,2026-09-01,Cincinnati Reds,San Diego Padres,4,3,W,Nick Lodolo,0.1230,0.1050,0.2720
+824472,2026-09-01,San Diego Padres,Cincinnati Reds,3,4,L,Randy Vásquez,-0.3770,-0.0180,-0.1050
+824474,2026-08-20,Cincinnati Reds,St. Louis Cardinals,9,10,L,Brady Singer,0.2840,-0.1760,-0.6080
+824474,2026-08-20,St. Louis Cardinals,Cincinnati Reds,10,9,W,Michael McGreevy,0.7840,0.1190,-0.4030
+824476,2026-08-19,Cincinnati Reds,St. Louis Cardinals,5,4,W,Chase Burns,0.2030,0.0050,0.2920
+824476,2026-08-19,St. Louis Cardinals,Cincinnati Reds,4,5,L,Matthew Liberatore,-0.2970,-0.1480,-0.0550
+824478,2026-08-17,Cincinnati Reds,St. Louis Cardinals,6,5,W,Rhett Lowder,0.4210,-0.0930,0.1720
+824478,2026-08-17,St. Louis Cardinals,Cincinnati Reds,5,6,L,Andre Pallante,-0.0790,-0.1610,-0.2600
+824479,2026-08-14,Cincinnati Reds,Miami Marlins,1,0,W,Chase Burns,-0.2410,0.4540,0.2870
+824479,2026-08-14,Miami Marlins,Cincinnati Reds,0,1,L,Sandy Alcantara,-0.7410,0.2090,0.0320
+824481,2026-08-06,Cincinnati Reds,Athletics,6,5,W,Andrew Abbott,0.3710,0.0180,0.1110
+824481,2026-08-06,Athletics,Cincinnati Reds,5,6,L,Mason Barnett,-0.1290,-0.2780,-0.0930
+824482,2026-08-05,Cincinnati Reds,Athletics,3,2,W,Rhett Lowder,0.0240,0.0920,0.3840
+824482,2026-08-05,Athletics,Cincinnati Reds,2,3,L,Jacob Lopez,-0.4760,0.0160,-0.0400
+824484,2026-08-04,Cincinnati Reds,Athletics,5,4,W,Brady Singer,0.4300,-0.0120,0.0820
+824484,2026-08-04,Athletics,Cincinnati Reds,4,5,L,J.T. Ginn,-0.0700,-0.0120,-0.4180
+824486,2026-07-31,Cincinnati Reds,Pittsburgh Pirates,8,7,W,Hunter Greene,0.8750,-0.0590,-0.3160
+824486,2026-07-31,Pittsburgh Pirates,Cincinnati Reds,7,8,L,Paul Skenes,0.3750,-0.3470,-0.5280
+824488,2026-07-30,Cincinnati Reds,Pittsburgh Pirates,3,2,W,Rhett Lowder,0.0810,0.0840,0.3350
+824488,2026-07-30,Pittsburgh Pirates,Cincinnati Reds,2,3,L,Yohan Ramírez,-0.4190,0.0990,-0.1800
+824490,2026-07-28,Cincinnati Reds,Cleveland Guardians,5,6,L,Chase Burns,-0.2110,-0.3000,0.0110
+824490,2026-07-28,Cleveland Guardians,Cincinnati Reds,6,5,W,Slade Cecconi,0.2890,-0.1210,0.3320
+824494,2026-07-09,Cincinnati Reds,Philadelphia Phillies,0,1,L,Brady Singer,-0.7920,0.1640,0.1280
+824494,2026-07-09,Philadelphia Phillies,Cincinnati Reds,1,0,W,Jesús Luzardo,-0.2920,0.4450,0.3470
+824497,2026-07-05,Cincinnati Reds,Baltimore Orioles,3,2,W,Nick Lodolo,-0.0370,0.2420,0.2950
+824497,2026-07-05,Baltimore Orioles,Cincinnati Reds,2,3,L,Kyle Bradish,-0.5370,0.0260,0.0110
+824500,2026-06-24,Cincinnati Reds,Milwaukee Brewers,5,6,L,Rhett Lowder,-0.3200,-0.1000,-0.0800
+824500,2026-06-24,Milwaukee Brewers,Cincinnati Reds,6,5,W,Shane Drohan,0.1800,0.1820,0.1380
+824502,2026-06-22,Cincinnati Reds,Milwaukee Brewers,1,2,L,Brady Singer,-0.9030,0.4450,-0.0420
+824502,2026-06-22,Milwaukee Brewers,Cincinnati Reds,2,1,W,Brandon Woodruff,-0.4030,0.3570,0.5460
+824508,2026-06-13,Cincinnati Reds,Arizona Diamondbacks,2,1,W,Rhett Lowder,-0.1070,0.1930,0.4140
+824508,2026-06-13,Arizona Diamondbacks,Cincinnati Reds,1,2,L,Michael Soroka,-0.6070,0.3340,-0.2270
+824511,2026-06-02,Cincinnati Reds,Kansas City Royals,4,3,W,Andrew Abbott,0.1540,-0.0630,0.4090
+824511,2026-06-02,Kansas City Royals,Cincinnati Reds,3,4,L,Noah Cameron,-0.3460,0.3350,-0.4890
+824514,2026-08-17,Cincinnati Reds,St. Louis Cardinals,1,2,L,Kent Emanuel,-0.7280,0.0240,0.2040
+824514,2026-08-17,St. Louis Cardinals,Cincinnati Reds,2,1,W,Quinn Mathews,-0.2280,0.1090,0.6190
+824516,2026-05-23,Cincinnati Reds,St. Louis Cardinals,7,6,W,Chase Petty,0.0610,-0.1140,0.5530
+824516,2026-05-23,St. Louis Cardinals,Cincinnati Reds,6,7,L,Kyle Leahy,-0.4390,-0.2740,0.2130
+824519,2026-05-13,Cincinnati Reds,Washington Nationals,7,8,L,Nick Lodolo,-0.3690,-0.1820,0.0510
+824519,2026-05-13,Washington Nationals,Cincinnati Reds,8,7,W,Jake Irvin,0.1310,-0.3670,0.7360
+824529,2026-04-24,Cincinnati Reds,Detroit Tigers,9,8,W,Andrew Abbott,1.2060,-0.2640,-0.4420
+824529,2026-04-24,Detroit Tigers,Cincinnati Reds,8,9,L,Framber Valdez,0.7060,0.0520,-1.2580
+824531,2026-04-14,Cincinnati Reds,San Francisco Giants,2,1,W,Brady Singer,-0.1370,0.2530,0.3840
+824531,2026-04-14,San Francisco Giants,Cincinnati Reds,1,2,L,Robbie Ray,-0.6370,0.0130,0.1240
+824538,2026-03-29,Cincinnati Reds,Boston Red Sox,3,2,W,Rhett Lowder,0.0720,0.0050,0.4230
+824538,2026-03-29,Boston Red Sox,Cincinnati Reds,2,3,L,Connelly Early,-0.4280,0.2780,-0.3500
+824540,2026-03-28,Cincinnati Reds,Boston Red Sox,6,5,W,Brady Singer,-0.0840,-0.0620,0.6460
+824540,2026-03-28,Boston Red Sox,Cincinnati Reds,5,6,L,Sonny Gray,-0.5840,-0.2000,0.2840
+824558,2026-08-23,Chicago White Sox,New York Mets,2,1,W,Sean Newcomb,0.1430,0.0580,0.2990
+824558,2026-08-23,New York Mets,Chicago White Sox,1,2,L,Nolan McLean,-0.3570,0.3570,-0.5000
+824561,2026-08-13,Chicago White Sox,Cincinnati Reds,8,9,L,Davis Martin,0.0890,-0.2370,-0.3520
+824561,2026-08-13,Cincinnati Reds,Chicago White Sox,9,8,W,Andrew Abbott,0.5890,-0.2520,0.1630
+824563,2026-08-11,Chicago White Sox,Cincinnati Reds,4,5,L,Sean Burke,-0.5610,0.2940,-0.2330
+824563,2026-08-11,Cincinnati Reds,Chicago White Sox,5,4,W,Nick Lodolo,-0.0610,-0.1860,0.7470
+824567,2026-07-29,Chicago White Sox,New York Yankees,6,5,W,Davis Martin,-0.0190,-0.2050,0.7240
+824567,2026-07-29,New York Yankees,Chicago White Sox,5,6,L,Cam Schlittler,-0.5190,0.0690,-0.0500
+824568,2026-07-30,Chicago White Sox,New York Yankees,2,1,W,Sean Burke,-0.4450,0.3570,0.5880
+824568,2026-07-30,New York Yankees,Chicago White Sox,1,2,L,Ryan Weathers,-0.9450,0.4450,0.0000
+824569,2026-07-28,Chicago White Sox,New York Yankees,2,3,L,Anthony Kay,-0.4600,-0.1120,0.0720
+824569,2026-07-28,New York Yankees,Chicago White Sox,3,2,W,Gerrit Cole,0.0400,0.3080,0.1520
+824576,2026-07-11,Chicago White Sox,Athletics,1,0,W,Bryan Hudson,-0.2410,0.0480,0.6930
+824576,2026-07-11,Athletics,Chicago White Sox,0,1,L,Gage Jump,-0.7410,0.1300,0.1110
+824577,2026-07-09,Chicago White Sox,Boston Red Sox,1,2,L,Anthony Kay,-0.7090,0.0030,0.2060
+824577,2026-07-09,Boston Red Sox,Chicago White Sox,2,1,W,Patrick Sandoval,-0.2090,0.1230,0.5860
+824580,2026-06-28,Chicago White Sox,Kansas City Royals,4,5,L,Anthony Kay,-0.4160,-0.3760,0.2920
+824580,2026-06-28,Kansas City Royals,Chicago White Sox,5,4,W,Luinder Avila,0.0840,-0.2030,0.6190
+824581,2026-06-27,Chicago White Sox,Kansas City Royals,2,1,W,Davis Martin,0.0320,0.2500,0.2180
+824581,2026-06-27,Kansas City Royals,Chicago White Sox,1,2,L,Michael Wacha,-0.4680,0.2380,-0.2700
+824583,2026-06-24,Chicago White Sox,Cleveland Guardians,3,4,L,Chris Murphy,-0.4560,0.0710,-0.1150
+824583,2026-06-24,Cleveland Guardians,Chicago White Sox,4,3,W,Tanner Bibee,0.0440,0.3560,0.1000
+824584,2026-06-23,Chicago White Sox,Cleveland Guardians,2,1,W,Sean Burke,-0.1030,0.1810,0.4220
+824584,2026-06-23,Cleveland Guardians,Chicago White Sox,1,2,L,Parker Messick,-0.6030,0.0950,0.0080
+824585,2026-06-22,Chicago White Sox,Cleveland Guardians,6,5,W,Anthony Kay,0.9740,0.3400,-0.8140
+824585,2026-06-22,Cleveland Guardians,Chicago White Sox,5,6,L,Gavin Williams,0.4740,-0.0050,-0.9690
+824590,2026-06-10,Chicago White Sox,Atlanta Braves,2,1,W,Davis Martin,-0.1020,0.3410,0.2610
+824590,2026-06-10,Atlanta Braves,Chicago White Sox,1,2,L,Chris Sale,-0.6020,0.0120,0.0900
+824591,2026-06-09,Chicago White Sox,Atlanta Braves,6,5,W,Brandon Eisert,0.3330,-0.1810,0.3480
+824591,2026-06-09,Atlanta Braves,Chicago White Sox,5,6,L,Grant Holmes,-0.1670,-0.1550,-0.1780
+824592,2026-05-31,Chicago White Sox,Detroit Tigers,2,1,W,Sean Burke,-0.0460,0.1450,0.4010
+824592,2026-05-31,Detroit Tigers,Chicago White Sox,1,2,L,Keider Montero,-0.5460,0.3950,-0.3490
+824594,2026-05-29,Chicago White Sox,Detroit Tigers,4,3,W,Brandon Eisert,0.3170,0.0710,0.1120
+824594,2026-05-29,Detroit Tigers,Chicago White Sox,3,4,L,Troy Melton,-0.1830,0.3880,-0.7050
+824599,2026-05-17,Chicago White Sox,Chicago Cubs,9,8,W,Erick Fedde,0.7840,-0.2300,-0.0540
+824599,2026-05-17,Chicago Cubs,Chicago White Sox,8,9,L,Colin Rea,0.2840,-0.2240,-0.5600
+824603,2026-05-13,Chicago White Sox,Kansas City Royals,6,5,W,Noah Schultz,0.3200,-0.1060,0.2860
+824603,2026-05-13,Kansas City Royals,Chicago White Sox,5,6,L,Seth Lugo,-0.1800,-0.3150,-0.0050
+824604,2026-05-12,Chicago White Sox,Kansas City Royals,6,5,W,Erick Fedde,0.4150,0.0110,0.0740
+824604,2026-05-12,Kansas City Royals,Chicago White Sox,5,6,L,Stephen Kolek,-0.0850,-0.3570,-0.0580
+824605,2026-05-10,Chicago White Sox,Seattle Mariners,2,1,W,Davis Martin,0.0230,0.2030,0.2740
+824605,2026-05-10,Seattle Mariners,Chicago White Sox,1,2,L,Logan Gilbert,-0.4770,0.3950,-0.4180
+824608,2026-04-29,Chicago White Sox,Los Angeles Angels,3,2,W,Erick Fedde,0.0050,0.0980,0.3970
+824608,2026-04-29,Los Angeles Angels,Chicago White Sox,2,3,L,Yusei Kikuchi,-0.4950,0.0990,-0.1040
+824609,2026-04-27,Chicago White Sox,Los Angeles Angels,8,7,W,Anthony Kay,0.6220,-0.2080,0.0860
+824609,2026-04-27,Los Angeles Angels,Chicago White Sox,7,8,L,Jack Kochanowicz,0.1220,0.1340,-0.7560
+824611,2026-04-24,Chicago White Sox,Washington Nationals,5,4,W,Bryan Hudson,0.4970,0.0480,-0.0450
+824611,2026-04-24,Washington Nationals,Chicago White Sox,4,5,L,PJ Poulin,-0.0030,0.0780,-0.5750
+824612,2026-04-26,Chicago White Sox,Washington Nationals,1,2,L,Bryan Hudson,-0.9030,0.0480,0.3550
+824612,2026-04-26,Washington Nationals,Chicago White Sox,2,1,W,Foster Griffin,-0.4030,0.4450,0.4580
+824619,2026-04-06,Chicago White Sox,Baltimore Orioles,1,2,L,Grant Taylor,-0.6390,0.0480,0.0910
+824619,2026-04-06,Baltimore Orioles,Chicago White Sox,2,1,W,Brandon Young,-0.1390,0.2950,0.3440
+824621,2026-04-03,Chicago White Sox,Toronto Blue Jays,5,4,W,Grant Taylor,0.3600,0.0480,0.0920
+824621,2026-04-03,Toronto Blue Jays,Chicago White Sox,4,5,L,Dylan Cease,-0.1400,-0.1440,-0.2160
+824623,2026-09-24,Chicago Cubs,Miami Marlins,2,1,W,Matthew Boyd,-0.1000,0.3130,0.2870
+824623,2026-09-24,Miami Marlins,Chicago Cubs,1,2,L,Tyler Phillips,-0.6000,0.2250,-0.1250
+824625,2026-09-23,Chicago Cubs,Miami Marlins,2,3,L,Kevin Gausman,-0.4970,0.0230,-0.0260
+824625,2026-09-23,Miami Marlins,Chicago Cubs,3,2,W,Ryan Gusto,0.0030,0.1420,0.3550
+824628,2026-09-13,Chicago Cubs,Pittsburgh Pirates,3,4,L,Matthew Boyd,-0.3950,-0.1420,0.0370
+824628,2026-09-13,Pittsburgh Pirates,Chicago Cubs,4,3,W,Bubba Chandler,0.1050,-0.1780,0.5730
+824630,2026-09-12,Chicago Cubs,Pittsburgh Pirates,4,3,W,Clay Holmes,0.3330,-0.1860,0.3530
+824630,2026-09-12,Pittsburgh Pirates,Chicago Cubs,3,4,L,Paul Skenes,-0.1670,0.1940,-0.5270
+824632,2026-09-03,Chicago Cubs,Milwaukee Brewers,2,1,W,Kevin Gausman,-0.1440,0.3570,0.2870
+824632,2026-09-03,Milwaukee Brewers,Chicago Cubs,1,2,L,Logan Henderson,-0.6440,0.1120,0.0320
+824639,2026-08-18,Chicago Cubs,Chicago White Sox,4,3,W,Kevin Gausman,0.2110,-0.1250,0.4140
+824639,2026-08-18,Chicago White Sox,Chicago Cubs,3,4,L,Bryan Hudson,-0.2890,-0.1500,-0.0610
+824646,2026-08-05,Chicago Cubs,Los Angeles Dodgers,7,6,W,Shota Imanaga,0.2880,0.1320,0.0800
+824646,2026-08-05,Los Angeles Dodgers,Chicago Cubs,6,7,L,Eric Lauer,-0.2120,-0.3280,0.0400
+824648,2026-08-02,Chicago Cubs,New York Yankees,1,2,L,Colin Rea,-0.7240,0.0380,0.1860
+824648,2026-08-02,New York Yankees,Chicago Cubs,2,1,W,Gerrit Cole,-0.2240,0.1370,0.5870
+824662,2026-06-29,Chicago Cubs,San Diego Padres,3,2,W,Shota Imanaga,0.0660,0.1380,0.2960
+824662,2026-06-29,San Diego Padres,Chicago Cubs,2,3,L,Griffin Canning,-0.4340,0.0470,-0.1130
+824664,2026-08-06,Chicago Cubs,Toronto Blue Jays,3,2,W,David Peterson,-0.2740,0.1470,0.6270
+824664,2026-08-06,Toronto Blue Jays,Chicago Cubs,2,3,L,Dylan Cease,-0.7740,0.4780,-0.2040
+824666,2026-06-15,Chicago Cubs,Colorado Rockies,5,4,W,Shota Imanaga,0.7360,0.2980,-0.5340
+824666,2026-06-15,Colorado Rockies,Chicago Cubs,4,5,L,Michael Lorenzen,0.2360,0.1300,-0.8660
+824669,2026-06-06,Chicago Cubs,San Francisco Giants,3,2,W,Ben Brown,0.1180,0.3150,0.0670
+824669,2026-06-06,San Francisco Giants,Chicago Cubs,2,3,L,Landen Roupp,-0.3820,0.1230,-0.2410
+824670,2026-06-07,Chicago Cubs,San Francisco Giants,1,2,L,Jameson Taillon,-1.0290,-0.0860,0.6150
+824670,2026-06-07,San Francisco Giants,Chicago Cubs,2,1,W,Trevor McDonald,-0.5290,0.1700,0.8590
+824671,2026-06-03,Chicago Cubs,Athletics,4,5,L,Colin Rea,-0.5350,0.0950,-0.0600
+824671,2026-06-03,Athletics,Chicago Cubs,5,4,W,Jeffrey Springs,-0.0350,-0.2830,0.8180
+824672,2026-06-04,Chicago Cubs,Athletics,7,6,W,Shota Imanaga,0.6510,-0.1820,0.0310
+824672,2026-06-04,Athletics,Chicago Cubs,6,7,L,J.T. Ginn,0.1510,0.2860,-0.9370
+824675,2026-06-02,Chicago Cubs,Athletics,1,2,L,Jameson Taillon,-0.7290,0.1050,0.1240
+824675,2026-06-02,Athletics,Chicago Cubs,2,1,W,Gage Jump,-0.2290,0.3820,0.3470
+824682,2026-05-05,Chicago Cubs,Cincinnati Reds,3,2,W,Jameson Taillon,-0.1000,0.0580,0.5420
+824682,2026-05-05,Cincinnati Reds,Chicago Cubs,2,3,L,Andrew Abbott,-0.6000,0.2610,-0.1610
+824683,2026-05-06,Chicago Cubs,Cincinnati Reds,7,6,W,Colin Rea,0.7140,0.0330,-0.2470
+824683,2026-05-06,Cincinnati Reds,Chicago Cubs,6,7,L,Brady Singer,0.2140,-0.1530,-0.5610
+824684,2026-05-04,Chicago Cubs,Cincinnati Reds,5,4,W,Edward Cabrera,0.5470,0.0180,-0.0650
+824684,2026-05-04,Cincinnati Reds,Chicago Cubs,4,5,L,Chase Petty,0.0470,-0.0170,-0.5300
+824686,2026-05-01,Chicago Cubs,Arizona Diamondbacks,6,5,W,Colin Rea,0.1860,0.1410,0.1730
+824686,2026-05-01,Arizona Diamondbacks,Chicago Cubs,5,6,L,Zac Gallen,-0.3140,-0.3260,0.1400
+824689,2026-04-23,Chicago Cubs,Philadelphia Phillies,8,7,W,Edward Cabrera,0.5660,-0.0380,-0.0280
+824689,2026-04-23,Philadelphia Phillies,Chicago Cubs,7,8,L,Cristopher Sánchez,0.0660,-0.2980,-0.2680
+824691,2026-04-19,Chicago Cubs,New York Mets,2,1,W,Javier Assad,-0.1380,0.1400,0.4980
+824691,2026-04-19,New York Mets,Chicago Cubs,1,2,L,Tobias Myers,-0.6380,0.0990,0.0390
+824696,2026-04-12,Chicago Cubs,Pittsburgh Pirates,7,6,W,Jameson Taillon,0.6050,-0.2940,0.1890
+824696,2026-04-12,Pittsburgh Pirates,Chicago Cubs,6,7,L,Bubba Chandler,0.1050,0.0710,-0.6760
+824697,2026-04-11,Chicago Cubs,Pittsburgh Pirates,3,4,L,Edward Cabrera,-0.8170,-0.1030,0.4200
+824697,2026-04-11,Pittsburgh Pirates,Chicago Cubs,4,3,W,Braxton Ashcraft,-0.3170,0.1760,0.6410
+824703,2026-09-25,Boston Red Sox,Chicago Cubs,4,3,W,Alec Gamboa,0.1350,-0.1960,0.5610
+824703,2026-09-25,Chicago Cubs,Boston Red Sox,3,4,L,Clay Holmes,-0.3650,0.0010,-0.1360
+824707,2026-09-24,Boston Red Sox,Cleveland Guardians,0,1,L,Ranger Suarez,-0.8480,0.1440,0.2040
+824707,2026-09-24,Cleveland Guardians,Boston Red Sox,1,0,W,Daniel Espino,-0.3480,0.0480,0.8000
+824709,2026-09-22,Boston Red Sox,Cleveland Guardians,2,3,L,Payton Tolle,-0.4110,0.0720,-0.1610
+824709,2026-09-22,Cleveland Guardians,Boston Red Sox,3,2,W,Parker Messick,0.0890,0.2020,0.2090
+824710,2026-09-23,Boston Red Sox,Cleveland Guardians,1,0,W,Sonny Gray,-0.2410,0.3570,0.3840
+824710,2026-09-23,Cleveland Guardians,Boston Red Sox,0,1,L,Foster Griffin,-0.7410,0.1650,0.0760
+824711,2026-09-11,Boston Red Sox,Kansas City Royals,2,3,L,Sonny Gray,-0.6040,-0.0440,0.1480
+824711,2026-09-11,Kansas City Royals,Boston Red Sox,3,2,W,Seth Lugo,-0.1040,0.0600,0.5440
+824718,2026-08-22,Boston Red Sox,San Francisco Giants,3,2,W,Patrick Sandoval,0.3630,0.0350,0.1020
+824718,2026-08-22,San Francisco Giants,Boston Red Sox,2,3,L,Blade Tidwell,-0.1370,0.3330,-0.6960
+824719,2026-08-31,Boston Red Sox,Seattle Mariners,9,8,W,Payton Tolle,0.7700,-0.0170,-0.2530
+824719,2026-08-31,Seattle Mariners,Boston Red Sox,8,9,L,George Kirby,0.2700,-0.3320,-0.4380
+824720,2026-08-23,Boston Red Sox,San Francisco Giants,5,4,W,Jake Bennett,0.2180,-0.0050,0.2870
+824720,2026-08-23,San Francisco Giants,Boston Red Sox,4,5,L,Matt Wilkinson,-0.2820,-0.1480,-0.0700
+824722,2026-08-19,Boston Red Sox,Arizona Diamondbacks,6,7,L,Payton Tolle,-0.2480,-0.1210,-0.1310
+824722,2026-08-19,Arizona Diamondbacks,Boston Red Sox,7,6,W,Brandon Pfaadt,0.2520,-0.3150,0.5630
+824724,2026-08-09,Boston Red Sox,Athletics,3,4,L,Erik Miller,-0.2740,-0.0520,-0.1740
+824724,2026-08-09,Athletics,Boston Red Sox,4,3,W,J.T. Ginn,0.2260,-0.0820,0.3560
+824729,2026-08-06,Boston Red Sox,Chicago White Sox,12,11,W,Ranger Suarez,0.9040,-0.2370,-0.1670
+824729,2026-08-06,Chicago White Sox,Boston Red Sox,11,12,L,Luis Castillo,0.4040,-0.2920,-0.6120
+824736,2026-07-20,Boston Red Sox,Baltimore Orioles,6,5,W,Payton Tolle,0.5640,-0.2570,0.1930
+824736,2026-07-20,Baltimore Orioles,Boston Red Sox,5,6,L,Shane Baz,0.0640,-0.2010,-0.3630
+824738,2026-07-18,Boston Red Sox,Tampa Bay Rays,7,6,W,Patrick Sandoval,0.5590,-0.3280,0.2690
+824738,2026-07-18,Tampa Bay Rays,Boston Red Sox,6,7,L,Ian Seymour,0.0590,-0.1790,-0.3800
+824744,2026-06-28,Boston Red Sox,New York Yankees,5,4,W,Sonny Gray,0.5850,0.4040,-0.4890
+824744,2026-06-28,New York Yankees,Boston Red Sox,4,5,L,Carlos Rodón,0.0850,-0.0040,-0.5810
+824748,2026-06-18,Boston Red Sox,Toronto Blue Jays,3,4,L,Sonny Gray,-0.2270,-0.0060,-0.2670
+824748,2026-06-18,Toronto Blue Jays,Boston Red Sox,4,3,W,Trey Yesavage,0.2730,-0.0390,0.2660
+824758,2026-05-26,Boston Red Sox,Atlanta Braves,6,7,L,Ranger Suarez,-0.0620,-0.2820,-0.1560
+824758,2026-05-26,Atlanta Braves,Boston Red Sox,7,6,W,Spencer Strider,0.4380,-0.0260,0.0880
+824759,2026-05-24,Boston Red Sox,Minnesota Twins,5,6,L,Sonny Gray,-0.1160,-0.1380,-0.2460
+824759,2026-05-24,Minnesota Twins,Boston Red Sox,6,5,W,Bailey Ober,0.3840,-0.2880,0.4040
+824764,2026-05-12,Boston Red Sox,Philadelphia Phillies,1,2,L,Jovani Morán,-0.6790,-0.0520,0.2310
+824764,2026-05-12,Philadelphia Phillies,Boston Red Sox,2,1,W,Zack Wheeler,-0.1790,0.3240,0.3550
+824778,2026-04-17,Boston Red Sox,Detroit Tigers,1,0,W,Ranger Suarez,-0.4970,0.5530,0.4440
+824778,2026-04-17,Detroit Tigers,Boston Red Sox,0,1,L,Casey Mize,-0.9970,0.4040,0.0930
+824780,2026-04-07,Boston Red Sox,Milwaukee Brewers,3,2,W,Garrett Crochet,-0.0400,0.1110,0.4290
+824780,2026-04-07,Milwaukee Brewers,Boston Red Sox,2,3,L,Jacob Misiorowski,-0.5400,0.1460,-0.1060
+824782,2026-04-04,Boston Red Sox,San Diego Padres,2,3,L,Connelly Early,-0.4010,-0.0210,-0.0780
+824782,2026-04-04,San Diego Padres,Boston Red Sox,3,2,W,Randy Vásquez,0.0990,0.2800,0.1210
+824787,2026-09-21,Baltimore Orioles,Toronto Blue Jays,4,3,W,Shane Baz,0.2610,-0.0190,0.2580
+824787,2026-09-21,Toronto Blue Jays,Baltimore Orioles,3,4,L,Trey Yesavage,-0.2390,0.0180,-0.2790
+824788,2026-09-19,Baltimore Orioles,Milwaukee Brewers,0,1,L,Trevor Rogers,-0.8480,0.3090,0.0390
+824788,2026-09-19,Milwaukee Brewers,Baltimore Orioles,1,0,W,Robert Gasser,-0.3480,0.5010,0.3470
+824790,2026-09-18,Baltimore Orioles,Milwaukee Brewers,5,6,L,Cade Povich,-0.2730,-0.1370,-0.0900
+824790,2026-09-18,Milwaukee Brewers,Baltimore Orioles,6,5,W,Dustin May,0.2270,-0.3330,0.6060
+824796,2026-09-03,Baltimore Orioles,Boston Red Sox,5,6,L,Brandon Young,-0.1660,-0.0090,-0.3250
+824796,2026-09-03,Boston Red Sox,Baltimore Orioles,6,5,W,Jake Bennett,0.3340,-0.0560,0.2220
+824797,2026-09-04,Baltimore Orioles,Boston Red Sox,0,1,L,Shane Baz,-0.8510,0.2010,0.1500
+824797,2026-09-04,Boston Red Sox,Baltimore Orioles,1,0,W,Ranger Suarez,-0.3510,0.5040,0.3470
+824798,2026-08-22,Baltimore Orioles,Tampa Bay Rays,3,2,W,Brandon Young,-0.0730,0.0300,0.5430
+824798,2026-08-22,Tampa Bay Rays,Baltimore Orioles,2,3,L,Shane McClanahan,-0.5730,0.3040,-0.2310
+824810,2026-07-26,Baltimore Orioles,Atlanta Braves,2,3,L,Shane Baz,-0.9100,-0.0280,0.4380
+824810,2026-07-26,Atlanta Braves,Baltimore Orioles,3,2,W,Reynaldo López,-0.4100,0.3330,0.5770
+824811,2026-07-25,Baltimore Orioles,Atlanta Braves,3,2,W,Brandon Young,0.1540,0.2910,0.0550
+824811,2026-07-25,Atlanta Braves,Baltimore Orioles,2,3,L,Bryce Elder,-0.3460,0.0070,-0.1610
+824812,2026-07-24,Baltimore Orioles,Atlanta Braves,6,7,L,Trevor Rogers,-0.2770,0.2290,-0.4520
+824812,2026-07-24,Atlanta Braves,Baltimore Orioles,7,6,W,Grant Holmes,0.2230,-0.1080,0.3850
+824816,2026-07-09,Baltimore Orioles,Chicago Cubs,3,2,W,Trevor Rogers,0.2350,0.2040,0.0610
+824816,2026-07-09,Chicago Cubs,Baltimore Orioles,2,3,L,David Peterson,-0.2650,0.1280,-0.3630
+824825,2026-06-27,Baltimore Orioles,Washington Nationals,3,4,L,Brandon Young,-0.5930,0.0210,0.0720
+824825,2026-06-27,Washington Nationals,Baltimore Orioles,4,3,W,Foster Griffin,-0.0930,0.3390,0.2540
+824830,2026-06-09,Baltimore Orioles,Seattle Mariners,5,6,L,Trevor Rogers,-0.1270,-0.1090,-0.2640
+824830,2026-06-09,Seattle Mariners,Baltimore Orioles,6,5,W,Logan Gilbert,0.3730,0.2400,-0.1130
+824833,2026-05-30,Baltimore Orioles,Toronto Blue Jays,6,5,W,Brandon Young,0.5590,0.0840,-0.1430
+824833,2026-05-30,Toronto Blue Jays,Baltimore Orioles,5,6,L,Trey Yesavage,0.0590,0.1720,-0.7310
+824834,2026-05-28,Baltimore Orioles,Toronto Blue Jays,1,2,L,Chris Bassitt,-0.6650,0.2300,-0.0650
+824834,2026-05-28,Toronto Blue Jays,Baltimore Orioles,2,1,W,Patrick Corbin,-0.1650,0.1040,0.5610
+824835,2026-05-29,Baltimore Orioles,Toronto Blue Jays,5,6,L,Trevor Rogers,-0.2040,0.0050,-0.3010
+824835,2026-05-29,Toronto Blue Jays,Baltimore Orioles,6,5,W,Adam Macko,0.2960,0.0530,0.1510
+824844,2026-05-11,Baltimore Orioles,New York Yankees,3,2,W,Brandon Young,0.1310,-0.0350,0.4040
+824844,2026-05-11,New York Yankees,Baltimore Orioles,2,3,L,Ryan Weathers,-0.3690,0.2810,-0.4120
+824845,2026-05-10,Baltimore Orioles,Athletics,2,1,W,Keegan Akin,-0.1270,0.0480,0.5790
+824845,2026-05-10,Athletics,Baltimore Orioles,1,2,L,Luis Severino,-0.6270,-0.0610,0.1880
+824846,2026-05-08,Baltimore Orioles,Athletics,3,4,L,Kyle Bradish,-0.3910,-0.0400,-0.0690
+824846,2026-05-08,Athletics,Baltimore Orioles,4,3,W,Jacob Lopez,0.1090,0.0480,0.3430
+824853,2026-04-14,Baltimore Orioles,Arizona Diamondbacks,3,4,L,Trevor Rogers,-0.3940,-0.2770,0.1710
+824853,2026-04-14,Arizona Diamondbacks,Baltimore Orioles,4,3,W,Merrill Kelly,0.1060,0.0240,0.3700
+824865,2026-03-26,Baltimore Orioles,Minnesota Twins,2,1,W,Trevor Rogers,-0.1150,0.4450,0.1700
+824865,2026-03-26,Minnesota Twins,Baltimore Orioles,1,2,L,Joe Ryan,-0.6150,0.3150,-0.2000
+824866,2026-09-24,Atlanta Braves,Cincinnati Reds,6,7,L,Tyler Mahle,-0.1530,-0.2310,-0.1160
+824866,2026-09-24,Cincinnati Reds,Atlanta Braves,7,6,W,Brady Singer,0.3470,-0.3580,0.5110
+824868,2026-09-23,Atlanta Braves,Cincinnati Reds,3,2,W,Chris Sale,-0.1190,0.1910,0.4280
+824868,2026-09-23,Cincinnati Reds,Atlanta Braves,2,3,L,Andrew Abbott,-0.6190,0.0670,0.0520
+824873,2026-09-11,Atlanta Braves,Philadelphia Phillies,6,5,W,Chris Sale,0.5310,-0.0190,-0.0120
+824873,2026-09-11,Philadelphia Phillies,Atlanta Braves,5,6,L,Aaron Nola,0.0310,0.1110,-0.6420
+824874,2026-08-29,Atlanta Braves,Colorado Rockies,2,1,W,Martín Pérez,0.0490,0.0980,0.3530
+824874,2026-08-29,Colorado Rockies,Atlanta Braves,1,2,L,Zach Agnos,-0.4510,0.0990,-0.1480
+824876,2026-08-30,Atlanta Braves,Colorado Rockies,3,2,W,Tyler Mahle,-0.1370,0.2840,0.3530
+824876,2026-08-30,Colorado Rockies,Atlanta Braves,2,3,L,Mason Adams,-0.6370,-0.0070,0.1440
+824878,2026-08-26,Atlanta Braves,Los Angeles Dodgers,6,5,W,AJ Smith-Shawver,0.4660,-0.0660,0.1000
+824878,2026-08-26,Los Angeles Dodgers,Atlanta Braves,5,6,L,Roki Sasaki,-0.0340,-0.1810,-0.2850
+824879,2026-08-27,Atlanta Braves,Los Angeles Dodgers,1,0,W,Chris Sale,-0.2540,0.7540,0.0000
+824879,2026-08-27,Los Angeles Dodgers,Atlanta Braves,0,1,L,Yoshinobu Yamamoto,-0.7540,0.1480,0.1060
+824881,2026-08-25,Atlanta Braves,Los Angeles Dodgers,4,3,W,Bryce Elder,0.0760,0.0630,0.3610
+824881,2026-08-25,Los Angeles Dodgers,Atlanta Braves,3,4,L,Tyler Glasnow,-0.4240,-0.0130,-0.0630
+824893,2026-07-23,Atlanta Braves,San Diego Padres,6,5,W,Chris Sale,0.3160,0.0080,0.1760
+824893,2026-07-23,San Diego Padres,Atlanta Braves,5,6,L,Kyle Hart,-0.1840,0.0480,-0.3640
+824894,2026-07-30,Atlanta Braves,Washington Nationals,5,4,W,Grant Holmes,0.2470,-0.1300,0.3830
+824894,2026-07-30,Washington Nationals,Atlanta Braves,4,5,L,Jake Irvin,-0.2530,-0.2060,-0.0410
+824896,2026-07-22,Atlanta Braves,San Diego Padres,7,6,W,Martín Pérez,0.1230,0.2200,0.1570
+824896,2026-07-22,San Diego Padres,Atlanta Braves,6,7,L,Michael King,-0.3770,0.1780,-0.3010
+824898,2026-07-20,Atlanta Braves,San Diego Padres,3,2,W,Bryce Elder,0.0240,0.0920,0.3840
+824898,2026-07-20,San Diego Padres,Atlanta Braves,2,3,L,JP Sears,-0.4760,-0.0250,0.0010
+824899,2026-07-18,Atlanta Braves,Texas Rangers,6,7,L,Owen Murphy,-0.0960,-0.2190,-0.1850
+824899,2026-07-18,Texas Rangers,Atlanta Braves,7,6,W,MacKenzie Gore,0.4040,-0.2860,0.3820
+824900,2026-07-06,Atlanta Braves,New York Mets,6,7,L,Reynaldo López,0.1830,0.1660,-0.8490
+824900,2026-07-06,New York Mets,Atlanta Braves,7,6,W,Freddy Peralta,0.6830,-0.1510,-0.0320
+824902,2026-07-05,Atlanta Braves,New York Mets,9,10,L,Martín Pérez,-0.2400,-0.3110,0.0510
+824902,2026-07-05,New York Mets,Atlanta Braves,10,9,W,Nolan McLean,0.2600,-0.0040,0.2440
+824909,2026-06-20,Atlanta Braves,Milwaukee Brewers,4,3,W,Chris Sale,0.4780,-0.0390,0.0610
+824909,2026-06-20,Milwaukee Brewers,Atlanta Braves,3,4,L,Kyle Harrison,-0.0220,0.0520,-0.5300
+824910,2026-06-19,Atlanta Braves,Milwaukee Brewers,3,2,W,Martín Pérez,0.0550,0.1960,0.2490
+824910,2026-06-19,Milwaukee Brewers,Atlanta Braves,2,3,L,Jacob Misiorowski,-0.4450,0.0040,-0.0590
+824916,2026-06-07,Atlanta Braves,Pittsburgh Pirates,3,2,W,Bryce Elder,0.1240,0.0530,0.3230
+824916,2026-06-07,Pittsburgh Pirates,Atlanta Braves,2,3,L,Mason Montgomery,-0.3760,0.0510,-0.1750
+824918,2026-06-02,Atlanta Braves,Toronto Blue Jays,4,3,W,Bryce Elder,0.1120,0.0550,0.3330
+824918,2026-06-02,Toronto Blue Jays,Atlanta Braves,3,4,L,Kevin Gausman,-0.3880,-0.1880,0.0760
+824921,2026-05-24,Atlanta Braves,Washington Nationals,1,2,L,Martín Pérez,-0.6720,0.1590,0.0130
+824921,2026-05-24,Washington Nationals,Atlanta Braves,2,1,W,Foster Griffin,-0.1720,0.3770,0.2950
+824922,2026-05-22,Atlanta Braves,Washington Nationals,5,4,W,Bryce Elder,0.2490,0.1770,0.0740
+824922,2026-05-22,Washington Nationals,Atlanta Braves,4,5,L,Richard Lovelady,-0.2510,0.0480,-0.2970
+824924,2026-05-16,Atlanta Braves,Boston Red Sox,2,3,L,Bryce Elder,-0.4410,-0.0980,0.0390
+824924,2026-05-16,Boston Red Sox,Atlanta Braves,3,2,W,Payton Tolle,0.0590,0.2370,0.2040
+824925,2026-05-15,Atlanta Braves,Boston Red Sox,3,2,W,Spencer Strider,-0.1900,0.2570,0.4330
+824925,2026-05-15,Boston Red Sox,Atlanta Braves,2,3,L,Connelly Early,-0.6900,0.0020,0.1880
+824930,2026-04-29,Atlanta Braves,Detroit Tigers,4,3,W,JR Ritchie,0.3540,-0.0600,0.2060
+824930,2026-04-29,Detroit Tigers,Atlanta Braves,3,4,L,Tarik Skubal,-0.1460,0.2990,-0.6530
+824935,2026-04-14,Atlanta Braves,Miami Marlins,6,5,W,Reynaldo López,0.4450,-0.1340,0.1890
+824935,2026-04-14,Miami Marlins,Atlanta Braves,5,6,L,Max Meyer,-0.0550,0.0260,-0.4710
+824947,2026-09-25,Athletics,Houston Astros,6,5,W,Jacob Lopez,0.2380,0.1910,0.0710
+824947,2026-09-25,Houston Astros,Athletics,5,6,L,Hunter Brown,-0.2620,0.1400,-0.3780
+824952,2026-09-13,Athletics,Seattle Mariners,8,7,W,Jacob Lopez,1.0110,-0.2840,-0.2270
+824952,2026-09-13,Seattle Mariners,Athletics,7,8,L,Bryce Miller,0.5110,0.0320,-1.0430
+824954,2026-09-11,Athletics,Seattle Mariners,6,5,W,Jeffrey Springs,0.3510,0.0690,0.0800
+824954,2026-09-11,Seattle Mariners,Athletics,5,6,L,George Kirby,-0.1490,-0.1340,-0.2170
+824958,2026-09-07,Athletics,Toronto Blue Jays,6,5,W,Jacob Lopez,0.5360,-0.1620,0.1260
+824958,2026-09-07,Toronto Blue Jays,Athletics,5,6,L,Dylan Cease,0.0360,-0.2610,-0.2750
+824960,2026-08-28,Athletics,Baltimore Orioles,3,4,L,Jacob Lopez,-0.4870,0.0090,-0.0220
+824960,2026-08-28,Baltimore Orioles,Athletics,4,3,W,Brandon Young,0.0130,0.3290,0.1580
+824974,2026-07-30,Athletics,Boston Red Sox,4,5,L,Mason Barnett,-0.2220,-0.0530,-0.2250
+824974,2026-07-30,Boston Red Sox,Athletics,5,4,W,Sonny Gray,0.2780,-0.1250,0.3470
+824976,2026-07-28,Athletics,Boston Red Sox,4,3,W,Gage Jump,-0.0090,0.3680,0.1410
+824976,2026-07-28,Boston Red Sox,Athletics,3,4,L,Jake Bennett,-0.5090,0.0290,-0.0200
+824980,2026-07-05,Athletics,Miami Marlins,8,9,L,Gage Jump,-0.1550,-0.3300,-0.0150
+824980,2026-07-05,Miami Marlins,Athletics,9,8,W,Eury Pérez,0.3450,0.1680,-0.0130
+824990,2026-06-19,Athletics,Los Angeles Angels,12,11,W,Jeffrey Springs,0.7970,-0.4180,0.1210
+824990,2026-06-19,Los Angeles Angels,Athletics,11,12,L,José Soriano,0.2970,-0.1500,-0.6470
+824991,2026-06-16,Athletics,Pittsburgh Pirates,5,6,L,Jack Perkins,-0.1140,-0.0140,-0.3720
+824991,2026-06-16,Pittsburgh Pirates,Athletics,6,5,W,Mitch Keller,0.3860,-0.3030,0.4170
+824996,2026-06-10,Athletics,Milwaukee Brewers,4,3,W,Jack Perkins,0.2530,-0.1300,0.3770
+824996,2026-06-10,Milwaukee Brewers,Athletics,3,4,L,Brandon Sproat,-0.2470,0.2390,-0.4920
+824998,2026-06-08,Athletics,Milwaukee Brewers,14,15,L,Jeffrey Springs,0.2430,-0.2610,-0.4820
+824998,2026-06-08,Milwaukee Brewers,Athletics,15,14,W,Kyle Harrison,0.7430,-0.6710,0.4280
+825008,2026-05-14,Athletics,St. Louis Cardinals,4,5,L,Jacob Lopez,0.0640,-0.1560,-0.4080
+825008,2026-05-14,St. Louis Cardinals,Athletics,5,4,W,Michael McGreevy,0.5640,0.2240,-0.2880
+825020,2026-04-18,Athletics,Chicago White Sox,7,6,W,Luis Severino,-0.0620,-0.2990,0.8610
+825020,2026-04-18,Chicago White Sox,Athletics,6,7,L,Erick Fedde,-0.5620,0.0920,-0.0300
+825021,2026-04-15,Athletics,Texas Rangers,6,5,W,J.T. Ginn,0.2130,0.0680,0.2190
+825021,2026-04-15,Texas Rangers,Athletics,5,6,L,Kumar Rocker,-0.2870,0.0120,-0.2250
+825022,2026-04-14,Athletics,Texas Rangers,2,1,W,Jeffrey Springs,-0.1390,0.2990,0.3400
+825022,2026-04-14,Texas Rangers,Athletics,1,2,L,MacKenzie Gore,-0.6390,-0.0270,0.1660
+825031,2026-09-16,Arizona Diamondbacks,Miami Marlins,3,4,L,Merrill Kelly,-0.4380,-0.2250,0.1630
+825031,2026-09-16,Miami Marlins,Arizona Diamondbacks,4,3,W,Ryan Gusto,0.0620,0.0020,0.4360
+825033,2026-09-13,Arizona Diamondbacks,Texas Rangers,6,7,L,Eduardo Rodriguez,-0.2080,-0.2760,-0.0160
+825033,2026-09-13,Texas Rangers,Arizona Diamondbacks,7,6,W,Cal Quantrill,0.2920,0.1510,0.0570
+825034,2026-09-14,Arizona Diamondbacks,Miami Marlins,8,7,W,Corbin Burnes,0.8880,-0.3270,-0.0610
+825034,2026-09-14,Miami Marlins,Arizona Diamondbacks,7,8,L,Sandy Alcantara,0.3880,-0.1580,-0.7300
+825037,2026-09-02,Arizona Diamondbacks,Philadelphia Phillies,1,0,W,Taylor Clarke,-0.2180,0.0880,0.6300
+825037,2026-09-02,Philadelphia Phillies,Arizona Diamondbacks,0,1,L,Andrew Painter,-0.7180,0.4450,-0.2270
+825040,2026-08-31,Arizona Diamondbacks,Philadelphia Phillies,1,2,L,Brandon Pfaadt,-0.7390,0.0910,0.1480
+825040,2026-08-31,Philadelphia Phillies,Arizona Diamondbacks,2,1,W,Aaron Nola,-0.2390,0.0400,0.6990
+825042,2026-08-25,Arizona Diamondbacks,Chicago Cubs,5,4,W,Brandon Pfaadt,0.5820,-0.1450,0.0630
+825042,2026-08-25,Chicago Cubs,Arizona Diamondbacks,4,5,L,Clay Holmes,0.0820,0.3350,-0.9170
+825046,2026-08-11,Arizona Diamondbacks,Colorado Rockies,2,3,L,Mitch Bratt,-0.5200,0.0640,-0.0440
+825046,2026-08-11,Colorado Rockies,Arizona Diamondbacks,3,2,W,Tomoyuki Sugano,-0.0200,0.0640,0.4560
+825049,2026-08-08,Arizona Diamondbacks,Los Angeles Dodgers,1,2,L,Brandon Pfaadt,-0.7400,0.4450,-0.2050
+825049,2026-08-08,Los Angeles Dodgers,Arizona Diamondbacks,2,1,W,Yoshinobu Yamamoto,-0.2400,0.2910,0.4490
+825051,2026-08-07,Arizona Diamondbacks,Los Angeles Dodgers,4,3,W,Merrill Kelly,0.5080,0.1680,-0.1760
+825051,2026-08-07,Los Angeles Dodgers,Arizona Diamondbacks,3,4,L,Roki Sasaki,0.0080,0.0570,-0.5650
+825056,2026-07-21,Arizona Diamondbacks,Athletics,6,5,W,Kohl Drake,0.5100,0.1790,-0.1890
+825056,2026-07-21,Athletics,Arizona Diamondbacks,5,6,L,Jack Perkins,0.0100,-0.1000,-0.4100
+825057,2026-07-19,Arizona Diamondbacks,St. Louis Cardinals,8,7,W,Eduardo Rodriguez,0.3270,-0.3050,0.4780
+825057,2026-07-19,St. Louis Cardinals,Arizona Diamondbacks,7,8,L,Andre Pallante,-0.1730,0.0570,-0.3840
+825060,2026-07-17,Arizona Diamondbacks,St. Louis Cardinals,4,5,L,Merrill Kelly,-0.1430,-0.0850,-0.2720
+825060,2026-07-17,St. Louis Cardinals,Arizona Diamondbacks,5,4,W,Michael McGreevy,0.3570,0.0520,0.0910
+825061,2026-07-05,Arizona Diamondbacks,Milwaukee Brewers,2,3,L,Eduardo Rodriguez,-0.4910,-0.0140,0.0050
+825061,2026-07-05,Milwaukee Brewers,Arizona Diamondbacks,3,2,W,Brandon Sproat,0.0090,0.0820,0.4090
+825063,2026-07-04,Arizona Diamondbacks,Milwaukee Brewers,4,3,W,Merrill Kelly,0.0710,0.0540,0.3750
+825063,2026-07-04,Milwaukee Brewers,Arizona Diamondbacks,3,4,L,Brandon Woodruff,-0.4290,-0.1600,0.0890
+825065,2026-06-29,Arizona Diamondbacks,San Francisco Giants,5,4,W,Eduardo Rodriguez,0.2310,0.2270,0.0420
+825065,2026-06-29,San Francisco Giants,Arizona Diamondbacks,4,5,L,Tyler Mahle,-0.2690,-0.0420,-0.1890
+825071,2026-06-15,Arizona Diamondbacks,Los Angeles Angels,4,3,W,Ryne Nelson,0.1410,0.2070,0.1520
+825071,2026-06-15,Los Angeles Angels,Arizona Diamondbacks,3,4,L,Walbert Ureña,-0.3590,-0.1550,0.0140
+825076,2026-06-04,Arizona Diamondbacks,Los Angeles Dodgers,3,2,W,Ryne Nelson,0.2540,0.0780,0.1680
+825076,2026-06-04,Los Angeles Dodgers,Arizona Diamondbacks,2,3,L,Justin Wrobleski,-0.2460,0.3570,-0.6110
+825079,2026-06-02,Arizona Diamondbacks,Los Angeles Dodgers,5,6,L,Michael Soroka,-0.3280,-0.1500,-0.0220
+825079,2026-06-02,Los Angeles Dodgers,Arizona Diamondbacks,6,5,W,Eric Lauer,0.1720,0.0460,0.2820
+825080,2026-05-23,Arizona Diamondbacks,Colorado Rockies,5,4,W,Zac Gallen,0.2030,0.0370,0.2600
+825080,2026-05-23,Colorado Rockies,Arizona Diamondbacks,4,5,L,Michael Lorenzen,-0.2970,-0.2900,0.0870
+825082,2026-05-22,Arizona Diamondbacks,Colorado Rockies,2,3,L,Michael Soroka,-0.4190,0.2550,-0.3360
+825082,2026-05-22,Colorado Rockies,Arizona Diamondbacks,3,2,W,Tomoyuki Sugano,0.0810,0.0870,0.3320
+825083,2026-05-21,Arizona Diamondbacks,Colorado Rockies,2,1,W,Eduardo Rodriguez,0.0440,0.4540,0.0020
+825083,2026-05-21,Colorado Rockies,Arizona Diamondbacks,1,2,L,Zach Agnos,-0.4560,0.2810,-0.3250
+825089,2026-05-09,Arizona Diamondbacks,New York Mets,2,1,W,Merrill Kelly,-0.1360,0.3490,0.2870
+825089,2026-05-09,New York Mets,Arizona Diamondbacks,1,2,L,Clay Holmes,-0.6360,0.0370,0.0990
+825091,2026-05-06,Arizona Diamondbacks,Pittsburgh Pirates,0,1,L,Michael Soroka,-0.8510,0.1790,0.1720
+825091,2026-05-06,Pittsburgh Pirates,Arizona Diamondbacks,1,0,W,Paul Skenes,-0.3510,0.6470,0.2040
+825102,2026-04-05,Arizona Diamondbacks,Atlanta Braves,6,5,W,Brandon Pfaadt,0.3670,-0.1290,0.2620
+825102,2026-04-05,Atlanta Braves,Arizona Diamondbacks,5,6,L,Martín Pérez,-0.1330,-0.1200,-0.2470
+825104,2026-04-04,Arizona Diamondbacks,Atlanta Braves,2,1,W,Michael Soroka,-0.1440,0.1800,0.4640
+825104,2026-04-04,Atlanta Braves,Arizona Diamondbacks,1,2,L,Bryce Elder,-0.6440,0.1120,0.0320
+825106,2026-04-01,Arizona Diamondbacks,Detroit Tigers,1,0,W,Zac Gallen,-0.2540,0.3700,0.3840
+825106,2026-04-01,Detroit Tigers,Arizona Diamondbacks,0,1,L,Tarik Skubal,-0.7540,0.2220,0.0320
